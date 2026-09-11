@@ -1,0 +1,1496 @@
+[
+ {
+  "index": 0,
+  "data_id": 1,
+  "pattern_id": "43635280",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": true,
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "data_id": 2,
+  "pattern_id": "43635280",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "data_id": 3,
+  "pattern_id": "43635280",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "data_id": 4,
+  "pattern_id": "43635280",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 5
+ },
+ {
+  "index": 12,
+  "data_id": 5,
+  "pattern_id": "7899A400",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 6
+ },
+ {
+  "index": 13,
+  "data_id": 6,
+  "pattern_id": "7899A400",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 7
+ },
+ {
+  "index": 14,
+  "data_id": 7,
+  "pattern_id": "7899A400",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 8
+ },
+ {
+  "index": 15,
+  "data_id": 8,
+  "pattern_id": "7899A400",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": true,
+  "_row": 9
+ },
+ {
+  "index": 16,
+  "data_id": 9,
+  "pattern_id": "8106A400",
+  "mod_id": "D8D19380",
+  "mod": "Normal Ammo Powder",
+  "is_default": true,
+  "_row": 10
+ },
+ {
+  "index": 17,
+  "data_id": 10,
+  "pattern_id": "8106A400",
+  "mod_id": "0AD63600",
+  "mod": "Pierce Ammo Powder",
+  "is_default": false,
+  "_row": 11
+ },
+ {
+  "index": 18,
+  "data_id": 11,
+  "pattern_id": "8106A400",
+  "mod_id": "46CB1B00",
+  "mod": "Spread Ammo Powder",
+  "is_default": false,
+  "_row": 12
+ },
+ {
+  "index": 19,
+  "data_id": 12,
+  "pattern_id": "8106A400",
+  "mod_id": "C217FBC0",
+  "mod": "Elemental Ammo Powder",
+  "is_default": false,
+  "_row": 13
+ },
+ {
+  "index": 28,
+  "data_id": 13,
+  "pattern_id": "2EC1A640",
+  "mod_id": "D8D19380",
+  "mod": "Normal Ammo Powder",
+  "is_default": false,
+  "_row": 14
+ },
+ {
+  "index": 29,
+  "data_id": 14,
+  "pattern_id": "2EC1A640",
+  "mod_id": "0AD63600",
+  "mod": "Pierce Ammo Powder",
+  "is_default": false,
+  "_row": 15
+ },
+ {
+  "index": 30,
+  "data_id": 15,
+  "pattern_id": "2EC1A640",
+  "mod_id": "46CB1B00",
+  "mod": "Spread Ammo Powder",
+  "is_default": false,
+  "_row": 16
+ },
+ {
+  "index": 31,
+  "data_id": 16,
+  "pattern_id": "2EC1A640",
+  "mod_id": "C217FBC0",
+  "mod": "Elemental Ammo Powder",
+  "is_default": true,
+  "_row": 17
+ },
+ {
+  "index": 32,
+  "data_id": 17,
+  "pattern_id": "935B7680",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": true,
+  "_row": 18
+ },
+ {
+  "index": 33,
+  "data_id": 18,
+  "pattern_id": "935B7680",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 19
+ },
+ {
+  "index": 34,
+  "data_id": 19,
+  "pattern_id": "935B7680",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 20
+ },
+ {
+  "index": 35,
+  "data_id": 20,
+  "pattern_id": "935B7680",
+  "mod_id": "AE2F1D00",
+  "mod": "Rapid Fire Magazine",
+  "is_default": false,
+  "_row": 21
+ },
+ {
+  "index": 36,
+  "data_id": 21,
+  "pattern_id": "935B7680",
+  "mod_id": "1A85C420",
+  "mod": "Special Ammo Magazine",
+  "is_default": false,
+  "_row": 22
+ },
+ {
+  "index": 47,
+  "data_id": 22,
+  "pattern_id": "E3AC8780",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 23
+ },
+ {
+  "index": 48,
+  "data_id": 23,
+  "pattern_id": "E3AC8780",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 24
+ },
+ {
+  "index": 49,
+  "data_id": 24,
+  "pattern_id": "E3AC8780",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 25
+ },
+ {
+  "index": 50,
+  "data_id": 25,
+  "pattern_id": "E3AC8780",
+  "mod_id": "AE2F1D00",
+  "mod": "Rapid Fire Magazine",
+  "is_default": true,
+  "_row": 26
+ },
+ {
+  "index": 51,
+  "data_id": 26,
+  "pattern_id": "E3AC8780",
+  "mod_id": "1A85C420",
+  "mod": "Special Ammo Magazine",
+  "is_default": false,
+  "_row": 27
+ },
+ {
+  "index": 52,
+  "data_id": 27,
+  "pattern_id": "8F23FB00",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 28
+ },
+ {
+  "index": 53,
+  "data_id": 28,
+  "pattern_id": "8F23FB00",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 29
+ },
+ {
+  "index": 54,
+  "data_id": 29,
+  "pattern_id": "8F23FB00",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 30
+ },
+ {
+  "index": 55,
+  "data_id": 30,
+  "pattern_id": "8F23FB00",
+  "mod_id": "AE2F1D00",
+  "mod": "Rapid Fire Magazine",
+  "is_default": false,
+  "_row": 31
+ },
+ {
+  "index": 56,
+  "data_id": 31,
+  "pattern_id": "8F23FB00",
+  "mod_id": "1A85C420",
+  "mod": "Special Ammo Magazine",
+  "is_default": true,
+  "_row": 32
+ },
+ {
+  "index": 57,
+  "data_id": 32,
+  "pattern_id": "0875F260",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": true,
+  "_row": 33
+ },
+ {
+  "index": 58,
+  "data_id": 33,
+  "pattern_id": "0875F260",
+  "mod_id": "5DB4F880",
+  "mod": "Rapid Fire Mod",
+  "is_default": false,
+  "_row": 34
+ },
+ {
+  "index": 59,
+  "data_id": 34,
+  "pattern_id": "0875F260",
+  "mod_id": "7ED79A00",
+  "mod": "Special Ammo Mod",
+  "is_default": false,
+  "_row": 35
+ },
+ {
+  "index": 60,
+  "data_id": 35,
+  "pattern_id": "2696F400",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 36
+ },
+ {
+  "index": 61,
+  "data_id": 36,
+  "pattern_id": "2696F400",
+  "mod_id": "5DB4F880",
+  "mod": "Rapid Fire Mod",
+  "is_default": true,
+  "_row": 37
+ },
+ {
+  "index": 62,
+  "data_id": 37,
+  "pattern_id": "2696F400",
+  "mod_id": "7ED79A00",
+  "mod": "Special Ammo Mod",
+  "is_default": false,
+  "_row": 38
+ },
+ {
+  "index": 63,
+  "data_id": 38,
+  "pattern_id": "8AB32B00",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 39
+ },
+ {
+  "index": 64,
+  "data_id": 39,
+  "pattern_id": "8AB32B00",
+  "mod_id": "5DB4F880",
+  "mod": "Rapid Fire Mod",
+  "is_default": false,
+  "_row": 40
+ },
+ {
+  "index": 65,
+  "data_id": 40,
+  "pattern_id": "8AB32B00",
+  "mod_id": "7ED79A00",
+  "mod": "Special Ammo Mod",
+  "is_default": true,
+  "_row": 41
+ },
+ {
+  "index": 66,
+  "data_id": 41,
+  "pattern_id": "A625F800",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": true,
+  "_row": 42
+ },
+ {
+  "index": 67,
+  "data_id": 42,
+  "pattern_id": "A625F800",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 43
+ },
+ {
+  "index": 68,
+  "data_id": 43,
+  "pattern_id": "A625F800",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 44
+ },
+ {
+  "index": 69,
+  "data_id": 44,
+  "pattern_id": "A625F800",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 45
+ },
+ {
+  "index": 78,
+  "data_id": 45,
+  "pattern_id": "C4F72000",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 46
+ },
+ {
+  "index": 79,
+  "data_id": 46,
+  "pattern_id": "C4F72000",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 47
+ },
+ {
+  "index": 80,
+  "data_id": 47,
+  "pattern_id": "C4F72000",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 48
+ },
+ {
+  "index": 81,
+  "data_id": 48,
+  "pattern_id": "C4F72000",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": true,
+  "_row": 49
+ },
+ {
+  "index": 82,
+  "data_id": 49,
+  "pattern_id": "C09B5780",
+  "mod_id": "D8D19380",
+  "mod": "Normal Ammo Powder",
+  "is_default": true,
+  "_row": 50
+ },
+ {
+  "index": 83,
+  "data_id": 50,
+  "pattern_id": "C09B5780",
+  "mod_id": "0AD63600",
+  "mod": "Pierce Ammo Powder",
+  "is_default": false,
+  "_row": 51
+ },
+ {
+  "index": 84,
+  "data_id": 51,
+  "pattern_id": "C09B5780",
+  "mod_id": "46CB1B00",
+  "mod": "Spread Ammo Powder",
+  "is_default": false,
+  "_row": 52
+ },
+ {
+  "index": 85,
+  "data_id": 52,
+  "pattern_id": "C09B5780",
+  "mod_id": "C217FBC0",
+  "mod": "Elemental Ammo Powder",
+  "is_default": false,
+  "_row": 53
+ },
+ {
+  "index": 94,
+  "data_id": 53,
+  "pattern_id": "39AD2E40",
+  "mod_id": "D8D19380",
+  "mod": "Normal Ammo Powder",
+  "is_default": false,
+  "_row": 54
+ },
+ {
+  "index": 95,
+  "data_id": 54,
+  "pattern_id": "39AD2E40",
+  "mod_id": "0AD63600",
+  "mod": "Pierce Ammo Powder",
+  "is_default": false,
+  "_row": 55
+ },
+ {
+  "index": 96,
+  "data_id": 55,
+  "pattern_id": "39AD2E40",
+  "mod_id": "46CB1B00",
+  "mod": "Spread Ammo Powder",
+  "is_default": false,
+  "_row": 56
+ },
+ {
+  "index": 97,
+  "data_id": 56,
+  "pattern_id": "39AD2E40",
+  "mod_id": "C217FBC0",
+  "mod": "Elemental Ammo Powder",
+  "is_default": true,
+  "_row": 57
+ },
+ {
+  "index": 98,
+  "data_id": 57,
+  "pattern_id": "6AF2D080",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": true,
+  "_row": 58
+ },
+ {
+  "index": 99,
+  "data_id": 58,
+  "pattern_id": "6AF2D080",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 59
+ },
+ {
+  "index": 100,
+  "data_id": 59,
+  "pattern_id": "6AF2D080",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 60
+ },
+ {
+  "index": 101,
+  "data_id": 60,
+  "pattern_id": "6AF2D080",
+  "mod_id": "30A75480",
+  "mod": "Standard Mode Upgrade",
+  "is_default": false,
+  "_row": 61
+ },
+ {
+  "index": 102,
+  "data_id": 61,
+  "pattern_id": "6AF2D080",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 62
+ },
+ {
+  "index": 113,
+  "data_id": 62,
+  "pattern_id": "6DDF2800",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 63
+ },
+ {
+  "index": 114,
+  "data_id": 63,
+  "pattern_id": "6DDF2800",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 64
+ },
+ {
+  "index": 115,
+  "data_id": 64,
+  "pattern_id": "6DDF2800",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 65
+ },
+ {
+  "index": 116,
+  "data_id": 65,
+  "pattern_id": "6DDF2800",
+  "mod_id": "30A75480",
+  "mod": "Standard Mode Upgrade",
+  "is_default": true,
+  "_row": 66
+ },
+ {
+  "index": 117,
+  "data_id": 66,
+  "pattern_id": "6DDF2800",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 67
+ },
+ {
+  "index": 118,
+  "data_id": 67,
+  "pattern_id": "BDB4CE80",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 68
+ },
+ {
+  "index": 119,
+  "data_id": 68,
+  "pattern_id": "BDB4CE80",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 69
+ },
+ {
+  "index": 120,
+  "data_id": 69,
+  "pattern_id": "BDB4CE80",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 70
+ },
+ {
+  "index": 121,
+  "data_id": 70,
+  "pattern_id": "BDB4CE80",
+  "mod_id": "30A75480",
+  "mod": "Standard Mode Upgrade",
+  "is_default": false,
+  "_row": 71
+ },
+ {
+  "index": 122,
+  "data_id": 71,
+  "pattern_id": "BDB4CE80",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": true,
+  "_row": 72
+ },
+ {
+  "index": 123,
+  "data_id": 72,
+  "pattern_id": "26A84980",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": true,
+  "_row": 73
+ },
+ {
+  "index": 124,
+  "data_id": 73,
+  "pattern_id": "26A84980",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 74
+ },
+ {
+  "index": 125,
+  "data_id": 74,
+  "pattern_id": "26A84980",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 75
+ },
+ {
+  "index": 126,
+  "data_id": 75,
+  "pattern_id": "26A84980",
+  "mod_id": "70F1E200",
+  "mod": "Ignition Mode Upgrade",
+  "is_default": false,
+  "_row": 76
+ },
+ {
+  "index": 127,
+  "data_id": 76,
+  "pattern_id": "26A84980",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 77
+ },
+ {
+  "index": 138,
+  "data_id": 77,
+  "pattern_id": "C5E54740",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 78
+ },
+ {
+  "index": 139,
+  "data_id": 78,
+  "pattern_id": "C5E54740",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 79
+ },
+ {
+  "index": 140,
+  "data_id": 79,
+  "pattern_id": "C5E54740",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 80
+ },
+ {
+  "index": 141,
+  "data_id": 80,
+  "pattern_id": "C5E54740",
+  "mod_id": "70F1E200",
+  "mod": "Ignition Mode Upgrade",
+  "is_default": true,
+  "_row": 81
+ },
+ {
+  "index": 142,
+  "data_id": 81,
+  "pattern_id": "C5E54740",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 82
+ },
+ {
+  "index": 143,
+  "data_id": 82,
+  "pattern_id": "48191C80",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 83
+ },
+ {
+  "index": 144,
+  "data_id": 83,
+  "pattern_id": "48191C80",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 84
+ },
+ {
+  "index": 145,
+  "data_id": 84,
+  "pattern_id": "48191C80",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 85
+ },
+ {
+  "index": 146,
+  "data_id": 85,
+  "pattern_id": "48191C80",
+  "mod_id": "70F1E200",
+  "mod": "Ignition Mode Upgrade",
+  "is_default": false,
+  "_row": 86
+ },
+ {
+  "index": 147,
+  "data_id": 86,
+  "pattern_id": "48191C80",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": true,
+  "_row": 87
+ },
+ {
+  "index": 148,
+  "data_id": 87,
+  "pattern_id": "5EFACB80",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": true,
+  "_row": 88
+ },
+ {
+  "index": 149,
+  "data_id": 88,
+  "pattern_id": "5EFACB80",
+  "mod_id": "30A75480",
+  "mod": "Standard Mode Upgrade",
+  "is_default": false,
+  "_row": 89
+ },
+ {
+  "index": 150,
+  "data_id": 89,
+  "pattern_id": "5EFACB80",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 90
+ },
+ {
+  "index": 151,
+  "data_id": 90,
+  "pattern_id": "73824C80",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 91
+ },
+ {
+  "index": 152,
+  "data_id": 91,
+  "pattern_id": "73824C80",
+  "mod_id": "30A75480",
+  "mod": "Standard Mode Upgrade",
+  "is_default": true,
+  "_row": 92
+ },
+ {
+  "index": 153,
+  "data_id": 92,
+  "pattern_id": "73824C80",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 93
+ },
+ {
+  "index": 154,
+  "data_id": 93,
+  "pattern_id": "64C95180",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 94
+ },
+ {
+  "index": 155,
+  "data_id": 94,
+  "pattern_id": "64C95180",
+  "mod_id": "30A75480",
+  "mod": "Standard Mode Upgrade",
+  "is_default": false,
+  "_row": 95
+ },
+ {
+  "index": 156,
+  "data_id": 95,
+  "pattern_id": "64C95180",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": true,
+  "_row": 96
+ },
+ {
+  "index": 157,
+  "data_id": 96,
+  "pattern_id": "7E03BB00",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": true,
+  "_row": 97
+ },
+ {
+  "index": 158,
+  "data_id": 97,
+  "pattern_id": "7E03BB00",
+  "mod_id": "70F1E200",
+  "mod": "Ignition Mode Upgrade",
+  "is_default": false,
+  "_row": 98
+ },
+ {
+  "index": 159,
+  "data_id": 98,
+  "pattern_id": "7E03BB00",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 99
+ },
+ {
+  "index": 160,
+  "data_id": 99,
+  "pattern_id": "ABDD3400",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 100
+ },
+ {
+  "index": 161,
+  "data_id": 100,
+  "pattern_id": "ABDD3400",
+  "mod_id": "70F1E200",
+  "mod": "Ignition Mode Upgrade",
+  "is_default": true,
+  "_row": 101
+ },
+ {
+  "index": 162,
+  "data_id": 101,
+  "pattern_id": "ABDD3400",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 102
+ },
+ {
+  "index": 163,
+  "data_id": 102,
+  "pattern_id": "B2FE9280",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 103
+ },
+ {
+  "index": 164,
+  "data_id": 103,
+  "pattern_id": "B2FE9280",
+  "mod_id": "70F1E200",
+  "mod": "Ignition Mode Upgrade",
+  "is_default": false,
+  "_row": 104
+ },
+ {
+  "index": 165,
+  "data_id": 104,
+  "pattern_id": "B2FE9280",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": true,
+  "_row": 105
+ },
+ {
+  "index": 4,
+  "data_id": 105,
+  "pattern_id": "1A679900",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 106
+ },
+ {
+  "index": 5,
+  "data_id": 106,
+  "pattern_id": "1A679900",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": true,
+  "_row": 107
+ },
+ {
+  "index": 6,
+  "data_id": 107,
+  "pattern_id": "1A679900",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 108
+ },
+ {
+  "index": 7,
+  "data_id": 108,
+  "pattern_id": "1A679900",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 109
+ },
+ {
+  "index": 8,
+  "data_id": 109,
+  "pattern_id": "96368200",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 110
+ },
+ {
+  "index": 9,
+  "data_id": 110,
+  "pattern_id": "96368200",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 111
+ },
+ {
+  "index": 10,
+  "data_id": 111,
+  "pattern_id": "96368200",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": true,
+  "_row": 112
+ },
+ {
+  "index": 11,
+  "data_id": 112,
+  "pattern_id": "96368200",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 113
+ },
+ {
+  "index": 20,
+  "data_id": 113,
+  "pattern_id": "C5C90F80",
+  "mod_id": "D8D19380",
+  "mod": "Normal Ammo Powder",
+  "is_default": false,
+  "_row": 114
+ },
+ {
+  "index": 21,
+  "data_id": 114,
+  "pattern_id": "C5C90F80",
+  "mod_id": "0AD63600",
+  "mod": "Pierce Ammo Powder",
+  "is_default": true,
+  "_row": 115
+ },
+ {
+  "index": 22,
+  "data_id": 115,
+  "pattern_id": "C5C90F80",
+  "mod_id": "46CB1B00",
+  "mod": "Spread Ammo Powder",
+  "is_default": false,
+  "_row": 116
+ },
+ {
+  "index": 23,
+  "data_id": 116,
+  "pattern_id": "C5C90F80",
+  "mod_id": "C217FBC0",
+  "mod": "Elemental Ammo Powder",
+  "is_default": false,
+  "_row": 117
+ },
+ {
+  "index": 24,
+  "data_id": 117,
+  "pattern_id": "C4859400",
+  "mod_id": "D8D19380",
+  "mod": "Normal Ammo Powder",
+  "is_default": false,
+  "_row": 118
+ },
+ {
+  "index": 25,
+  "data_id": 118,
+  "pattern_id": "C4859400",
+  "mod_id": "0AD63600",
+  "mod": "Pierce Ammo Powder",
+  "is_default": false,
+  "_row": 119
+ },
+ {
+  "index": 26,
+  "data_id": 119,
+  "pattern_id": "C4859400",
+  "mod_id": "46CB1B00",
+  "mod": "Spread Ammo Powder",
+  "is_default": true,
+  "_row": 120
+ },
+ {
+  "index": 27,
+  "data_id": 120,
+  "pattern_id": "C4859400",
+  "mod_id": "C217FBC0",
+  "mod": "Elemental Ammo Powder",
+  "is_default": false,
+  "_row": 121
+ },
+ {
+  "index": 37,
+  "data_id": 121,
+  "pattern_id": "A444FC80",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 122
+ },
+ {
+  "index": 38,
+  "data_id": 122,
+  "pattern_id": "A444FC80",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": true,
+  "_row": 123
+ },
+ {
+  "index": 39,
+  "data_id": 123,
+  "pattern_id": "A444FC80",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 124
+ },
+ {
+  "index": 40,
+  "data_id": 124,
+  "pattern_id": "A444FC80",
+  "mod_id": "AE2F1D00",
+  "mod": "Rapid Fire Magazine",
+  "is_default": false,
+  "_row": 125
+ },
+ {
+  "index": 41,
+  "data_id": 125,
+  "pattern_id": "A444FC80",
+  "mod_id": "1A85C420",
+  "mod": "Special Ammo Magazine",
+  "is_default": false,
+  "_row": 126
+ },
+ {
+  "index": 42,
+  "data_id": 126,
+  "pattern_id": "0000335E",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 127
+ },
+ {
+  "index": 43,
+  "data_id": 127,
+  "pattern_id": "0000335E",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 128
+ },
+ {
+  "index": 44,
+  "data_id": 128,
+  "pattern_id": "0000335E",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": true,
+  "_row": 129
+ },
+ {
+  "index": 45,
+  "data_id": 129,
+  "pattern_id": "0000335E",
+  "mod_id": "AE2F1D00",
+  "mod": "Rapid Fire Magazine",
+  "is_default": false,
+  "_row": 130
+ },
+ {
+  "index": 46,
+  "data_id": 130,
+  "pattern_id": "0000335E",
+  "mod_id": "1A85C420",
+  "mod": "Special Ammo Magazine",
+  "is_default": false,
+  "_row": 131
+ },
+ {
+  "index": 70,
+  "data_id": 131,
+  "pattern_id": "0000259B",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 132
+ },
+ {
+  "index": 71,
+  "data_id": 132,
+  "pattern_id": "0000259B",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": true,
+  "_row": 133
+ },
+ {
+  "index": 72,
+  "data_id": 133,
+  "pattern_id": "0000259B",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 134
+ },
+ {
+  "index": 73,
+  "data_id": 134,
+  "pattern_id": "0000259B",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 135
+ },
+ {
+  "index": 74,
+  "data_id": 135,
+  "pattern_id": "00000DB3",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 136
+ },
+ {
+  "index": 75,
+  "data_id": 136,
+  "pattern_id": "00000DB3",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 137
+ },
+ {
+  "index": 76,
+  "data_id": 137,
+  "pattern_id": "00000DB3",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": true,
+  "_row": 138
+ },
+ {
+  "index": 77,
+  "data_id": 138,
+  "pattern_id": "00000DB3",
+  "mod_id": "57CF2880",
+  "mod": "Elemental Boost Magazine",
+  "is_default": false,
+  "_row": 139
+ },
+ {
+  "index": 128,
+  "data_id": 139,
+  "pattern_id": "00002671",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 140
+ },
+ {
+  "index": 129,
+  "data_id": 140,
+  "pattern_id": "00002671",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": true,
+  "_row": 141
+ },
+ {
+  "index": 130,
+  "data_id": 141,
+  "pattern_id": "00002671",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 142
+ },
+ {
+  "index": 131,
+  "data_id": 142,
+  "pattern_id": "00002671",
+  "mod_id": "70F1E200",
+  "mod": "Ignition Mode Upgrade",
+  "is_default": false,
+  "_row": 143
+ },
+ {
+  "index": 132,
+  "data_id": 143,
+  "pattern_id": "00002671",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 144
+ },
+ {
+  "index": 133,
+  "data_id": 144,
+  "pattern_id": "00004A37",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 145
+ },
+ {
+  "index": 134,
+  "data_id": 145,
+  "pattern_id": "00004A37",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 146
+ },
+ {
+  "index": 135,
+  "data_id": 146,
+  "pattern_id": "00004A37",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": true,
+  "_row": 147
+ },
+ {
+  "index": 136,
+  "data_id": 147,
+  "pattern_id": "00004A37",
+  "mod_id": "70F1E200",
+  "mod": "Ignition Mode Upgrade",
+  "is_default": false,
+  "_row": 148
+ },
+ {
+  "index": 137,
+  "data_id": 148,
+  "pattern_id": "00004A37",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 149
+ },
+ {
+  "index": 103,
+  "data_id": 149,
+  "pattern_id": "000003F0",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 150
+ },
+ {
+  "index": 104,
+  "data_id": 150,
+  "pattern_id": "000003F0",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": true,
+  "_row": 151
+ },
+ {
+  "index": 105,
+  "data_id": 151,
+  "pattern_id": "000003F0",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": false,
+  "_row": 152
+ },
+ {
+  "index": 106,
+  "data_id": 152,
+  "pattern_id": "000003F0",
+  "mod_id": "30A75480",
+  "mod": "Standard Mode Upgrade",
+  "is_default": false,
+  "_row": 153
+ },
+ {
+  "index": 107,
+  "data_id": 153,
+  "pattern_id": "000003F0",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 154
+ },
+ {
+  "index": 108,
+  "data_id": 154,
+  "pattern_id": "0000314B",
+  "mod_id": "E6C2D6A0",
+  "mod": "Normal Ammo Magazine",
+  "is_default": false,
+  "_row": 155
+ },
+ {
+  "index": 109,
+  "data_id": 155,
+  "pattern_id": "0000314B",
+  "mod_id": "29448D00",
+  "mod": "Pierce Ammo Magazine",
+  "is_default": false,
+  "_row": 156
+ },
+ {
+  "index": 110,
+  "data_id": 156,
+  "pattern_id": "0000314B",
+  "mod_id": "A3A09C00",
+  "mod": "Spread Ammo Magazine",
+  "is_default": true,
+  "_row": 157
+ },
+ {
+  "index": 111,
+  "data_id": 157,
+  "pattern_id": "0000314B",
+  "mod_id": "30A75480",
+  "mod": "Standard Mode Upgrade",
+  "is_default": false,
+  "_row": 158
+ },
+ {
+  "index": 112,
+  "data_id": 158,
+  "pattern_id": "0000314B",
+  "mod_id": "DC86C840",
+  "mod": "Ignition Mod",
+  "is_default": false,
+  "_row": 159
+ },
+ {
+  "index": 86,
+  "data_id": 159,
+  "pattern_id": "0000161E",
+  "mod_id": "D8D19380",
+  "mod": "Normal Ammo Powder",
+  "is_default": false,
+  "_row": 160
+ },
+ {
+  "index": 87,
+  "data_id": 160,
+  "pattern_id": "0000161E",
+  "mod_id": "0AD63600",
+  "mod": "Pierce Ammo Powder",
+  "is_default": true,
+  "_row": 161
+ },
+ {
+  "index": 88,
+  "data_id": 161,
+  "pattern_id": "0000161E",
+  "mod_id": "46CB1B00",
+  "mod": "Spread Ammo Powder",
+  "is_default": false,
+  "_row": 162
+ },
+ {
+  "index": 89,
+  "data_id": 162,
+  "pattern_id": "0000161E",
+  "mod_id": "C217FBC0",
+  "mod": "Elemental Ammo Powder",
+  "is_default": false,
+  "_row": 163
+ },
+ {
+  "index": 90,
+  "data_id": 163,
+  "pattern_id": "00002AC3",
+  "mod_id": "D8D19380",
+  "mod": "Normal Ammo Powder",
+  "is_default": false,
+  "_row": 164
+ },
+ {
+  "index": 91,
+  "data_id": 164,
+  "pattern_id": "00002AC3",
+  "mod_id": "0AD63600",
+  "mod": "Pierce Ammo Powder",
+  "is_default": false,
+  "_row": 165
+ },
+ {
+  "index": 92,
+  "data_id": 165,
+  "pattern_id": "00002AC3",
+  "mod_id": "46CB1B00",
+  "mod": "Spread Ammo Powder",
+  "is_default": true,
+  "_row": 166
+ },
+ {
+  "index": 93,
+  "data_id": 166,
+  "pattern_id": "00002AC3",
+  "mod_id": "C217FBC0",
+  "mod": "Elemental Ammo Powder",
+  "is_default": false,
+  "_row": 167
+ }
+]

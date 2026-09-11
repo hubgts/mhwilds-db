@@ -1,0 +1,1037 @@
+[
+ {
+  "index": 0,
+  "name": "Hope Scarf: Teal/Orange",
+  "sort_id": 0,
+  "model_id": "9",
+  "story_flag": "-1",
+  "name_guid": "55b5cc5f-318f-4f45-a6d0-c12dbc1d4957",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "name": "Hope Scarf: Crimson",
+  "sort_id": 1,
+  "model_id": "10",
+  "story_flag": "-1",
+  "name_guid": "3ed3dfb9-d8e8-4bea-9df3-9e2bf2134072",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "name": "Hope Scarf: Light Blue",
+  "sort_id": 2,
+  "model_id": "11",
+  "story_flag": "-1",
+  "name_guid": "01e768e0-c58e-42ee-ba48-0d14b72734c2",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "name": "Hope Scarf: Green",
+  "sort_id": 3,
+  "model_id": "12",
+  "story_flag": "-1",
+  "name_guid": "c6cb3312-01dc-48ed-be7f-b2a275c5f49f",
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "name": "Hope Scarf: Brown",
+  "sort_id": 4,
+  "model_id": "13",
+  "story_flag": "-1",
+  "name_guid": "5c3e90bf-af17-439a-858c-e76817afb2a0",
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "name": "Hope Scarf: Saffron",
+  "sort_id": 5,
+  "model_id": "14",
+  "story_flag": "-1",
+  "name_guid": "bde9e30c-e686-454e-af1b-086284100295",
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "name": "Hope Scarf: Peach",
+  "sort_id": 6,
+  "model_id": "15",
+  "story_flag": "-1",
+  "name_guid": "9a90531f-1f56-432d-90ee-6ec9b5920915",
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "name": "Hope Scarf S: Marmalade",
+  "sort_id": 10,
+  "model_id": "16",
+  "story_flag": "424",
+  "name_guid": "a77436fd-68e5-4f7a-b2f9-9f2ce34d237d",
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "name": "Hope Scarf S: Green",
+  "sort_id": 11,
+  "model_id": "17",
+  "story_flag": "424",
+  "name_guid": "dafcca7d-a9ae-4d47-ab77-f8f15da1d3ec",
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "name": "Hope Scarf S: Blue",
+  "sort_id": 12,
+  "model_id": "18",
+  "story_flag": "424",
+  "name_guid": "64185d5d-95db-4cb4-b9b0-50013907f14e",
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "name": "Hope Scarf S: Purple",
+  "sort_id": 13,
+  "model_id": "19",
+  "story_flag": "424",
+  "name_guid": "2749dce0-42ee-434a-90ac-d347601b7e40",
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "name": "Hope Scarf S: Slate",
+  "sort_id": 14,
+  "model_id": "20",
+  "story_flag": "424",
+  "name_guid": "b33b91ac-9c61-4d06-8beb-599bfb1a56f6",
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "name": "Hope Scarf S: Red/Green",
+  "sort_id": 15,
+  "model_id": "21",
+  "story_flag": "424",
+  "name_guid": "6bdee3bb-3363-4ee5-a6fc-90a98e7a4cf0",
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "name": "Hope Scarf S: Pastel",
+  "sort_id": 16,
+  "model_id": "22",
+  "story_flag": "424",
+  "name_guid": "3f672a66-b4bf-4c2e-927a-389a3bc49875",
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "name": "Hope Scarf G: Blue/Red",
+  "sort_id": 20,
+  "model_id": "23",
+  "story_flag": "425",
+  "name_guid": "d826ef64-8344-4231-9b89-c02bdff72cdd",
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "name": "Hope Scarf G: Monochrome",
+  "sort_id": 21,
+  "model_id": "24",
+  "story_flag": "425",
+  "name_guid": "7c5e6a3b-c571-4d9e-9e54-dc856b311916",
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "name": "Hope Scarf G: Black",
+  "sort_id": 22,
+  "model_id": "25",
+  "story_flag": "425",
+  "name_guid": "520ea80b-0578-4bc3-90b0-c36d2a14a507",
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "name": "Hope Scarf G: Grape",
+  "sort_id": 23,
+  "model_id": "26",
+  "story_flag": "425",
+  "name_guid": "989e678a-2bb2-447e-81e3-d221c7d091d2",
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "name": "Hope Scarf G: Hazard",
+  "sort_id": 24,
+  "model_id": "27",
+  "story_flag": "425",
+  "name_guid": "12ae13d0-a9d1-4208-9ede-9d39a9fd9cf2",
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "name": "Hope Scarf G: Pink/Blue",
+  "sort_id": 25,
+  "model_id": "28",
+  "story_flag": "425",
+  "name_guid": "2f589acb-970d-4b86-bcf6-595b085f1b36",
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "name": "Hope Scarf G: Pink/Black",
+  "sort_id": 26,
+  "model_id": "29",
+  "story_flag": "425",
+  "name_guid": "375edacc-da3b-45bc-8ede-ae34b4e287cc",
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "name": "Dragontorch Wings",
+  "sort_id": 30,
+  "model_id": "4",
+  "story_flag": "430",
+  "name_guid": "88ba44b0-4de6-4047-8f35-4040af39b65f",
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "name": "Arkveld: Mark of Resolve",
+  "sort_id": 31,
+  "model_id": "5",
+  "story_flag": "431",
+  "name_guid": "0db6fedf-228e-4e35-b26e-9627e56858cb",
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "name": "Kut-Ku Plushie",
+  "sort_id": 51,
+  "model_id": "0",
+  "story_flag": "427",
+  "name_guid": "9a548627-fd64-462d-9aab-4cf0d539ff7b",
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "name": "Azuz: Mark of Gratitude",
+  "sort_id": 52,
+  "model_id": "6",
+  "story_flag": "428",
+  "name_guid": "afefac42-b3bd-4f56-8a05-39af1eb8d108",
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "name": "Stuffed Felyne Teddy",
+  "sort_id": 500,
+  "model_id": "8",
+  "story_flag": "-1",
+  "name_guid": "4d9a1f01-163c-45a4-9f3d-747ce2dbf45d",
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "name": "Avian Wind Chime",
+  "sort_id": 501,
+  "model_id": "7",
+  "story_flag": "-1",
+  "name_guid": "3985c487-9d44-4b80-888a-58e19c6dc754",
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "name": "Felyne Mint Chocolate",
+  "sort_id": 502,
+  "model_id": "106",
+  "story_flag": "-1",
+  "name_guid": "490380ef-33a8-46b0-b282-9450d5c84f53",
+  "_row": 29
+ },
+ {
+  "index": 28,
+  "name": "Felyne Caramel",
+  "sort_id": 503,
+  "model_id": "107",
+  "story_flag": "-1",
+  "name_guid": "3e7b73ce-2e8f-4b17-aedd-2c9661da6f6d",
+  "_row": 30
+ },
+ {
+  "index": 29,
+  "name": "Felyne Strawberry",
+  "sort_id": 504,
+  "model_id": "108",
+  "story_flag": "-1",
+  "name_guid": "81a9259e-192f-41da-8503-22c0a54f66f6",
+  "_row": 31
+ },
+ {
+  "index": 30,
+  "name": "Barrel Bowling Trophy",
+  "sort_id": 1000,
+  "model_id": "104",
+  "story_flag": "119",
+  "name_guid": "c311081f-3bce-4e29-9404-3c84fc750493",
+  "_row": 32
+ },
+ {
+  "index": 31,
+  "name": "Barrel Bowling Strap",
+  "sort_id": 1001,
+  "model_id": "105",
+  "story_flag": "118",
+  "name_guid": "7140766f-816a-4478-9943-67205c95fe1c",
+  "_row": 33
+ },
+ {
+  "index": 32,
+  "name": "White Fairy Light",
+  "sort_id": 1002,
+  "model_id": "37",
+  "story_flag": "-1",
+  "name_guid": "45440d38-f78b-4a45-8002-c11aaad62f94",
+  "_row": 34
+ },
+ {
+  "index": 33,
+  "name": "Red Fairy Light",
+  "sort_id": 1003,
+  "model_id": "38",
+  "story_flag": "-1",
+  "name_guid": "b1d5f12a-9ede-4e1c-b7e6-c58db1f744eb",
+  "_row": 35
+ },
+ {
+  "index": 34,
+  "name": "Green Fairy Light",
+  "sort_id": 1004,
+  "model_id": "39",
+  "story_flag": "-1",
+  "name_guid": "4406bcb1-c2d5-46df-8426-d9310c7364da",
+  "_row": 36
+ },
+ {
+  "index": 35,
+  "name": "Blue Fairy Light",
+  "sort_id": 1005,
+  "model_id": "40",
+  "story_flag": "-1",
+  "name_guid": "b30defe0-31b7-485b-ac03-1c26061e76e6",
+  "_row": 37
+ },
+ {
+  "index": 36,
+  "name": "Violet Fairy Light",
+  "sort_id": 1006,
+  "model_id": "41",
+  "story_flag": "-1",
+  "name_guid": "9c800952-504b-4459-bbc0-d6453e91390c",
+  "_row": 38
+ },
+ {
+  "index": 37,
+  "name": "Pink Fairy Light",
+  "sort_id": 1007,
+  "model_id": "42",
+  "story_flag": "-1",
+  "name_guid": "6d907b5c-a3b5-46a7-b90b-d967321156fe",
+  "_row": 39
+ },
+ {
+  "index": 38,
+  "name": "Dancing White Cat",
+  "sort_id": 1008,
+  "model_id": "1",
+  "story_flag": "-1",
+  "name_guid": "d9633df0-3e0d-4530-9434-10064ddfca4c",
+  "_row": 40
+ },
+ {
+  "index": 39,
+  "name": "Stretched White Cat",
+  "sort_id": 1009,
+  "model_id": "2",
+  "story_flag": "-1",
+  "name_guid": "9f376e42-8622-48c9-b311-4917e365a1b6",
+  "_row": 41
+ },
+ {
+  "index": 40,
+  "name": "Dancing Black Cat",
+  "sort_id": 1010,
+  "model_id": "96",
+  "story_flag": "-1",
+  "name_guid": "3ee864fe-c089-493a-a0aa-b3bf596c7cab",
+  "_row": 42
+ },
+ {
+  "index": 41,
+  "name": "Stretched Black Cat",
+  "sort_id": 1011,
+  "model_id": "97",
+  "story_flag": "-1",
+  "name_guid": "a2f566a6-f5ad-42ee-b66d-80b13c2defa6",
+  "_row": 43
+ },
+ {
+  "index": 42,
+  "name": "Sakura Posy: White",
+  "sort_id": 1012,
+  "model_id": "31",
+  "story_flag": "-1",
+  "name_guid": "2e7e1796-a536-4470-89af-a9bc4d0a7763",
+  "_row": 44
+ },
+ {
+  "index": 43,
+  "name": "Sakura Posy: Colorful",
+  "sort_id": 1013,
+  "model_id": "32",
+  "story_flag": "-1",
+  "name_guid": "74cef9c1-37a3-44e4-a383-2789b9e26689",
+  "_row": 45
+ },
+ {
+  "index": 44,
+  "name": "White Cat Bell",
+  "sort_id": 1014,
+  "model_id": "34",
+  "story_flag": "-1",
+  "name_guid": "99a19721-302d-435b-bcd0-34a98b9396c0",
+  "_row": 46
+ },
+ {
+  "index": 45,
+  "name": "Black Cat Bell",
+  "sort_id": 1015,
+  "model_id": "35",
+  "story_flag": "-1",
+  "name_guid": "b428da8a-47a1-4021-9325-f75205927e46",
+  "_row": 47
+ },
+ {
+  "index": 46,
+  "name": "Sakura Felyne Teddy",
+  "sort_id": 1016,
+  "model_id": "99",
+  "story_flag": "-1",
+  "name_guid": "f7e852f7-7aa9-4bdd-a81c-424f77c1eba9",
+  "_row": 48
+ },
+ {
+  "index": 47,
+  "name": "Doshaguma: Mark of Contest",
+  "sort_id": 1017,
+  "model_id": "79",
+  "story_flag": "-1",
+  "name_guid": "ee813e49-8387-4a3c-abe3-fef09a8e9a69",
+  "_row": 49
+ },
+ {
+  "index": 48,
+  "name": "Doshaguma: Mark of Bravery",
+  "sort_id": 1018,
+  "model_id": "80",
+  "story_flag": "-1",
+  "name_guid": "bfe7384a-ccb9-45d9-b99d-b9aaaf282cdd",
+  "_row": 50
+ },
+ {
+  "index": 49,
+  "name": "Doshaguma: Mark of Mastery",
+  "sort_id": 1019,
+  "model_id": "81",
+  "story_flag": "-1",
+  "name_guid": "d1d83c0b-e504-4bd0-8675-a28549a58bb6",
+  "_row": 51
+ },
+ {
+  "index": 50,
+  "name": "Rey Dau: Mark of Contest",
+  "sort_id": 1020,
+  "model_id": "82",
+  "story_flag": "-1",
+  "name_guid": "83b17b9a-691d-4ddd-acdd-0c95bd608c2c",
+  "_row": 52
+ },
+ {
+  "index": 51,
+  "name": "Rey Dau: Mark of Bravery",
+  "sort_id": 1021,
+  "model_id": "83",
+  "story_flag": "-1",
+  "name_guid": "2d651324-6c64-48dc-954b-578063494d72",
+  "_row": 53
+ },
+ {
+  "index": 52,
+  "name": "Rey Dau: Mark of Mastery",
+  "sort_id": 1022,
+  "model_id": "84",
+  "story_flag": "-1",
+  "name_guid": "de3b7068-2cf1-48c6-99ab-45cbcda44c97",
+  "_row": 54
+ },
+ {
+  "index": 53,
+  "name": "Blanka-Chan Doll",
+  "sort_id": 1500,
+  "model_id": "98",
+  "story_flag": "-1",
+  "name_guid": "1d184522-e483-414d-aec8-08a29401be3f",
+  "_row": 55
+ },
+ {
+  "index": 54,
+  "name": "Common Wood Minnow",
+  "sort_id": 2000,
+  "model_id": "144",
+  "story_flag": "721",
+  "name_guid": "4bc35994-53d2-42c4-9182-a5a052e8ebf6",
+  "_row": 56
+ },
+ {
+  "index": 55,
+  "name": "Golden Bughead",
+  "sort_id": 2001,
+  "model_id": "145",
+  "story_flag": "722",
+  "name_guid": "13b085ae-57c1-4956-a54c-1d9d8949e010",
+  "_row": 57
+ },
+ {
+  "index": 56,
+  "name": "Emerald Jitterbait",
+  "sort_id": 2002,
+  "model_id": "146",
+  "story_flag": "723",
+  "name_guid": "4efc95ba-db0a-4e4c-84a8-2feb21898830",
+  "_row": 58
+ },
+ {
+  "index": 57,
+  "name": "Tuff Joint Bait",
+  "sort_id": 2003,
+  "model_id": "147",
+  "story_flag": "724",
+  "name_guid": "58f045a8-c98d-4658-b548-f421bb7dea18",
+  "_row": 59
+ },
+ {
+  "index": 58,
+  "name": "Duster Rig",
+  "sort_id": 2004,
+  "model_id": "148",
+  "story_flag": "725",
+  "name_guid": "78c81a6a-a4c2-4120-bc30-7c8938f28a81",
+  "_row": 60
+ },
+ {
+  "index": 59,
+  "name": "Tentacle Jig",
+  "sort_id": 2005,
+  "model_id": "149",
+  "story_flag": "726",
+  "name_guid": "d04d5558-40ab-4cb1-b3c3-82f7eb40522e",
+  "_row": 61
+ },
+ {
+  "index": 60,
+  "name": "Strigible: Amstrigian",
+  "sort_id": 2006,
+  "model_id": "49",
+  "story_flag": "-1",
+  "name_guid": "d42c0815-687e-460e-b466-4c1862590793",
+  "_row": 62
+ },
+ {
+  "index": 61,
+  "name": "Strigible: Hymstrigian",
+  "sort_id": 2007,
+  "model_id": "50",
+  "story_flag": "-1",
+  "name_guid": "ea0fd1ec-2a23-4ec5-b4ff-aef6ca81d973",
+  "_row": 63
+ },
+ {
+  "index": 62,
+  "name": "Strigible: Cypurrpunk",
+  "sort_id": 2008,
+  "model_id": "51",
+  "story_flag": "-1",
+  "name_guid": "853c11c0-7e7d-4e4a-8f97-bd4861145c2a",
+  "_row": 64
+ },
+ {
+  "index": 63,
+  "name": "Strigible: Gold",
+  "sort_id": 2009,
+  "model_id": "52",
+  "story_flag": "-1",
+  "name_guid": "490c8c03-b59f-4b0f-9eef-53105df421da",
+  "_row": 65
+ },
+ {
+  "index": 64,
+  "name": "Strigible: Love",
+  "sort_id": 2010,
+  "model_id": "53",
+  "story_flag": "-1",
+  "name_guid": "8c3256f3-f999-4367-ab67-c883dd5e72cd",
+  "_row": 66
+ },
+ {
+  "index": 65,
+  "name": "Strigible: Color",
+  "sort_id": 2011,
+  "model_id": "54",
+  "story_flag": "-1",
+  "name_guid": "c70fcad8-51a4-4e61-b406-5777c78c2b28",
+  "_row": 67
+ },
+ {
+  "index": 66,
+  "name": "Floating Hearts",
+  "sort_id": 2012,
+  "model_id": "134",
+  "story_flag": "-1",
+  "name_guid": "fb3165a9-01c4-4099-a03d-a96c853456aa",
+  "_row": 68
+ },
+ {
+  "index": 67,
+  "name": "Floating Doodles",
+  "sort_id": 2013,
+  "model_id": "135",
+  "story_flag": "-1",
+  "name_guid": "f1b7646b-7de0-4ede-a82f-dd20fff91b6d",
+  "_row": 69
+ },
+ {
+  "index": 68,
+  "name": "Floating Sparkles",
+  "sort_id": 2014,
+  "model_id": "136",
+  "story_flag": "-1",
+  "name_guid": "26c43ef2-3d45-42f8-b207-a5e023e7376b",
+  "_row": 70
+ },
+ {
+  "index": 69,
+  "name": "Floating Well-done Steaks",
+  "sort_id": 2015,
+  "model_id": "138",
+  "story_flag": "-1",
+  "name_guid": "02887987-f86b-490c-a557-f0692f400a1d",
+  "_row": 71
+ },
+ {
+  "index": 70,
+  "name": "Floating Honey",
+  "sort_id": 2016,
+  "model_id": "139",
+  "story_flag": "-1",
+  "name_guid": "f591aa88-9433-4093-864d-f6eb93a8e47f",
+  "_row": 72
+ },
+ {
+  "index": 71,
+  "name": "Floating Potions",
+  "sort_id": 2017,
+  "model_id": "137",
+  "story_flag": "-1",
+  "name_guid": "8662b78e-a266-4ba7-b9cb-809ddeb893b1",
+  "_row": 73
+ },
+ {
+  "index": 72,
+  "name": "Fluttering Quatreflies",
+  "sort_id": 2018,
+  "model_id": "122",
+  "story_flag": "-1",
+  "name_guid": "e6f2195a-0119-460e-8290-35b857550555",
+  "_row": 74
+ },
+ {
+  "index": 73,
+  "name": "Trot-along Crake",
+  "sort_id": 2019,
+  "model_id": "132",
+  "story_flag": "-1",
+  "name_guid": "d99567b6-72a2-480d-8a8b-e59525565dd3",
+  "_row": 75
+ },
+ {
+  "index": 74,
+  "name": "Lagiacrus Plushie",
+  "sort_id": 2020,
+  "model_id": "160",
+  "story_flag": "-1",
+  "name_guid": "bc90a1b1-e781-445a-b8dd-4584efa752f3",
+  "_row": 76
+ },
+ {
+  "index": 75,
+  "name": "Red Flamefete Spirit",
+  "sort_id": 2021,
+  "model_id": "43",
+  "story_flag": "-1",
+  "name_guid": "ba64a02d-a074-4e53-9e71-1dc05a4f0484",
+  "_row": 77
+ },
+ {
+  "index": 76,
+  "name": "Blue Flamefete Spirit",
+  "sort_id": 2022,
+  "model_id": "44",
+  "story_flag": "-1",
+  "name_guid": "f87f3187-7e4a-4858-bc5a-85e44901cd5a",
+  "_row": 78
+ },
+ {
+  "index": 77,
+  "name": "Violet Flamefete Spirit",
+  "sort_id": 2023,
+  "model_id": "45",
+  "story_flag": "-1",
+  "name_guid": "662e1636-4a43-4356-b463-7110099a2afb",
+  "_row": 79
+ },
+ {
+  "index": 78,
+  "name": "Green Flamefete Spirit",
+  "sort_id": 2024,
+  "model_id": "46",
+  "story_flag": "-1",
+  "name_guid": "b0c2d46b-70aa-4057-a7c8-4e235cbc7963",
+  "_row": 80
+ },
+ {
+  "index": 79,
+  "name": "Pink Flamefete Spirit",
+  "sort_id": 2025,
+  "model_id": "47",
+  "story_flag": "-1",
+  "name_guid": "fe072a41-f89a-44c6-ad41-e60690a362fb",
+  "_row": 81
+ },
+ {
+  "index": 80,
+  "name": "White Flamefete Spirit",
+  "sort_id": 2026,
+  "model_id": "48",
+  "story_flag": "-1",
+  "name_guid": "7a776ec3-df6f-40e3-b281-1990a546cb1d",
+  "_row": 82
+ },
+ {
+  "index": 81,
+  "name": "Flamefete Felyne Teddy",
+  "sort_id": 2027,
+  "model_id": "100",
+  "story_flag": "-1",
+  "name_guid": "64d56ef4-bf64-4194-af9c-7096bc4281fe",
+  "_row": 83
+ },
+ {
+  "index": 82,
+  "name": "Mizutsune: Mark of Contest",
+  "sort_id": 2028,
+  "model_id": "85",
+  "story_flag": "-1",
+  "name_guid": "f6e86b0b-ec79-4fad-a9bc-0865b38da180",
+  "_row": 84
+ },
+ {
+  "index": 83,
+  "name": "Mizutsune: Mark of Bravery",
+  "sort_id": 2029,
+  "model_id": "86",
+  "story_flag": "-1",
+  "name_guid": "e9cade20-a81f-46b5-9e13-40d768717561",
+  "_row": 85
+ },
+ {
+  "index": 84,
+  "name": "Mizutsune: Mark of Mastery",
+  "sort_id": 2030,
+  "model_id": "87",
+  "story_flag": "-1",
+  "name_guid": "ede03377-09b9-493f-b686-eca2f35d94c3",
+  "_row": 86
+ },
+ {
+  "index": 85,
+  "name": "Uth Duna: Mark of Contest",
+  "sort_id": 2031,
+  "model_id": "88",
+  "story_flag": "-1",
+  "name_guid": "3932d7a1-e005-4a61-ad4a-39577c20a976",
+  "_row": 87
+ },
+ {
+  "index": 86,
+  "name": "Uth Duna: Mark of Bravery",
+  "sort_id": 2032,
+  "model_id": "89",
+  "story_flag": "-1",
+  "name_guid": "2537fd74-675d-4640-b73d-16f49229fc9a",
+  "_row": 88
+ },
+ {
+  "index": 87,
+  "name": "Uth Duna: Mark of Mastery",
+  "sort_id": 2033,
+  "model_id": "90",
+  "story_flag": "-1",
+  "name_guid": "cad0cd7d-6e66-4a99-ad09-299d413b18b8",
+  "_row": 89
+ },
+ {
+  "index": 88,
+  "name": "Well-done Steak Strap",
+  "sort_id": 3000,
+  "model_id": "173",
+  "story_flag": "737",
+  "name_guid": "d0cefaff-a6b1-4de4-b3b1-406841fd9588",
+  "_row": 90
+ },
+ {
+  "index": 89,
+  "name": "Red Lala Dress Doll",
+  "sort_id": 3001,
+  "model_id": "91",
+  "story_flag": "-1",
+  "name_guid": "e9371332-6be3-458f-9c74-8eab94e7af3b",
+  "_row": 91
+ },
+ {
+  "index": 90,
+  "name": "Blue Lala Dress Doll",
+  "sort_id": 3002,
+  "model_id": "92",
+  "story_flag": "-1",
+  "name_guid": "113c1c71-2e1c-46b6-afc9-b9994bbff8f0",
+  "_row": 92
+ },
+ {
+  "index": 91,
+  "name": "Pink Lala Dress Doll",
+  "sort_id": 3003,
+  "model_id": "93",
+  "story_flag": "-1",
+  "name_guid": "e0f53f2f-b236-4675-adfc-53f82077e3b3",
+  "_row": 93
+ },
+ {
+  "index": 92,
+  "name": "Orange Lala Dress Doll",
+  "sort_id": 3004,
+  "model_id": "94",
+  "story_flag": "-1",
+  "name_guid": "72d019af-ed69-40d0-bfb9-baa3194f0ebc",
+  "_row": 94
+ },
+ {
+  "index": 93,
+  "name": "Violet Lala Dress Doll",
+  "sort_id": 3005,
+  "model_id": "95",
+  "story_flag": "-1",
+  "name_guid": "855d4597-2681-4a70-bbdc-6cab801b9a20",
+  "_row": 95
+ },
+ {
+  "index": 94,
+  "name": "Felyne Duna Bobble",
+  "sort_id": 3006,
+  "model_id": "3",
+  "story_flag": "-1",
+  "name_guid": "0fa66e52-9653-4288-8b2e-350322bdf402",
+  "_row": 96
+ },
+ {
+  "index": 95,
+  "name": "Felyne Duna γ Bobble",
+  "sort_id": 3007,
+  "model_id": "150",
+  "story_flag": "-1",
+  "name_guid": "a39f1bca-7109-4e6b-99d3-486bd2d99260",
+  "_row": 97
+ },
+ {
+  "index": 96,
+  "name": "Fluttering Myriads",
+  "sort_id": 3008,
+  "model_id": "123",
+  "story_flag": "-1",
+  "name_guid": "38952183-f826-44c2-a782-cce7edd354c5",
+  "_row": 98
+ },
+ {
+  "index": 97,
+  "name": "White Poltercat",
+  "sort_id": 3009,
+  "model_id": "55",
+  "story_flag": "-1",
+  "name_guid": "3e7b1d41-82fa-45cc-956c-ee44c9e0aa69",
+  "_row": 99
+ },
+ {
+  "index": 98,
+  "name": "Red Poltercat",
+  "sort_id": 3010,
+  "model_id": "60",
+  "story_flag": "-1",
+  "name_guid": "a72fa850-4e5e-440a-8611-81d9faa63fd9",
+  "_row": 100
+ },
+ {
+  "index": 99,
+  "name": "Blue Poltercat",
+  "sort_id": 3011,
+  "model_id": "58",
+  "story_flag": "-1",
+  "name_guid": "3e4db4e9-1a81-43e6-a643-68a8f9eb5e09",
+  "_row": 101
+ },
+ {
+  "index": 100,
+  "name": "Green Poltercat",
+  "sort_id": 3012,
+  "model_id": "59",
+  "story_flag": "-1",
+  "name_guid": "6fd3f664-7e1f-4619-bcca-57a608d08c6c",
+  "_row": 102
+ },
+ {
+  "index": 101,
+  "name": "Orange Poltercat",
+  "sort_id": 3013,
+  "model_id": "56",
+  "story_flag": "-1",
+  "name_guid": "51863a93-e0ad-46ed-b53d-fe2cf78f6c07",
+  "_row": 103
+ },
+ {
+  "index": 102,
+  "name": "Violet Poltercat",
+  "sort_id": 3014,
+  "model_id": "57",
+  "story_flag": "-1",
+  "name_guid": "b352072b-ac3f-444f-b03d-e4d6e0d33769",
+  "_row": 104
+ },
+ {
+  "index": 103,
+  "name": "Dreamspell Felyne Teddy",
+  "sort_id": 3015,
+  "model_id": "101",
+  "story_flag": "-1",
+  "name_guid": "35df7956-ca90-4600-8e37-6f5212bd27df",
+  "_row": 105
+ },
+ {
+  "index": 104,
+  "name": "Seregios: Mark of Contest",
+  "sort_id": 3016,
+  "model_id": "109",
+  "story_flag": "-1",
+  "name_guid": "507b0432-1ae7-450f-acbd-403f2f971c4c",
+  "_row": 106
+ },
+ {
+  "index": 105,
+  "name": "Seregios: Mark of Bravery",
+  "sort_id": 3017,
+  "model_id": "110",
+  "story_flag": "-1",
+  "name_guid": "2a71c248-68ac-47ce-ba79-cb34990a4bf2",
+  "_row": 107
+ },
+ {
+  "index": 106,
+  "name": "Seregios: Mark of Mastery",
+  "sort_id": 3018,
+  "model_id": "111",
+  "story_flag": "-1",
+  "name_guid": "92f90c29-48b3-41b8-9bdd-101212c30648",
+  "_row": 108
+ },
+ {
+  "index": 107,
+  "name": "Nu Udra: Mark of Contest",
+  "sort_id": 3019,
+  "model_id": "112",
+  "story_flag": "-1",
+  "name_guid": "c41e520f-0031-409f-8541-65a72a8a0fde",
+  "_row": 109
+ },
+ {
+  "index": 108,
+  "name": "Nu Udra: Mark of Bravery",
+  "sort_id": 3020,
+  "model_id": "113",
+  "story_flag": "-1",
+  "name_guid": "7a6be32f-3dd8-47b9-968d-c9c982be8669",
+  "_row": 110
+ },
+ {
+  "index": 109,
+  "name": "Nu Udra: Mark of Mastery",
+  "sort_id": 3021,
+  "model_id": "114",
+  "story_flag": "-1",
+  "name_guid": "460775ae-dddd-48ff-9dce-d635934082e7",
+  "_row": 111
+ },
+ {
+  "index": 110,
+  "name": "Rolling Poogie: Two-tone",
+  "sort_id": 3022,
+  "model_id": "161",
+  "story_flag": "-1",
+  "name_guid": "3e00ca9f-fd3f-4bce-9853-4bf8d85db28c",
+  "_row": 112
+ },
+ {
+  "index": 111,
+  "name": "Rolling Poogie: Monochrome",
+  "sort_id": 3023,
+  "model_id": "162",
+  "story_flag": "-1",
+  "name_guid": "ec985e66-71d6-4d7b-9fb2-dab80c839922",
+  "_row": 113
+ },
+ {
+  "index": 112,
+  "name": "Trot-along Cactuar",
+  "sort_id": 3024,
+  "model_id": "133",
+  "story_flag": "750",
+  "name_guid": "cb95ab9b-b110-4e80-8485-a3af843bbeca",
+  "_row": 114
+ },
+ {
+  "index": 113,
+  "name": "Floating OMG",
+  "sort_id": 3025,
+  "model_id": "129",
+  "story_flag": "758",
+  "name_guid": "ede24824-880e-4fc8-adea-425c7595ba99",
+  "_row": 115
+ },
+ {
+  "index": 114,
+  "name": "Happy-Go-Congakart",
+  "sort_id": 3026,
+  "model_id": "169",
+  "story_flag": "-1",
+  "name_guid": "19efadb9-b3b4-4659-b79a-28709a02260c",
+  "_row": 116
+ }
+]

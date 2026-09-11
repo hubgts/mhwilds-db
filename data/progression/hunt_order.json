@@ -1,0 +1,429 @@
+[
+ {
+  "order": 1,
+  "monster": "Chatacabra",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 2
+ },
+ {
+  "order": 2,
+  "monster": "Quematrice",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 3
+ },
+ {
+  "order": 3,
+  "monster": "Lala Barina",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 4
+ },
+ {
+  "order": 4,
+  "monster": "Congalala",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 5
+ },
+ {
+  "order": 5,
+  "monster": "Balahara",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 6
+ },
+ {
+  "order": 6,
+  "monster": "Doshaguma",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 7
+ },
+ {
+  "order": 7,
+  "monster": "Uth Duna",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 8
+ },
+ {
+  "order": 8,
+  "monster": "Rompopolo",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 9
+ },
+ {
+  "order": 9,
+  "monster": "Rey Dau",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 10
+ },
+ {
+  "order": 10,
+  "monster": "Nerscylla",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 11
+ },
+ {
+  "order": 11,
+  "monster": "Hirabami",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 12
+ },
+ {
+  "order": 12,
+  "monster": "Ajarakan",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 13
+ },
+ {
+  "order": 13,
+  "monster": "Nu Udra",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 14
+ },
+ {
+  "order": 14,
+  "monster": "Guardian Doshaguma",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 15
+ },
+ {
+  "order": 15,
+  "monster": "Guardian Rathalos",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 16
+ },
+ {
+  "order": 16,
+  "monster": "Jin Dahaad",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 17
+ },
+ {
+  "order": 17,
+  "monster": "Guardian Ebony Odogaron",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 18
+ },
+ {
+  "order": 18,
+  "monster": "Xu Wu",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 19
+ },
+ {
+  "order": 19,
+  "monster": "Guardian Arkveld",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 20
+ },
+ {
+  "order": 20,
+  "monster": "Zoh Shia",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 21
+ },
+ {
+  "order": 21,
+  "monster": "Yian Kut-Ku",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 22
+ },
+ {
+  "order": 22,
+  "monster": "Rathian",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 23
+ },
+ {
+  "order": 23,
+  "monster": "Gypceros",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 24
+ },
+ {
+  "order": 24,
+  "monster": "Rathalos",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 25
+ },
+ {
+  "order": 25,
+  "monster": "Guardian Fulgur Anjanath",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 26
+ },
+ {
+  "order": 26,
+  "monster": "Gravios",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 27
+ },
+ {
+  "order": 27,
+  "monster": "Blangonga",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 28
+ },
+ {
+  "order": 28,
+  "monster": "Gore Magala",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 29
+ },
+ {
+  "order": 29,
+  "monster": "Arkveld",
+  "role": "Normal",
+  "min_hr": null,
+  "_row": 30
+ },
+ {
+  "order": 30,
+  "monster": "Gypceros",
+  "role": "Frenzy",
+  "min_hr": null,
+  "_row": 31
+ },
+ {
+  "order": 31,
+  "monster": "Yian Kut-Ku",
+  "role": "Frenzy",
+  "min_hr": null,
+  "_row": 32
+ },
+ {
+  "order": 32,
+  "monster": "Hirabami",
+  "role": "Frenzy",
+  "min_hr": null,
+  "_row": 33
+ },
+ {
+  "order": 33,
+  "monster": "Nerscylla",
+  "role": "Frenzy",
+  "min_hr": null,
+  "_row": 34
+ },
+ {
+  "order": 34,
+  "monster": "Blangonga",
+  "role": "Frenzy",
+  "min_hr": null,
+  "_row": 35
+ },
+ {
+  "order": 35,
+  "monster": "Chatacabra",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 36
+ },
+ {
+  "order": 36,
+  "monster": "Quematrice",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 37
+ },
+ {
+  "order": 37,
+  "monster": "Lala Barina",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 38
+ },
+ {
+  "order": 38,
+  "monster": "Congalala",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 39
+ },
+ {
+  "order": 39,
+  "monster": "Balahara",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 40
+ },
+ {
+  "order": 40,
+  "monster": "Doshaguma",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 41
+ },
+ {
+  "order": 41,
+  "monster": "Uth Duna",
+  "role": "Legendary",
+  "min_hr": 50,
+  "_row": 42
+ },
+ {
+  "order": 42,
+  "monster": "Rompopolo",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 43
+ },
+ {
+  "order": 43,
+  "monster": "Rey Dau",
+  "role": "Legendary",
+  "min_hr": 60,
+  "_row": 44
+ },
+ {
+  "order": 44,
+  "monster": "Nerscylla",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 45
+ },
+ {
+  "order": 45,
+  "monster": "Hirabami",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 46
+ },
+ {
+  "order": 46,
+  "monster": "Ajarakan",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 47
+ },
+ {
+  "order": 47,
+  "monster": "Nu Udra",
+  "role": "Legendary",
+  "min_hr": 70,
+  "_row": 48
+ },
+ {
+  "order": 48,
+  "monster": "Guardian Doshaguma",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 49
+ },
+ {
+  "order": 49,
+  "monster": "Guardian Rathalos",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 50
+ },
+ {
+  "order": 50,
+  "monster": "Jin Dahaad",
+  "role": "Legendary",
+  "min_hr": 80,
+  "_row": 51
+ },
+ {
+  "order": 51,
+  "monster": "Guardian Ebony Odogaron",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 52
+ },
+ {
+  "order": 52,
+  "monster": "Xu Wu",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 53
+ },
+ {
+  "order": 53,
+  "monster": "Yian Kut-Ku",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 54
+ },
+ {
+  "order": 54,
+  "monster": "Rathian",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 55
+ },
+ {
+  "order": 55,
+  "monster": "Gypceros",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 56
+ },
+ {
+  "order": 56,
+  "monster": "Rathalos",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 57
+ },
+ {
+  "order": 57,
+  "monster": "Guardian Fulgur Anjanath",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 58
+ },
+ {
+  "order": 58,
+  "monster": "Gravios",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 59
+ },
+ {
+  "order": 59,
+  "monster": "Blangonga",
+  "role": "Legendary",
+  "min_hr": null,
+  "_row": 60
+ },
+ {
+  "order": 60,
+  "monster": "Gore Magala",
+  "role": "Legendary",
+  "min_hr": 90,
+  "_row": 61
+ },
+ {
+  "order": 61,
+  "monster": "Arkveld",
+  "role": "Legendary",
+  "min_hr": 100,
+  "_row": 62
+ }
+]

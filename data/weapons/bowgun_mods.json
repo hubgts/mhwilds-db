@@ -1,0 +1,167 @@
+[
+ {
+  "fixed_id": "A3A09C00",
+  "index": 2,
+  "name": "Spread Ammo Magazine",
+  "description": "Increases the capacity of Spread Ammo.",
+  "value_1": 1,
+  "value_2": 0,
+  "name_guid": "76a3eab3-b1d7-44a8-82cf-55722c864a2b",
+  "description_guid": "8d6aa2a8-7f57-43d5-8a56-93e0ab32b8dd",
+  "_row": 2
+ },
+ {
+  "fixed_id": "AE2F1D00",
+  "index": 8,
+  "name": "Rapid Fire Magazine",
+  "description": "Increases the capacity of ammo in Rapid\nFire Mode.",
+  "value_1": 1,
+  "value_2": 0,
+  "name_guid": "a8e3c9d4-8bf0-481f-a9d6-a1a1a0972967",
+  "description_guid": "ba94ab58-aa5b-4fa1-aa71-8076e24d0e11",
+  "_row": 3
+ },
+ {
+  "fixed_id": "C217FBC0",
+  "index": 7,
+  "name": "Elemental Ammo Powder",
+  "description": "Increases the power of Flaming, Water,\nThunder, and Freeze Ammo.",
+  "value_1": 1,
+  "value_2": 0,
+  "name_guid": "98e0d08a-8172-44b0-a37b-a7c3a59a6822",
+  "description_guid": "c19d2c9f-a440-4257-b18a-a3962a6b9570",
+  "_row": 4
+ },
+ {
+  "fixed_id": "D8D19380",
+  "index": 4,
+  "name": "Normal Ammo Powder",
+  "description": "Upgrades Normal Ammo level.",
+  "value_1": 1,
+  "value_2": 0,
+  "name_guid": "0787ec94-8d95-46e1-9e5d-cfd9e9d5a541",
+  "description_guid": "91e29ddb-19d0-4589-b0c1-33837fca86ff",
+  "_row": 5
+ },
+ {
+  "fixed_id": "DC86C840",
+  "index": 12,
+  "name": "Ignition Mod",
+  "description": "Improves the recovery speed of\nthe Ignition Gauge.",
+  "value_1": 0,
+  "value_2": 0,
+  "name_guid": "f53f7571-8279-4def-b242-b664a9021265",
+  "description_guid": "e50ac987-15fc-4844-b06f-e006b4292454",
+  "_row": 6
+ },
+ {
+  "fixed_id": "E6C2D6A0",
+  "index": 0,
+  "name": "Normal Ammo Magazine",
+  "description": "Increases the capacity of Normal Ammo.",
+  "value_1": 1,
+  "value_2": 0,
+  "name_guid": "ce81fa16-43a1-4a33-8f30-f90f33ac108e",
+  "description_guid": "b639c710-09fd-48d8-8a26-2dbe7f624434",
+  "_row": 7
+ },
+ {
+  "fixed_id": "0AD63600",
+  "index": 5,
+  "name": "Pierce Ammo Powder",
+  "description": "Upgrades Pierce Ammo level.",
+  "value_1": 1,
+  "value_2": 0,
+  "name_guid": "9dbc7a10-dd0b-492e-a245-e1f52b42afa2",
+  "description_guid": "55d987ba-55f6-4d97-a5b6-c0b01717d91c",
+  "_row": 8
+ },
+ {
+  "fixed_id": "1A85C420",
+  "index": 9,
+  "name": "Special Ammo Magazine",
+  "description": "Increases the capacity of Special Ammo.",
+  "value_1": 1,
+  "value_2": 0,
+  "name_guid": "19fad578-0f6f-442e-8a4c-9a3989716119",
+  "description_guid": "3c120580-4c30-428c-a106-213d4db61c58",
+  "_row": 9
+ },
+ {
+  "fixed_id": "29448D00",
+  "index": 1,
+  "name": "Pierce Ammo Magazine",
+  "description": "Increases the capacity of Pierce Ammo.",
+  "value_1": 1,
+  "value_2": 0,
+  "name_guid": "a7d69cb9-7ef5-4c04-94c8-372813e11b97",
+  "description_guid": "c7b7ccd7-506b-4caa-b7a3-3ba199c51e8f",
+  "_row": 10
+ },
+ {
+  "fixed_id": "30A75480",
+  "index": 13,
+  "name": "Standard Mode Upgrade",
+  "description": "Switches bowgun to Standard Mode - Special\nType (ST), or increases the level if it's already\nthat type.",
+  "value_1": 0,
+  "value_2": 0,
+  "name_guid": "37eab479-6679-4ebc-b397-58f03b292c72",
+  "description_guid": "38f55086-e278-4334-905a-0c5fcfb006de",
+  "_row": 11
+ },
+ {
+  "fixed_id": "46CB1B00",
+  "index": 6,
+  "name": "Spread Ammo Powder",
+  "description": "Upgrades Spread Ammo level.",
+  "value_1": 1,
+  "value_2": 0,
+  "name_guid": "9a62d161-7ba6-4e0e-a1f7-e029ea629fd9",
+  "description_guid": "1396319e-3064-4421-adc3-c44ab706e871",
+  "_row": 12
+ },
+ {
+  "fixed_id": "57CF2880",
+  "index": 3,
+  "name": "Elemental Boost Magazine",
+  "description": "Increases the capacity of Flaming, Water,\nThunder, Freeze, and Dragon Ammo.",
+  "value_1": 1,
+  "value_2": 0,
+  "name_guid": "ad23188f-7e43-454b-9bdc-98af5a8670f4",
+  "description_guid": "3995e349-d37c-487b-bc1a-e6688ec8026c",
+  "_row": 13
+ },
+ {
+  "fixed_id": "5DB4F880",
+  "index": 10,
+  "name": "Rapid Fire Mod",
+  "description": "Improves the recovery speed of the\nRapid Fire Gauge.",
+  "value_1": 110,
+  "value_2": 0,
+  "name_guid": "115f4331-6b54-4df3-9056-727baa598042",
+  "description_guid": "5c7c8731-2d25-4537-8221-e7b58fea42bf",
+  "_row": 14
+ },
+ {
+  "fixed_id": "70F1E200",
+  "index": 14,
+  "name": "Ignition Mode Upgrade",
+  "description": "Switches bowgun to Ignition Mode - Special\nType (ST), or increases the level if it's already\nthat type.",
+  "value_1": 0,
+  "value_2": 0,
+  "name_guid": "cde1ae9f-079e-4987-a8ac-17754cd5fcb4",
+  "description_guid": "39d92dbb-3dc8-4bb9-9273-7106982fde09",
+  "_row": 15
+ },
+ {
+  "fixed_id": "7ED79A00",
+  "index": 11,
+  "name": "Special Ammo Mod",
+  "description": "Improves the recovery speed of\nthe Special Ammo Gauge.",
+  "value_1": 110,
+  "value_2": 0,
+  "name_guid": "9e515df0-9f5c-452d-8c1f-47c00f4a6285",
+  "description_guid": "e601f58e-3b4b-47d2-bf26-5f2ab72e7d0a",
+  "_row": 16
+ }
+]

@@ -1,0 +1,1334 @@
+[
+ {
+  "index": 0,
+  "mission_id": "MISSION_001030",
+  "mission_name": "Slimy Situation",
+  "common_table_id": 102,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "mission_id": "MISSION_001045",
+  "mission_name": "Village of Whispering Winds",
+  "common_table_id": 102,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "mission_id": "MISSION_001050",
+  "mission_name": "Hot on Their Tails",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "mission_id": "MISSION_001080",
+  "mission_name": "A Stage of Rose and Thorn",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "mission_id": "MISSION_001100",
+  "mission_name": "Drive Off the Congalala!",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "mission_id": "MISSION_001130",
+  "mission_name": "Balahara of the Sandsea",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "mission_id": "MISSION_001135",
+  "mission_name": "Pinnacle of the Pack",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "mission_id": "MISSION_002150",
+  "mission_name": "A Feast in the Deep",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "mission_id": "MISSION_002190",
+  "mission_name": "A Fuse Ignited",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "mission_id": "MISSION_003210",
+  "mission_name": "A Merciless Glare",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "mission_id": "MISSION_003230",
+  "mission_name": "The Quiet, Cunning Assassin",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "mission_id": "MISSION_003240",
+  "mission_name": "Fight or Flight",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "mission_id": "MISSION_003250",
+  "mission_name": "Ajarakan Ablaze",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "mission_id": "MISSION_003260",
+  "mission_name": "The Black Flame Quietly Manifests",
+  "common_table_id": 301,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "mission_id": "MISSION_004270",
+  "mission_name": "An Ominous Encounter",
+  "common_table_id": 302,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "mission_id": "MISSION_004290",
+  "mission_name": "The Ashen King",
+  "common_table_id": 303,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "mission_id": "MISSION_004310",
+  "mission_name": "Repel the <EMID EM0160_50_0>",
+  "common_table_id": 311,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "mission_id": "MISSION_004320",
+  "mission_name": "The Rimechain Trial",
+  "common_table_id": 301,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "mission_id": "MISSION_005340",
+  "mission_name": "Watcher of the Ancient Capital",
+  "common_table_id": 303,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "mission_id": "MISSION_005350",
+  "mission_name": "A Hunter in the Void",
+  "common_table_id": 301,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "mission_id": "MISSION_005360",
+  "mission_name": "The Pale Dream of a Lone Shadow",
+  "common_table_id": 311,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "mission_id": "MISSION_005390",
+  "mission_name": "Guardian Zoh Shia",
+  "common_table_id": 311,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "mission_id": "MISSION_006015",
+  "mission_name": "Lured by Abundance",
+  "common_table_id": 406,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "mission_id": "MISSION_006025",
+  "mission_name": "Investigating the Frenzied Shadow",
+  "common_table_id": 408,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "mission_id": "MISSION_007035",
+  "mission_name": "Thundering Flowers",
+  "common_table_id": 103,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "mission_id": "MISSION_008055",
+  "mission_name": "Frozen Lord on the Precipice",
+  "common_table_id": 604,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "mission_id": "MISSION_009075",
+  "mission_name": "Roaring Rey Dau",
+  "common_table_id": 601,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "mission_id": "MISSION_009085",
+  "mission_name": "Tide Overtaking Timber",
+  "common_table_id": 603,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 29
+ },
+ {
+  "index": 28,
+  "mission_id": "MISSION_009095",
+  "mission_name": "Scorching the Earth Once More",
+  "common_table_id": 602,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 30
+ },
+ {
+  "index": 29,
+  "mission_id": "MISSION_010115",
+  "mission_name": "Shrouded in Black",
+  "common_table_id": 606,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 31
+ },
+ {
+  "index": 30,
+  "mission_id": "MISSION_011125",
+  "mission_name": "Awaking From a Dream",
+  "common_table_id": 601,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 32
+ },
+ {
+  "index": 31,
+  "mission_id": "MISSION_101000",
+  "mission_name": "Beware the Chatacabra",
+  "common_table_id": 102,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 33
+ },
+ {
+  "index": 32,
+  "mission_id": "MISSION_101002",
+  "mission_name": "Fire Starter",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 34
+ },
+ {
+  "index": 33,
+  "mission_id": "MISSION_101004",
+  "mission_name": "Every Rose...",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 35
+ },
+ {
+  "index": 34,
+  "mission_id": "MISSION_101005",
+  "mission_name": "Tussle in Pink",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 36
+ },
+ {
+  "index": 35,
+  "mission_id": "MISSION_101008",
+  "mission_name": "Sand Sea Surges",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 37
+ },
+ {
+  "index": 36,
+  "mission_id": "MISSION_101009",
+  "mission_name": "Forest Outlaw",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 38
+ },
+ {
+  "index": 37,
+  "mission_id": "MISSION_101001",
+  "mission_name": "Buggin' in the Desert",
+  "common_table_id": 102,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 39
+ },
+ {
+  "index": 38,
+  "mission_id": "MISSION_101003",
+  "mission_name": "The Desert is Demanding",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 40
+ },
+ {
+  "index": 39,
+  "mission_id": "MISSION_101007",
+  "mission_name": "Buggin' in the Scarlet Forest",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 41
+ },
+ {
+  "index": 40,
+  "mission_id": "MISSION_101006",
+  "mission_name": "A Sharp Sort",
+  "common_table_id": 101,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 42
+ },
+ {
+  "index": 41,
+  "mission_id": "MISSION_102000",
+  "mission_name": "Veiled by the Tide",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 43
+ },
+ {
+  "index": 42,
+  "mission_id": "MISSION_102001",
+  "mission_name": "Oilwell Basin Blast",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 44
+ },
+ {
+  "index": 43,
+  "mission_id": "MISSION_102003",
+  "mission_name": "Sultan of the Sand",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 45
+ },
+ {
+  "index": 44,
+  "mission_id": "MISSION_102004",
+  "mission_name": "Dance of Shadows",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 46
+ },
+ {
+  "index": 45,
+  "mission_id": "MISSION_102005",
+  "mission_name": "Fleet Flight",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 47
+ },
+ {
+  "index": 46,
+  "mission_id": "MISSION_102007",
+  "mission_name": "Scorching Simian",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 48
+ },
+ {
+  "index": 47,
+  "mission_id": "MISSION_102002",
+  "mission_name": "March of the Kranodath",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 49
+ },
+ {
+  "index": 48,
+  "mission_id": "MISSION_102006",
+  "mission_name": "Buggin' in the Cliffs",
+  "common_table_id": 201,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 50
+ },
+ {
+  "index": 49,
+  "mission_id": "MISSION_103000",
+  "mission_name": "Creeping Flames",
+  "common_table_id": 301,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 51
+ },
+ {
+  "index": 50,
+  "mission_id": "MISSION_103001",
+  "mission_name": "Pallid Beast's Lament",
+  "common_table_id": 302,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 52
+ },
+ {
+  "index": 51,
+  "mission_id": "MISSION_103002",
+  "mission_name": "His Eternal Reign",
+  "common_table_id": 303,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 53
+ },
+ {
+  "index": 52,
+  "mission_id": "MISSION_103004",
+  "mission_name": "Red Eyes in the Night",
+  "common_table_id": 303,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 54
+ },
+ {
+  "index": 53,
+  "mission_id": "MISSION_103005",
+  "mission_name": "Consumer of Void",
+  "common_table_id": 301,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 55
+ },
+ {
+  "index": 54,
+  "mission_id": "MISSION_103003",
+  "mission_name": "Spread Those Wings",
+  "common_table_id": 301,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 56
+ },
+ {
+  "index": 55,
+  "mission_id": "MISSION_104000",
+  "mission_name": "A Futile Fight",
+  "common_table_id": 402,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 57
+ },
+ {
+  "index": 56,
+  "mission_id": "MISSION_104001",
+  "mission_name": "The Pursued and the Pursuer",
+  "common_table_id": 401,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 58
+ },
+ {
+  "index": 57,
+  "mission_id": "MISSION_104002",
+  "mission_name": "Flower of Eternal Rest",
+  "common_table_id": 403,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 59
+ },
+ {
+  "index": 58,
+  "mission_id": "MISSION_104003",
+  "mission_name": "Flippant Flatulence",
+  "common_table_id": 402,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 60
+ },
+ {
+  "index": 59,
+  "mission_id": "MISSION_104004",
+  "mission_name": "The Desert Knows Not the Sea",
+  "common_table_id": 409,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 61
+ },
+ {
+  "index": 60,
+  "mission_id": "MISSION_104005",
+  "mission_name": "Profusion of Poison",
+  "common_table_id": 404,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 62
+ },
+ {
+  "index": 61,
+  "mission_id": "MISSION_104006",
+  "mission_name": "The Nerscylla's Hunting Grounds",
+  "common_table_id": 408,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 63
+ },
+ {
+  "index": 62,
+  "mission_id": "MISSION_104007",
+  "mission_name": "Fleeting Victory",
+  "common_table_id": 407,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 64
+ },
+ {
+  "index": 63,
+  "mission_id": "MISSION_104008",
+  "mission_name": null,
+  "common_table_id": 406,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 65
+ },
+ {
+  "index": 64,
+  "mission_id": "MISSION_104009",
+  "mission_name": "All Hail the Queen",
+  "common_table_id": 406,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 66
+ },
+ {
+  "index": 65,
+  "mission_id": "MISSION_104010",
+  "mission_name": "Mysterious Poison",
+  "common_table_id": 405,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 67
+ },
+ {
+  "index": 66,
+  "mission_id": "MISSION_104011",
+  "mission_name": "Time to Exorcise",
+  "common_table_id": 450,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 68
+ },
+ {
+  "index": 67,
+  "mission_id": "MISSION_104012",
+  "mission_name": "A Vow to Remain",
+  "common_table_id": 450,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 69
+ },
+ {
+  "index": 68,
+  "mission_id": "MISSION_104013",
+  "mission_name": "A Sharp Squad",
+  "common_table_id": 450,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 70
+ },
+ {
+  "index": 69,
+  "mission_id": "MISSION_104014",
+  "mission_name": "Vespoid Capriccio",
+  "common_table_id": 450,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 71
+ },
+ {
+  "index": 70,
+  "mission_id": "MISSION_105000",
+  "mission_name": "Doshaguma Hunt",
+  "common_table_id": 501,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 72
+ },
+ {
+  "index": 71,
+  "mission_id": "MISSION_105001",
+  "mission_name": "Annihilating Anguish",
+  "common_table_id": 501,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 73
+ },
+ {
+  "index": 72,
+  "mission_id": "MISSION_105002",
+  "mission_name": "Battle with the White Doshaguma!",
+  "common_table_id": 505,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 74
+ },
+ {
+  "index": 73,
+  "mission_id": "MISSION_105003",
+  "mission_name": "The King's Triumphant Return",
+  "common_table_id": 508,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 75
+ },
+ {
+  "index": 74,
+  "mission_id": "MISSION_105004",
+  "mission_name": "White Wails",
+  "common_table_id": 507,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 76
+ },
+ {
+  "index": 75,
+  "mission_id": "MISSION_105005",
+  "mission_name": "Opposition",
+  "common_table_id": 502,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 77
+ },
+ {
+  "index": 76,
+  "mission_id": "MISSION_105006",
+  "mission_name": "Guardian Fulgur Anjanath Hunt",
+  "common_table_id": 506,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 78
+ },
+ {
+  "index": 77,
+  "mission_id": "MISSION_105008",
+  "mission_name": "Armor Like a Mountain",
+  "common_table_id": 504,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 79
+ },
+ {
+  "index": 78,
+  "mission_id": "MISSION_105009",
+  "mission_name": "Blangonga Excursion",
+  "common_table_id": 501,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 80
+ },
+ {
+  "index": 79,
+  "mission_id": "MISSION_105010",
+  "mission_name": "King of the Skies",
+  "common_table_id": 503,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 81
+ },
+ {
+  "index": 80,
+  "mission_id": "MISSION_105011",
+  "mission_name": "Talk About Hard Headed!",
+  "common_table_id": 450,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 82
+ },
+ {
+  "index": 81,
+  "mission_id": "MISSION_105012",
+  "mission_name": "Dream Eaters",
+  "common_table_id": 450,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 83
+ },
+ {
+  "index": 82,
+  "mission_id": "MISSION_106000",
+  "mission_name": "One Thick Veil!",
+  "common_table_id": 603,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 84
+ },
+ {
+  "index": 83,
+  "mission_id": "MISSION_106001",
+  "mission_name": "When the Dust Settles...",
+  "common_table_id": 601,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 85
+ },
+ {
+  "index": 84,
+  "mission_id": "MISSION_106002",
+  "mission_name": "Sinister Sneer",
+  "common_table_id": 602,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 86
+ },
+ {
+  "index": 85,
+  "mission_id": "MISSION_106003",
+  "mission_name": "When Frost Falls",
+  "common_table_id": 604,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 87
+ },
+ {
+  "index": 86,
+  "mission_id": "MISSION_106004",
+  "mission_name": "Misty Depths",
+  "common_table_id": 600,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 88
+ },
+ {
+  "index": 87,
+  "mission_id": "MISSION_106005",
+  "mission_name": "Small White Feathers",
+  "common_table_id": 450,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 89
+ },
+ {
+  "index": 88,
+  "mission_id": "MISSION_106006",
+  "mission_name": null,
+  "common_table_id": 604,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 90
+ },
+ {
+  "index": 89,
+  "mission_id": "MISSION_107000",
+  "mission_name": "The Chains of Life",
+  "common_table_id": 601,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 91
+ },
+ {
+  "index": 90,
+  "mission_id": "MISSION_199000",
+  "mission_name": "Rath-from-Above, Go!",
+  "common_table_id": 406,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 92
+ },
+ {
+  "index": 91,
+  "mission_id": "MISSION_199001",
+  "mission_name": "A Leviathan's Temper",
+  "common_table_id": 420,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 93
+ },
+ {
+  "index": 92,
+  "mission_id": "MISSION_199002",
+  "mission_name": "Smithy's Seal of Quality",
+  "common_table_id": 403,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 94
+ },
+ {
+  "index": 93,
+  "mission_id": "MISSION_199003",
+  "mission_name": "Aberrant Atrocity",
+  "common_table_id": 400,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 95
+ },
+ {
+  "index": 94,
+  "mission_id": "MISSION_199004",
+  "mission_name": "Secure Wounded Hollow",
+  "common_table_id": 407,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 96
+ },
+ {
+  "index": 95,
+  "mission_id": "MISSION_199007",
+  "mission_name": null,
+  "common_table_id": 503,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 97
+ },
+ {
+  "index": 96,
+  "mission_id": "MISSION_199008",
+  "mission_name": "Succulent Scraps",
+  "common_table_id": 504,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 98
+ },
+ {
+  "index": 97,
+  "mission_id": "MISSION_199009",
+  "mission_name": "What We Protect",
+  "common_table_id": 501,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 99
+ },
+ {
+  "index": 98,
+  "mission_id": "MISSION_199010",
+  "mission_name": "Werner's Test Run",
+  "common_table_id": 505,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 100
+ },
+ {
+  "index": 99,
+  "mission_id": "MISSION_199011",
+  "mission_name": "Astonishing Adaptability",
+  "common_table_id": 502,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 101
+ },
+ {
+  "index": 100,
+  "mission_id": "MISSION_199012",
+  "mission_name": "As Gatekeeper",
+  "common_table_id": 501,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 102
+ },
+ {
+  "index": 101,
+  "mission_id": "MISSION_199013",
+  "mission_name": "Purrfect Plundering",
+  "common_table_id": 507,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 103
+ },
+ {
+  "index": 102,
+  "mission_id": "MISSION_199014",
+  "mission_name": "Continuing Conflict",
+  "common_table_id": 420,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 104
+ },
+ {
+  "index": 103,
+  "mission_id": "MISSION_199015",
+  "mission_name": "Fur Damagings Are Dislikeworthy",
+  "common_table_id": 420,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 105
+ },
+ {
+  "index": 104,
+  "mission_id": "MISSION_199016",
+  "mission_name": "Troublemakers",
+  "common_table_id": 520,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 106
+ },
+ {
+  "index": 105,
+  "mission_id": "MISSION_199017",
+  "mission_name": "Echoing from the Cliffs",
+  "common_table_id": 520,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 107
+ },
+ {
+  "index": 106,
+  "mission_id": "MISSION_199018",
+  "mission_name": "The Struggle to Survive",
+  "common_table_id": 520,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 108
+ },
+ {
+  "index": 108,
+  "mission_id": "MISSION_600000",
+  "mission_name": null,
+  "common_table_id": 110,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 109
+ },
+ {
+  "index": 109,
+  "mission_id": "MISSION_600001",
+  "mission_name": null,
+  "common_table_id": 111,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 110
+ },
+ {
+  "index": 110,
+  "mission_id": "MISSION_600002",
+  "mission_name": null,
+  "common_table_id": 701,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 111
+ },
+ {
+  "index": 111,
+  "mission_id": "MISSION_600003",
+  "mission_name": null,
+  "common_table_id": 702,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 112
+ },
+ {
+  "index": 112,
+  "mission_id": "MISSION_600004",
+  "mission_name": null,
+  "common_table_id": 150,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 113
+ },
+ {
+  "index": 113,
+  "mission_id": "MISSION_600005",
+  "mission_name": null,
+  "common_table_id": 151,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 114
+ },
+ {
+  "index": 114,
+  "mission_id": "MISSION_600006",
+  "mission_name": null,
+  "common_table_id": 156,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 115
+ },
+ {
+  "index": 115,
+  "mission_id": "MISSION_600007",
+  "mission_name": null,
+  "common_table_id": 159,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 116
+ },
+ {
+  "index": 116,
+  "mission_id": "MISSION_600008",
+  "mission_name": null,
+  "common_table_id": 161,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 117
+ },
+ {
+  "index": 117,
+  "mission_id": "MISSION_700015",
+  "mission_name": "The Entrancing Water Dancer",
+  "common_table_id": 509,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 118
+ },
+ {
+  "index": 118,
+  "mission_id": "MISSION_700025",
+  "mission_name": "Germination",
+  "common_table_id": 631,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 119
+ },
+ {
+  "index": 119,
+  "mission_id": "MISSION_105013",
+  "mission_name": "Bubbling Crimson Flowers",
+  "common_table_id": 509,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 120
+ },
+ {
+  "index": 120,
+  "mission_id": "MISSION_204000",
+  "mission_name": "Arena: <EMID EM0152_00_0>",
+  "common_table_id": 250,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 121
+ },
+ {
+  "index": 121,
+  "mission_id": "MISSION_204001",
+  "mission_name": "Arena: <EMID EM0001_00_0>",
+  "common_table_id": 251,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 122
+ },
+ {
+  "index": 122,
+  "mission_id": "MISSION_600100",
+  "mission_name": null,
+  "common_table_id": 650,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 123
+ },
+ {
+  "index": 123,
+  "mission_id": "MISSION_600101",
+  "mission_name": null,
+  "common_table_id": 703,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 124
+ },
+ {
+  "index": 124,
+  "mission_id": "MISSION_600102",
+  "mission_name": null,
+  "common_table_id": 704,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 125
+ },
+ {
+  "index": 125,
+  "mission_id": "MISSION_600103",
+  "mission_name": null,
+  "common_table_id": 750,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 126
+ },
+ {
+  "index": 126,
+  "mission_id": "MISSION_600104",
+  "mission_name": null,
+  "common_table_id": 751,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 127
+ },
+ {
+  "index": 127,
+  "mission_id": "MISSION_600105",
+  "mission_name": null,
+  "common_table_id": 152,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 128
+ },
+ {
+  "index": 128,
+  "mission_id": "MISSION_600106",
+  "mission_name": null,
+  "common_table_id": 153,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 129
+ },
+ {
+  "index": 129,
+  "mission_id": "MISSION_600107",
+  "mission_name": null,
+  "common_table_id": 154,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 130
+ },
+ {
+  "index": 130,
+  "mission_id": "MISSION_600108",
+  "mission_name": null,
+  "common_table_id": 155,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 131
+ },
+ {
+  "index": 131,
+  "mission_id": "MISSION_600109",
+  "mission_name": null,
+  "common_table_id": 163,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 132
+ },
+ {
+  "index": 132,
+  "mission_id": "MISSION_600110",
+  "mission_name": null,
+  "common_table_id": 165,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 133
+ },
+ {
+  "index": 133,
+  "mission_id": "MISSION_601001",
+  "mission_name": null,
+  "common_table_id": 252,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 134
+ },
+ {
+  "index": 134,
+  "mission_id": "MISSION_602000",
+  "mission_name": null,
+  "common_table_id": 650,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 135
+ },
+ {
+  "index": 135,
+  "mission_id": "MISSION_610000",
+  "mission_name": null,
+  "common_table_id": 705,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 136
+ },
+ {
+  "index": 136,
+  "mission_id": "MISSION_620005",
+  "mission_name": null,
+  "common_table_id": 752,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 137
+ },
+ {
+  "index": 137,
+  "mission_id": "MISSION_620006",
+  "mission_name": null,
+  "common_table_id": 753,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 138
+ },
+ {
+  "index": 138,
+  "mission_id": "MISSION_205000",
+  "mission_name": null,
+  "common_table_id": 253,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 139
+ },
+ {
+  "index": 139,
+  "mission_id": "MISSION_205001",
+  "mission_name": null,
+  "common_table_id": 256,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 140
+ },
+ {
+  "index": 140,
+  "mission_id": "MISSION_610001",
+  "mission_name": null,
+  "common_table_id": 706,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 141
+ },
+ {
+  "index": 154,
+  "mission_id": "MISSION_720010",
+  "mission_name": null,
+  "common_table_id": 601,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 155
+ },
+ {
+  "index": 155,
+  "mission_id": "MISSION_720015",
+  "mission_name": null,
+  "common_table_id": 601,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 156
+ },
+ {
+  "index": 156,
+  "mission_id": "MISSION_720020",
+  "mission_name": null,
+  "common_table_id": 601,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 157
+ },
+ {
+  "index": 157,
+  "mission_id": "MISSION_720025",
+  "mission_name": null,
+  "common_table_id": 601,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 158
+ },
+ {
+  "index": 173,
+  "mission_id": "MISSION_730010",
+  "mission_name": null,
+  "common_table_id": 513,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 173
+ },
+ {
+  "index": 174,
+  "mission_id": "MISSION_730015",
+  "mission_name": null,
+  "common_table_id": 513,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 174
+ },
+ {
+  "index": 175,
+  "mission_id": "MISSION_730020",
+  "mission_name": null,
+  "common_table_id": 510,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 175
+ },
+ {
+  "index": 176,
+  "mission_id": "MISSION_730025",
+  "mission_name": null,
+  "common_table_id": 510,
+  "target_table_id": 0,
+  "quest_table_id": 0,
+  "_row": 176
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "fixed_id": "00000001",
+  "index": 0,
+  "enum": "ID_000",
+  "name": "Expedition Tree",
+  "name_guid": "60c20cf3-f3cf-4976-a8e6-11f4cffe4226",
+  "_row": 2
+ },
+ {
+  "fixed_id": "00000002",
+  "index": 1,
+  "enum": "ID_001",
+  "name": "Ore Tree",
+  "name_guid": "409dcacd-ce6c-4173-b334-2307d6830447",
+  "_row": 3
+ },
+ {
+  "fixed_id": "AEA16700",
+  "index": 2,
+  "enum": "ID_003",
+  "name": "Bone Tree",
+  "name_guid": "77f2bf67-11ac-4148-a627-bd630ee4fb59",
+  "_row": 4
+ },
+ {
+  "fixed_id": "3D53F240",
+  "index": 3,
+  "enum": "ID_004",
+  "name": "Chatacabra Tree",
+  "name_guid": "25ef1fea-84bc-4458-b891-b4267209715c",
+  "_row": 5
+ },
+ {
+  "fixed_id": "B3970D00",
+  "index": 4,
+  "enum": "ID_005",
+  "name": "Quematrice Tree",
+  "name_guid": "0c1a596d-12a2-4224-b753-dd9a6742ff96",
+  "_row": 6
+ },
+ {
+  "fixed_id": "B5ACDA00",
+  "index": 5,
+  "enum": "ID_006",
+  "name": "Lala Barina Tree",
+  "name_guid": "837b43c9-d2fe-497a-bfb6-5f3bf4d0895a",
+  "_row": 7
+ },
+ {
+  "fixed_id": "D1EE9F80",
+  "index": 6,
+  "enum": "ID_007",
+  "name": "Congalala Tree",
+  "name_guid": "49e1628e-a0ab-4301-a519-73819e97290e",
+  "_row": 8
+ },
+ {
+  "fixed_id": "92E8BA80",
+  "index": 7,
+  "enum": "ID_008",
+  "name": "Balahara Tree",
+  "name_guid": "2803c3f5-7de4-452e-be57-011406f3d888",
+  "_row": 9
+ },
+ {
+  "fixed_id": "E2A340E0",
+  "index": 8,
+  "enum": "ID_009",
+  "name": "Doshaguma Tree",
+  "name_guid": "4f464737-373b-4823-b9c7-88c312e592d0",
+  "_row": 10
+ },
+ {
+  "fixed_id": "1DE888E0",
+  "index": 9,
+  "enum": "ID_010",
+  "name": "Uth Duna Tree",
+  "name_guid": "d92f5176-9e64-4e51-b2c5-a29cb85128e1",
+  "_row": 11
+ },
+ {
+  "fixed_id": "FAAB9F40",
+  "index": 10,
+  "enum": "ID_011",
+  "name": "Rompopolo Tree",
+  "name_guid": "2fd7acd8-d863-4bca-8868-a119bf7023c8",
+  "_row": 12
+ },
+ {
+  "fixed_id": "DAF2EDC0",
+  "index": 11,
+  "enum": "ID_012",
+  "name": "Rey Dau Tree",
+  "name_guid": "69ee1964-9540-4463-93d9-7620e86898e9",
+  "_row": 13
+ },
+ {
+  "fixed_id": "07AC6800",
+  "index": 12,
+  "enum": "ID_013",
+  "name": "Nerscylla Tree",
+  "name_guid": "91efb27a-72bb-41b2-b71a-98d60c8e882f",
+  "_row": 14
+ },
+ {
+  "fixed_id": "FF963BB5",
+  "index": 13,
+  "enum": "ID_014",
+  "name": "Hirabami Tree",
+  "name_guid": "b4ee35e0-4f81-47e9-9af6-ec9f8352afba",
+  "_row": 15
+ },
+ {
+  "fixed_id": "3883FA00",
+  "index": 14,
+  "enum": "ID_015",
+  "name": "Ajarakan Tree",
+  "name_guid": "72af5be2-4a1e-4332-a785-54951e9cb9aa",
+  "_row": 16
+ },
+ {
+  "fixed_id": "17F27060",
+  "index": 15,
+  "enum": "ID_016",
+  "name": "Nu Udra Tree",
+  "name_guid": "5b753bab-3214-45f4-a6d0-aa092c53fa21",
+  "_row": 17
+ },
+ {
+  "fixed_id": "211BEC80",
+  "index": 16,
+  "enum": "ID_017",
+  "name": "G. Doshaguma Tree",
+  "name_guid": "92ec86a2-e616-49ff-a2e8-b2a58ab9ebe7",
+  "_row": 18
+ },
+ {
+  "fixed_id": "1F00FB60",
+  "index": 17,
+  "enum": "ID_018",
+  "name": "G. Rathalos Tree",
+  "name_guid": "8281167f-4483-466f-989f-ee663df45726",
+  "_row": 19
+ },
+ {
+  "fixed_id": "AFB75200",
+  "index": 18,
+  "enum": "ID_019",
+  "name": "Jin Dahaad Tree",
+  "name_guid": "f4dd7855-d6d8-4781-8a70-67eb81b11a44",
+  "_row": 20
+ },
+ {
+  "fixed_id": "2D0FB580",
+  "index": 19,
+  "enum": "ID_020",
+  "name": "G. Ebony Tree",
+  "name_guid": "f3717880-e1db-4014-8996-363af7c5876e",
+  "_row": 21
+ },
+ {
+  "fixed_id": "9BD54F80",
+  "index": 20,
+  "enum": "ID_021",
+  "name": "Xu Wu Tree",
+  "name_guid": "70f8eb92-4e24-4a79-8c95-17f1c75df944",
+  "_row": 22
+ },
+ {
+  "fixed_id": "21578C00",
+  "index": 21,
+  "enum": "ID_022",
+  "name": "G. Arkveld Tree",
+  "name_guid": "9ef92fc7-a761-4ba6-9599-c789e325159f",
+  "_row": 23
+ },
+ {
+  "fixed_id": "49E10D80",
+  "index": 22,
+  "enum": "ID_024",
+  "name": "Yian Kut-Ku Tree",
+  "name_guid": "47867527-aa0f-419f-9fbb-14fe905b0c10",
+  "_row": 24
+ },
+ {
+  "fixed_id": "3E87A040",
+  "index": 23,
+  "enum": "ID_025",
+  "name": "Gypceros Tree",
+  "name_guid": "71bd6724-f77d-47d2-98f4-c7a7cfa6b466",
+  "_row": 25
+ },
+ {
+  "fixed_id": "81B2D500",
+  "index": 24,
+  "enum": "ID_026",
+  "name": "Rathian Tree",
+  "name_guid": "336b30cb-e8c2-436a-b9a6-9a34225c50e5",
+  "_row": 26
+ },
+ {
+  "fixed_id": "DAEAFC40",
+  "index": 25,
+  "enum": "ID_027",
+  "name": "Rathalos Tree",
+  "name_guid": "e52445e3-3860-493c-93b0-540d2966e7ae",
+  "_row": 27
+ },
+ {
+  "fixed_id": "3BC33880",
+  "index": 26,
+  "enum": "ID_028",
+  "name": "G. Fulgur Tree",
+  "name_guid": "2282d599-363d-4587-af7b-7c2937ff805e",
+  "_row": 28
+ },
+ {
+  "fixed_id": "41404D00",
+  "index": 27,
+  "enum": "ID_030",
+  "name": "Gravios Tree",
+  "name_guid": "0c8c297f-16da-4ecf-a460-fe56b6136501",
+  "_row": 29
+ },
+ {
+  "fixed_id": "49151680",
+  "index": 28,
+  "enum": "ID_031",
+  "name": "Blangonga Tree",
+  "name_guid": "b159b6c4-8499-479f-900c-ccafcfdd961a",
+  "_row": 30
+ },
+ {
+  "fixed_id": "33597D40",
+  "index": 29,
+  "enum": "ID_032",
+  "name": "Gore Magala Tree",
+  "name_guid": "90b2d263-d43e-4cb6-b3a7-21bd53380b4f",
+  "_row": 31
+ },
+ {
+  "fixed_id": "2DD8FC80",
+  "index": 30,
+  "enum": "ID_033",
+  "name": "Arkveld Tree",
+  "name_guid": "f65403a4-d2c7-430b-b45b-4dd7d2fc4691",
+  "_row": 32
+ },
+ {
+  "fixed_id": "C273A0C0",
+  "index": 31,
+  "enum": "ID_036",
+  "name": "Water Element Tree",
+  "name_guid": "d5af0b04-d72f-4b31-9f9e-0e8a66bb4aa2",
+  "_row": 33
+ },
+ {
+  "fixed_id": "9FA74300",
+  "index": 32,
+  "enum": "ID_037",
+  "name": "Paralysis Tree",
+  "name_guid": "662df291-6a97-47da-964c-86c9cfa648b9",
+  "_row": 34
+ },
+ {
+  "fixed_id": "B4205980",
+  "index": 33,
+  "enum": "ID_043",
+  "name": "Speartuna Tree",
+  "name_guid": "4ba7f9a5-ac12-4bc0-8a88-21048d749451",
+  "_row": 35
+ },
+ {
+  "fixed_id": "59310A80",
+  "index": 34,
+  "enum": "ID_044",
+  "name": "Vespoid Tree",
+  "name_guid": "52954e60-df36-4a94-ad7c-895d9f0718a9",
+  "_row": 36
+ },
+ {
+  "fixed_id": "DF5C8600",
+  "index": 35,
+  "enum": "ID_045",
+  "name": "Workshop Tree",
+  "name_guid": "fd6baff0-6bcf-4751-83d1-61dddbdfd2d4",
+  "_row": 37
+ },
+ {
+  "fixed_id": "08B92E50",
+  "index": 36,
+  "enum": "ID_034",
+  "name": "Zoh Shia Tree",
+  "name_guid": "ecde878c-be81-4ef6-983a-34672b7babc1",
+  "_row": 38
+ },
+ {
+  "fixed_id": "B9EDC280",
+  "index": 37,
+  "enum": "ID_039",
+  "name": "Mizutsune Tree",
+  "name_guid": "ab432f3e-2f4e-449e-b660-078742e027d5",
+  "_row": 39
+ },
+ {
+  "fixed_id": "4932D280",
+  "index": 38,
+  "enum": "ID_029",
+  "name": "Seregios Tree",
+  "name_guid": "67d5998d-a9d5-4652-87eb-67f5d1b000f8",
+  "_row": 40
+ },
+ {
+  "fixed_id": "BD1F9600",
+  "index": 39,
+  "enum": "ID_040",
+  "name": "Lagiacrus Tree",
+  "name_guid": "a33afd22-52b1-4985-b7e5-7c9bb3bc3663",
+  "_row": 41
+ },
+ {
+  "fixed_id": "08B1B010",
+  "index": 40,
+  "enum": "ID_046",
+  "name": "Kunafa Tree",
+  "name_guid": "8df463e2-f85e-4024-b0dc-4886ca65457e",
+  "_row": 42
+ },
+ {
+  "fixed_id": "D25AC4C0",
+  "index": 41,
+  "enum": "ID_047",
+  "name": "Omega Tree",
+  "name_guid": "58d403d7-00d2-44f6-96c8-a1245defe3b2",
+  "_row": 43
+ },
+ {
+  "fixed_id": "21EAE6C0",
+  "index": 42,
+  "enum": "ID_048",
+  "name": "Dark Knight Tree",
+  "name_guid": "c90497dd-94a1-475a-be4b-ca8ae3d80223",
+  "_row": 44
+ },
+ {
+  "fixed_id": "0BFFE810",
+  "index": 43,
+  "enum": "ID_041",
+  "name": null,
+  "name_guid": null,
+  "_row": 45
+ },
+ {
+  "fixed_id": "333A9D00",
+  "index": 44,
+  "enum": "ID_049",
+  "name": "Felyne Tree",
+  "name_guid": "3d4d0c55-f879-4359-afeb-7fc9629b81f6",
+  "_row": 46
+ }
+]

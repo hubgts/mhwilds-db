@@ -1,0 +1,572 @@
+[
+ {
+  "melody": "SELF_BUFF (Self-Improvement)",
+  "notes": "PURPLE,PURPLE",
+  "_row": 2
+ },
+ {
+  "melody": "SELF_BUFF (Self-Improvement)",
+  "notes": "WHITE,WHITE",
+  "_row": 3
+ },
+ {
+  "melody": "ATK_UP_S (Attack Up (S))",
+  "notes": "WHITE,RED,WHITE",
+  "_row": 4
+ },
+ {
+  "melody": "ATK_UP_S (Attack Up (S))",
+  "notes": "RED,YELLOW,PURPLE",
+  "_row": 5
+ },
+ {
+  "melody": "ATK_UP_L (Attack Up (L))",
+  "notes": "PURPLE,RED,BLUE,PURPLE",
+  "_row": 6
+ },
+ {
+  "melody": "ATK_UP_L (Attack Up (L))",
+  "notes": "PURPLE,RED,SKY,PURPLE",
+  "_row": 7
+ },
+ {
+  "melody": "ATK_UP_L (Attack Up (L))",
+  "notes": "PURPLE,RED,GREEN,PURPLE",
+  "_row": 8
+ },
+ {
+  "melody": "ATK_UP_L (Attack Up (L))",
+  "notes": "PURPLE,ORANGE,ORANGE,RED",
+  "_row": 9
+ },
+ {
+  "melody": "HEAL_S (Health Recovery (S))",
+  "notes": "PURPLE,GREEN,PURPLE",
+  "_row": 10
+ },
+ {
+  "melody": "HEAL_S (Health Recovery (S))",
+  "notes": "WHITE,GREEN,WHITE",
+  "_row": 11
+ },
+ {
+  "melody": "HEAL_M (Health Recovery (M))",
+  "notes": "GREEN,WHITE,SKY,GREEN",
+  "_row": 12
+ },
+ {
+  "melody": "HEAL_L (Health Recovery (L))",
+  "notes": "GREEN,GREEN,PURPLE,SKY",
+  "_row": 13
+ },
+ {
+  "melody": "HEAL_S_POISON_HEAL (Health Recovery (S) + Antidote)",
+  "notes": "GREEN,BLUE,WHITE,BLUE",
+  "_row": 14
+ },
+ {
+  "melody": "HEAL_M_POISON_HEAL (Health Recovery (M) + Antidote)",
+  "notes": "GREEN,BLUE,PURPLE,BLUE",
+  "_row": 15
+ },
+ {
+  "melody": "HEAL_SPD_S (Recovery Speed (S))",
+  "notes": "GREEN,GREEN,YELLOW",
+  "_row": 16
+ },
+ {
+  "melody": "HEAL_SPD_L (Recovery Speed (L))",
+  "notes": "GREEN,GREEN,RED,PURPLE",
+  "_row": 17
+ },
+ {
+  "melody": "STAMINA_S (Stamina Use Reduced (S))",
+  "notes": "WHITE,YELLOW,BLUE",
+  "_row": 18
+ },
+ {
+  "melody": "STAMINA_S (Stamina Use Reduced (S))",
+  "notes": "WHITE,SKY,BLUE",
+  "_row": 19
+ },
+ {
+  "melody": "STAMINA_S (Stamina Use Reduced (S))",
+  "notes": "WHITE,GREEN,BLUE",
+  "_row": 20
+ },
+ {
+  "melody": "STAMINA_L (Stamina Use Reduced (L))",
+  "notes": "PURPLE,SKY,BLUE,SKY",
+  "_row": 21
+ },
+ {
+  "melody": "STAMINA_L (Stamina Use Reduced (L))",
+  "notes": "PURPLE,YELLOW,BLUE",
+  "_row": 22
+ },
+ {
+  "melody": "STAMINA_L (Stamina Use Reduced (L))",
+  "notes": "PURPLE,GREEN,BLUE,GREEN",
+  "_row": 23
+ },
+ {
+  "melody": "STAMINA_L (Stamina Use Reduced (L))",
+  "notes": "PURPLE,ORANGE,PURPLE,BLUE",
+  "_row": 24
+ },
+ {
+  "melody": "ELEM_ATK_UP (Elem Attack Boost)",
+  "notes": "YELLOW,SKY,YELLOW,SKY",
+  "_row": 25
+ },
+ {
+  "melody": "ELEM_ATK_UP (Elem Attack Boost)",
+  "notes": "PURPLE,GREEN,YELLOW,GREEN",
+  "_row": 26
+ },
+ {
+  "melody": "ELEM_ATK_UP (Elem Attack Boost)",
+  "notes": "PURPLE,ORANGE,YELLOW,ORANGE",
+  "_row": 27
+ },
+ {
+  "melody": "BAD_COND_ATK_UP (Status Attack Up)",
+  "notes": "SKY,ORANGE,ORANGE,PURPLE",
+  "_row": 28
+ },
+ {
+  "melody": "DEF_UP_S (Defense Up (S))",
+  "notes": "WHITE,BLUE,BLUE",
+  "_row": 29
+ },
+ {
+  "melody": "DEF_UP_L (Defense Up (L))",
+  "notes": "PURPLE,BLUE,BLUE,PURPLE",
+  "_row": 30
+ },
+ {
+  "melody": "BLESS (Divine Protection)",
+  "notes": "PURPLE,ORANGE,PURPLE,SKY",
+  "_row": 31
+ },
+ {
+  "melody": "BLESS (Divine Protection)",
+  "notes": "GREEN,YELLOW,YELLOW,PURPLE",
+  "_row": 32
+ },
+ {
+  "melody": "ELEM_FIRE_DEF_S (Fire Res (S))",
+  "notes": "YELLOW,RED,WHITE",
+  "_row": 33
+ },
+ {
+  "melody": "ELEM_FIRE_DEF_L (Fire Res (L))",
+  "notes": "PURPLE,RED,YELLOW",
+  "_row": 34
+ },
+ {
+  "melody": "ELEM_WATER_DEF_S (Water Res (S))",
+  "notes": "YELLOW,SKY,WHITE",
+  "_row": 35
+ },
+ {
+  "melody": "ELEM_WATER_DEF_L (Water Res (L))",
+  "notes": "YELLOW,SKY,PURPLE",
+  "_row": 36
+ },
+ {
+  "melody": "ELEM_ELEC_DEF_S (Thunder Res (S))",
+  "notes": "YELLOW,WHITE,GREEN",
+  "_row": 37
+ },
+ {
+  "melody": "ELEM_ELEC_DEF_L (Thunder Res (L))",
+  "notes": "YELLOW,PURPLE,GREEN",
+  "_row": 38
+ },
+ {
+  "melody": "ELEM_ICE_DEF_S (Ice Res (S))",
+  "notes": "YELLOW,BLUE,WHITE",
+  "_row": 39
+ },
+ {
+  "melody": "ELEM_ICE_DEF_L (Ice Res (L))",
+  "notes": "YELLOW,BLUE,PURPLE",
+  "_row": 40
+ },
+ {
+  "melody": "ELEM_DRAGON_DEF_S (Dragon Res (S))",
+  "notes": "WHITE,YELLOW,SKY",
+  "_row": 41
+ },
+ {
+  "melody": "ELEM_DRAGON_DEF_L (Dragon Res (L))",
+  "notes": "PURPLE,YELLOW,SKY",
+  "_row": 42
+ },
+ {
+  "melody": "EAR_PLUG_S (Earplugs (S))",
+  "notes": "SKY,SKY,GREEN,WHITE",
+  "_row": 43
+ },
+ {
+  "melody": "EAR_PLUG_S (Earplugs (S))",
+  "notes": "SKY,SKY,RED,WHITE",
+  "_row": 44
+ },
+ {
+  "melody": "EAR_PLUG_S (Earplugs (S))",
+  "notes": "SKY,SKY,RED,PURPLE",
+  "_row": 45
+ },
+ {
+  "melody": "DISABLE_STUN (Stun Resistance)",
+  "notes": "SKY,BLUE,PURPLE",
+  "_row": 46
+ },
+ {
+  "melody": "EAR_PLUG_L (Earplugs (L))",
+  "notes": "SKY,SKY,GREEN,PURPLE",
+  "_row": 47
+ },
+ {
+  "melody": "EAR_PLUG_L (Earplugs (L))",
+  "notes": "ORANGE,ORANGE,GREEN,PURPLE",
+  "_row": 48
+ },
+ {
+  "melody": "DISABLE_QUAKE (Tremors Negated)",
+  "notes": "SKY,SKY,YELLOW",
+  "_row": 49
+ },
+ {
+  "melody": "DISABLE_PARALYSE (Paralysis Negated)",
+  "notes": "SKY,YELLOW,WHITE",
+  "_row": 50
+ },
+ {
+  "melody": "DISABLE_PARALYSE (Paralysis Negated)",
+  "notes": "SKY,YELLOW,PURPLE",
+  "_row": 51
+ },
+ {
+  "melody": "DISABLE_WIND_S (Wind Pressure Negated)",
+  "notes": "BLUE,BLUE,RED",
+  "_row": 52
+ },
+ {
+  "melody": "DISABLE_WIND_S (Wind Pressure Negated)",
+  "notes": "BLUE,BLUE,SKY",
+  "_row": 53
+ },
+ {
+  "melody": "DISABLE_WIND_S (Wind Pressure Negated)",
+  "notes": "BLUE,BLUE,GREEN",
+  "_row": 54
+ },
+ {
+  "melody": "DISABLE_WIND_L (All Wind Pressure Negated)",
+  "notes": "BLUE,BLUE,YELLOW,PURPLE",
+  "_row": 55
+ },
+ {
+  "melody": "DISABLE_WIND_L (All Wind Pressure Negated)",
+  "notes": "BLUE,BLUE,ORANGE",
+  "_row": 56
+ },
+ {
+  "melody": "DISABLE_FOOTING (Muck Resistance)",
+  "notes": "SKY,RED,SKY",
+  "_row": 57
+ },
+ {
+  "melody": "DISABLE_TERRAIN_DMG (Environment Damage Negated)",
+  "notes": "RED,RED,SKY",
+  "_row": 58
+ },
+ {
+  "melody": "SUPER_ARMOR (Knockback Negated)",
+  "notes": "RED,ORANGE,RED,PURPLE",
+  "_row": 59
+ },
+ {
+  "melody": "DISABLE_ALL_BAD_COND (All Ailments Negated)",
+  "notes": "SKY,PURPLE,ORANGE,ORANGE",
+  "_row": 60
+ },
+ {
+  "melody": "DISABLE_ALL_ATTR_DMG (Blight Negated)",
+  "notes": "ORANGE,YELLOW,YELLOW,ORANGE",
+  "_row": 61
+ },
+ {
+  "melody": "SONIC (Sonic Waves)",
+  "notes": "YELLOW,YELLOW,YELLOW",
+  "_row": 62
+ },
+ {
+  "melody": "ALL_MUSIC_SKILL_EXTENSION (Melody Effects Extended)",
+  "notes": "ORANGE,RED,ORANGE",
+  "_row": 63
+ },
+ {
+  "melody": "ATK_UP_S_DEF_UP_S (Attack and Defense Up)",
+  "notes": "PURPLE,BLUE,ORANGE,ORANGE",
+  "_row": 64
+ },
+ {
+  "melody": "CRT_UP_S_HEAL_S (Affinity Up (S) / Health Recovery (S))",
+  "notes": "GREEN,ORANGE,PURPLE,ORANGE",
+  "_row": 65
+ },
+ {
+  "melody": "SOUND_BARRIER (Sonic Barrier)",
+  "notes": "RED,BLUE,WHITE",
+  "_row": 66
+ },
+ {
+  "melody": "SOUND_BARRIER (Sonic Barrier)",
+  "notes": "BLUE,WHITE,SKY",
+  "_row": 67
+ },
+ {
+  "melody": "SOUND_BARRIER (Sonic Barrier)",
+  "notes": "BLUE,PURPLE,RED",
+  "_row": 68
+ },
+ {
+  "melody": "SOUND_BARRIER (Sonic Barrier)",
+  "notes": "BLUE,PURPLE,SKY",
+  "_row": 69
+ },
+ {
+  "melody": "HEAL_SHARP (Sharpness Regeneration)",
+  "notes": "PURPLE,YELLOW,ORANGE,YELLOW",
+  "_row": 70
+ },
+ {
+  "melody": "HEAL_SHARP (Sharpness Regeneration)",
+  "notes": "RED,ORANGE,PURPLE",
+  "_row": 71
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "WHITE,RED,RED",
+  "_row": 72
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "WHITE,BLUE,SKY",
+  "_row": 73
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "WHITE,BLUE,YELLOW",
+  "_row": 74
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "WHITE,BLUE,GREEN",
+  "_row": 75
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "GREEN,SKY,WHITE",
+  "_row": 76
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "PURPLE,BLUE,RED",
+  "_row": 77
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "PURPLE,SKY,RED",
+  "_row": 78
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "PURPLE,YELLOW,RED",
+  "_row": 79
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "PURPLE,GREEN,RED",
+  "_row": 80
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "PURPLE,ORANGE,RED",
+  "_row": 81
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "PURPLE,BLUE,SKY",
+  "_row": 82
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "PURPLE,BLUE,YELLOW",
+  "_row": 83
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "PURPLE,BLUE,GREEN",
+  "_row": 84
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "ORANGE,BLUE,ORANGE",
+  "_row": 85
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "GREEN,SKY,PURPLE",
+  "_row": 86
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "WHITE,YELLOW,GREEN",
+  "_row": 87
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "ORANGE,SKY,ORANGE",
+  "_row": 88
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "PURPLE,YELLOW,GREEN",
+  "_row": 89
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "PURPLE,ORANGE,GREEN",
+  "_row": 90
+ },
+ {
+  "melody": "HIGH_FREQ (Echo Wave)",
+  "notes": "ORANGE,YELLOW,PURPLE",
+  "_row": 91
+ },
+ {
+  "melody": "SP_PARRY_SOUND_ATTACK (Offset Melody)",
+  "notes": "WHITE,RED,SKY,SKY",
+  "_row": 92
+ },
+ {
+  "melody": "SP_PARRY_SOUND_ATTACK (Offset Melody)",
+  "notes": "YELLOW,RED,YELLOW,WHITE",
+  "_row": 93
+ },
+ {
+  "melody": "SP_PARRY_SOUND_ATTACK (Offset Melody)",
+  "notes": "YELLOW,RED,YELLOW,PURPLE",
+  "_row": 94
+ },
+ {
+  "melody": "SP_PARRY_SOUND_ATTACK (Offset Melody)",
+  "notes": "BLUE,SKY,WHITE,SKY",
+  "_row": 95
+ },
+ {
+  "melody": "SP_PARRY_SOUND_ATTACK (Offset Melody)",
+  "notes": "YELLOW,GREEN,YELLOW,WHITE",
+  "_row": 96
+ },
+ {
+  "melody": "SP_PARRY_SOUND_ATTACK (Offset Melody)",
+  "notes": "PURPLE,RED,SKY,SKY",
+  "_row": 97
+ },
+ {
+  "melody": "SP_PARRY_SOUND_ATTACK (Offset Melody)",
+  "notes": "BLUE,SKY,PURPLE,SKY",
+  "_row": 98
+ },
+ {
+  "melody": "SP_PARRY_SOUND_ATTACK (Offset Melody)",
+  "notes": "ORANGE,BLUE,PURPLE,ORANGE",
+  "_row": 99
+ },
+ {
+  "melody": "SP_PARRY_SOUND_ATTACK (Offset Melody)",
+  "notes": "PURPLE,SKY,SKY,ORANGE",
+  "_row": 100
+ },
+ {
+  "melody": "SP_PARRY_SOUND_ATTACK (Offset Melody)",
+  "notes": "YELLOW,GREEN,YELLOW,PURPLE",
+  "_row": 101
+ },
+ {
+  "melody": "SP_PENETRATE_SOUND_ATTACK (Resounding Melody)",
+  "notes": "WHITE,RED,BLUE,BLUE",
+  "_row": 102
+ },
+ {
+  "melody": "SP_PENETRATE_SOUND_ATTACK (Resounding Melody)",
+  "notes": "YELLOW,PURPLE,ORANGE,ORANGE",
+  "_row": 103
+ },
+ {
+  "melody": "SP_PENETRATE_SOUND_ATTACK (Resounding Melody)",
+  "notes": "YELLOW,BLUE,YELLOW,WHITE",
+  "_row": 104
+ },
+ {
+  "melody": "SP_PENETRATE_SOUND_ATTACK (Resounding Melody)",
+  "notes": "PURPLE,RED,BLUE,BLUE",
+  "_row": 105
+ },
+ {
+  "melody": "SP_PENETRATE_SOUND_ATTACK (Resounding Melody)",
+  "notes": "PURPLE,RED,ORANGE,ORANGE",
+  "_row": 106
+ },
+ {
+  "melody": "SP_PENETRATE_SOUND_ATTACK (Resounding Melody)",
+  "notes": "YELLOW,BLUE,YELLOW,PURPLE",
+  "_row": 107
+ },
+ {
+  "melody": "SP_HEAL (Melody of Life)",
+  "notes": "GREEN,BLUE,GREEN,WHITE",
+  "_row": 108
+ },
+ {
+  "melody": "SP_HEAL (Melody of Life)",
+  "notes": "SKY,GREEN,GREEN,WHITE",
+  "_row": 109
+ },
+ {
+  "melody": "SP_HEAL (Melody of Life)",
+  "notes": "YELLOW,SKY,SKY,WHITE",
+  "_row": 110
+ },
+ {
+  "melody": "SP_HEAL (Melody of Life)",
+  "notes": "RED,GREEN,PURPLE,GREEN",
+  "_row": 111
+ },
+ {
+  "melody": "SP_HEAL (Melody of Life)",
+  "notes": "SKY,GREEN,GREEN,PURPLE",
+  "_row": 112
+ },
+ {
+  "melody": "SP_HEAL (Melody of Life)",
+  "notes": "YELLOW,SKY,SKY,PURPLE",
+  "_row": 113
+ },
+ {
+  "melody": "SP_HEAL (Melody of Life)",
+  "notes": "PURPLE,GREEN,GREEN,ORANGE",
+  "_row": 114
+ },
+ {
+  "melody": "SP_HEAL (Melody of Life)",
+  "notes": "GREEN,BLUE,GREEN,PURPLE",
+  "_row": 115
+ }
+]

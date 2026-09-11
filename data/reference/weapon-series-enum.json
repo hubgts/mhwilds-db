@@ -1,0 +1,490 @@
+[
+ {
+  "Enum Name": "NONE",
+  "Enum Value": "0.0",
+  "Enum Fixed Value Raw": "0.0",
+  "Enum Fixed Value": "00000000",
+  "Used": "0",
+  "_row": 2
+ },
+ {
+  "Enum Name": "ID_000",
+  "Enum Value": "1.0",
+  "Enum Fixed Value Raw": "1.0",
+  "Enum Fixed Value": "00000001",
+  "Used": "1",
+  "_row": 3
+ },
+ {
+  "Enum Name": "ID_001",
+  "Enum Value": "2.0",
+  "Enum Fixed Value Raw": "2.0",
+  "Enum Fixed Value": "00000002",
+  "Used": "1",
+  "_row": 4
+ },
+ {
+  "Enum Name": "ID_003",
+  "Enum Value": "3.0",
+  "Enum Fixed Value Raw": "-1.365154048E9",
+  "Enum Fixed Value": "AEA16700",
+  "Used": "1",
+  "_row": 5
+ },
+ {
+  "Enum Name": "ID_004",
+  "Enum Value": "4.0",
+  "Enum Fixed Value Raw": "1.02891168E9",
+  "Enum Fixed Value": "3D53F240",
+  "Used": "1",
+  "_row": 6
+ },
+ {
+  "Enum Name": "ID_005",
+  "Enum Value": "5.0",
+  "Enum Fixed Value Raw": "-1.281946368E9",
+  "Enum Fixed Value": "B3970D00",
+  "Used": "1",
+  "_row": 7
+ },
+ {
+  "Enum Name": "ID_006",
+  "Enum Value": "6.0",
+  "Enum Fixed Value Raw": "-1.2469632E9",
+  "Enum Fixed Value": "B5ACDA00",
+  "Used": "1",
+  "_row": 8
+ },
+ {
+  "Enum Name": "ID_007",
+  "Enum Value": "7.0",
+  "Enum Fixed Value Raw": "-7.72890752E8",
+  "Enum Fixed Value": "D1EE9F80",
+  "Used": "1",
+  "_row": 9
+ },
+ {
+  "Enum Name": "ID_008",
+  "Enum Value": "8.0",
+  "Enum Fixed Value Raw": "-1.830241664E9",
+  "Enum Fixed Value": "92E8BA80",
+  "Used": "1",
+  "_row": 10
+ },
+ {
+  "Enum Name": "ID_009",
+  "Enum Value": "9.0",
+  "Enum Fixed Value Raw": "-4.92617504E8",
+  "Enum Fixed Value": "E2A340E0",
+  "Used": "1",
+  "_row": 11
+ },
+ {
+  "Enum Name": "ID_010",
+  "Enum Value": "10.0",
+  "Enum Fixed Value Raw": "5.01778656E8",
+  "Enum Fixed Value": "1DE888E0",
+  "Used": "1",
+  "_row": 12
+ },
+ {
+  "Enum Name": "ID_011",
+  "Enum Value": "11.0",
+  "Enum Fixed Value Raw": "-8.9415872E7",
+  "Enum Fixed Value": "FAAB9F40",
+  "Used": "1",
+  "_row": 13
+ },
+ {
+  "Enum Name": "ID_012",
+  "Enum Value": "12.0",
+  "Enum Fixed Value Raw": "-6.21613632E8",
+  "Enum Fixed Value": "DAF2EDC0",
+  "Used": "1",
+  "_row": 14
+ },
+ {
+  "Enum Name": "ID_013",
+  "Enum Value": "13.0",
+  "Enum Fixed Value Raw": "1.28739328E8",
+  "Enum Fixed Value": "07AC6800",
+  "Used": "1",
+  "_row": 15
+ },
+ {
+  "Enum Name": "ID_014",
+  "Enum Value": "14.0",
+  "Enum Fixed Value Raw": "-6931531.0",
+  "Enum Fixed Value": "FF963BB5",
+  "Used": "1",
+  "_row": 16
+ },
+ {
+  "Enum Name": "ID_015",
+  "Enum Value": "15.0",
+  "Enum Fixed Value Raw": "9.48173312E8",
+  "Enum Fixed Value": "3883FA00",
+  "Used": "1",
+  "_row": 17
+ },
+ {
+  "Enum Name": "ID_016",
+  "Enum Value": "16.0",
+  "Enum Fixed Value Raw": "4.01764448E8",
+  "Enum Fixed Value": "17F27060",
+  "Used": "1",
+  "_row": 18
+ },
+ {
+  "Enum Name": "ID_017",
+  "Enum Value": "17.0",
+  "Enum Fixed Value Raw": "5.55478144E8",
+  "Enum Fixed Value": "211BEC80",
+  "Used": "1",
+  "_row": 19
+ },
+ {
+  "Enum Name": "ID_018",
+  "Enum Value": "18.0",
+  "Enum Fixed Value Raw": "5.20158048E8",
+  "Enum Fixed Value": "1F00FB60",
+  "Used": "1",
+  "_row": 20
+ },
+ {
+  "Enum Name": "ID_019",
+  "Enum Value": "19.0",
+  "Enum Fixed Value Raw": "-1.346940416E9",
+  "Enum Fixed Value": "AFB75200",
+  "Used": "1",
+  "_row": 21
+ },
+ {
+  "Enum Name": "ID_020",
+  "Enum Value": "20.0",
+  "Enum Fixed Value Raw": "7.56004224E8",
+  "Enum Fixed Value": "2D0FB580",
+  "Used": "1",
+  "_row": 22
+ },
+ {
+  "Enum Name": "ID_021",
+  "Enum Value": "21.0",
+  "Enum Fixed Value Raw": "-1.680519296E9",
+  "Enum Fixed Value": "9BD54F80",
+  "Used": "1",
+  "_row": 23
+ },
+ {
+  "Enum Name": "ID_022",
+  "Enum Value": "22.0",
+  "Enum Fixed Value Raw": "5.593856E8",
+  "Enum Fixed Value": "21578C00",
+  "Used": "1",
+  "_row": 24
+ },
+ {
+  "Enum Name": "ID_023",
+  "Enum Value": "23.0",
+  "Enum Fixed Value Raw": "1.503371392E9",
+  "Enum Fixed Value": "599BA080",
+  "Used": "0",
+  "_row": 25
+ },
+ {
+  "Enum Name": "ID_024",
+  "Enum Value": "24.0",
+  "Enum Fixed Value Raw": "1.239485824E9",
+  "Enum Fixed Value": "49E10D80",
+  "Used": "1",
+  "_row": 26
+ },
+ {
+  "Enum Name": "ID_025",
+  "Enum Value": "25.0",
+  "Enum Fixed Value Raw": "1.049075776E9",
+  "Enum Fixed Value": "3E87A040",
+  "Used": "1",
+  "_row": 27
+ },
+ {
+  "Enum Name": "ID_026",
+  "Enum Value": "26.0",
+  "Enum Fixed Value Raw": "-2.118986496E9",
+  "Enum Fixed Value": "81B2D500",
+  "Used": "1",
+  "_row": 28
+ },
+ {
+  "Enum Name": "ID_027",
+  "Enum Value": "27.0",
+  "Enum Fixed Value Raw": "-6.22134208E8",
+  "Enum Fixed Value": "DAEAFC40",
+  "Used": "1",
+  "_row": 29
+ },
+ {
+  "Enum Name": "ID_028",
+  "Enum Value": "28.0",
+  "Enum Fixed Value Raw": "1.002649728E9",
+  "Enum Fixed Value": "3BC33880",
+  "Used": "1",
+  "_row": 30
+ },
+ {
+  "Enum Name": "ID_029",
+  "Enum Value": "29.0",
+  "Enum Fixed Value Raw": "1.228067456E9",
+  "Enum Fixed Value": "4932D280",
+  "Used": "1",
+  "_row": 31
+ },
+ {
+  "Enum Name": "ID_030",
+  "Enum Value": "30.0",
+  "Enum Fixed Value Raw": "1.094733056E9",
+  "Enum Fixed Value": "41404D00",
+  "Used": "1",
+  "_row": 32
+ },
+ {
+  "Enum Name": "ID_031",
+  "Enum Value": "31.0",
+  "Enum Fixed Value Raw": "1.226118784E9",
+  "Enum Fixed Value": "49151680",
+  "Used": "1",
+  "_row": 33
+ },
+ {
+  "Enum Name": "ID_032",
+  "Enum Value": "32.0",
+  "Enum Fixed Value Raw": "8.61502784E8",
+  "Enum Fixed Value": "33597D40",
+  "Used": "1",
+  "_row": 34
+ },
+ {
+  "Enum Name": "ID_033",
+  "Enum Value": "33.0",
+  "Enum Fixed Value Raw": "7.69195136E8",
+  "Enum Fixed Value": "2DD8FC80",
+  "Used": "1",
+  "_row": 35
+ },
+ {
+  "Enum Name": "ID_034",
+  "Enum Value": "34.0",
+  "Enum Fixed Value Raw": "1.46353744E8",
+  "Enum Fixed Value": "08B92E50",
+  "Used": "1",
+  "_row": 36
+ },
+ {
+  "Enum Name": "ID_035",
+  "Enum Value": "35.0",
+  "Enum Fixed Value Raw": "9.56189632E8",
+  "Enum Fixed Value": "38FE4BC0",
+  "Used": "0",
+  "_row": 37
+ },
+ {
+  "Enum Name": "ID_036",
+  "Enum Value": "36.0",
+  "Enum Fixed Value Raw": "-1.0326096E9",
+  "Enum Fixed Value": "C273A0C0",
+  "Used": "1",
+  "_row": 38
+ },
+ {
+  "Enum Name": "ID_037",
+  "Enum Value": "37.0",
+  "Enum Fixed Value Raw": "-1.616428288E9",
+  "Enum Fixed Value": "9FA74300",
+  "Used": "1",
+  "_row": 39
+ },
+ {
+  "Enum Name": "ID_038",
+  "Enum Value": "38.0",
+  "Enum Fixed Value Raw": "1.458408576E9",
+  "Enum Fixed Value": "56ED8C80",
+  "Used": "0",
+  "_row": 40
+ },
+ {
+  "Enum Name": "ID_039",
+  "Enum Value": "39.0",
+  "Enum Fixed Value Raw": "-1.175600512E9",
+  "Enum Fixed Value": "B9EDC280",
+  "Used": "1",
+  "_row": 41
+ },
+ {
+  "Enum Name": "ID_040",
+  "Enum Value": "40.0",
+  "Enum Fixed Value Raw": "-1.122003456E9",
+  "Enum Fixed Value": "BD1F9600",
+  "Used": "1",
+  "_row": 42
+ },
+ {
+  "Enum Name": "ID_041",
+  "Enum Value": "41.0",
+  "Enum Fixed Value Raw": "2.01320464E8",
+  "Enum Fixed Value": "0BFFE810",
+  "Used": "1",
+  "_row": 43
+ },
+ {
+  "Enum Name": "ID_042",
+  "Enum Value": "42.0",
+  "Enum Fixed Value Raw": "6.49149696E8",
+  "Enum Fixed Value": "26B13D00",
+  "Used": "0",
+  "_row": 44
+ },
+ {
+  "Enum Name": "ID_043",
+  "Enum Value": "43.0",
+  "Enum Fixed Value Raw": "-1.272948352E9",
+  "Enum Fixed Value": "B4205980",
+  "Used": "1",
+  "_row": 45
+ },
+ {
+  "Enum Name": "ID_044",
+  "Enum Value": "44.0",
+  "Enum Fixed Value Raw": "1.496386176E9",
+  "Enum Fixed Value": "59310A80",
+  "Used": "1",
+  "_row": 46
+ },
+ {
+  "Enum Name": "ID_045",
+  "Enum Value": "45.0",
+  "Enum Fixed Value Raw": "-5.47584512E8",
+  "Enum Fixed Value": "DF5C8600",
+  "Used": "1",
+  "_row": 47
+ },
+ {
+  "Enum Name": "ID_046",
+  "Enum Value": "46.0",
+  "Enum Fixed Value Raw": "1.45862672E8",
+  "Enum Fixed Value": "08B1B010",
+  "Used": "1",
+  "_row": 48
+ },
+ {
+  "Enum Name": "ID_047",
+  "Enum Value": "47.0",
+  "Enum Fixed Value Raw": "-7.65803328E8",
+  "Enum Fixed Value": "D25AC4C0",
+  "Used": "1",
+  "_row": 49
+ },
+ {
+  "Enum Name": "ID_048",
+  "Enum Value": "48.0",
+  "Enum Fixed Value Raw": "5.69042624E8",
+  "Enum Fixed Value": "21EAE6C0",
+  "Used": "1",
+  "_row": 50
+ },
+ {
+  "Enum Name": "ID_049",
+  "Enum Value": "49.0",
+  "Enum Fixed Value Raw": "8.59479296E8",
+  "Enum Fixed Value": "333A9D00",
+  "Used": "1",
+  "_row": 51
+ },
+ {
+  "Enum Name": "ID_050",
+  "Enum Value": "50.0",
+  "Enum Fixed Value Raw": "2.32774032E8",
+  "Enum Fixed Value": "0DDFD990",
+  "Used": "0",
+  "_row": 52
+ },
+ {
+  "Enum Name": "ID_051",
+  "Enum Value": "51.0",
+  "Enum Fixed Value Raw": "2.88608864E8",
+  "Enum Fixed Value": "1133D260",
+  "Used": "0",
+  "_row": 53
+ },
+ {
+  "Enum Name": "ID_052",
+  "Enum Value": "52.0",
+  "Enum Fixed Value Raw": "7.87080512E8",
+  "Enum Fixed Value": "2EE9E540",
+  "Used": "0",
+  "_row": 54
+ },
+ {
+  "Enum Name": "ID_053",
+  "Enum Value": "53.0",
+  "Enum Fixed Value Raw": "-6.08958528E8",
+  "Enum Fixed Value": "DBB407C0",
+  "Used": "0",
+  "_row": 55
+ },
+ {
+  "Enum Name": "ID_054",
+  "Enum Value": "54.0",
+  "Enum Fixed Value Raw": "1.60864832E9",
+  "Enum Fixed Value": "5FE20680",
+  "Used": "0",
+  "_row": 56
+ },
+ {
+  "Enum Name": "ID_055",
+  "Enum Value": "55.0",
+  "Enum Fixed Value Raw": "-1.188915328E9",
+  "Enum Fixed Value": "B9229780",
+  "Used": "0",
+  "_row": 57
+ },
+ {
+  "Enum Name": "ID_056",
+  "Enum Value": "56.0",
+  "Enum Fixed Value Raw": "-1.829531648E9",
+  "Enum Fixed Value": "92F39000",
+  "Used": "0",
+  "_row": 58
+ },
+ {
+  "Enum Name": "ID_057",
+  "Enum Value": "57.0",
+  "Enum Fixed Value Raw": "-2.038134272E9",
+  "Enum Fixed Value": "86848A00",
+  "Used": "0",
+  "_row": 59
+ },
+ {
+  "Enum Name": "ID_058",
+  "Enum Value": "58.0",
+  "Enum Fixed Value Raw": "-4.7894528E8",
+  "Enum Fixed Value": "E373E000",
+  "Used": "0",
+  "_row": 60
+ },
+ {
+  "Enum Name": "ID_059",
+  "Enum Value": "59.0",
+  "Enum Fixed Value Raw": "7.57317056E8",
+  "Enum Fixed Value": "2D23BDC0",
+  "Used": "0",
+  "_row": 61
+ },
+ {
+  "Enum Name": "ID_060",
+  "Enum Value": "60.0",
+  "Enum Fixed Value Raw": "7.82022016E8",
+  "Enum Fixed Value": "2E9CB580",
+  "Used": "0",
+  "_row": 62
+ }
+]

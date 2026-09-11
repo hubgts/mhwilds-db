@@ -1,0 +1,690 @@
+[
+ {
+  "Enum Name Raw": "49 00 4E 00 56 00 41 00 4C 00 49 00 44 00 00 00",
+  "Enum Name": "INVALID",
+  "Enum Value Raw": "FFFFFFFF",
+  "Enum Value": "-1",
+  "Fixed ID": "FFFFFFFF",
+  "_row": 2
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 30 00 30 00 00 00",
+  "Enum Name": "MS_MANAGE_000",
+  "Enum Value Raw": "00000000",
+  "Enum Value": "0",
+  "Fixed ID": "00000000",
+  "_row": 3
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 37 00 39 00 00 00",
+  "Enum Name": "MS_MANAGE_079",
+  "Enum Value Raw": "00000001",
+  "Enum Value": "1",
+  "Fixed ID": "0000004F",
+  "_row": 4
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 30 00 31 00 00 00",
+  "Enum Name": "MS_MANAGE_001",
+  "Enum Value Raw": "00000002",
+  "Enum Value": "2",
+  "Fixed ID": "00000001",
+  "_row": 5
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 30 00 32 00 00 00",
+  "Enum Name": "MS_MANAGE_002",
+  "Enum Value Raw": "00000003",
+  "Enum Value": "3",
+  "Fixed ID": "00000002",
+  "_row": 6
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 30 00 33 00 00 00",
+  "Enum Name": "MS_MANAGE_003",
+  "Enum Value Raw": "00000004",
+  "Enum Value": "4",
+  "Fixed ID": "00000003",
+  "_row": 7
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 30 00 34 00 00 00",
+  "Enum Name": "MS_MANAGE_004",
+  "Enum Value Raw": "00000005",
+  "Enum Value": "5",
+  "Fixed ID": "00000004",
+  "_row": 8
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 30 00 35 00 00 00",
+  "Enum Name": "MS_MANAGE_005",
+  "Enum Value Raw": "00000006",
+  "Enum Value": "6",
+  "Fixed ID": "00000005",
+  "_row": 9
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 30 00 36 00 00 00",
+  "Enum Name": "MS_MANAGE_006",
+  "Enum Value Raw": "00000007",
+  "Enum Value": "7",
+  "Fixed ID": "00000006",
+  "_row": 10
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 30 00 37 00 00 00",
+  "Enum Name": "MS_MANAGE_007",
+  "Enum Value Raw": "00000008",
+  "Enum Value": "8",
+  "Fixed ID": "00000007",
+  "_row": 11
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 30 00 38 00 00 00",
+  "Enum Name": "MS_MANAGE_008",
+  "Enum Value Raw": "00000009",
+  "Enum Value": "9",
+  "Fixed ID": "00000008",
+  "_row": 12
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 30 00 39 00 00 00",
+  "Enum Name": "MS_MANAGE_009",
+  "Enum Value Raw": "0000000A",
+  "Enum Value": "10",
+  "Fixed ID": "00000009",
+  "_row": 13
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 31 00 30 00 00 00",
+  "Enum Name": "MS_MANAGE_010",
+  "Enum Value Raw": "0000000B",
+  "Enum Value": "11",
+  "Fixed ID": "0000000A",
+  "_row": 14
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 31 00 31 00 00 00",
+  "Enum Name": "MS_MANAGE_011",
+  "Enum Value Raw": "0000000C",
+  "Enum Value": "12",
+  "Fixed ID": "0000000B",
+  "_row": 15
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 31 00 32 00 00 00",
+  "Enum Name": "MS_MANAGE_012",
+  "Enum Value Raw": "0000000D",
+  "Enum Value": "13",
+  "Fixed ID": "0000000C",
+  "_row": 16
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 31 00 33 00 00 00",
+  "Enum Name": "MS_MANAGE_013",
+  "Enum Value Raw": "0000000E",
+  "Enum Value": "14",
+  "Fixed ID": "0000000D",
+  "_row": 17
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 31 00 34 00 00 00",
+  "Enum Name": "MS_MANAGE_014",
+  "Enum Value Raw": "0000000F",
+  "Enum Value": "15",
+  "Fixed ID": "0000000E",
+  "_row": 18
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 31 00 35 00 00 00",
+  "Enum Name": "MS_MANAGE_015",
+  "Enum Value Raw": "00000010",
+  "Enum Value": "16",
+  "Fixed ID": "0000000F",
+  "_row": 19
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 31 00 36 00 00 00",
+  "Enum Name": "MS_MANAGE_016",
+  "Enum Value Raw": "00000011",
+  "Enum Value": "17",
+  "Fixed ID": "00000010",
+  "_row": 20
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 31 00 37 00 00 00",
+  "Enum Name": "MS_MANAGE_017",
+  "Enum Value Raw": "00000012",
+  "Enum Value": "18",
+  "Fixed ID": "00000011",
+  "_row": 21
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 31 00 38 00 00 00",
+  "Enum Name": "MS_MANAGE_018",
+  "Enum Value Raw": "00000013",
+  "Enum Value": "19",
+  "Fixed ID": "00000012",
+  "_row": 22
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 31 00 39 00 00 00",
+  "Enum Name": "MS_MANAGE_019",
+  "Enum Value Raw": "00000014",
+  "Enum Value": "20",
+  "Fixed ID": "00000013",
+  "_row": 23
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 32 00 30 00 00 00",
+  "Enum Name": "MS_MANAGE_020",
+  "Enum Value Raw": "00000015",
+  "Enum Value": "21",
+  "Fixed ID": "00000014",
+  "_row": 24
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 32 00 31 00 00 00",
+  "Enum Name": "MS_MANAGE_021",
+  "Enum Value Raw": "00000016",
+  "Enum Value": "22",
+  "Fixed ID": "00000015",
+  "_row": 25
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 32 00 32 00 00 00",
+  "Enum Name": "MS_MANAGE_022",
+  "Enum Value Raw": "00000017",
+  "Enum Value": "23",
+  "Fixed ID": "00000016",
+  "_row": 26
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 32 00 33 00 00 00",
+  "Enum Name": "MS_MANAGE_023",
+  "Enum Value Raw": "00000018",
+  "Enum Value": "24",
+  "Fixed ID": "00000017",
+  "_row": 27
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 32 00 34 00 00 00",
+  "Enum Name": "MS_MANAGE_024",
+  "Enum Value Raw": "00000019",
+  "Enum Value": "25",
+  "Fixed ID": "00000018",
+  "_row": 28
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 32 00 35 00 00 00",
+  "Enum Name": "MS_MANAGE_025",
+  "Enum Value Raw": "0000001A",
+  "Enum Value": "26",
+  "Fixed ID": "00000019",
+  "_row": 29
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 32 00 36 00 00 00",
+  "Enum Name": "MS_MANAGE_026",
+  "Enum Value Raw": "0000001B",
+  "Enum Value": "27",
+  "Fixed ID": "0000001A",
+  "_row": 30
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 32 00 37 00 00 00",
+  "Enum Name": "MS_MANAGE_027",
+  "Enum Value Raw": "0000001C",
+  "Enum Value": "28",
+  "Fixed ID": "0000001B",
+  "_row": 31
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 32 00 38 00 00 00",
+  "Enum Name": "MS_MANAGE_028",
+  "Enum Value Raw": "0000001D",
+  "Enum Value": "29",
+  "Fixed ID": "0000001C",
+  "_row": 32
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 32 00 39 00 00 00",
+  "Enum Name": "MS_MANAGE_029",
+  "Enum Value Raw": "0000001E",
+  "Enum Value": "30",
+  "Fixed ID": "0000001D",
+  "_row": 33
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 33 00 30 00 00 00",
+  "Enum Name": "MS_MANAGE_030",
+  "Enum Value Raw": "0000001F",
+  "Enum Value": "31",
+  "Fixed ID": "0000001E",
+  "_row": 34
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 33 00 31 00 00 00",
+  "Enum Name": "MS_MANAGE_031",
+  "Enum Value Raw": "00000020",
+  "Enum Value": "32",
+  "Fixed ID": "0000001F",
+  "_row": 35
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 33 00 32 00 00 00",
+  "Enum Name": "MS_MANAGE_032",
+  "Enum Value Raw": "00000021",
+  "Enum Value": "33",
+  "Fixed ID": "00000020",
+  "_row": 36
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 33 00 33 00 00 00",
+  "Enum Name": "MS_MANAGE_033",
+  "Enum Value Raw": "00000022",
+  "Enum Value": "34",
+  "Fixed ID": "00000021",
+  "_row": 37
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 33 00 34 00 00 00",
+  "Enum Name": "MS_MANAGE_034",
+  "Enum Value Raw": "00000023",
+  "Enum Value": "35",
+  "Fixed ID": "00000022",
+  "_row": 38
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 33 00 35 00 00 00",
+  "Enum Name": "MS_MANAGE_035",
+  "Enum Value Raw": "00000024",
+  "Enum Value": "36",
+  "Fixed ID": "00000023",
+  "_row": 39
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 33 00 36 00 00 00",
+  "Enum Name": "MS_MANAGE_036",
+  "Enum Value Raw": "00000025",
+  "Enum Value": "37",
+  "Fixed ID": "00000024",
+  "_row": 40
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 33 00 37 00 00 00",
+  "Enum Name": "MS_MANAGE_037",
+  "Enum Value Raw": "00000026",
+  "Enum Value": "38",
+  "Fixed ID": "00000025",
+  "_row": 41
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 33 00 38 00 00 00",
+  "Enum Name": "MS_MANAGE_038",
+  "Enum Value Raw": "00000027",
+  "Enum Value": "39",
+  "Fixed ID": "00000026",
+  "_row": 42
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 38 00 30 00 00 00",
+  "Enum Name": "MS_MANAGE_080",
+  "Enum Value Raw": "00000028",
+  "Enum Value": "40",
+  "Fixed ID": "00000050",
+  "_row": 43
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 33 00 39 00 00 00",
+  "Enum Name": "MS_MANAGE_039",
+  "Enum Value Raw": "00000029",
+  "Enum Value": "41",
+  "Fixed ID": "00000027",
+  "_row": 44
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 34 00 30 00 00 00",
+  "Enum Name": "MS_MANAGE_040",
+  "Enum Value Raw": "0000002A",
+  "Enum Value": "42",
+  "Fixed ID": "00000028",
+  "_row": 45
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 34 00 31 00 00 00",
+  "Enum Name": "MS_MANAGE_041",
+  "Enum Value Raw": "0000002B",
+  "Enum Value": "43",
+  "Fixed ID": "00000029",
+  "_row": 46
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 34 00 32 00 00 00",
+  "Enum Name": "MS_MANAGE_042",
+  "Enum Value Raw": "0000002C",
+  "Enum Value": "44",
+  "Fixed ID": "0000002A",
+  "_row": 47
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 34 00 33 00 00 00",
+  "Enum Name": "MS_MANAGE_043",
+  "Enum Value Raw": "0000002D",
+  "Enum Value": "45",
+  "Fixed ID": "0000002B",
+  "_row": 48
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 34 00 34 00 00 00",
+  "Enum Name": "MS_MANAGE_044",
+  "Enum Value Raw": "0000002E",
+  "Enum Value": "46",
+  "Fixed ID": "0000002C",
+  "_row": 49
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 34 00 35 00 00 00",
+  "Enum Name": "MS_MANAGE_045",
+  "Enum Value Raw": "0000002F",
+  "Enum Value": "47",
+  "Fixed ID": "0000002D",
+  "_row": 50
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 34 00 36 00 00 00",
+  "Enum Name": "MS_MANAGE_046",
+  "Enum Value Raw": "00000030",
+  "Enum Value": "48",
+  "Fixed ID": "0000002E",
+  "_row": 51
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 34 00 37 00 00 00",
+  "Enum Name": "MS_MANAGE_047",
+  "Enum Value Raw": "00000031",
+  "Enum Value": "49",
+  "Fixed ID": "0000002F",
+  "_row": 52
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 34 00 38 00 00 00",
+  "Enum Name": "MS_MANAGE_048",
+  "Enum Value Raw": "00000032",
+  "Enum Value": "50",
+  "Fixed ID": "00000030",
+  "_row": 53
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 34 00 39 00 00 00",
+  "Enum Name": "MS_MANAGE_049",
+  "Enum Value Raw": "00000033",
+  "Enum Value": "51",
+  "Fixed ID": "00000031",
+  "_row": 54
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 35 00 30 00 00 00",
+  "Enum Name": "MS_MANAGE_050",
+  "Enum Value Raw": "00000034",
+  "Enum Value": "52",
+  "Fixed ID": "00000032",
+  "_row": 55
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 35 00 31 00 00 00",
+  "Enum Name": "MS_MANAGE_051",
+  "Enum Value Raw": "00000035",
+  "Enum Value": "53",
+  "Fixed ID": "00000033",
+  "_row": 56
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 35 00 32 00 00 00",
+  "Enum Name": "MS_MANAGE_052",
+  "Enum Value Raw": "00000036",
+  "Enum Value": "54",
+  "Fixed ID": "00000034",
+  "_row": 57
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 35 00 33 00 00 00",
+  "Enum Name": "MS_MANAGE_053",
+  "Enum Value Raw": "00000037",
+  "Enum Value": "55",
+  "Fixed ID": "00000035",
+  "_row": 58
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 35 00 34 00 00 00",
+  "Enum Name": "MS_MANAGE_054",
+  "Enum Value Raw": "00000038",
+  "Enum Value": "56",
+  "Fixed ID": "00000036",
+  "_row": 59
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 35 00 35 00 00 00",
+  "Enum Name": "MS_MANAGE_055",
+  "Enum Value Raw": "00000039",
+  "Enum Value": "57",
+  "Fixed ID": "00000037",
+  "_row": 60
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 35 00 36 00 00 00",
+  "Enum Name": "MS_MANAGE_056",
+  "Enum Value Raw": "0000003A",
+  "Enum Value": "58",
+  "Fixed ID": "00000038",
+  "_row": 61
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 35 00 37 00 00 00",
+  "Enum Name": "MS_MANAGE_057",
+  "Enum Value Raw": "0000003B",
+  "Enum Value": "59",
+  "Fixed ID": "00000039",
+  "_row": 62
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 35 00 38 00 00 00",
+  "Enum Name": "MS_MANAGE_058",
+  "Enum Value Raw": "0000003C",
+  "Enum Value": "60",
+  "Fixed ID": "0000003A",
+  "_row": 63
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 35 00 39 00 00 00",
+  "Enum Name": "MS_MANAGE_059",
+  "Enum Value Raw": "0000003D",
+  "Enum Value": "61",
+  "Fixed ID": "0000003B",
+  "_row": 64
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 36 00 30 00 00 00",
+  "Enum Name": "MS_MANAGE_060",
+  "Enum Value Raw": "0000003E",
+  "Enum Value": "62",
+  "Fixed ID": "0000003C",
+  "_row": 65
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 36 00 31 00 00 00",
+  "Enum Name": "MS_MANAGE_061",
+  "Enum Value Raw": "0000003F",
+  "Enum Value": "63",
+  "Fixed ID": "0000003D",
+  "_row": 66
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 36 00 32 00 00 00",
+  "Enum Name": "MS_MANAGE_062",
+  "Enum Value Raw": "00000040",
+  "Enum Value": "64",
+  "Fixed ID": "0000003E",
+  "_row": 67
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 36 00 33 00 00 00",
+  "Enum Name": "MS_MANAGE_063",
+  "Enum Value Raw": "00000041",
+  "Enum Value": "65",
+  "Fixed ID": "0000003F",
+  "_row": 68
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 36 00 34 00 00 00",
+  "Enum Name": "MS_MANAGE_064",
+  "Enum Value Raw": "00000042",
+  "Enum Value": "66",
+  "Fixed ID": "00000040",
+  "_row": 69
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 36 00 35 00 00 00",
+  "Enum Name": "MS_MANAGE_065",
+  "Enum Value Raw": "00000043",
+  "Enum Value": "67",
+  "Fixed ID": "00000041",
+  "_row": 70
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 36 00 36 00 00 00",
+  "Enum Name": "MS_MANAGE_066",
+  "Enum Value Raw": "00000044",
+  "Enum Value": "68",
+  "Fixed ID": "00000042",
+  "_row": 71
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 36 00 37 00 00 00",
+  "Enum Name": "MS_MANAGE_067",
+  "Enum Value Raw": "00000045",
+  "Enum Value": "69",
+  "Fixed ID": "00000043",
+  "_row": 72
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 36 00 38 00 00 00",
+  "Enum Name": "MS_MANAGE_068",
+  "Enum Value Raw": "00000046",
+  "Enum Value": "70",
+  "Fixed ID": "00000044",
+  "_row": 73
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 36 00 39 00 00 00",
+  "Enum Name": "MS_MANAGE_069",
+  "Enum Value Raw": "00000047",
+  "Enum Value": "71",
+  "Fixed ID": "00000045",
+  "_row": 74
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 37 00 30 00 00 00",
+  "Enum Name": "MS_MANAGE_070",
+  "Enum Value Raw": "00000048",
+  "Enum Value": "72",
+  "Fixed ID": "00000046",
+  "_row": 75
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 37 00 31 00 00 00",
+  "Enum Name": "MS_MANAGE_071",
+  "Enum Value Raw": "00000049",
+  "Enum Value": "73",
+  "Fixed ID": "00000047",
+  "_row": 76
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 37 00 32 00 00 00",
+  "Enum Name": "MS_MANAGE_072",
+  "Enum Value Raw": "0000004A",
+  "Enum Value": "74",
+  "Fixed ID": "00000048",
+  "_row": 77
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 37 00 33 00 00 00",
+  "Enum Name": "MS_MANAGE_073",
+  "Enum Value Raw": "0000004B",
+  "Enum Value": "75",
+  "Fixed ID": "00000049",
+  "_row": 78
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 37 00 34 00 00 00",
+  "Enum Name": "MS_MANAGE_074",
+  "Enum Value Raw": "0000004C",
+  "Enum Value": "76",
+  "Fixed ID": "0000004A",
+  "_row": 79
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 37 00 35 00 00 00",
+  "Enum Name": "MS_MANAGE_075",
+  "Enum Value Raw": "0000004D",
+  "Enum Value": "77",
+  "Fixed ID": "0000004B",
+  "_row": 80
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 37 00 36 00 00 00",
+  "Enum Name": "MS_MANAGE_076",
+  "Enum Value Raw": "0000004E",
+  "Enum Value": "78",
+  "Fixed ID": "0000004C",
+  "_row": 81
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 37 00 37 00 00 00",
+  "Enum Name": "MS_MANAGE_077",
+  "Enum Value Raw": "0000004F",
+  "Enum Value": "79",
+  "Fixed ID": "0000004D",
+  "_row": 82
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 37 00 38 00 00 00",
+  "Enum Name": "MS_MANAGE_078",
+  "Enum Value Raw": "00000050",
+  "Enum Value": "80",
+  "Fixed ID": "0000004E",
+  "_row": 83
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 38 00 31 00 00 00",
+  "Enum Name": "MS_MANAGE_081",
+  "Enum Value Raw": "00000051",
+  "Enum Value": "81",
+  "Fixed ID": "00000051",
+  "_row": 84
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 38 00 32 00 00 00",
+  "Enum Name": "MS_MANAGE_082",
+  "Enum Value Raw": "00000052",
+  "Enum Value": "82",
+  "Fixed ID": "00000052",
+  "_row": 85
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 38 00 33 00 00 00",
+  "Enum Name": "MS_MANAGE_083",
+  "Enum Value Raw": "00000053",
+  "Enum Value": "83",
+  "Fixed ID": "00000053",
+  "_row": 86
+ },
+ {
+  "Enum Name Raw": "4D 00 53 00 5F 00 4D 00 41 00 4E 00 41 00 47 00 45 00 5F 00 30 00 38 00 34 00 00 00",
+  "Enum Name": "MS_MANAGE_084",
+  "Enum Value Raw": "00000054",
+  "Enum Value": "84",
+  "Fixed ID": "00000054",
+  "_row": 87
+ }
+]

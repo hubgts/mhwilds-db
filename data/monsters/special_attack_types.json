@@ -1,0 +1,205 @@
+[
+ {
+  "index": 0,
+  "type": "1",
+  "name": "Weak Roar",
+  "description": "Temporarily immobilizes you.",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "type": "2",
+  "name": "Strong Roar",
+  "description": "Temporarily immobilizes you.",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "type": "3",
+  "name": "Minor Tremor",
+  "description": "Temporarily immobilizes you.",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "type": "4",
+  "name": "Major Tremor",
+  "description": "Temporarily immobilizes you.",
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "type": "5",
+  "name": "Minor Wind Pressure",
+  "description": "Temporarily immobilizes you.",
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "type": "6",
+  "name": "Major Wind Pressure",
+  "description": "Temporarily immobilizes you.",
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "type": "7",
+  "name": "Dragon Wind Pressure",
+  "description": "Temporarily immobilizes you.",
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "type": "8",
+  "name": "Fireblight",
+  "description": "Temporarily causes your health\nto deplete. Evading repeatedly\nremoves the condition.",
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "type": "9",
+  "name": "Waterblight",
+  "description": "Temporarily slows down stamina\nrecovery. Evading repeatedly\nremoves the condition.",
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "type": "10",
+  "name": "Thunderblight",
+  "description": "Temporarily makes you easier to\nstun. Evading repeatedly removes\nthe condition.",
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "type": "11",
+  "name": "Iceblight",
+  "description": "Temporarily increases stamina\nconsumption. Evading repeatedly\nremoves the condition.",
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "type": "12",
+  "name": "Dragonblight",
+  "description": "Temporarily negates weapon\nelements/ailments. Evading\nrepeatedly removes the condition.",
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "type": "13",
+  "name": "Poison",
+  "description": "Temporarily causes your health\nto deplete.",
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "type": "14",
+  "name": "Noxious Poison",
+  "description": "Temporarily causes your health\nto deplete. Effects are more\nsevere than ordinary poison.",
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "type": "15",
+  "name": "Stun",
+  "description": "Temporarily immobilizes you.\nMoving, pressing buttons, or\ntaking a hit removes the condition.",
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "type": "16",
+  "name": "Flash",
+  "description": "Temporarily immobilizes you.\nMoving, pressing buttons, or\ntaking a hit removes the condition.",
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "type": "17",
+  "name": "Paralysis",
+  "description": "Temporarily immobilizes you.\nMoving, pressing buttons, or\ntaking a hit removes the condition.",
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "type": "18",
+  "name": "Sleep",
+  "description": "Temporarily puts you to sleep,\nimmobilizing you.",
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "type": "19",
+  "name": "Webbed",
+  "description": "Temporarily immobilizes you.\nMoving, pressing buttons, or\ntaking a hit removes the condition.",
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "type": "20",
+  "name": "Blastblight",
+  "description": "Triggers an explosion after a\nperiod of time elapses, or if you\ntake a hit that causes knockback.",
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "type": "21",
+  "name": "Defense Down",
+  "description": "Temporarily reduces your defense.",
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "type": "22",
+  "name": "Resistance Down",
+  "description": "Temporarily lowers all your\nresistances.",
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "type": "23",
+  "name": "Stench",
+  "description": "Temporarily prevents the use of\nhealth or stamina recovery items.",
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "type": "24",
+  "name": "Bleeding",
+  "description": "Depletes health when moving.\nCrouching or holding still for\na while removes the condition.",
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "type": "25",
+  "name": "Frenzy",
+  "description": "If the Frenzy Virus fully infects\nyou, you will temporarily take\nmore damage.",
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "type": "26",
+  "name": "Frostblight",
+  "description": "Temporarily immobilizes you.\nMoving, pressing buttons, or taking\na hit removes the condition.",
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "type": "30",
+  "name": "Minor Bubbleblight",
+  "description": "Temporarily causes bubbles\nto stick to your body.",
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "type": "31",
+  "name": "Major Bubbleblight",
+  "description": "Causes bubbles to stick to your\nbody. Larger bubbles make you slide\naround, hampering movement.",
+  "_row": 29
+ },
+ {
+  "index": 29,
+  "type": "34",
+  "name": "HP Penalty",
+  "description": "Temporarily reduces maximum health.\nSubsequent stacks will further reduce\nmaximum health.",
+  "_row": 30
+ }
+]

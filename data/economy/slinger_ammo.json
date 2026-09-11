@@ -1,0 +1,380 @@
+[
+ {
+  "enum_name": "STONE",
+  "enum_value": 1,
+  "fixed_id": "058F84D8",
+  "item_data_id": 17,
+  "item_id": "ITEM_0015",
+  "item_name": "Stone",
+  "_row": 3
+ },
+ {
+  "enum_name": "THORN",
+  "enum_value": 2,
+  "fixed_id": "13694560",
+  "item_data_id": 52,
+  "item_id": "ITEM_0072",
+  "item_name": "Thorngrass Pod",
+  "_row": 4
+ },
+ {
+  "enum_name": "SCATTER_GENERAL",
+  "enum_value": 3,
+  "fixed_id": "35F0A640",
+  "item_data_id": 69,
+  "item_id": "ITEM_0090",
+  "item_name": "Burst Pod",
+  "_row": 5
+ },
+ {
+  "enum_name": "SCATTER",
+  "enum_value": 4,
+  "fixed_id": "089C57B0",
+  "item_data_id": 69,
+  "item_id": "ITEM_0090",
+  "item_name": "Burst Pod",
+  "_row": 6
+ },
+ {
+  "enum_name": "SCATTER_ICE",
+  "enum_value": 5,
+  "fixed_id": "46DD1500",
+  "item_data_id": 289,
+  "item_id": "ITEM_0315",
+  "item_name": "Frostburst",
+  "_row": 7
+ },
+ {
+  "enum_name": "FLASH",
+  "enum_value": 6,
+  "fixed_id": "E1648820",
+  "item_data_id": 16,
+  "item_id": "ITEM_0014",
+  "item_name": "Flash Pod",
+  "_row": 8
+ },
+ {
+  "enum_name": "SUPPLY_FLASH",
+  "enum_value": 7,
+  "fixed_id": "97E06700",
+  "item_data_id": 122,
+  "item_id": "ITEM_0148",
+  "item_name": "EZ Flash Bomb",
+  "_row": 9
+ },
+ {
+  "enum_name": "CAPTURE_NET",
+  "enum_value": 8,
+  "fixed_id": "10CC4DC0",
+  "item_data_id": 18,
+  "item_id": "ITEM_0016",
+  "item_name": "Capture Net",
+  "_row": 10
+ },
+ {
+  "enum_name": "SONIC",
+  "enum_value": 9,
+  "fixed_id": "CF7E6C80",
+  "item_data_id": 278,
+  "item_id": "ITEM_0304",
+  "item_name": "Screamer Pod",
+  "_row": 11
+ },
+ {
+  "enum_name": "SUPPLY_SONIC",
+  "enum_value": 10,
+  "fixed_id": "2EBDD240",
+  "item_data_id": 207,
+  "item_id": "ITEM_0233",
+  "item_name": "EZ Sonic Bomb",
+  "_row": 12
+ },
+ {
+  "enum_name": "SONIC_SMALL",
+  "enum_value": 11,
+  "fixed_id": "8DAA3700",
+  "item_data_id": 278,
+  "item_id": "ITEM_0304",
+  "item_name": "Screamer Pod",
+  "_row": 13
+ },
+ {
+  "enum_name": "KNIFE",
+  "enum_value": 12,
+  "fixed_id": "4DF0F080",
+  "item_data_id": 182,
+  "item_id": "ITEM_0208",
+  "item_name": "Throwing Knife",
+  "_row": 14
+ },
+ {
+  "enum_name": "SUPPLY_KNIFE_POISON",
+  "enum_value": 13,
+  "fixed_id": "235E3FC0",
+  "item_data_id": 146,
+  "item_id": "ITEM_0172",
+  "item_name": "Poison Knife",
+  "_row": 15
+ },
+ {
+  "enum_name": "SUPPLY_KNIFE_SLEEP",
+  "enum_value": 14,
+  "fixed_id": "74A7B280",
+  "item_data_id": 148,
+  "item_id": "ITEM_0174",
+  "item_name": "Sleep Knife",
+  "_row": 16
+ },
+ {
+  "enum_name": "SUPPLY_KNIFE_PARALYZE",
+  "enum_value": 15,
+  "fixed_id": "7B74A000",
+  "item_data_id": 147,
+  "item_id": "ITEM_0173",
+  "item_name": "Paralysis Knife",
+  "_row": 17
+ },
+ {
+  "enum_name": "KNIFE_CAPTURE",
+  "enum_value": 16,
+  "fixed_id": "D05EEAC0",
+  "item_data_id": 145,
+  "item_id": "ITEM_0171",
+  "item_name": "Tranq Blade",
+  "_row": 18
+ },
+ {
+  "enum_name": "SUPPLY_KNIFE_CAPTURE",
+  "enum_value": 17,
+  "fixed_id": "71B00880",
+  "item_data_id": 205,
+  "item_id": "ITEM_0231",
+  "item_name": "EZ Tranq Bomb",
+  "_row": 19
+ },
+ {
+  "enum_name": "DUNG",
+  "enum_value": 18,
+  "fixed_id": "8E32E280",
+  "item_data_id": 72,
+  "item_id": "ITEM_0093",
+  "item_name": "Dung Pod",
+  "_row": 20
+ },
+ {
+  "enum_name": "SUPPLY_DUNG",
+  "enum_value": 19,
+  "fixed_id": "35CAF6C0",
+  "item_data_id": 206,
+  "item_id": "ITEM_0232",
+  "item_name": "EZ Dung Pod",
+  "_row": 21
+ },
+ {
+  "enum_name": "LEAD",
+  "enum_value": 20,
+  "fixed_id": "0457A968",
+  "item_data_id": 196,
+  "item_id": "ITEM_0222",
+  "item_name": "Luring Pod",
+  "_row": 22
+ },
+ {
+  "enum_name": "SCAR_BREAK",
+  "enum_value": 21,
+  "fixed_id": "4F5E5100",
+  "item_data_id": 71,
+  "item_id": "ITEM_0092",
+  "item_name": "Bleeding Pod",
+  "_row": 23
+ },
+ {
+  "enum_name": "LIGHTNING",
+  "enum_value": 22,
+  "fixed_id": "41F13180",
+  "item_data_id": 155,
+  "item_id": "ITEM_0181",
+  "item_name": "Grounding Pod",
+  "_row": 24
+ },
+ {
+  "enum_name": "LIGHT_PLANT",
+  "enum_value": 23,
+  "fixed_id": "4A679D80",
+  "item_data_id": 188,
+  "item_id": "ITEM_0214",
+  "item_name": "Brightmoss",
+  "_row": 25
+ },
+ {
+  "enum_name": "FIRE",
+  "enum_value": 24,
+  "fixed_id": "C9A0E6C0",
+  "item_data_id": 189,
+  "item_id": "ITEM_0215",
+  "item_name": "Torch Pod",
+  "_row": 26
+ },
+ {
+  "enum_name": "WATER",
+  "enum_value": 25,
+  "fixed_id": "FEAD9CB8",
+  "item_data_id": 190,
+  "item_id": "ITEM_0216",
+  "item_name": "Puddle Pod",
+  "_row": 27
+ },
+ {
+  "enum_name": "ICE",
+  "enum_value": 26,
+  "fixed_id": "72990880",
+  "item_data_id": 286,
+  "item_id": "ITEM_0312",
+  "item_name": "Frost Pod",
+  "_row": 28
+ },
+ {
+  "enum_name": "THUNDER",
+  "enum_value": 27,
+  "fixed_id": "21A31880",
+  "item_data_id": 285,
+  "item_id": "ITEM_0311",
+  "item_name": "Thunder Pod",
+  "_row": 29
+ },
+ {
+  "enum_name": "DRAGON",
+  "enum_value": 28,
+  "fixed_id": "81265800",
+  "item_data_id": 287,
+  "item_id": "ITEM_0313",
+  "item_name": "Dragon Pod",
+  "_row": 30
+ },
+ {
+  "enum_name": "PENETRATE",
+  "enum_value": 29,
+  "fixed_id": "D228B6C0",
+  "item_data_id": 192,
+  "item_id": "ITEM_0218",
+  "item_name": "Piercing Pod",
+  "_row": 31
+ },
+ {
+  "enum_name": "BOMB",
+  "enum_value": 30,
+  "fixed_id": "7798D600",
+  "item_data_id": 191,
+  "item_id": "ITEM_0217",
+  "item_name": "Bomb Pod",
+  "_row": 32
+ },
+ {
+  "enum_name": "PARALYSIS",
+  "enum_value": 31,
+  "fixed_id": "B9C26A80",
+  "item_data_id": 184,
+  "item_id": "ITEM_0210",
+  "item_name": "Para Pod",
+  "_row": 33
+ },
+ {
+  "enum_name": "SLEEP",
+  "enum_value": 32,
+  "fixed_id": "079AF108",
+  "item_data_id": 185,
+  "item_id": null,
+  "item_name": null,
+  "_row": 34
+ },
+ {
+  "enum_name": "POISON",
+  "enum_value": 33,
+  "fixed_id": "C6AFB840",
+  "item_data_id": 183,
+  "item_id": "ITEM_0209",
+  "item_name": "Poison Pod",
+  "_row": 35
+ },
+ {
+  "enum_name": "PAINT",
+  "enum_value": 34,
+  "fixed_id": "85113280",
+  "item_data_id": 195,
+  "item_id": "ITEM_0221",
+  "item_name": "Paint Pod",
+  "_row": 36
+ },
+ {
+  "enum_name": "STRONG_PENETRATE",
+  "enum_value": 35,
+  "fixed_id": "A2E01980",
+  "item_data_id": 475,
+  "item_id": "ITEM_0501",
+  "item_name": "Heavy Piercing Pod",
+  "_row": 37
+ },
+ {
+  "enum_name": "STRONG_SLASH",
+  "enum_value": 36,
+  "fixed_id": "7D83FF00",
+  "item_data_id": 468,
+  "item_id": "ITEM_0494",
+  "item_name": "Heavy Slicing Pod",
+  "_row": 38
+ },
+ {
+  "enum_name": "STRONG_STUN",
+  "enum_value": 37,
+  "fixed_id": "73319700",
+  "item_data_id": 467,
+  "item_id": "ITEM_0493",
+  "item_name": "Heavy Blunt Pod",
+  "_row": 39
+ },
+ {
+  "enum_name": "STRONG_BOMB",
+  "enum_value": 38,
+  "fixed_id": "433C4280",
+  "item_data_id": 469,
+  "item_id": "ITEM_0495",
+  "item_name": "Heavy Explosion Pod",
+  "_row": 40
+ },
+ {
+  "enum_name": "STRONG_RANGE_DUNG",
+  "enum_value": 39,
+  "fixed_id": "80B60500",
+  "item_data_id": 457,
+  "item_id": "ITEM_0483",
+  "item_name": "Large Dung Pod",
+  "_row": 41
+ },
+ {
+  "enum_name": "SUPPLY_STRONG_RANGE_DUNG",
+  "enum_value": 40,
+  "fixed_id": "30CE5A00",
+  "item_data_id": 458,
+  "item_id": "ITEM_0484",
+  "item_name": "EZ Large Dung Pod",
+  "_row": 42
+ },
+ {
+  "enum_name": "EXEMOTE00_10",
+  "enum_value": 41,
+  "fixed_id": "000023C6",
+  "item_data_id": null,
+  "item_id": null,
+  "item_name": null,
+  "_row": 43
+ },
+ {
+  "enum_name": "MAX",
+  "enum_value": 42,
+  "fixed_id": "26689F40",
+  "item_data_id": null,
+  "item_id": null,
+  "item_name": null,
+  "_row": 44
+ }
+]

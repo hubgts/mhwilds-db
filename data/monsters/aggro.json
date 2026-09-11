@@ -1,0 +1,1262 @@
+[
+ {
+  "instance_guid": "0388D79D-F5B0-4DE0-991D-67BB80635509",
+  "first_monster": "Rathian",
+  "second_monster": "Rathalos",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Rathian will not fight Rathalos",
+  "_row": 2
+ },
+ {
+  "instance_guid": "9EAB895D-B448-421B-897E-5F67A2047B58",
+  "first_monster": "Congalala",
+  "second_monster": "Conga",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Congalala will not fight Conga",
+  "_row": 3
+ },
+ {
+  "instance_guid": "DD7577C5-DFDD-4957-8E0F-0EA260E3E56E",
+  "first_monster": "Rathian",
+  "second_monster": "Rathian",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Rathian will not fight Rathian",
+  "_row": 4
+ },
+ {
+  "instance_guid": "917D6936-3F40-4B11-8EEB-BEE1AC669E0D",
+  "first_monster": "Rathalos",
+  "second_monster": "Rathalos",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Rathalos will not fight Rathalos",
+  "_row": 5
+ },
+ {
+  "instance_guid": "E0F5F8D0-E0AA-4F67-84D2-2DAC472B9CFD",
+  "first_monster": "Gravios",
+  "second_monster": "Gravios",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Gravios will not fight Gravios",
+  "_row": 6
+ },
+ {
+  "instance_guid": "F13C3C61-A3FF-4037-B253-F0E171E4CE69",
+  "first_monster": "Yian Kut-Ku",
+  "second_monster": "Yian Kut-Ku",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Yian Kut-Ku will not fight Yian Kut-Ku",
+  "_row": 7
+ },
+ {
+  "instance_guid": "006B0361-4AF1-4C59-A727-44A2783F0D8E",
+  "first_monster": "Gypceros",
+  "second_monster": "Gypceros",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Gypceros will not fight Gypceros",
+  "_row": 8
+ },
+ {
+  "instance_guid": "D6ED608A-C305-40A5-9E99-D8098353FFC7",
+  "first_monster": "Congalala",
+  "second_monster": "Congalala",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Congalala will not fight Congalala",
+  "_row": 9
+ },
+ {
+  "instance_guid": "A3D3EE9A-554A-44A1-BA76-D830495DD3A2",
+  "first_monster": "Blangonga",
+  "second_monster": "Blangonga",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Blangonga will not fight Blangonga",
+  "_row": 10
+ },
+ {
+  "instance_guid": "215B62D2-7257-4CEA-888F-F37A608F61DE",
+  "first_monster": "Nerscylla",
+  "second_monster": "Nerscylla",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Nerscylla will not fight Nerscylla",
+  "_row": 11
+ },
+ {
+  "instance_guid": "BAE7610C-F934-4366-80F8-095577F7B140",
+  "first_monster": "Blangonga",
+  "second_monster": "Blango",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Blangonga will not fight Blango",
+  "_row": 12
+ },
+ {
+  "instance_guid": "EF214EBD-88A7-4B8E-AB87-1499EDECED7D",
+  "first_monster": "Nerscylla",
+  "second_monster": "Nerscylla Hatchling",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Nerscylla will not fight Nerscylla Hatchling",
+  "_row": 13
+ },
+ {
+  "instance_guid": "27CACAD0-69EB-40E3-ADB1-619A3933ABEC",
+  "first_monster": "Gore Magala",
+  "second_monster": "Gore Magala",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Gore Magala will not fight Gore Magala",
+  "_row": 14
+ },
+ {
+  "instance_guid": "960DE162-49CD-4687-8A5D-5E06C872E529",
+  "first_monster": "Doshaguma",
+  "second_monster": "Doshaguma",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Doshaguma will not fight Doshaguma",
+  "_row": 15
+ },
+ {
+  "instance_guid": "7B3B6301-41D5-4373-AC7D-C81001EF5B3B",
+  "first_monster": "Balahara",
+  "second_monster": "Balahara",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Balahara will not fight Balahara",
+  "_row": 16
+ },
+ {
+  "instance_guid": "652E7C3C-7BCD-46EA-A600-B4B8950AAFC0",
+  "first_monster": "Chatacabra",
+  "second_monster": "Chatacabra",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Chatacabra will not fight Chatacabra",
+  "_row": 17
+ },
+ {
+  "instance_guid": "92AFD330-4018-4BD0-9D0E-47207385436C",
+  "first_monster": "Lala Barina",
+  "second_monster": "Lala Barina",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Lala Barina will not fight Lala Barina",
+  "_row": 18
+ },
+ {
+  "instance_guid": "F97618C0-9149-45AC-A9B7-525FB4CD665A",
+  "first_monster": "Rompopolo",
+  "second_monster": "Rompopolo",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Rompopolo will not fight Rompopolo",
+  "_row": 19
+ },
+ {
+  "instance_guid": "DD9A9B37-5198-4BB3-BE88-457F80700D2E",
+  "first_monster": "Rey Dau",
+  "second_monster": "Rey Dau",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Rey Dau will not fight Rey Dau",
+  "_row": 20
+ },
+ {
+  "instance_guid": "C73956EA-15E9-4EBE-BFBA-9688D990A2F0",
+  "first_monster": "Uth Duna",
+  "second_monster": "Uth Duna",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Uth Duna will not fight Uth Duna",
+  "_row": 21
+ },
+ {
+  "instance_guid": "97E928EC-6491-4E0D-83B1-2ED9190A5121",
+  "first_monster": "Nu Udra",
+  "second_monster": "Nu Udra",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Nu Udra will not fight Nu Udra",
+  "_row": 22
+ },
+ {
+  "instance_guid": "CB177CE0-26FB-402C-AFD6-C4838980D4B3",
+  "first_monster": "Ajarakan",
+  "second_monster": "Ajarakan",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Ajarakan will not fight Ajarakan",
+  "_row": 23
+ },
+ {
+  "instance_guid": "81070185-A48E-4FD3-AE32-356111AC9152",
+  "first_monster": "Arkveld",
+  "second_monster": "Arkveld",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Arkveld will not fight Arkveld",
+  "_row": 24
+ },
+ {
+  "instance_guid": "94D7597F-C77E-4A35-B969-50A9EB863A5A",
+  "first_monster": "Hirabami",
+  "second_monster": "Hirabami",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Hirabami will not fight Hirabami",
+  "_row": 25
+ },
+ {
+  "instance_guid": "4D053912-10D7-40D7-9AD1-852F690081FC",
+  "first_monster": "Jin Dahaad",
+  "second_monster": "Jin Dahaad",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Jin Dahaad will not fight Jin Dahaad",
+  "_row": 26
+ },
+ {
+  "instance_guid": "D61229F9-B3C4-4BFF-97EC-821B6E3C6D23",
+  "first_monster": "Xu Wu",
+  "second_monster": "Xu Wu",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Xu Wu will not fight Xu Wu",
+  "_row": 27
+ },
+ {
+  "instance_guid": "95AFF931-174C-44FE-AE96-495C99EF0890",
+  "first_monster": "Zoh Shia",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Zoh Shia cannot fight other monsters",
+  "_row": 28
+ },
+ {
+  "instance_guid": "F078AE63-AFB1-4D5E-8FA2-98E8B2EBCA11",
+  "first_monster": "High Purrformance Barrel Puncher",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "High Purrformance Barrel Puncher cannot fight other monsters",
+  "_row": 29
+ },
+ {
+  "instance_guid": "7ED275F7-C001-47F1-8000-A7F46B51BCAB",
+  "first_monster": "Vespoid",
+  "second_monster": "Vespoid",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Vespoid will not fight Vespoid",
+  "_row": 30
+ },
+ {
+  "instance_guid": "E402079F-4253-4A28-B271-7015D4B20D72",
+  "first_monster": "Conga",
+  "second_monster": "Conga",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Conga will not fight Conga",
+  "_row": 31
+ },
+ {
+  "instance_guid": "D306A8AD-2CE8-4CB3-BBE9-EFBE8C585E76",
+  "first_monster": "Blango",
+  "second_monster": "Blango",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Blango will not fight Blango",
+  "_row": 32
+ },
+ {
+  "instance_guid": "FD4705A0-3426-4DC9-AE29-F82A09661BB0",
+  "first_monster": "Ceratonoth (Male)",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Ceratonoth (Male) cannot fight other monsters",
+  "_row": 33
+ },
+ {
+  "instance_guid": "FA304DB7-5723-4278-A7EC-100F22743ADC",
+  "first_monster": "Ceratonoth (Female)",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Ceratonoth (Female) cannot fight other monsters",
+  "_row": 34
+ },
+ {
+  "instance_guid": "521065BF-F94E-47C9-AD2C-A4BF35739F48",
+  "first_monster": "Dalthydon",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Dalthydon cannot fight other monsters",
+  "_row": 35
+ },
+ {
+  "instance_guid": "2D5C8095-50F6-474A-A96C-DCBCBBC44FF1",
+  "first_monster": "Dalthydon (Livestock)",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Dalthydon (Livestock) cannot fight other monsters",
+  "_row": 36
+ },
+ {
+  "instance_guid": "1F5BAF31-493D-4722-B08C-CFF32CBE3CC3",
+  "first_monster": "Bulaqchi",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Bulaqchi cannot fight other monsters",
+  "_row": 37
+ },
+ {
+  "instance_guid": "80DD45E6-D6CB-4241-84C3-02C2423455D4",
+  "first_monster": "Talioth",
+  "second_monster": "Talioth",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Talioth will not fight Talioth",
+  "_row": 38
+ },
+ {
+  "instance_guid": "C9680608-9EBA-4F4E-8481-531FD960A0C4",
+  "first_monster": "Baunos",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Baunos cannot fight other monsters",
+  "_row": 39
+ },
+ {
+  "instance_guid": "6F008272-E402-4824-B427-7FBC9D3036B3",
+  "first_monster": "Gajios",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Gajios cannot fight other monsters",
+  "_row": 40
+ },
+ {
+  "instance_guid": "0105A77D-A88E-4B65-BC1E-78969298993E",
+  "first_monster": "Piragill",
+  "second_monster": "Piragill",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Piragill will not fight Piragill",
+  "_row": 41
+ },
+ {
+  "instance_guid": "CC21B468-D892-4E2C-ACAB-C15759ACA0BA",
+  "first_monster": "Harpios",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Harpios cannot fight other monsters",
+  "_row": 42
+ },
+ {
+  "instance_guid": "E005CE72-A7B4-4718-AABD-E64DDEE9CDBE",
+  "first_monster": "Kranodath",
+  "second_monster": "Nu Udra",
+  "combat_disabled": false,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Kranodath will actively fight Nu Udra",
+  "_row": 43
+ },
+ {
+  "instance_guid": "80A0216D-408B-463B-B256-CD43C98E46AD",
+  "first_monster": "Kranodath",
+  "second_monster": "Kranodath",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Kranodath will not fight Kranodath",
+  "_row": 44
+ },
+ {
+  "instance_guid": "AE4D79FA-91DF-4C84-8822-7D6316DF81AF",
+  "first_monster": "Comaqchi",
+  "second_monster": "Jin Dahaad",
+  "combat_disabled": false,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Comaqchi will actively fight Jin Dahaad",
+  "_row": 45
+ },
+ {
+  "instance_guid": "4C9B8244-D1E3-46F4-B288-EEBA6FA7C7EA",
+  "first_monster": "Comaqchi",
+  "second_monster": "Comaqchi",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Comaqchi will not fight Comaqchi",
+  "_row": 46
+ },
+ {
+  "instance_guid": "E2052BB2-7891-4B9E-AEE0-6DB03456817C",
+  "first_monster": "Gelidron",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Gelidron cannot fight other monsters",
+  "_row": 47
+ },
+ {
+  "instance_guid": "40FC8590-0AA1-4760-9533-367D301D7B75",
+  "first_monster": "Rafma",
+  "second_monster": "Rafma",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Rafma will not fight Rafma",
+  "_row": 48
+ },
+ {
+  "instance_guid": "93C9B4B0-811F-4255-A873-021971D0B72F",
+  "first_monster": "Porkeplume",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Porkeplume cannot fight other monsters",
+  "_row": 49
+ },
+ {
+  "instance_guid": "0D8E9BDC-6156-4A6D-B9EF-B38011F59C11",
+  "first_monster": "Nerscylla Hatchling",
+  "second_monster": "Nerscylla Hatchling",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Nerscylla Hatchling will not fight Nerscylla Hatchling",
+  "_row": 50
+ },
+ {
+  "instance_guid": "052ACD58-87B1-45A4-B3BC-3CBFC04F3B91",
+  "first_monster": "Guardian Seikret",
+  "second_monster": "Guardian Seikret",
+  "combat_disabled": false,
+  "attack_hit_type": "FRIEND",
+  "interpretation": "Guardian Seikret will not fight Guardian Seikret",
+  "_row": 51
+ },
+ {
+  "instance_guid": "714F8726-8FFD-4929-BF2D-5B238223E44C",
+  "first_monster": "Paratoad",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Paratoad cannot fight other monsters",
+  "_row": 52
+ },
+ {
+  "instance_guid": "E527E94E-C32F-4D94-B228-928A7CAE6266",
+  "first_monster": "Nitrotoad",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Nitrotoad cannot fight other monsters",
+  "_row": 53
+ },
+ {
+  "instance_guid": "695BE1DF-3CE8-4BAC-9D9A-1AD07934AC94",
+  "first_monster": "Sleeptoad",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Sleeptoad cannot fight other monsters",
+  "_row": 54
+ },
+ {
+  "instance_guid": "CB42AC58-8B4D-44F0-BBC2-56EC917330EC",
+  "first_monster": "Vigorwasp",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Vigorwasp cannot fight other monsters",
+  "_row": 55
+ },
+ {
+  "instance_guid": "BCF1D522-23BB-4319-B1CE-211467B1304E",
+  "first_monster": "Giant Vigorwasp",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Giant Vigorwasp cannot fight other monsters",
+  "_row": 56
+ },
+ {
+  "instance_guid": "8B287570-8603-43E5-ABC8-C28551934594",
+  "first_monster": "Purewasp",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Purewasp cannot fight other monsters",
+  "_row": 57
+ },
+ {
+  "instance_guid": "681B3430-776E-44F9-BD21-DBC611D220ED",
+  "first_monster": "Flashflies",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Flashflies cannot fight other monsters",
+  "_row": 58
+ },
+ {
+  "instance_guid": "DA72F2FF-5783-4230-A8A9-ECC657962ABB",
+  "first_monster": "Dung Beetle",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Dung Beetle cannot fight other monsters",
+  "_row": 59
+ },
+ {
+  "instance_guid": "98CB56DA-110A-419C-BFE3-E59A92E60678",
+  "first_monster": "Bomb Beetle",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Bomb Beetle cannot fight other monsters",
+  "_row": 60
+ },
+ {
+  "instance_guid": "8CD4E8E5-F2C8-4C91-AFD5-01762F78C0C4",
+  "first_monster": "Rime Beetle",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Rime Beetle cannot fight other monsters",
+  "_row": 61
+ },
+ {
+  "instance_guid": "3CF59AC9-52F8-4EB6-A55A-9B8CA4970158",
+  "first_monster": "Vigormantle Bug",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Vigormantle Bug cannot fight other monsters",
+  "_row": 62
+ },
+ {
+  "instance_guid": "F400A382-CB0F-4FDB-A798-EB64F4988468",
+  "first_monster": "Chillmantle Bug",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Chillmantle Bug cannot fight other monsters",
+  "_row": 63
+ },
+ {
+  "instance_guid": "1891099F-665A-44D5-91C8-1198616CD8AD",
+  "first_monster": "Heatmantle Bug",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Heatmantle Bug cannot fight other monsters",
+  "_row": 64
+ },
+ {
+  "instance_guid": "60B1C34F-17AF-41F4-BFE7-4FDCCB64094D",
+  "first_monster": "Wiggly Litchi",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Wiggly Litchi cannot fight other monsters",
+  "_row": 65
+ },
+ {
+  "instance_guid": "8777CA66-66B7-44A4-90EB-35246F9D4876",
+  "first_monster": "Dark Hornet",
+  "second_monster": "Dark Hornet",
+  "combat_disabled": false,
+  "attack_hit_type": "NO_HIT",
+  "interpretation": "Dark Hornet cannot hit Dark Hornet",
+  "_row": 66
+ },
+ {
+  "instance_guid": "4332954C-6B53-4DF4-AADF-B31E585E9AB3",
+  "first_monster": "Great Thunderbugs",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Great Thunderbugs cannot fight other monsters",
+  "_row": 67
+ },
+ {
+  "instance_guid": "46BC7F52-4B72-41D0-94C0-C00464CEE01E",
+  "first_monster": "Wedge Beetle",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Wedge Beetle cannot fight other monsters",
+  "_row": 68
+ },
+ {
+  "instance_guid": "560BF317-A822-4FA3-89B3-8EC8499E9202",
+  "first_monster": "Thunderbug",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Thunderbug cannot fight other monsters",
+  "_row": 69
+ },
+ {
+  "instance_guid": "9AFB6393-71E3-403B-8769-1372B87650D7",
+  "first_monster": "Flashbug",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Flashbug cannot fight other monsters",
+  "_row": 70
+ },
+ {
+  "instance_guid": "62938752-652D-4CE0-AB97-5304F9ED418E",
+  "first_monster": "Godbug",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Godbug cannot fight other monsters",
+  "_row": 71
+ },
+ {
+  "instance_guid": "7BE474BA-EE6B-49EC-BD74-9BFCA0CEE6E7",
+  "first_monster": "Bitterbug",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Bitterbug cannot fight other monsters",
+  "_row": 72
+ },
+ {
+  "instance_guid": "B385EA5B-4213-4760-9957-1FCD5C3A0E1E",
+  "first_monster": "Leaflugger Ant",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Leaflugger Ant cannot fight other monsters",
+  "_row": 73
+ },
+ {
+  "instance_guid": "E01D0400-59EB-4A64-AD46-1C6D00B60FFF",
+  "first_monster": "Windrustler",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Windrustler cannot fight other monsters",
+  "_row": 74
+ },
+ {
+  "instance_guid": "3568517E-F392-49BC-9855-5533EDBC6AE0",
+  "first_monster": "Black Windrustler",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Black Windrustler cannot fight other monsters",
+  "_row": 75
+ },
+ {
+  "instance_guid": "E0E6729C-721A-4A18-828B-6BBF1427BB34",
+  "first_monster": "Nothpecker",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Nothpecker cannot fight other monsters",
+  "_row": 76
+ },
+ {
+  "instance_guid": "A50F483F-0B89-4F2F-84C5-77A4F8FD80CA",
+  "first_monster": "Landlight Shrimp",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Landlight Shrimp cannot fight other monsters",
+  "_row": 77
+ },
+ {
+  "instance_guid": "D06EF6DA-6B34-4A68-9DB9-75A569A4060F",
+  "first_monster": "Pink Landlight Shrimp",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Pink Landlight Shrimp cannot fight other monsters",
+  "_row": 78
+ },
+ {
+  "instance_guid": "CB0D84D0-EE11-437F-9A25-D35782885B8E",
+  "first_monster": "Amstrigian",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Amstrigian cannot fight other monsters",
+  "_row": 79
+ },
+ {
+  "instance_guid": "0A7C80BF-D972-44E4-929E-152DD1DE669E",
+  "first_monster": "Hymstrigian",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Hymstrigian cannot fight other monsters",
+  "_row": 80
+ },
+ {
+  "instance_guid": "8EE90CE9-EDAE-495C-867B-95C3267A331B",
+  "first_monster": "Rufflizard",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Rufflizard cannot fight other monsters",
+  "_row": 81
+ },
+ {
+  "instance_guid": "1DBC9752-B564-4A38-B697-49528B4225BE",
+  "first_monster": "Ember Rufflizard",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Ember Rufflizard cannot fight other monsters",
+  "_row": 82
+ },
+ {
+  "instance_guid": "FDEE6EE9-A907-4DD3-82C8-FF34049AE5D2",
+  "first_monster": "Azure Rufflizard",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Azure Rufflizard cannot fight other monsters",
+  "_row": 83
+ },
+ {
+  "instance_guid": "7E993426-EF67-4F77-8CB3-C971F19C3CC6",
+  "first_monster": "Pallbug",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Pallbug cannot fight other monsters",
+  "_row": 84
+ },
+ {
+  "instance_guid": "83F97DED-5886-4996-A664-1DC418EB9A42",
+  "first_monster": "Tracktail Lizard",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Tracktail Lizard cannot fight other monsters",
+  "_row": 85
+ },
+ {
+  "instance_guid": "EA30FBDA-2FD6-497E-8783-929879E7F38C",
+  "first_monster": "Emperor Hopper",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Emperor Hopper cannot fight other monsters",
+  "_row": 86
+ },
+ {
+  "instance_guid": "D4E51586-C117-492A-8C69-E1AFD830DAC7",
+  "first_monster": "Tyrant Hopper",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Tyrant Hopper cannot fight other monsters",
+  "_row": 87
+ },
+ {
+  "instance_guid": "6C23A396-4138-4DB1-A017-8BDF1DEEFE0D",
+  "first_monster": "Hercudrome",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Hercudrome cannot fight other monsters",
+  "_row": 88
+ },
+ {
+  "instance_guid": "84D7767E-3C9F-4C1A-83F5-0DE93F3AA44E",
+  "first_monster": "Gold Hercudrome",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Gold Hercudrome cannot fight other monsters",
+  "_row": 89
+ },
+ {
+  "instance_guid": "F13FC332-4007-488C-A1EE-AE3CDCFA92BB",
+  "first_monster": "Prism Hercudrome",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Prism Hercudrome cannot fight other monsters",
+  "_row": 90
+ },
+ {
+  "instance_guid": "094F4562-FC0C-4B4E-A9CE-3EE669DF9764",
+  "first_monster": "Quatreflies",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Quatreflies cannot fight other monsters",
+  "_row": 91
+ },
+ {
+  "instance_guid": "6B43E77E-BCBF-4DF8-9AF0-DBF258106BE7",
+  "first_monster": "Myriads",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Myriads cannot fight other monsters",
+  "_row": 92
+ },
+ {
+  "instance_guid": "A1C3003A-4D02-4BE6-97CB-3905E0446F7E",
+  "first_monster": "Myriads",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Myriads cannot fight other monsters",
+  "_row": 93
+ },
+ {
+  "instance_guid": "AE399ECF-443F-4205-9FAE-58A2C8E1D795",
+  "first_monster": "Jewel Scarab",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Jewel Scarab cannot fight other monsters",
+  "_row": 94
+ },
+ {
+  "instance_guid": "1F5E2F72-5219-4BBC-B1D8-BA2EC481A3DF",
+  "first_monster": "Regal Jewel Scarab",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Regal Jewel Scarab cannot fight other monsters",
+  "_row": 95
+ },
+ {
+  "instance_guid": "D5F44391-7221-4A7D-A6C1-6A4B03A4B2C6",
+  "first_monster": "Vaporonid",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Vaporonid cannot fight other monsters",
+  "_row": 96
+ },
+ {
+  "instance_guid": "682B43F3-2A60-4FA6-B41D-3FC2BA742A8D",
+  "first_monster": "Omenfly",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Omenfly cannot fight other monsters",
+  "_row": 97
+ },
+ {
+  "instance_guid": "4A440E73-09DF-485F-AA42-5A4D845E71EA",
+  "first_monster": "Mimiphyta",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Mimiphyta cannot fight other monsters",
+  "_row": 98
+ },
+ {
+  "instance_guid": "4BA23D8F-F31F-4B2E-91A3-D34FBE155965",
+  "first_monster": "Gawkie",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Gawkie cannot fight other monsters",
+  "_row": 99
+ },
+ {
+  "instance_guid": "E240F7F2-5769-42E5-A593-3519BFC1D434",
+  "first_monster": "Scarlet Joyperch",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Scarlet Joyperch cannot fight other monsters",
+  "_row": 100
+ },
+ {
+  "instance_guid": "473DD345-9BD2-42B9-A75E-67BCD04B9989",
+  "first_monster": "Blink Angler",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Blink Angler cannot fight other monsters",
+  "_row": 101
+ },
+ {
+  "instance_guid": "466D8698-7256-4484-9A88-180C9C42FE84",
+  "first_monster": "Florashell Crab",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Florashell Crab cannot fight other monsters",
+  "_row": 102
+ },
+ {
+  "instance_guid": "AE707CF9-3543-4A78-A98E-F19B8BFAC053",
+  "first_monster": "Curioshell Crab",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Curioshell Crab cannot fight other monsters",
+  "_row": 103
+ },
+ {
+  "instance_guid": "E90C31C3-0A1B-4D6B-9968-B77A3BFFF953",
+  "first_monster": "Crudeshell Crab",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Crudeshell Crab cannot fight other monsters",
+  "_row": 104
+ },
+ {
+  "instance_guid": "560A92B0-A959-4752-B24B-15C17712D035",
+  "first_monster": "Smokeshroud Gekko",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Smokeshroud Gekko cannot fight other monsters",
+  "_row": 105
+ },
+ {
+  "instance_guid": "5D551F58-6776-43A4-96A6-A155367A6CB3",
+  "first_monster": "Gloom Gekko",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Gloom Gekko cannot fight other monsters",
+  "_row": 106
+ },
+ {
+  "instance_guid": "34FBA545-6346-473F-A341-04A2F0A16A6D",
+  "first_monster": "Dapperwing",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Dapperwing cannot fight other monsters",
+  "_row": 107
+ },
+ {
+  "instance_guid": "169691B2-1340-42E9-BB5D-01DBB81AF786",
+  "first_monster": "Dazzlewing",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Dazzlewing cannot fight other monsters",
+  "_row": 108
+ },
+ {
+  "instance_guid": "B86F240E-C334-4EBA-9411-DEA5F00F2CDD",
+  "first_monster": "Sandstar",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Sandstar cannot fight other monsters",
+  "_row": 109
+ },
+ {
+  "instance_guid": "5761D25F-7F86-4C11-8D5A-34ACA1846D0B",
+  "first_monster": "Scalebat",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Scalebat cannot fight other monsters",
+  "_row": 110
+ },
+ {
+  "instance_guid": "FEA9EF09-6156-4217-B5C4-6944D9A292E1",
+  "first_monster": "Sparklerjelly",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Sparklerjelly cannot fight other monsters",
+  "_row": 111
+ },
+ {
+  "instance_guid": "58877E1F-18B1-4F34-B63A-5A58FA5D2912",
+  "first_monster": "Peony Sparklerjelly",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Peony Sparklerjelly cannot fight other monsters",
+  "_row": 112
+ },
+ {
+  "instance_guid": "9D52162C-4897-4E0F-BA37-1AB9E583BFC4",
+  "first_monster": "Nu Yaya",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Nu Yaya cannot fight other monsters",
+  "_row": 113
+ },
+ {
+  "instance_guid": "80A72B6B-60FE-4189-AB20-4163EFEE0B4A",
+  "first_monster": "Xu Yo",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Xu Yo cannot fight other monsters",
+  "_row": 114
+ },
+ {
+  "instance_guid": "E912C2FD-99E9-44EF-AAB6-BA2BD8BAF262",
+  "first_monster": "Solanaria",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Solanaria cannot fight other monsters",
+  "_row": 115
+ },
+ {
+  "instance_guid": "1DF55D24-05AB-4E55-837F-C7AD9C13859C",
+  "first_monster": "Pillopod",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Pillopod cannot fight other monsters",
+  "_row": 116
+ },
+ {
+  "instance_guid": "41D0D400-A829-482E-8ECF-161BB4296925",
+  "first_monster": "Gillopod",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Gillopod cannot fight other monsters",
+  "_row": 117
+ },
+ {
+  "instance_guid": "0100981C-4A8A-491B-8D21-C596607B362D",
+  "first_monster": "Petalfly",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Petalfly cannot fight other monsters",
+  "_row": 118
+ },
+ {
+  "instance_guid": "3519824E-D6F8-458F-A9CA-EAE85886AB74",
+  "first_monster": "Downy Crake",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Downy Crake cannot fight other monsters",
+  "_row": 119
+ },
+ {
+  "instance_guid": "51D4E435-6949-4FBB-B3E5-F786598DE4DB",
+  "first_monster": "Starduster",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Starduster cannot fight other monsters",
+  "_row": 120
+ },
+ {
+  "instance_guid": "761F7876-301B-43B1-8115-6FCF46CC4C30",
+  "first_monster": "Starduster",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Starduster cannot fight other monsters",
+  "_row": 121
+ },
+ {
+  "instance_guid": "B6553E65-931A-4FFF-BE46-F22389621741",
+  "first_monster": "Virid Bowfin",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Virid Bowfin cannot fight other monsters",
+  "_row": 122
+ },
+ {
+  "instance_guid": "C717ABB0-B3FD-404F-A4A4-CDA472730642",
+  "first_monster": "Whetfish",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Whetfish cannot fight other monsters",
+  "_row": 123
+ },
+ {
+  "instance_guid": "57CDA989-095B-4E49-8377-E88D7B5AA8B0",
+  "first_monster": "Sushifish",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Sushifish cannot fight other monsters",
+  "_row": 124
+ },
+ {
+  "instance_guid": "4AA8E423-D659-42D8-8AF3-23425CDB18AF",
+  "first_monster": "Gastronome Tuna",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Gastronome Tuna cannot fight other monsters",
+  "_row": 125
+ },
+ {
+  "instance_guid": "EA94D17D-906A-49ED-AC1D-8FA5D8F2528C",
+  "first_monster": "Gajau",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Gajau cannot fight other monsters",
+  "_row": 126
+ },
+ {
+  "instance_guid": "06C4EE09-681D-4EC2-A536-E5C0B10BCC6C",
+  "first_monster": "Goldenfry",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Goldenfry cannot fight other monsters",
+  "_row": 127
+ },
+ {
+  "instance_guid": "46B076C1-2D36-41D3-848C-655B2C3688DF",
+  "first_monster": "Goldenfish",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Goldenfish cannot fight other monsters",
+  "_row": 128
+ },
+ {
+  "instance_guid": "A2F8CCA1-DF46-46B2-937E-DF388C5CCE74",
+  "first_monster": "Platinumfish",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Platinumfish cannot fight other monsters",
+  "_row": 129
+ },
+ {
+  "instance_guid": "709B7503-8B62-4ED0-BA76-830D3565D787",
+  "first_monster": "Burst Arowana",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Burst Arowana cannot fight other monsters",
+  "_row": 130
+ },
+ {
+  "instance_guid": "A945EADC-29F1-4F55-93F5-44475553F51E",
+  "first_monster": "Bomb Arowana",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Bomb Arowana cannot fight other monsters",
+  "_row": 131
+ },
+ {
+  "instance_guid": "BB265F50-42A4-4742-90BD-206DCA31C832",
+  "first_monster": "Gunpowderfish",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Gunpowderfish cannot fight other monsters",
+  "_row": 132
+ },
+ {
+  "instance_guid": "3F6E3582-592E-49CC-8769-6B292A405BC5",
+  "first_monster": "Speartuna",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Speartuna cannot fight other monsters",
+  "_row": 133
+ },
+ {
+  "instance_guid": "C2B9C4EF-BA6C-49F3-BD40-4014605B82A3",
+  "first_monster": "Petricanths",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Petricanths cannot fight other monsters",
+  "_row": 134
+ },
+ {
+  "instance_guid": "499FE1BB-DF62-497E-A1E0-89613E7131E8",
+  "first_monster": "Glass Parexus",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Glass Parexus cannot fight other monsters",
+  "_row": 135
+ },
+ {
+  "instance_guid": "93432EF6-7B6C-470B-BB89-0E6514C968CC",
+  "first_monster": "Goliath Squid",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Goliath Squid cannot fight other monsters",
+  "_row": 136
+ },
+ {
+  "instance_guid": "2117DE57-C5A5-4FAE-A3F3-3CE6969ED3AE",
+  "first_monster": "Great Trevally",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Great Trevally cannot fight other monsters",
+  "_row": 137
+ },
+ {
+  "instance_guid": "82DC91EB-8CE1-4A2D-A87B-51F5C5F74830",
+  "first_monster": "Escunite",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Escunite cannot fight other monsters",
+  "_row": 138
+ },
+ {
+  "instance_guid": "F20D91DD-DC0E-4E44-8397-9B0D76A36260",
+  "first_monster": "Grand Escunite",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Grand Escunite cannot fight other monsters",
+  "_row": 139
+ },
+ {
+  "instance_guid": "D6FBD44D-F8AA-4241-8E35-CCC013DBA4D9",
+  "first_monster": "Gravid Bowfin",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Gravid Bowfin cannot fight other monsters",
+  "_row": 140
+ },
+ {
+  "instance_guid": "29319C12-CE30-4F03-A066-D701A88B99BB",
+  "first_monster": "Blind Perch",
+  "second_monster": null,
+  "combat_disabled": true,
+  "attack_hit_type": "NORMAL",
+  "interpretation": "Blind Perch cannot fight other monsters",
+  "_row": 141
+ }
+]

@@ -1,0 +1,107 @@
+[
+ {
+  "index": 2,
+  "item_id": "ITEM_0016",
+  "item_name": "Capture Net",
+  "story_flag": "STORY_000321",
+  "_row": 3
+ },
+ {
+  "index": 1,
+  "item_id": "ITEM_0019",
+  "item_name": "Whetstone",
+  "story_flag": "INVALID",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "item_id": "ITEM_0021",
+  "item_name": "Binoculars",
+  "story_flag": "STORY_000321",
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "item_id": "ITEM_0022",
+  "item_name": "Camping Kit",
+  "story_flag": "STORY_000138",
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "item_id": "ITEM_0023",
+  "item_name": "Portable BBQ Grill",
+  "story_flag": "STORY_000321",
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "item_id": "ITEM_0188",
+  "item_name": "Fishing Rod",
+  "story_flag": "STORY_000321",
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "item_id": "ITEM_0208",
+  "item_name": "Throwing Knife",
+  "story_flag": "STORY_000321",
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "item_id": "ITEM_0221",
+  "item_name": "Paint Pod",
+  "story_flag": "STORY_000321",
+  "_row": 10
+ },
+ {
+  "index": 10,
+  "item_id": "ITEM_0435",
+  "item_name": "Equipped Mantles",
+  "story_flag": "STORY_000140",
+  "_row": 11
+ },
+ {
+  "index": 9,
+  "item_id": "ITEM_0502",
+  "item_name": null,
+  "story_flag": "STORY_000321",
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "item_id": "ITEM_0807",
+  "item_name": "Assisted Combo: Akuma",
+  "story_flag": "STORY_000707",
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "item_id": "ITEM_0808",
+  "item_name": "Gou Hadoken",
+  "story_flag": "STORY_000707",
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "item_id": "ITEM_0809",
+  "item_name": "Drive Impact",
+  "story_flag": "STORY_000707",
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "item_id": "ITEM_0841",
+  "item_name": "The Blackest Night",
+  "story_flag": "STORY_000739",
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "item_id": "ITEM_0842",
+  "item_name": "Pom Motif",
+  "story_flag": "STORY_000738",
+  "_row": 17
+ }
+]

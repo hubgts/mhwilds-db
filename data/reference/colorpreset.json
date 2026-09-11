@@ -1,0 +1,577 @@
+[
+ {
+  "ID": "00000000",
+  "Name": "I_NONE",
+  "_row": 2
+ },
+ {
+  "ID": "00000001",
+  "Name": "I_WHITE",
+  "_row": 3
+ },
+ {
+  "ID": "00000002",
+  "Name": "I_GRAY",
+  "_row": 4
+ },
+ {
+  "ID": "00000003",
+  "Name": "I_ROSE",
+  "_row": 5
+ },
+ {
+  "ID": "00000004",
+  "Name": "I_PINK",
+  "_row": 6
+ },
+ {
+  "ID": "00000005",
+  "Name": "I_RED",
+  "_row": 7
+ },
+ {
+  "ID": "00000006",
+  "Name": "I_VERMILION",
+  "_row": 8
+ },
+ {
+  "ID": "00000007",
+  "Name": "I_ORANGE",
+  "_row": 9
+ },
+ {
+  "ID": "00000008",
+  "Name": "I_BROWN",
+  "_row": 10
+ },
+ {
+  "ID": "00000009",
+  "Name": "I_IVORY",
+  "_row": 11
+ },
+ {
+  "ID": "0000000A",
+  "Name": "I_YELLOW",
+  "_row": 12
+ },
+ {
+  "ID": "0000000B",
+  "Name": "I_LEMON",
+  "_row": 13
+ },
+ {
+  "ID": "0000000C",
+  "Name": "I_SGREEN",
+  "_row": 14
+ },
+ {
+  "ID": "0000000D",
+  "Name": "I_MOS",
+  "_row": 15
+ },
+ {
+  "ID": "0000000E",
+  "Name": "I_GREEN",
+  "_row": 16
+ },
+ {
+  "ID": "0000000F",
+  "Name": "I_EMERALD",
+  "_row": 17
+ },
+ {
+  "ID": "00000010",
+  "Name": "I_SKY",
+  "_row": 18
+ },
+ {
+  "ID": "00000011",
+  "Name": "I_BLUE",
+  "_row": 19
+ },
+ {
+  "ID": "00000012",
+  "Name": "I_ULTRAMARINE",
+  "_row": 20
+ },
+ {
+  "ID": "00000013",
+  "Name": "I_BPURPLE",
+  "_row": 21
+ },
+ {
+  "ID": "00000014",
+  "Name": "I_PURPLE",
+  "_row": 22
+ },
+ {
+  "ID": "00000015",
+  "Name": "I_DPURPLE",
+  "_row": 23
+ },
+ {
+  "ID": "00000016",
+  "Name": "RARE_01",
+  "_row": 24
+ },
+ {
+  "ID": "00000017",
+  "Name": "RARE_02",
+  "_row": 25
+ },
+ {
+  "ID": "00000018",
+  "Name": "RARE_03",
+  "_row": 26
+ },
+ {
+  "ID": "00000019",
+  "Name": "RARE_04",
+  "_row": 27
+ },
+ {
+  "ID": "0000001A",
+  "Name": "RARE_05",
+  "_row": 28
+ },
+ {
+  "ID": "0000001B",
+  "Name": "RARE_06",
+  "_row": 29
+ },
+ {
+  "ID": "0000001C",
+  "Name": "RARE_07",
+  "_row": 30
+ },
+ {
+  "ID": "0000001D",
+  "Name": "RARE_08",
+  "_row": 31
+ },
+ {
+  "ID": "0000001E",
+  "Name": "RARE_09",
+  "_row": 32
+ },
+ {
+  "ID": "0000001F",
+  "Name": "RARE_10",
+  "_row": 33
+ },
+ {
+  "ID": "00000020",
+  "Name": "RARE_11",
+  "_row": 34
+ },
+ {
+  "ID": "00000021",
+  "Name": "RARE_12",
+  "_row": 35
+ },
+ {
+  "ID": "00000022",
+  "Name": "Rank_Prog00",
+  "_row": 36
+ },
+ {
+  "ID": "00000023",
+  "Name": "Rank_Prog01",
+  "_row": 37
+ },
+ {
+  "ID": "00000024",
+  "Name": "Rank_Prog02",
+  "_row": 38
+ },
+ {
+  "ID": "00000025",
+  "Name": "Rank_Prog03",
+  "_row": 39
+ },
+ {
+  "ID": "00000026",
+  "Name": "TXT_White01",
+  "_row": 40
+ },
+ {
+  "ID": "00000027",
+  "Name": "TXT_White02",
+  "_row": 41
+ },
+ {
+  "ID": "00000028",
+  "Name": "TXT_White03",
+  "_row": 42
+ },
+ {
+  "ID": "00000029",
+  "Name": "TXT_Gray01",
+  "_row": 43
+ },
+ {
+  "ID": "0000002A",
+  "Name": "TXT_Black01",
+  "_row": 44
+ },
+ {
+  "ID": "0000002B",
+  "Name": "TXT_Safe",
+  "_row": 45
+ },
+ {
+  "ID": "0000002C",
+  "Name": "TXT_Danger",
+  "_row": 46
+ },
+ {
+  "ID": "0000002D",
+  "Name": "TXT_Accent",
+  "_row": 47
+ },
+ {
+  "ID": "0000002E",
+  "Name": "TXT_Accent2",
+  "_row": 48
+ },
+ {
+  "ID": "0000002F",
+  "Name": "TXT_Accent3",
+  "_row": 49
+ },
+ {
+  "ID": "00000030",
+  "Name": "TXT_Sub",
+  "_row": 50
+ },
+ {
+  "ID": "00000031",
+  "Name": "TXT_Max",
+  "_row": 51
+ },
+ {
+  "ID": "00000032",
+  "Name": "TXT_CharaName",
+  "_row": 52
+ },
+ {
+  "ID": "00000033",
+  "Name": "TXT_Choice_01",
+  "_row": 53
+ },
+ {
+  "ID": "00000034",
+  "Name": "TXT_Choice_02",
+  "_row": 54
+ },
+ {
+  "ID": "00000035",
+  "Name": "TXT_Title",
+  "_row": 55
+ },
+ {
+  "ID": "00000036",
+  "Name": "TXT_currency00num",
+  "_row": 56
+ },
+ {
+  "ID": "00000037",
+  "Name": "TXT_currency00unit",
+  "_row": 57
+ },
+ {
+  "ID": "00000038",
+  "Name": "TXT_currency01num",
+  "_row": 58
+ },
+ {
+  "ID": "00000039",
+  "Name": "TXT_currency01unit",
+  "_row": 59
+ },
+ {
+  "ID": "0000003A",
+  "Name": "TXT_currency02num",
+  "_row": 60
+ },
+ {
+  "ID": "0000003B",
+  "Name": "TXT_currency02unit",
+  "_row": 61
+ },
+ {
+  "ID": "0000003C",
+  "Name": "TXT_currency03num",
+  "_row": 62
+ },
+ {
+  "ID": "0000003D",
+  "Name": "TXT_currency03unit",
+  "_row": 63
+ },
+ {
+  "ID": "0000003E",
+  "Name": "GUI_White",
+  "_row": 64
+ },
+ {
+  "ID": "0000003F",
+  "Name": "GUI_Black",
+  "_row": 65
+ },
+ {
+  "ID": "00000040",
+  "Name": "GUI_Disable",
+  "_row": 66
+ },
+ {
+  "ID": "00000041",
+  "Name": "GUI_Safe",
+  "_row": 67
+ },
+ {
+  "ID": "00000042",
+  "Name": "GUI_Danger",
+  "_row": 68
+ },
+ {
+  "ID": "00000043",
+  "Name": "GUI_Acrtive01",
+  "_row": 69
+ },
+ {
+  "ID": "00000044",
+  "Name": "GUI_Acrtive02",
+  "_row": 70
+ },
+ {
+  "ID": "00000045",
+  "Name": "GUI_DShadow",
+  "_row": 71
+ },
+ {
+  "ID": "00000046",
+  "Name": "GUI_Psolo",
+  "_row": 72
+ },
+ {
+  "ID": "00000047",
+  "Name": "GUI_P1",
+  "_row": 73
+ },
+ {
+  "ID": "00000048",
+  "Name": "GUI_P2",
+  "_row": 74
+ },
+ {
+  "ID": "00000049",
+  "Name": "GUI_P3",
+  "_row": 75
+ },
+ {
+  "ID": "0000004A",
+  "Name": "GUI_P4",
+  "_row": 76
+ },
+ {
+  "ID": "0000004B",
+  "Name": "GUI_PNPC",
+  "_row": 77
+ },
+ {
+  "ID": "0000004C",
+  "Name": "GUI_PStealth",
+  "_row": 78
+ },
+ {
+  "ID": "0000004D",
+  "Name": "GUI_Tab00",
+  "_row": 79
+ },
+ {
+  "ID": "0000004E",
+  "Name": "GUI_Tab01",
+  "_row": 80
+ },
+ {
+  "ID": "0000004F",
+  "Name": "GUI_Tab02",
+  "_row": 81
+ },
+ {
+  "ID": "00000050",
+  "Name": "GUI_Tab03",
+  "_row": 82
+ },
+ {
+  "ID": "00000051",
+  "Name": "GUI_Tab04",
+  "_row": 83
+ },
+ {
+  "ID": "00000052",
+  "Name": "GUI_Tab05",
+  "_row": 84
+ },
+ {
+  "ID": "00000053",
+  "Name": "GUI_Tab06",
+  "_row": 85
+ },
+ {
+  "ID": "00000054",
+  "Name": "GUI_MapEmWarningLv1",
+  "_row": 86
+ },
+ {
+  "ID": "00000055",
+  "Name": "GUI_MapEmWarningLv2",
+  "_row": 87
+ },
+ {
+  "ID": "00000056",
+  "Name": "GUI_MapEmWarningLv3",
+  "_row": 88
+ },
+ {
+  "ID": "00000057",
+  "Name": "GUI_MapEmWarningLv4",
+  "_row": 89
+ },
+ {
+  "ID": "00000058",
+  "Name": "GUI_MapEmWarningLv5",
+  "_row": 90
+ },
+ {
+  "ID": "00000059",
+  "Name": "GUI_Sharp00",
+  "_row": 91
+ },
+ {
+  "ID": "0000005A",
+  "Name": "GUI_Sharp01",
+  "_row": 92
+ },
+ {
+  "ID": "0000005B",
+  "Name": "GUI_Sharp02",
+  "_row": 93
+ },
+ {
+  "ID": "0000005C",
+  "Name": "GUI_Sharp03",
+  "_row": 94
+ },
+ {
+  "ID": "0000005D",
+  "Name": "GUI_Sharp04",
+  "_row": 95
+ },
+ {
+  "ID": "0000005E",
+  "Name": "GUI_Sharp05",
+  "_row": 96
+ },
+ {
+  "ID": "0000005F",
+  "Name": "GUI_Sharp06",
+  "_row": 97
+ },
+ {
+  "ID": "00000060",
+  "Name": "GUI_LSword_Spr00",
+  "_row": 98
+ },
+ {
+  "ID": "00000061",
+  "Name": "GUI_LSword_Spr01",
+  "_row": 99
+ },
+ {
+  "ID": "00000062",
+  "Name": "GUI_LSword_Spr02",
+  "_row": 100
+ },
+ {
+  "ID": "00000063",
+  "Name": "GUI_Insect_Ext00",
+  "_row": 101
+ },
+ {
+  "ID": "00000064",
+  "Name": "GUI_Insect_Ext01",
+  "_row": 102
+ },
+ {
+  "ID": "00000065",
+  "Name": "GUI_Insect_Ext02",
+  "_row": 103
+ },
+ {
+  "ID": "00000066",
+  "Name": "GUI_Insect_Ext03",
+  "_row": 104
+ },
+ {
+  "ID": "00000067",
+  "Name": "GUI_Insect_Ext02_2",
+  "_row": 105
+ },
+ {
+  "ID": "00000068",
+  "Name": "GUI_Horn_Note00",
+  "_row": 106
+ },
+ {
+  "ID": "00000069",
+  "Name": "GUI_Horn_Note01",
+  "_row": 107
+ },
+ {
+  "ID": "0000006A",
+  "Name": "GUI_Horn_Note02",
+  "_row": 108
+ },
+ {
+  "ID": "0000006B",
+  "Name": "GUI_Horn_Note03",
+  "_row": 109
+ },
+ {
+  "ID": "0000006C",
+  "Name": "GUI_Horn_Note04",
+  "_row": 110
+ },
+ {
+  "ID": "0000006D",
+  "Name": "GUI_Horn_Note05",
+  "_row": 111
+ },
+ {
+  "ID": "0000006E",
+  "Name": "GUI_Horn_Note06",
+  "_row": 112
+ },
+ {
+  "ID": "0000006F",
+  "Name": "GUI_Horn_Note07",
+  "_row": 113
+ },
+ {
+  "ID": "00000070",
+  "Name": "GUI_Horn_Activation",
+  "_row": 114
+ },
+ {
+  "ID": "00000071",
+  "Name": "GUI_Horn_ActivationAdd",
+  "_row": 115
+ },
+ {
+  "ID": "00000072",
+  "Name": "MAX",
+  "_row": 116
+ }
+]

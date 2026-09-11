@@ -1,0 +1,551 @@
+[
+ {
+  "index": 0,
+  "data_id": 1,
+  "sort_id": 1,
+  "story_flag": "STORY_000552",
+  "series": "ID_020 (Conga)",
+  "part": "HELM",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "data_id": 2,
+  "sort_id": 2,
+  "story_flag": "STORY_000552",
+  "series": "ID_020 (Conga)",
+  "part": "BODY",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "data_id": 3,
+  "sort_id": 3,
+  "story_flag": "STORY_000552",
+  "series": "ID_020 (Conga)",
+  "part": "ARM",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "data_id": 4,
+  "sort_id": 4,
+  "story_flag": "STORY_000552",
+  "series": "ID_020 (Conga)",
+  "part": "WAIST",
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "data_id": 5,
+  "sort_id": 5,
+  "story_flag": "STORY_000552",
+  "series": "ID_020 (Conga)",
+  "part": "LEG",
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "data_id": 6,
+  "sort_id": 6,
+  "story_flag": "STORY_000553",
+  "series": "ID_006 (Alloy)",
+  "part": "HELM",
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "data_id": 7,
+  "sort_id": 7,
+  "story_flag": "STORY_000553",
+  "series": "ID_006 (Alloy)",
+  "part": "BODY",
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "data_id": 8,
+  "sort_id": 8,
+  "story_flag": "STORY_000553",
+  "series": "ID_006 (Alloy)",
+  "part": "ARM",
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "data_id": 9,
+  "sort_id": 9,
+  "story_flag": "STORY_000553",
+  "series": "ID_006 (Alloy)",
+  "part": "WAIST",
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "data_id": 10,
+  "sort_id": 10,
+  "story_flag": "STORY_000553",
+  "series": "ID_006 (Alloy)",
+  "part": "LEG",
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "data_id": 11,
+  "sort_id": 11,
+  "story_flag": "STORY_000555",
+  "series": "ID_007 (Ingot)",
+  "part": "HELM",
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "data_id": 12,
+  "sort_id": 12,
+  "story_flag": "STORY_000555",
+  "series": "ID_007 (Ingot)",
+  "part": "BODY",
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "data_id": 13,
+  "sort_id": 13,
+  "story_flag": "STORY_000555",
+  "series": "ID_007 (Ingot)",
+  "part": "ARM",
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "data_id": 14,
+  "sort_id": 14,
+  "story_flag": "STORY_000555",
+  "series": "ID_007 (Ingot)",
+  "part": "WAIST",
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "data_id": 15,
+  "sort_id": 15,
+  "story_flag": "STORY_000555",
+  "series": "ID_007 (Ingot)",
+  "part": "LEG",
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "data_id": 16,
+  "sort_id": 16,
+  "story_flag": "STORY_000556",
+  "series": "ID_023 (Rompopolo)",
+  "part": "HELM",
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "data_id": 17,
+  "sort_id": 17,
+  "story_flag": "STORY_000556",
+  "series": "ID_023 (Rompopolo)",
+  "part": "BODY",
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "data_id": 18,
+  "sort_id": 18,
+  "story_flag": "STORY_000556",
+  "series": "ID_023 (Rompopolo)",
+  "part": "ARM",
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "data_id": 19,
+  "sort_id": 19,
+  "story_flag": "STORY_000556",
+  "series": "ID_023 (Rompopolo)",
+  "part": "WAIST",
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "data_id": 20,
+  "sort_id": 20,
+  "story_flag": "STORY_000556",
+  "series": "ID_023 (Rompopolo)",
+  "part": "LEG",
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "data_id": 21,
+  "sort_id": 21,
+  "story_flag": "STORY_000557",
+  "series": "ID_024 (Nerscylla)",
+  "part": "HELM",
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "data_id": 22,
+  "sort_id": 22,
+  "story_flag": "STORY_000557",
+  "series": "ID_024 (Nerscylla)",
+  "part": "BODY",
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "data_id": 23,
+  "sort_id": 23,
+  "story_flag": "STORY_000557",
+  "series": "ID_024 (Nerscylla)",
+  "part": "ARM",
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "data_id": 24,
+  "sort_id": 24,
+  "story_flag": "STORY_000557",
+  "series": "ID_024 (Nerscylla)",
+  "part": "WAIST",
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "data_id": 25,
+  "sort_id": 25,
+  "story_flag": "STORY_000557",
+  "series": "ID_024 (Nerscylla)",
+  "part": "LEG",
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "data_id": 26,
+  "sort_id": 26,
+  "story_flag": "STORY_000558",
+  "series": "ID_025 (Hirabami)",
+  "part": "HELM",
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "data_id": 27,
+  "sort_id": 27,
+  "story_flag": "STORY_000558",
+  "series": "ID_025 (Hirabami)",
+  "part": "BODY",
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "data_id": 28,
+  "sort_id": 28,
+  "story_flag": "STORY_000558",
+  "series": "ID_025 (Hirabami)",
+  "part": "ARM",
+  "_row": 29
+ },
+ {
+  "index": 28,
+  "data_id": 29,
+  "sort_id": 29,
+  "story_flag": "STORY_000558",
+  "series": "ID_025 (Hirabami)",
+  "part": "WAIST",
+  "_row": 30
+ },
+ {
+  "index": 29,
+  "data_id": 30,
+  "sort_id": 30,
+  "story_flag": "STORY_000558",
+  "series": "ID_025 (Hirabami)",
+  "part": "LEG",
+  "_row": 31
+ },
+ {
+  "index": 30,
+  "data_id": 31,
+  "sort_id": 31,
+  "story_flag": "STORY_000559",
+  "series": "ID_026 (Ajarakan)",
+  "part": "HELM",
+  "_row": 32
+ },
+ {
+  "index": 31,
+  "data_id": 32,
+  "sort_id": 32,
+  "story_flag": "STORY_000559",
+  "series": "ID_026 (Ajarakan)",
+  "part": "BODY",
+  "_row": 33
+ },
+ {
+  "index": 32,
+  "data_id": 33,
+  "sort_id": 33,
+  "story_flag": "STORY_000559",
+  "series": "ID_026 (Ajarakan)",
+  "part": "ARM",
+  "_row": 34
+ },
+ {
+  "index": 33,
+  "data_id": 34,
+  "sort_id": 34,
+  "story_flag": "STORY_000559",
+  "series": "ID_026 (Ajarakan)",
+  "part": "WAIST",
+  "_row": 35
+ },
+ {
+  "index": 34,
+  "data_id": 35,
+  "sort_id": 35,
+  "story_flag": "STORY_000559",
+  "series": "ID_026 (Ajarakan)",
+  "part": "LEG",
+  "_row": 36
+ },
+ {
+  "index": 35,
+  "data_id": 36,
+  "sort_id": 36,
+  "story_flag": "STORY_000676",
+  "series": "ID_029 (Uth Duna)",
+  "part": "WAIST",
+  "_row": 37
+ },
+ {
+  "index": 36,
+  "data_id": 37,
+  "sort_id": 37,
+  "story_flag": "STORY_000676",
+  "series": "ID_029 (Uth Duna)",
+  "part": "LEG",
+  "_row": 38
+ },
+ {
+  "index": 37,
+  "data_id": 38,
+  "sort_id": 38,
+  "story_flag": "STORY_000677",
+  "series": "ID_028 (Rey Dau)",
+  "part": "HELM",
+  "_row": 39
+ },
+ {
+  "index": 38,
+  "data_id": 39,
+  "sort_id": 39,
+  "story_flag": "STORY_000677",
+  "series": "ID_028 (Rey Dau)",
+  "part": "BODY",
+  "_row": 40
+ },
+ {
+  "index": 39,
+  "data_id": 40,
+  "sort_id": 40,
+  "story_flag": "STORY_000560",
+  "series": "ID_030 (Nu Udra)",
+  "part": "HELM",
+  "_row": 41
+ },
+ {
+  "index": 40,
+  "data_id": 41,
+  "sort_id": 41,
+  "story_flag": "STORY_000560",
+  "series": "ID_030 (Nu Udra)",
+  "part": "ARM",
+  "_row": 42
+ },
+ {
+  "index": 41,
+  "data_id": 42,
+  "sort_id": 42,
+  "story_flag": "STORY_000563",
+  "series": "ID_027 (Xu Wu)",
+  "part": "HELM",
+  "_row": 43
+ },
+ {
+  "index": 42,
+  "data_id": 43,
+  "sort_id": 43,
+  "story_flag": "STORY_000563",
+  "series": "ID_027 (Xu Wu)",
+  "part": "BODY",
+  "_row": 44
+ },
+ {
+  "index": 43,
+  "data_id": 44,
+  "sort_id": 44,
+  "story_flag": "STORY_000563",
+  "series": "ID_027 (Xu Wu)",
+  "part": "ARM",
+  "_row": 45
+ },
+ {
+  "index": 44,
+  "data_id": 45,
+  "sort_id": 45,
+  "story_flag": "STORY_000563",
+  "series": "ID_027 (Xu Wu)",
+  "part": "WAIST",
+  "_row": 46
+ },
+ {
+  "index": 45,
+  "data_id": 46,
+  "sort_id": 46,
+  "story_flag": "STORY_000563",
+  "series": "ID_027 (Xu Wu)",
+  "part": "LEG",
+  "_row": 47
+ },
+ {
+  "index": 46,
+  "data_id": 47,
+  "sort_id": 47,
+  "story_flag": "STORY_000565",
+  "series": "ID_034 (Guardian Ebony)",
+  "part": "HELM",
+  "_row": 48
+ },
+ {
+  "index": 47,
+  "data_id": 48,
+  "sort_id": 48,
+  "story_flag": "STORY_000565",
+  "series": "ID_034 (Guardian Ebony)",
+  "part": "BODY",
+  "_row": 49
+ },
+ {
+  "index": 48,
+  "data_id": 49,
+  "sort_id": 49,
+  "story_flag": "STORY_000565",
+  "series": "ID_034 (Guardian Ebony)",
+  "part": "ARM",
+  "_row": 50
+ },
+ {
+  "index": 49,
+  "data_id": 50,
+  "sort_id": 50,
+  "story_flag": "STORY_000565",
+  "series": "ID_034 (Guardian Ebony)",
+  "part": "WAIST",
+  "_row": 51
+ },
+ {
+  "index": 50,
+  "data_id": 51,
+  "sort_id": 51,
+  "story_flag": "STORY_000565",
+  "series": "ID_034 (Guardian Ebony)",
+  "part": "LEG",
+  "_row": 52
+ },
+ {
+  "index": 51,
+  "data_id": 52,
+  "sort_id": 52,
+  "story_flag": "STORY_000562",
+  "series": "ID_033 (Guardian Rathalos)",
+  "part": "HELM",
+  "_row": 53
+ },
+ {
+  "index": 52,
+  "data_id": 53,
+  "sort_id": 53,
+  "story_flag": "STORY_000562",
+  "series": "ID_033 (Guardian Rathalos)",
+  "part": "BODY",
+  "_row": 54
+ },
+ {
+  "index": 53,
+  "data_id": 54,
+  "sort_id": 54,
+  "story_flag": "STORY_000562",
+  "series": "ID_033 (Guardian Rathalos)",
+  "part": "ARM",
+  "_row": 55
+ },
+ {
+  "index": 54,
+  "data_id": 55,
+  "sort_id": 55,
+  "story_flag": "STORY_000562",
+  "series": "ID_033 (Guardian Rathalos)",
+  "part": "WAIST",
+  "_row": 56
+ },
+ {
+  "index": 55,
+  "data_id": 56,
+  "sort_id": 56,
+  "story_flag": "STORY_000562",
+  "series": "ID_033 (Guardian Rathalos)",
+  "part": "LEG",
+  "_row": 57
+ },
+ {
+  "index": 56,
+  "data_id": 57,
+  "sort_id": 57,
+  "story_flag": "STORY_000564",
+  "series": "ID_032 (Guardian Doshaguma)",
+  "part": "HELM",
+  "_row": 58
+ },
+ {
+  "index": 57,
+  "data_id": 58,
+  "sort_id": 58,
+  "story_flag": "STORY_000564",
+  "series": "ID_032 (Guardian Doshaguma)",
+  "part": "BODY",
+  "_row": 59
+ },
+ {
+  "index": 58,
+  "data_id": 59,
+  "sort_id": 59,
+  "story_flag": "STORY_000564",
+  "series": "ID_032 (Guardian Doshaguma)",
+  "part": "ARM",
+  "_row": 60
+ },
+ {
+  "index": 59,
+  "data_id": 60,
+  "sort_id": 60,
+  "story_flag": "STORY_000564",
+  "series": "ID_032 (Guardian Doshaguma)",
+  "part": "WAIST",
+  "_row": 61
+ },
+ {
+  "index": 60,
+  "data_id": 61,
+  "sort_id": 61,
+  "story_flag": "STORY_000564",
+  "series": "ID_032 (Guardian Doshaguma)",
+  "part": "LEG",
+  "_row": 62
+ }
+]

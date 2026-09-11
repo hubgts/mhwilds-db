@@ -1,0 +1,6995 @@
+[
+ {
+  "index": 0,
+  "rank": 1,
+  "points": 0,
+  "cap": "INVALID",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "rank": 2,
+  "points": 0,
+  "cap": "MAIN_2",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "rank": 3,
+  "points": 0,
+  "cap": "MAIN_3",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "rank": 4,
+  "points": 0,
+  "cap": "MAIN_4",
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "rank": 5,
+  "points": 0,
+  "cap": "MAIN_5",
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "rank": 6,
+  "points": 0,
+  "cap": "MAIN_6",
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "rank": 7,
+  "points": 0,
+  "cap": "MAIN_7",
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "rank": 8,
+  "points": 0,
+  "cap": "MAIN_8",
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "rank": 9,
+  "points": 0,
+  "cap": "EX_9_15",
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "rank": 10,
+  "points": 2640,
+  "cap": "EX_9_15",
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "rank": 11,
+  "points": 3380,
+  "cap": "EX_9_15",
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "rank": 12,
+  "points": 4160,
+  "cap": "EX_9_15",
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "rank": 13,
+  "points": 4980,
+  "cap": "EX_9_15",
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "rank": 14,
+  "points": 5840,
+  "cap": "EX_9_15",
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "rank": 15,
+  "points": 6740,
+  "cap": "EX_9_15",
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "rank": 16,
+  "points": 6740,
+  "cap": "EX_16_20",
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "rank": 17,
+  "points": 7840,
+  "cap": "EX_16_20",
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "rank": 18,
+  "points": 9040,
+  "cap": "EX_16_20",
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "rank": 19,
+  "points": 10340,
+  "cap": "EX_16_20",
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "rank": 20,
+  "points": 11740,
+  "cap": "EX_16_20",
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "rank": 21,
+  "points": 11740,
+  "cap": "EX_21_40",
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "rank": 22,
+  "points": 13140,
+  "cap": "EX_21_40",
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "rank": 23,
+  "points": 14540,
+  "cap": "EX_21_40",
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "rank": 24,
+  "points": 15940,
+  "cap": "EX_21_40",
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "rank": 25,
+  "points": 17340,
+  "cap": "EX_21_40",
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "rank": 26,
+  "points": 18740,
+  "cap": "EX_21_40",
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "rank": 27,
+  "points": 20140,
+  "cap": "EX_21_40",
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "rank": 28,
+  "points": 21540,
+  "cap": "EX_21_40",
+  "_row": 29
+ },
+ {
+  "index": 28,
+  "rank": 29,
+  "points": 22940,
+  "cap": "EX_21_40",
+  "_row": 30
+ },
+ {
+  "index": 29,
+  "rank": 30,
+  "points": 24340,
+  "cap": "EX_21_40",
+  "_row": 31
+ },
+ {
+  "index": 30,
+  "rank": 31,
+  "points": 25810,
+  "cap": "EX_21_40",
+  "_row": 32
+ },
+ {
+  "index": 31,
+  "rank": 32,
+  "points": 27350,
+  "cap": "EX_21_40",
+  "_row": 33
+ },
+ {
+  "index": 32,
+  "rank": 33,
+  "points": 28960,
+  "cap": "EX_21_40",
+  "_row": 34
+ },
+ {
+  "index": 33,
+  "rank": 34,
+  "points": 30640,
+  "cap": "EX_21_40",
+  "_row": 35
+ },
+ {
+  "index": 34,
+  "rank": 35,
+  "points": 32390,
+  "cap": "EX_21_40",
+  "_row": 36
+ },
+ {
+  "index": 35,
+  "rank": 36,
+  "points": 34210,
+  "cap": "EX_21_40",
+  "_row": 37
+ },
+ {
+  "index": 36,
+  "rank": 37,
+  "points": 36100,
+  "cap": "EX_21_40",
+  "_row": 38
+ },
+ {
+  "index": 37,
+  "rank": 38,
+  "points": 38060,
+  "cap": "EX_21_40",
+  "_row": 39
+ },
+ {
+  "index": 38,
+  "rank": 39,
+  "points": 40090,
+  "cap": "EX_21_40",
+  "_row": 40
+ },
+ {
+  "index": 39,
+  "rank": 40,
+  "points": 42190,
+  "cap": "EX_21_40",
+  "_row": 41
+ },
+ {
+  "index": 40,
+  "rank": 41,
+  "points": 42190,
+  "cap": "EX_41_999",
+  "_row": 42
+ },
+ {
+  "index": 41,
+  "rank": 42,
+  "points": 44310,
+  "cap": "EX_41_999",
+  "_row": 43
+ },
+ {
+  "index": 42,
+  "rank": 43,
+  "points": 46440,
+  "cap": "EX_41_999",
+  "_row": 44
+ },
+ {
+  "index": 43,
+  "rank": 44,
+  "points": 48580,
+  "cap": "EX_41_999",
+  "_row": 45
+ },
+ {
+  "index": 44,
+  "rank": 45,
+  "points": 50720,
+  "cap": "EX_41_999",
+  "_row": 46
+ },
+ {
+  "index": 45,
+  "rank": 46,
+  "points": 52880,
+  "cap": "EX_41_999",
+  "_row": 47
+ },
+ {
+  "index": 46,
+  "rank": 47,
+  "points": 55050,
+  "cap": "EX_41_999",
+  "_row": 48
+ },
+ {
+  "index": 47,
+  "rank": 48,
+  "points": 57230,
+  "cap": "EX_41_999",
+  "_row": 49
+ },
+ {
+  "index": 48,
+  "rank": 49,
+  "points": 59420,
+  "cap": "EX_41_999",
+  "_row": 50
+ },
+ {
+  "index": 49,
+  "rank": 50,
+  "points": 61620,
+  "cap": "EX_41_999",
+  "_row": 51
+ },
+ {
+  "index": 50,
+  "rank": 51,
+  "points": 63820,
+  "cap": "EX_41_999",
+  "_row": 52
+ },
+ {
+  "index": 51,
+  "rank": 52,
+  "points": 66020,
+  "cap": "EX_41_999",
+  "_row": 53
+ },
+ {
+  "index": 52,
+  "rank": 53,
+  "points": 68220,
+  "cap": "EX_41_999",
+  "_row": 54
+ },
+ {
+  "index": 53,
+  "rank": 54,
+  "points": 70420,
+  "cap": "EX_41_999",
+  "_row": 55
+ },
+ {
+  "index": 54,
+  "rank": 55,
+  "points": 72650,
+  "cap": "EX_41_999",
+  "_row": 56
+ },
+ {
+  "index": 55,
+  "rank": 56,
+  "points": 74880,
+  "cap": "EX_41_999",
+  "_row": 57
+ },
+ {
+  "index": 56,
+  "rank": 57,
+  "points": 77110,
+  "cap": "EX_41_999",
+  "_row": 58
+ },
+ {
+  "index": 57,
+  "rank": 58,
+  "points": 79340,
+  "cap": "EX_41_999",
+  "_row": 59
+ },
+ {
+  "index": 58,
+  "rank": 59,
+  "points": 81570,
+  "cap": "EX_41_999",
+  "_row": 60
+ },
+ {
+  "index": 59,
+  "rank": 60,
+  "points": 83830,
+  "cap": "EX_41_999",
+  "_row": 61
+ },
+ {
+  "index": 60,
+  "rank": 61,
+  "points": 86090,
+  "cap": "EX_41_999",
+  "_row": 62
+ },
+ {
+  "index": 61,
+  "rank": 62,
+  "points": 88350,
+  "cap": "EX_41_999",
+  "_row": 63
+ },
+ {
+  "index": 62,
+  "rank": 63,
+  "points": 90610,
+  "cap": "EX_41_999",
+  "_row": 64
+ },
+ {
+  "index": 63,
+  "rank": 64,
+  "points": 92870,
+  "cap": "EX_41_999",
+  "_row": 65
+ },
+ {
+  "index": 64,
+  "rank": 65,
+  "points": 95160,
+  "cap": "EX_41_999",
+  "_row": 66
+ },
+ {
+  "index": 65,
+  "rank": 66,
+  "points": 97450,
+  "cap": "EX_41_999",
+  "_row": 67
+ },
+ {
+  "index": 66,
+  "rank": 67,
+  "points": 99740,
+  "cap": "EX_41_999",
+  "_row": 68
+ },
+ {
+  "index": 67,
+  "rank": 68,
+  "points": 102030,
+  "cap": "EX_41_999",
+  "_row": 69
+ },
+ {
+  "index": 68,
+  "rank": 69,
+  "points": 104320,
+  "cap": "EX_41_999",
+  "_row": 70
+ },
+ {
+  "index": 69,
+  "rank": 70,
+  "points": 106640,
+  "cap": "EX_41_999",
+  "_row": 71
+ },
+ {
+  "index": 70,
+  "rank": 71,
+  "points": 108960,
+  "cap": "EX_41_999",
+  "_row": 72
+ },
+ {
+  "index": 71,
+  "rank": 72,
+  "points": 111280,
+  "cap": "EX_41_999",
+  "_row": 73
+ },
+ {
+  "index": 72,
+  "rank": 73,
+  "points": 113600,
+  "cap": "EX_41_999",
+  "_row": 74
+ },
+ {
+  "index": 73,
+  "rank": 74,
+  "points": 115920,
+  "cap": "EX_41_999",
+  "_row": 75
+ },
+ {
+  "index": 74,
+  "rank": 75,
+  "points": 118270,
+  "cap": "EX_41_999",
+  "_row": 76
+ },
+ {
+  "index": 75,
+  "rank": 76,
+  "points": 120620,
+  "cap": "EX_41_999",
+  "_row": 77
+ },
+ {
+  "index": 76,
+  "rank": 77,
+  "points": 122970,
+  "cap": "EX_41_999",
+  "_row": 78
+ },
+ {
+  "index": 77,
+  "rank": 78,
+  "points": 125320,
+  "cap": "EX_41_999",
+  "_row": 79
+ },
+ {
+  "index": 78,
+  "rank": 79,
+  "points": 127670,
+  "cap": "EX_41_999",
+  "_row": 80
+ },
+ {
+  "index": 79,
+  "rank": 80,
+  "points": 130050,
+  "cap": "EX_41_999",
+  "_row": 81
+ },
+ {
+  "index": 80,
+  "rank": 81,
+  "points": 132430,
+  "cap": "EX_41_999",
+  "_row": 82
+ },
+ {
+  "index": 81,
+  "rank": 82,
+  "points": 134810,
+  "cap": "EX_41_999",
+  "_row": 83
+ },
+ {
+  "index": 82,
+  "rank": 83,
+  "points": 137190,
+  "cap": "EX_41_999",
+  "_row": 84
+ },
+ {
+  "index": 83,
+  "rank": 84,
+  "points": 139570,
+  "cap": "EX_41_999",
+  "_row": 85
+ },
+ {
+  "index": 84,
+  "rank": 85,
+  "points": 141980,
+  "cap": "EX_41_999",
+  "_row": 86
+ },
+ {
+  "index": 85,
+  "rank": 86,
+  "points": 144390,
+  "cap": "EX_41_999",
+  "_row": 87
+ },
+ {
+  "index": 86,
+  "rank": 87,
+  "points": 146800,
+  "cap": "EX_41_999",
+  "_row": 88
+ },
+ {
+  "index": 87,
+  "rank": 88,
+  "points": 149210,
+  "cap": "EX_41_999",
+  "_row": 89
+ },
+ {
+  "index": 88,
+  "rank": 89,
+  "points": 151620,
+  "cap": "EX_41_999",
+  "_row": 90
+ },
+ {
+  "index": 89,
+  "rank": 90,
+  "points": 154060,
+  "cap": "EX_41_999",
+  "_row": 91
+ },
+ {
+  "index": 90,
+  "rank": 91,
+  "points": 156500,
+  "cap": "EX_41_999",
+  "_row": 92
+ },
+ {
+  "index": 91,
+  "rank": 92,
+  "points": 158940,
+  "cap": "EX_41_999",
+  "_row": 93
+ },
+ {
+  "index": 92,
+  "rank": 93,
+  "points": 161380,
+  "cap": "EX_41_999",
+  "_row": 94
+ },
+ {
+  "index": 93,
+  "rank": 94,
+  "points": 163820,
+  "cap": "EX_41_999",
+  "_row": 95
+ },
+ {
+  "index": 94,
+  "rank": 95,
+  "points": 166290,
+  "cap": "EX_41_999",
+  "_row": 96
+ },
+ {
+  "index": 95,
+  "rank": 96,
+  "points": 168760,
+  "cap": "EX_41_999",
+  "_row": 97
+ },
+ {
+  "index": 96,
+  "rank": 97,
+  "points": 171230,
+  "cap": "EX_41_999",
+  "_row": 98
+ },
+ {
+  "index": 97,
+  "rank": 98,
+  "points": 173700,
+  "cap": "EX_41_999",
+  "_row": 99
+ },
+ {
+  "index": 98,
+  "rank": 99,
+  "points": 176170,
+  "cap": "EX_41_999",
+  "_row": 100
+ },
+ {
+  "index": 99,
+  "rank": 100,
+  "points": 178670,
+  "cap": "EX_41_999",
+  "_row": 101
+ },
+ {
+  "index": 100,
+  "rank": 101,
+  "points": 181170,
+  "cap": "EX_41_999",
+  "_row": 102
+ },
+ {
+  "index": 101,
+  "rank": 102,
+  "points": 183670,
+  "cap": "EX_41_999",
+  "_row": 103
+ },
+ {
+  "index": 102,
+  "rank": 103,
+  "points": 186170,
+  "cap": "EX_41_999",
+  "_row": 104
+ },
+ {
+  "index": 103,
+  "rank": 104,
+  "points": 188670,
+  "cap": "EX_41_999",
+  "_row": 105
+ },
+ {
+  "index": 104,
+  "rank": 105,
+  "points": 191200,
+  "cap": "EX_41_999",
+  "_row": 106
+ },
+ {
+  "index": 105,
+  "rank": 106,
+  "points": 193730,
+  "cap": "EX_41_999",
+  "_row": 107
+ },
+ {
+  "index": 106,
+  "rank": 107,
+  "points": 196260,
+  "cap": "EX_41_999",
+  "_row": 108
+ },
+ {
+  "index": 107,
+  "rank": 108,
+  "points": 198790,
+  "cap": "EX_41_999",
+  "_row": 109
+ },
+ {
+  "index": 108,
+  "rank": 109,
+  "points": 201320,
+  "cap": "EX_41_999",
+  "_row": 110
+ },
+ {
+  "index": 109,
+  "rank": 110,
+  "points": 203880,
+  "cap": "EX_41_999",
+  "_row": 111
+ },
+ {
+  "index": 110,
+  "rank": 111,
+  "points": 206440,
+  "cap": "EX_41_999",
+  "_row": 112
+ },
+ {
+  "index": 111,
+  "rank": 112,
+  "points": 209000,
+  "cap": "EX_41_999",
+  "_row": 113
+ },
+ {
+  "index": 112,
+  "rank": 113,
+  "points": 211560,
+  "cap": "EX_41_999",
+  "_row": 114
+ },
+ {
+  "index": 113,
+  "rank": 114,
+  "points": 214120,
+  "cap": "EX_41_999",
+  "_row": 115
+ },
+ {
+  "index": 114,
+  "rank": 115,
+  "points": 216710,
+  "cap": "EX_41_999",
+  "_row": 116
+ },
+ {
+  "index": 115,
+  "rank": 116,
+  "points": 219300,
+  "cap": "EX_41_999",
+  "_row": 117
+ },
+ {
+  "index": 116,
+  "rank": 117,
+  "points": 221890,
+  "cap": "EX_41_999",
+  "_row": 118
+ },
+ {
+  "index": 117,
+  "rank": 118,
+  "points": 224480,
+  "cap": "EX_41_999",
+  "_row": 119
+ },
+ {
+  "index": 118,
+  "rank": 119,
+  "points": 227070,
+  "cap": "EX_41_999",
+  "_row": 120
+ },
+ {
+  "index": 119,
+  "rank": 120,
+  "points": 229690,
+  "cap": "EX_41_999",
+  "_row": 121
+ },
+ {
+  "index": 120,
+  "rank": 121,
+  "points": 232310,
+  "cap": "EX_41_999",
+  "_row": 122
+ },
+ {
+  "index": 121,
+  "rank": 122,
+  "points": 234930,
+  "cap": "EX_41_999",
+  "_row": 123
+ },
+ {
+  "index": 122,
+  "rank": 123,
+  "points": 237550,
+  "cap": "EX_41_999",
+  "_row": 124
+ },
+ {
+  "index": 123,
+  "rank": 124,
+  "points": 240170,
+  "cap": "EX_41_999",
+  "_row": 125
+ },
+ {
+  "index": 124,
+  "rank": 125,
+  "points": 242820,
+  "cap": "EX_41_999",
+  "_row": 126
+ },
+ {
+  "index": 125,
+  "rank": 126,
+  "points": 245470,
+  "cap": "EX_41_999",
+  "_row": 127
+ },
+ {
+  "index": 126,
+  "rank": 127,
+  "points": 248120,
+  "cap": "EX_41_999",
+  "_row": 128
+ },
+ {
+  "index": 127,
+  "rank": 128,
+  "points": 250770,
+  "cap": "EX_41_999",
+  "_row": 129
+ },
+ {
+  "index": 128,
+  "rank": 129,
+  "points": 253420,
+  "cap": "EX_41_999",
+  "_row": 130
+ },
+ {
+  "index": 129,
+  "rank": 130,
+  "points": 256100,
+  "cap": "EX_41_999",
+  "_row": 131
+ },
+ {
+  "index": 130,
+  "rank": 131,
+  "points": 258780,
+  "cap": "EX_41_999",
+  "_row": 132
+ },
+ {
+  "index": 131,
+  "rank": 132,
+  "points": 261460,
+  "cap": "EX_41_999",
+  "_row": 133
+ },
+ {
+  "index": 132,
+  "rank": 133,
+  "points": 264140,
+  "cap": "EX_41_999",
+  "_row": 134
+ },
+ {
+  "index": 133,
+  "rank": 134,
+  "points": 266820,
+  "cap": "EX_41_999",
+  "_row": 135
+ },
+ {
+  "index": 134,
+  "rank": 135,
+  "points": 269530,
+  "cap": "EX_41_999",
+  "_row": 136
+ },
+ {
+  "index": 135,
+  "rank": 136,
+  "points": 272240,
+  "cap": "EX_41_999",
+  "_row": 137
+ },
+ {
+  "index": 136,
+  "rank": 137,
+  "points": 274950,
+  "cap": "EX_41_999",
+  "_row": 138
+ },
+ {
+  "index": 137,
+  "rank": 138,
+  "points": 277660,
+  "cap": "EX_41_999",
+  "_row": 139
+ },
+ {
+  "index": 138,
+  "rank": 139,
+  "points": 280370,
+  "cap": "EX_41_999",
+  "_row": 140
+ },
+ {
+  "index": 139,
+  "rank": 140,
+  "points": 283110,
+  "cap": "EX_41_999",
+  "_row": 141
+ },
+ {
+  "index": 140,
+  "rank": 141,
+  "points": 285850,
+  "cap": "EX_41_999",
+  "_row": 142
+ },
+ {
+  "index": 141,
+  "rank": 142,
+  "points": 288590,
+  "cap": "EX_41_999",
+  "_row": 143
+ },
+ {
+  "index": 142,
+  "rank": 143,
+  "points": 291330,
+  "cap": "EX_41_999",
+  "_row": 144
+ },
+ {
+  "index": 143,
+  "rank": 144,
+  "points": 294070,
+  "cap": "EX_41_999",
+  "_row": 145
+ },
+ {
+  "index": 144,
+  "rank": 145,
+  "points": 296840,
+  "cap": "EX_41_999",
+  "_row": 146
+ },
+ {
+  "index": 145,
+  "rank": 146,
+  "points": 299610,
+  "cap": "EX_41_999",
+  "_row": 147
+ },
+ {
+  "index": 146,
+  "rank": 147,
+  "points": 302380,
+  "cap": "EX_41_999",
+  "_row": 148
+ },
+ {
+  "index": 147,
+  "rank": 148,
+  "points": 305150,
+  "cap": "EX_41_999",
+  "_row": 149
+ },
+ {
+  "index": 148,
+  "rank": 149,
+  "points": 307920,
+  "cap": "EX_41_999",
+  "_row": 150
+ },
+ {
+  "index": 149,
+  "rank": 150,
+  "points": 310720,
+  "cap": "EX_41_999",
+  "_row": 151
+ },
+ {
+  "index": 150,
+  "rank": 151,
+  "points": 313520,
+  "cap": "EX_41_999",
+  "_row": 152
+ },
+ {
+  "index": 151,
+  "rank": 152,
+  "points": 316320,
+  "cap": "EX_41_999",
+  "_row": 153
+ },
+ {
+  "index": 152,
+  "rank": 153,
+  "points": 319120,
+  "cap": "EX_41_999",
+  "_row": 154
+ },
+ {
+  "index": 153,
+  "rank": 154,
+  "points": 321920,
+  "cap": "EX_41_999",
+  "_row": 155
+ },
+ {
+  "index": 154,
+  "rank": 155,
+  "points": 324750,
+  "cap": "EX_41_999",
+  "_row": 156
+ },
+ {
+  "index": 155,
+  "rank": 156,
+  "points": 327580,
+  "cap": "EX_41_999",
+  "_row": 157
+ },
+ {
+  "index": 156,
+  "rank": 157,
+  "points": 330410,
+  "cap": "EX_41_999",
+  "_row": 158
+ },
+ {
+  "index": 157,
+  "rank": 158,
+  "points": 333240,
+  "cap": "EX_41_999",
+  "_row": 159
+ },
+ {
+  "index": 158,
+  "rank": 159,
+  "points": 336070,
+  "cap": "EX_41_999",
+  "_row": 160
+ },
+ {
+  "index": 159,
+  "rank": 160,
+  "points": 338930,
+  "cap": "EX_41_999",
+  "_row": 161
+ },
+ {
+  "index": 160,
+  "rank": 161,
+  "points": 341790,
+  "cap": "EX_41_999",
+  "_row": 162
+ },
+ {
+  "index": 161,
+  "rank": 162,
+  "points": 344650,
+  "cap": "EX_41_999",
+  "_row": 163
+ },
+ {
+  "index": 162,
+  "rank": 163,
+  "points": 347510,
+  "cap": "EX_41_999",
+  "_row": 164
+ },
+ {
+  "index": 163,
+  "rank": 164,
+  "points": 350370,
+  "cap": "EX_41_999",
+  "_row": 165
+ },
+ {
+  "index": 164,
+  "rank": 165,
+  "points": 353260,
+  "cap": "EX_41_999",
+  "_row": 166
+ },
+ {
+  "index": 165,
+  "rank": 166,
+  "points": 356150,
+  "cap": "EX_41_999",
+  "_row": 167
+ },
+ {
+  "index": 166,
+  "rank": 167,
+  "points": 359040,
+  "cap": "EX_41_999",
+  "_row": 168
+ },
+ {
+  "index": 167,
+  "rank": 168,
+  "points": 361930,
+  "cap": "EX_41_999",
+  "_row": 169
+ },
+ {
+  "index": 168,
+  "rank": 169,
+  "points": 364820,
+  "cap": "EX_41_999",
+  "_row": 170
+ },
+ {
+  "index": 169,
+  "rank": 170,
+  "points": 367740,
+  "cap": "EX_41_999",
+  "_row": 171
+ },
+ {
+  "index": 170,
+  "rank": 171,
+  "points": 370660,
+  "cap": "EX_41_999",
+  "_row": 172
+ },
+ {
+  "index": 171,
+  "rank": 172,
+  "points": 373580,
+  "cap": "EX_41_999",
+  "_row": 173
+ },
+ {
+  "index": 172,
+  "rank": 173,
+  "points": 376500,
+  "cap": "EX_41_999",
+  "_row": 174
+ },
+ {
+  "index": 173,
+  "rank": 174,
+  "points": 379420,
+  "cap": "EX_41_999",
+  "_row": 175
+ },
+ {
+  "index": 174,
+  "rank": 175,
+  "points": 382370,
+  "cap": "EX_41_999",
+  "_row": 176
+ },
+ {
+  "index": 175,
+  "rank": 176,
+  "points": 385320,
+  "cap": "EX_41_999",
+  "_row": 177
+ },
+ {
+  "index": 176,
+  "rank": 177,
+  "points": 388270,
+  "cap": "EX_41_999",
+  "_row": 178
+ },
+ {
+  "index": 177,
+  "rank": 178,
+  "points": 391220,
+  "cap": "EX_41_999",
+  "_row": 179
+ },
+ {
+  "index": 178,
+  "rank": 179,
+  "points": 394170,
+  "cap": "EX_41_999",
+  "_row": 180
+ },
+ {
+  "index": 179,
+  "rank": 180,
+  "points": 397150,
+  "cap": "EX_41_999",
+  "_row": 181
+ },
+ {
+  "index": 180,
+  "rank": 181,
+  "points": 400130,
+  "cap": "EX_41_999",
+  "_row": 182
+ },
+ {
+  "index": 181,
+  "rank": 182,
+  "points": 403110,
+  "cap": "EX_41_999",
+  "_row": 183
+ },
+ {
+  "index": 182,
+  "rank": 183,
+  "points": 406090,
+  "cap": "EX_41_999",
+  "_row": 184
+ },
+ {
+  "index": 183,
+  "rank": 184,
+  "points": 409070,
+  "cap": "EX_41_999",
+  "_row": 185
+ },
+ {
+  "index": 184,
+  "rank": 185,
+  "points": 412080,
+  "cap": "EX_41_999",
+  "_row": 186
+ },
+ {
+  "index": 185,
+  "rank": 186,
+  "points": 415090,
+  "cap": "EX_41_999",
+  "_row": 187
+ },
+ {
+  "index": 186,
+  "rank": 187,
+  "points": 418100,
+  "cap": "EX_41_999",
+  "_row": 188
+ },
+ {
+  "index": 187,
+  "rank": 188,
+  "points": 421110,
+  "cap": "EX_41_999",
+  "_row": 189
+ },
+ {
+  "index": 188,
+  "rank": 189,
+  "points": 424120,
+  "cap": "EX_41_999",
+  "_row": 190
+ },
+ {
+  "index": 189,
+  "rank": 190,
+  "points": 427160,
+  "cap": "EX_41_999",
+  "_row": 191
+ },
+ {
+  "index": 190,
+  "rank": 191,
+  "points": 430200,
+  "cap": "EX_41_999",
+  "_row": 192
+ },
+ {
+  "index": 191,
+  "rank": 192,
+  "points": 433240,
+  "cap": "EX_41_999",
+  "_row": 193
+ },
+ {
+  "index": 192,
+  "rank": 193,
+  "points": 436280,
+  "cap": "EX_41_999",
+  "_row": 194
+ },
+ {
+  "index": 193,
+  "rank": 194,
+  "points": 439320,
+  "cap": "EX_41_999",
+  "_row": 195
+ },
+ {
+  "index": 194,
+  "rank": 195,
+  "points": 442390,
+  "cap": "EX_41_999",
+  "_row": 196
+ },
+ {
+  "index": 195,
+  "rank": 196,
+  "points": 445460,
+  "cap": "EX_41_999",
+  "_row": 197
+ },
+ {
+  "index": 196,
+  "rank": 197,
+  "points": 448530,
+  "cap": "EX_41_999",
+  "_row": 198
+ },
+ {
+  "index": 197,
+  "rank": 198,
+  "points": 451600,
+  "cap": "EX_41_999",
+  "_row": 199
+ },
+ {
+  "index": 198,
+  "rank": 199,
+  "points": 454670,
+  "cap": "EX_41_999",
+  "_row": 200
+ },
+ {
+  "index": 199,
+  "rank": 200,
+  "points": 457770,
+  "cap": "EX_41_999",
+  "_row": 201
+ },
+ {
+  "index": 200,
+  "rank": 201,
+  "points": 460870,
+  "cap": "EX_41_999",
+  "_row": 202
+ },
+ {
+  "index": 201,
+  "rank": 202,
+  "points": 463970,
+  "cap": "EX_41_999",
+  "_row": 203
+ },
+ {
+  "index": 202,
+  "rank": 203,
+  "points": 467070,
+  "cap": "EX_41_999",
+  "_row": 204
+ },
+ {
+  "index": 203,
+  "rank": 204,
+  "points": 470170,
+  "cap": "EX_41_999",
+  "_row": 205
+ },
+ {
+  "index": 204,
+  "rank": 205,
+  "points": 473300,
+  "cap": "EX_41_999",
+  "_row": 206
+ },
+ {
+  "index": 205,
+  "rank": 206,
+  "points": 476430,
+  "cap": "EX_41_999",
+  "_row": 207
+ },
+ {
+  "index": 206,
+  "rank": 207,
+  "points": 479560,
+  "cap": "EX_41_999",
+  "_row": 208
+ },
+ {
+  "index": 207,
+  "rank": 208,
+  "points": 482690,
+  "cap": "EX_41_999",
+  "_row": 209
+ },
+ {
+  "index": 208,
+  "rank": 209,
+  "points": 485820,
+  "cap": "EX_41_999",
+  "_row": 210
+ },
+ {
+  "index": 209,
+  "rank": 210,
+  "points": 488980,
+  "cap": "EX_41_999",
+  "_row": 211
+ },
+ {
+  "index": 210,
+  "rank": 211,
+  "points": 492140,
+  "cap": "EX_41_999",
+  "_row": 212
+ },
+ {
+  "index": 211,
+  "rank": 212,
+  "points": 495300,
+  "cap": "EX_41_999",
+  "_row": 213
+ },
+ {
+  "index": 212,
+  "rank": 213,
+  "points": 498460,
+  "cap": "EX_41_999",
+  "_row": 214
+ },
+ {
+  "index": 213,
+  "rank": 214,
+  "points": 501620,
+  "cap": "EX_41_999",
+  "_row": 215
+ },
+ {
+  "index": 214,
+  "rank": 215,
+  "points": 504810,
+  "cap": "EX_41_999",
+  "_row": 216
+ },
+ {
+  "index": 215,
+  "rank": 216,
+  "points": 508000,
+  "cap": "EX_41_999",
+  "_row": 217
+ },
+ {
+  "index": 216,
+  "rank": 217,
+  "points": 511190,
+  "cap": "EX_41_999",
+  "_row": 218
+ },
+ {
+  "index": 217,
+  "rank": 218,
+  "points": 514380,
+  "cap": "EX_41_999",
+  "_row": 219
+ },
+ {
+  "index": 218,
+  "rank": 219,
+  "points": 517570,
+  "cap": "EX_41_999",
+  "_row": 220
+ },
+ {
+  "index": 219,
+  "rank": 220,
+  "points": 520790,
+  "cap": "EX_41_999",
+  "_row": 221
+ },
+ {
+  "index": 220,
+  "rank": 221,
+  "points": 524010,
+  "cap": "EX_41_999",
+  "_row": 222
+ },
+ {
+  "index": 221,
+  "rank": 222,
+  "points": 527230,
+  "cap": "EX_41_999",
+  "_row": 223
+ },
+ {
+  "index": 222,
+  "rank": 223,
+  "points": 530450,
+  "cap": "EX_41_999",
+  "_row": 224
+ },
+ {
+  "index": 223,
+  "rank": 224,
+  "points": 533670,
+  "cap": "EX_41_999",
+  "_row": 225
+ },
+ {
+  "index": 224,
+  "rank": 225,
+  "points": 536920,
+  "cap": "EX_41_999",
+  "_row": 226
+ },
+ {
+  "index": 225,
+  "rank": 226,
+  "points": 540170,
+  "cap": "EX_41_999",
+  "_row": 227
+ },
+ {
+  "index": 226,
+  "rank": 227,
+  "points": 543420,
+  "cap": "EX_41_999",
+  "_row": 228
+ },
+ {
+  "index": 227,
+  "rank": 228,
+  "points": 546670,
+  "cap": "EX_41_999",
+  "_row": 229
+ },
+ {
+  "index": 228,
+  "rank": 229,
+  "points": 549920,
+  "cap": "EX_41_999",
+  "_row": 230
+ },
+ {
+  "index": 229,
+  "rank": 230,
+  "points": 553200,
+  "cap": "EX_41_999",
+  "_row": 231
+ },
+ {
+  "index": 230,
+  "rank": 231,
+  "points": 556480,
+  "cap": "EX_41_999",
+  "_row": 232
+ },
+ {
+  "index": 231,
+  "rank": 232,
+  "points": 559760,
+  "cap": "EX_41_999",
+  "_row": 233
+ },
+ {
+  "index": 232,
+  "rank": 233,
+  "points": 563040,
+  "cap": "EX_41_999",
+  "_row": 234
+ },
+ {
+  "index": 233,
+  "rank": 234,
+  "points": 566320,
+  "cap": "EX_41_999",
+  "_row": 235
+ },
+ {
+  "index": 234,
+  "rank": 235,
+  "points": 569630,
+  "cap": "EX_41_999",
+  "_row": 236
+ },
+ {
+  "index": 235,
+  "rank": 236,
+  "points": 572940,
+  "cap": "EX_41_999",
+  "_row": 237
+ },
+ {
+  "index": 236,
+  "rank": 237,
+  "points": 576250,
+  "cap": "EX_41_999",
+  "_row": 238
+ },
+ {
+  "index": 237,
+  "rank": 238,
+  "points": 579560,
+  "cap": "EX_41_999",
+  "_row": 239
+ },
+ {
+  "index": 238,
+  "rank": 239,
+  "points": 582870,
+  "cap": "EX_41_999",
+  "_row": 240
+ },
+ {
+  "index": 239,
+  "rank": 240,
+  "points": 586210,
+  "cap": "EX_41_999",
+  "_row": 241
+ },
+ {
+  "index": 240,
+  "rank": 241,
+  "points": 589550,
+  "cap": "EX_41_999",
+  "_row": 242
+ },
+ {
+  "index": 241,
+  "rank": 242,
+  "points": 592890,
+  "cap": "EX_41_999",
+  "_row": 243
+ },
+ {
+  "index": 242,
+  "rank": 243,
+  "points": 596230,
+  "cap": "EX_41_999",
+  "_row": 244
+ },
+ {
+  "index": 243,
+  "rank": 244,
+  "points": 599570,
+  "cap": "EX_41_999",
+  "_row": 245
+ },
+ {
+  "index": 244,
+  "rank": 245,
+  "points": 602940,
+  "cap": "EX_41_999",
+  "_row": 246
+ },
+ {
+  "index": 245,
+  "rank": 246,
+  "points": 606310,
+  "cap": "EX_41_999",
+  "_row": 247
+ },
+ {
+  "index": 246,
+  "rank": 247,
+  "points": 609680,
+  "cap": "EX_41_999",
+  "_row": 248
+ },
+ {
+  "index": 247,
+  "rank": 248,
+  "points": 613050,
+  "cap": "EX_41_999",
+  "_row": 249
+ },
+ {
+  "index": 248,
+  "rank": 249,
+  "points": 616420,
+  "cap": "EX_41_999",
+  "_row": 250
+ },
+ {
+  "index": 249,
+  "rank": 250,
+  "points": 619820,
+  "cap": "EX_41_999",
+  "_row": 251
+ },
+ {
+  "index": 250,
+  "rank": 251,
+  "points": 623220,
+  "cap": "EX_41_999",
+  "_row": 252
+ },
+ {
+  "index": 251,
+  "rank": 252,
+  "points": 626620,
+  "cap": "EX_41_999",
+  "_row": 253
+ },
+ {
+  "index": 252,
+  "rank": 253,
+  "points": 630020,
+  "cap": "EX_41_999",
+  "_row": 254
+ },
+ {
+  "index": 253,
+  "rank": 254,
+  "points": 633420,
+  "cap": "EX_41_999",
+  "_row": 255
+ },
+ {
+  "index": 254,
+  "rank": 255,
+  "points": 636850,
+  "cap": "EX_41_999",
+  "_row": 256
+ },
+ {
+  "index": 255,
+  "rank": 256,
+  "points": 640280,
+  "cap": "EX_41_999",
+  "_row": 257
+ },
+ {
+  "index": 256,
+  "rank": 257,
+  "points": 643710,
+  "cap": "EX_41_999",
+  "_row": 258
+ },
+ {
+  "index": 257,
+  "rank": 258,
+  "points": 647140,
+  "cap": "EX_41_999",
+  "_row": 259
+ },
+ {
+  "index": 258,
+  "rank": 259,
+  "points": 650570,
+  "cap": "EX_41_999",
+  "_row": 260
+ },
+ {
+  "index": 259,
+  "rank": 260,
+  "points": 654030,
+  "cap": "EX_41_999",
+  "_row": 261
+ },
+ {
+  "index": 260,
+  "rank": 261,
+  "points": 657490,
+  "cap": "EX_41_999",
+  "_row": 262
+ },
+ {
+  "index": 261,
+  "rank": 262,
+  "points": 660950,
+  "cap": "EX_41_999",
+  "_row": 263
+ },
+ {
+  "index": 262,
+  "rank": 263,
+  "points": 664410,
+  "cap": "EX_41_999",
+  "_row": 264
+ },
+ {
+  "index": 263,
+  "rank": 264,
+  "points": 667870,
+  "cap": "EX_41_999",
+  "_row": 265
+ },
+ {
+  "index": 264,
+  "rank": 265,
+  "points": 671360,
+  "cap": "EX_41_999",
+  "_row": 266
+ },
+ {
+  "index": 265,
+  "rank": 266,
+  "points": 674850,
+  "cap": "EX_41_999",
+  "_row": 267
+ },
+ {
+  "index": 266,
+  "rank": 267,
+  "points": 678340,
+  "cap": "EX_41_999",
+  "_row": 268
+ },
+ {
+  "index": 267,
+  "rank": 268,
+  "points": 681830,
+  "cap": "EX_41_999",
+  "_row": 269
+ },
+ {
+  "index": 268,
+  "rank": 269,
+  "points": 685320,
+  "cap": "EX_41_999",
+  "_row": 270
+ },
+ {
+  "index": 269,
+  "rank": 270,
+  "points": 688840,
+  "cap": "EX_41_999",
+  "_row": 271
+ },
+ {
+  "index": 270,
+  "rank": 271,
+  "points": 692360,
+  "cap": "EX_41_999",
+  "_row": 272
+ },
+ {
+  "index": 271,
+  "rank": 272,
+  "points": 695880,
+  "cap": "EX_41_999",
+  "_row": 273
+ },
+ {
+  "index": 272,
+  "rank": 273,
+  "points": 699400,
+  "cap": "EX_41_999",
+  "_row": 274
+ },
+ {
+  "index": 273,
+  "rank": 274,
+  "points": 702920,
+  "cap": "EX_41_999",
+  "_row": 275
+ },
+ {
+  "index": 274,
+  "rank": 275,
+  "points": 706470,
+  "cap": "EX_41_999",
+  "_row": 276
+ },
+ {
+  "index": 275,
+  "rank": 276,
+  "points": 710020,
+  "cap": "EX_41_999",
+  "_row": 277
+ },
+ {
+  "index": 276,
+  "rank": 277,
+  "points": 713570,
+  "cap": "EX_41_999",
+  "_row": 278
+ },
+ {
+  "index": 277,
+  "rank": 278,
+  "points": 717120,
+  "cap": "EX_41_999",
+  "_row": 279
+ },
+ {
+  "index": 278,
+  "rank": 279,
+  "points": 720670,
+  "cap": "EX_41_999",
+  "_row": 280
+ },
+ {
+  "index": 279,
+  "rank": 280,
+  "points": 724250,
+  "cap": "EX_41_999",
+  "_row": 281
+ },
+ {
+  "index": 280,
+  "rank": 281,
+  "points": 727830,
+  "cap": "EX_41_999",
+  "_row": 282
+ },
+ {
+  "index": 281,
+  "rank": 282,
+  "points": 731410,
+  "cap": "EX_41_999",
+  "_row": 283
+ },
+ {
+  "index": 282,
+  "rank": 283,
+  "points": 734990,
+  "cap": "EX_41_999",
+  "_row": 284
+ },
+ {
+  "index": 283,
+  "rank": 284,
+  "points": 738570,
+  "cap": "EX_41_999",
+  "_row": 285
+ },
+ {
+  "index": 284,
+  "rank": 285,
+  "points": 742180,
+  "cap": "EX_41_999",
+  "_row": 286
+ },
+ {
+  "index": 285,
+  "rank": 286,
+  "points": 745790,
+  "cap": "EX_41_999",
+  "_row": 287
+ },
+ {
+  "index": 286,
+  "rank": 287,
+  "points": 749400,
+  "cap": "EX_41_999",
+  "_row": 288
+ },
+ {
+  "index": 287,
+  "rank": 288,
+  "points": 753010,
+  "cap": "EX_41_999",
+  "_row": 289
+ },
+ {
+  "index": 288,
+  "rank": 289,
+  "points": 756620,
+  "cap": "EX_41_999",
+  "_row": 290
+ },
+ {
+  "index": 289,
+  "rank": 290,
+  "points": 760260,
+  "cap": "EX_41_999",
+  "_row": 291
+ },
+ {
+  "index": 290,
+  "rank": 291,
+  "points": 763900,
+  "cap": "EX_41_999",
+  "_row": 292
+ },
+ {
+  "index": 291,
+  "rank": 292,
+  "points": 767540,
+  "cap": "EX_41_999",
+  "_row": 293
+ },
+ {
+  "index": 292,
+  "rank": 293,
+  "points": 771180,
+  "cap": "EX_41_999",
+  "_row": 294
+ },
+ {
+  "index": 293,
+  "rank": 294,
+  "points": 774820,
+  "cap": "EX_41_999",
+  "_row": 295
+ },
+ {
+  "index": 294,
+  "rank": 295,
+  "points": 778490,
+  "cap": "EX_41_999",
+  "_row": 296
+ },
+ {
+  "index": 295,
+  "rank": 296,
+  "points": 782160,
+  "cap": "EX_41_999",
+  "_row": 297
+ },
+ {
+  "index": 296,
+  "rank": 297,
+  "points": 785830,
+  "cap": "EX_41_999",
+  "_row": 298
+ },
+ {
+  "index": 297,
+  "rank": 298,
+  "points": 789500,
+  "cap": "EX_41_999",
+  "_row": 299
+ },
+ {
+  "index": 298,
+  "rank": 299,
+  "points": 793170,
+  "cap": "EX_41_999",
+  "_row": 300
+ },
+ {
+  "index": 299,
+  "rank": 300,
+  "points": 796870,
+  "cap": "EX_41_999",
+  "_row": 301
+ },
+ {
+  "index": 300,
+  "rank": 301,
+  "points": 800570,
+  "cap": "EX_41_999",
+  "_row": 302
+ },
+ {
+  "index": 301,
+  "rank": 302,
+  "points": 804270,
+  "cap": "EX_41_999",
+  "_row": 303
+ },
+ {
+  "index": 302,
+  "rank": 303,
+  "points": 807970,
+  "cap": "EX_41_999",
+  "_row": 304
+ },
+ {
+  "index": 303,
+  "rank": 304,
+  "points": 811670,
+  "cap": "EX_41_999",
+  "_row": 305
+ },
+ {
+  "index": 304,
+  "rank": 305,
+  "points": 815390,
+  "cap": "EX_41_999",
+  "_row": 306
+ },
+ {
+  "index": 305,
+  "rank": 306,
+  "points": 819110,
+  "cap": "EX_41_999",
+  "_row": 307
+ },
+ {
+  "index": 306,
+  "rank": 307,
+  "points": 822830,
+  "cap": "EX_41_999",
+  "_row": 308
+ },
+ {
+  "index": 307,
+  "rank": 308,
+  "points": 826550,
+  "cap": "EX_41_999",
+  "_row": 309
+ },
+ {
+  "index": 308,
+  "rank": 309,
+  "points": 830270,
+  "cap": "EX_41_999",
+  "_row": 310
+ },
+ {
+  "index": 309,
+  "rank": 310,
+  "points": 834010,
+  "cap": "EX_41_999",
+  "_row": 311
+ },
+ {
+  "index": 310,
+  "rank": 311,
+  "points": 837750,
+  "cap": "EX_41_999",
+  "_row": 312
+ },
+ {
+  "index": 311,
+  "rank": 312,
+  "points": 841490,
+  "cap": "EX_41_999",
+  "_row": 313
+ },
+ {
+  "index": 312,
+  "rank": 313,
+  "points": 845230,
+  "cap": "EX_41_999",
+  "_row": 314
+ },
+ {
+  "index": 313,
+  "rank": 314,
+  "points": 848970,
+  "cap": "EX_41_999",
+  "_row": 315
+ },
+ {
+  "index": 314,
+  "rank": 315,
+  "points": 852730,
+  "cap": "EX_41_999",
+  "_row": 316
+ },
+ {
+  "index": 315,
+  "rank": 316,
+  "points": 856490,
+  "cap": "EX_41_999",
+  "_row": 317
+ },
+ {
+  "index": 316,
+  "rank": 317,
+  "points": 860250,
+  "cap": "EX_41_999",
+  "_row": 318
+ },
+ {
+  "index": 317,
+  "rank": 318,
+  "points": 864010,
+  "cap": "EX_41_999",
+  "_row": 319
+ },
+ {
+  "index": 318,
+  "rank": 319,
+  "points": 867770,
+  "cap": "EX_41_999",
+  "_row": 320
+ },
+ {
+  "index": 319,
+  "rank": 320,
+  "points": 871550,
+  "cap": "EX_41_999",
+  "_row": 321
+ },
+ {
+  "index": 320,
+  "rank": 321,
+  "points": 875330,
+  "cap": "EX_41_999",
+  "_row": 322
+ },
+ {
+  "index": 321,
+  "rank": 322,
+  "points": 879110,
+  "cap": "EX_41_999",
+  "_row": 323
+ },
+ {
+  "index": 322,
+  "rank": 323,
+  "points": 882890,
+  "cap": "EX_41_999",
+  "_row": 324
+ },
+ {
+  "index": 323,
+  "rank": 324,
+  "points": 886670,
+  "cap": "EX_41_999",
+  "_row": 325
+ },
+ {
+  "index": 324,
+  "rank": 325,
+  "points": 890470,
+  "cap": "EX_41_999",
+  "_row": 326
+ },
+ {
+  "index": 325,
+  "rank": 326,
+  "points": 894270,
+  "cap": "EX_41_999",
+  "_row": 327
+ },
+ {
+  "index": 326,
+  "rank": 327,
+  "points": 898070,
+  "cap": "EX_41_999",
+  "_row": 328
+ },
+ {
+  "index": 327,
+  "rank": 328,
+  "points": 901870,
+  "cap": "EX_41_999",
+  "_row": 329
+ },
+ {
+  "index": 328,
+  "rank": 329,
+  "points": 905670,
+  "cap": "EX_41_999",
+  "_row": 330
+ },
+ {
+  "index": 329,
+  "rank": 330,
+  "points": 909490,
+  "cap": "EX_41_999",
+  "_row": 331
+ },
+ {
+  "index": 330,
+  "rank": 331,
+  "points": 913310,
+  "cap": "EX_41_999",
+  "_row": 332
+ },
+ {
+  "index": 331,
+  "rank": 332,
+  "points": 917130,
+  "cap": "EX_41_999",
+  "_row": 333
+ },
+ {
+  "index": 332,
+  "rank": 333,
+  "points": 920950,
+  "cap": "EX_41_999",
+  "_row": 334
+ },
+ {
+  "index": 333,
+  "rank": 334,
+  "points": 924770,
+  "cap": "EX_41_999",
+  "_row": 335
+ },
+ {
+  "index": 334,
+  "rank": 335,
+  "points": 928610,
+  "cap": "EX_41_999",
+  "_row": 336
+ },
+ {
+  "index": 335,
+  "rank": 336,
+  "points": 932450,
+  "cap": "EX_41_999",
+  "_row": 337
+ },
+ {
+  "index": 336,
+  "rank": 337,
+  "points": 936290,
+  "cap": "EX_41_999",
+  "_row": 338
+ },
+ {
+  "index": 337,
+  "rank": 338,
+  "points": 940130,
+  "cap": "EX_41_999",
+  "_row": 339
+ },
+ {
+  "index": 338,
+  "rank": 339,
+  "points": 943970,
+  "cap": "EX_41_999",
+  "_row": 340
+ },
+ {
+  "index": 339,
+  "rank": 340,
+  "points": 947830,
+  "cap": "EX_41_999",
+  "_row": 341
+ },
+ {
+  "index": 340,
+  "rank": 341,
+  "points": 951690,
+  "cap": "EX_41_999",
+  "_row": 342
+ },
+ {
+  "index": 341,
+  "rank": 342,
+  "points": 955550,
+  "cap": "EX_41_999",
+  "_row": 343
+ },
+ {
+  "index": 342,
+  "rank": 343,
+  "points": 959410,
+  "cap": "EX_41_999",
+  "_row": 344
+ },
+ {
+  "index": 343,
+  "rank": 344,
+  "points": 963270,
+  "cap": "EX_41_999",
+  "_row": 345
+ },
+ {
+  "index": 344,
+  "rank": 345,
+  "points": 967150,
+  "cap": "EX_41_999",
+  "_row": 346
+ },
+ {
+  "index": 345,
+  "rank": 346,
+  "points": 971030,
+  "cap": "EX_41_999",
+  "_row": 347
+ },
+ {
+  "index": 346,
+  "rank": 347,
+  "points": 974910,
+  "cap": "EX_41_999",
+  "_row": 348
+ },
+ {
+  "index": 347,
+  "rank": 348,
+  "points": 978790,
+  "cap": "EX_41_999",
+  "_row": 349
+ },
+ {
+  "index": 348,
+  "rank": 349,
+  "points": 982670,
+  "cap": "EX_41_999",
+  "_row": 350
+ },
+ {
+  "index": 349,
+  "rank": 350,
+  "points": 986570,
+  "cap": "EX_41_999",
+  "_row": 351
+ },
+ {
+  "index": 350,
+  "rank": 351,
+  "points": 990470,
+  "cap": "EX_41_999",
+  "_row": 352
+ },
+ {
+  "index": 351,
+  "rank": 352,
+  "points": 994370,
+  "cap": "EX_41_999",
+  "_row": 353
+ },
+ {
+  "index": 352,
+  "rank": 353,
+  "points": 998270,
+  "cap": "EX_41_999",
+  "_row": 354
+ },
+ {
+  "index": 353,
+  "rank": 354,
+  "points": 1002170,
+  "cap": "EX_41_999",
+  "_row": 355
+ },
+ {
+  "index": 354,
+  "rank": 355,
+  "points": 1006090,
+  "cap": "EX_41_999",
+  "_row": 356
+ },
+ {
+  "index": 355,
+  "rank": 356,
+  "points": 1010010,
+  "cap": "EX_41_999",
+  "_row": 357
+ },
+ {
+  "index": 356,
+  "rank": 357,
+  "points": 1013930,
+  "cap": "EX_41_999",
+  "_row": 358
+ },
+ {
+  "index": 357,
+  "rank": 358,
+  "points": 1017850,
+  "cap": "EX_41_999",
+  "_row": 359
+ },
+ {
+  "index": 358,
+  "rank": 359,
+  "points": 1021770,
+  "cap": "EX_41_999",
+  "_row": 360
+ },
+ {
+  "index": 359,
+  "rank": 360,
+  "points": 1025710,
+  "cap": "EX_41_999",
+  "_row": 361
+ },
+ {
+  "index": 360,
+  "rank": 361,
+  "points": 1029650,
+  "cap": "EX_41_999",
+  "_row": 362
+ },
+ {
+  "index": 361,
+  "rank": 362,
+  "points": 1033590,
+  "cap": "EX_41_999",
+  "_row": 363
+ },
+ {
+  "index": 362,
+  "rank": 363,
+  "points": 1037530,
+  "cap": "EX_41_999",
+  "_row": 364
+ },
+ {
+  "index": 363,
+  "rank": 364,
+  "points": 1041470,
+  "cap": "EX_41_999",
+  "_row": 365
+ },
+ {
+  "index": 364,
+  "rank": 365,
+  "points": 1045430,
+  "cap": "EX_41_999",
+  "_row": 366
+ },
+ {
+  "index": 365,
+  "rank": 366,
+  "points": 1049390,
+  "cap": "EX_41_999",
+  "_row": 367
+ },
+ {
+  "index": 366,
+  "rank": 367,
+  "points": 1053350,
+  "cap": "EX_41_999",
+  "_row": 368
+ },
+ {
+  "index": 367,
+  "rank": 368,
+  "points": 1057310,
+  "cap": "EX_41_999",
+  "_row": 369
+ },
+ {
+  "index": 368,
+  "rank": 369,
+  "points": 1061270,
+  "cap": "EX_41_999",
+  "_row": 370
+ },
+ {
+  "index": 369,
+  "rank": 370,
+  "points": 1065250,
+  "cap": "EX_41_999",
+  "_row": 371
+ },
+ {
+  "index": 370,
+  "rank": 371,
+  "points": 1069230,
+  "cap": "EX_41_999",
+  "_row": 372
+ },
+ {
+  "index": 371,
+  "rank": 372,
+  "points": 1073210,
+  "cap": "EX_41_999",
+  "_row": 373
+ },
+ {
+  "index": 372,
+  "rank": 373,
+  "points": 1077190,
+  "cap": "EX_41_999",
+  "_row": 374
+ },
+ {
+  "index": 373,
+  "rank": 374,
+  "points": 1081170,
+  "cap": "EX_41_999",
+  "_row": 375
+ },
+ {
+  "index": 374,
+  "rank": 375,
+  "points": 1085170,
+  "cap": "EX_41_999",
+  "_row": 376
+ },
+ {
+  "index": 375,
+  "rank": 376,
+  "points": 1089170,
+  "cap": "EX_41_999",
+  "_row": 377
+ },
+ {
+  "index": 376,
+  "rank": 377,
+  "points": 1093170,
+  "cap": "EX_41_999",
+  "_row": 378
+ },
+ {
+  "index": 377,
+  "rank": 378,
+  "points": 1097170,
+  "cap": "EX_41_999",
+  "_row": 379
+ },
+ {
+  "index": 378,
+  "rank": 379,
+  "points": 1101170,
+  "cap": "EX_41_999",
+  "_row": 380
+ },
+ {
+  "index": 379,
+  "rank": 380,
+  "points": 1105190,
+  "cap": "EX_41_999",
+  "_row": 381
+ },
+ {
+  "index": 380,
+  "rank": 381,
+  "points": 1109210,
+  "cap": "EX_41_999",
+  "_row": 382
+ },
+ {
+  "index": 381,
+  "rank": 382,
+  "points": 1113230,
+  "cap": "EX_41_999",
+  "_row": 383
+ },
+ {
+  "index": 382,
+  "rank": 383,
+  "points": 1117250,
+  "cap": "EX_41_999",
+  "_row": 384
+ },
+ {
+  "index": 383,
+  "rank": 384,
+  "points": 1121270,
+  "cap": "EX_41_999",
+  "_row": 385
+ },
+ {
+  "index": 384,
+  "rank": 385,
+  "points": 1125310,
+  "cap": "EX_41_999",
+  "_row": 386
+ },
+ {
+  "index": 385,
+  "rank": 386,
+  "points": 1129350,
+  "cap": "EX_41_999",
+  "_row": 387
+ },
+ {
+  "index": 386,
+  "rank": 387,
+  "points": 1133390,
+  "cap": "EX_41_999",
+  "_row": 388
+ },
+ {
+  "index": 387,
+  "rank": 388,
+  "points": 1137430,
+  "cap": "EX_41_999",
+  "_row": 389
+ },
+ {
+  "index": 388,
+  "rank": 389,
+  "points": 1141470,
+  "cap": "EX_41_999",
+  "_row": 390
+ },
+ {
+  "index": 389,
+  "rank": 390,
+  "points": 1145530,
+  "cap": "EX_41_999",
+  "_row": 391
+ },
+ {
+  "index": 390,
+  "rank": 391,
+  "points": 1149590,
+  "cap": "EX_41_999",
+  "_row": 392
+ },
+ {
+  "index": 391,
+  "rank": 392,
+  "points": 1153650,
+  "cap": "EX_41_999",
+  "_row": 393
+ },
+ {
+  "index": 392,
+  "rank": 393,
+  "points": 1157710,
+  "cap": "EX_41_999",
+  "_row": 394
+ },
+ {
+  "index": 393,
+  "rank": 394,
+  "points": 1161770,
+  "cap": "EX_41_999",
+  "_row": 395
+ },
+ {
+  "index": 394,
+  "rank": 395,
+  "points": 1165850,
+  "cap": "EX_41_999",
+  "_row": 396
+ },
+ {
+  "index": 395,
+  "rank": 396,
+  "points": 1169930,
+  "cap": "EX_41_999",
+  "_row": 397
+ },
+ {
+  "index": 396,
+  "rank": 397,
+  "points": 1174010,
+  "cap": "EX_41_999",
+  "_row": 398
+ },
+ {
+  "index": 397,
+  "rank": 398,
+  "points": 1178090,
+  "cap": "EX_41_999",
+  "_row": 399
+ },
+ {
+  "index": 398,
+  "rank": 399,
+  "points": 1182170,
+  "cap": "EX_41_999",
+  "_row": 400
+ },
+ {
+  "index": 399,
+  "rank": 400,
+  "points": 1186270,
+  "cap": "EX_41_999",
+  "_row": 401
+ },
+ {
+  "index": 400,
+  "rank": 401,
+  "points": 1190370,
+  "cap": "EX_41_999",
+  "_row": 402
+ },
+ {
+  "index": 401,
+  "rank": 402,
+  "points": 1194470,
+  "cap": "EX_41_999",
+  "_row": 403
+ },
+ {
+  "index": 402,
+  "rank": 403,
+  "points": 1198570,
+  "cap": "EX_41_999",
+  "_row": 404
+ },
+ {
+  "index": 403,
+  "rank": 404,
+  "points": 1202670,
+  "cap": "EX_41_999",
+  "_row": 405
+ },
+ {
+  "index": 404,
+  "rank": 405,
+  "points": 1206790,
+  "cap": "EX_41_999",
+  "_row": 406
+ },
+ {
+  "index": 405,
+  "rank": 406,
+  "points": 1210910,
+  "cap": "EX_41_999",
+  "_row": 407
+ },
+ {
+  "index": 406,
+  "rank": 407,
+  "points": 1215030,
+  "cap": "EX_41_999",
+  "_row": 408
+ },
+ {
+  "index": 407,
+  "rank": 408,
+  "points": 1219150,
+  "cap": "EX_41_999",
+  "_row": 409
+ },
+ {
+  "index": 408,
+  "rank": 409,
+  "points": 1223270,
+  "cap": "EX_41_999",
+  "_row": 410
+ },
+ {
+  "index": 409,
+  "rank": 410,
+  "points": 1227410,
+  "cap": "EX_41_999",
+  "_row": 411
+ },
+ {
+  "index": 410,
+  "rank": 411,
+  "points": 1231550,
+  "cap": "EX_41_999",
+  "_row": 412
+ },
+ {
+  "index": 411,
+  "rank": 412,
+  "points": 1235690,
+  "cap": "EX_41_999",
+  "_row": 413
+ },
+ {
+  "index": 412,
+  "rank": 413,
+  "points": 1239830,
+  "cap": "EX_41_999",
+  "_row": 414
+ },
+ {
+  "index": 413,
+  "rank": 414,
+  "points": 1243970,
+  "cap": "EX_41_999",
+  "_row": 415
+ },
+ {
+  "index": 414,
+  "rank": 415,
+  "points": 1248130,
+  "cap": "EX_41_999",
+  "_row": 416
+ },
+ {
+  "index": 415,
+  "rank": 416,
+  "points": 1252290,
+  "cap": "EX_41_999",
+  "_row": 417
+ },
+ {
+  "index": 416,
+  "rank": 417,
+  "points": 1256450,
+  "cap": "EX_41_999",
+  "_row": 418
+ },
+ {
+  "index": 417,
+  "rank": 418,
+  "points": 1260610,
+  "cap": "EX_41_999",
+  "_row": 419
+ },
+ {
+  "index": 418,
+  "rank": 419,
+  "points": 1264770,
+  "cap": "EX_41_999",
+  "_row": 420
+ },
+ {
+  "index": 419,
+  "rank": 420,
+  "points": 1268950,
+  "cap": "EX_41_999",
+  "_row": 421
+ },
+ {
+  "index": 420,
+  "rank": 421,
+  "points": 1273130,
+  "cap": "EX_41_999",
+  "_row": 422
+ },
+ {
+  "index": 421,
+  "rank": 422,
+  "points": 1277310,
+  "cap": "EX_41_999",
+  "_row": 423
+ },
+ {
+  "index": 422,
+  "rank": 423,
+  "points": 1281490,
+  "cap": "EX_41_999",
+  "_row": 424
+ },
+ {
+  "index": 423,
+  "rank": 424,
+  "points": 1285670,
+  "cap": "EX_41_999",
+  "_row": 425
+ },
+ {
+  "index": 424,
+  "rank": 425,
+  "points": 1289870,
+  "cap": "EX_41_999",
+  "_row": 426
+ },
+ {
+  "index": 425,
+  "rank": 426,
+  "points": 1294070,
+  "cap": "EX_41_999",
+  "_row": 427
+ },
+ {
+  "index": 426,
+  "rank": 427,
+  "points": 1298270,
+  "cap": "EX_41_999",
+  "_row": 428
+ },
+ {
+  "index": 427,
+  "rank": 428,
+  "points": 1302470,
+  "cap": "EX_41_999",
+  "_row": 429
+ },
+ {
+  "index": 428,
+  "rank": 429,
+  "points": 1306670,
+  "cap": "EX_41_999",
+  "_row": 430
+ },
+ {
+  "index": 429,
+  "rank": 430,
+  "points": 1310890,
+  "cap": "EX_41_999",
+  "_row": 431
+ },
+ {
+  "index": 430,
+  "rank": 431,
+  "points": 1315110,
+  "cap": "EX_41_999",
+  "_row": 432
+ },
+ {
+  "index": 431,
+  "rank": 432,
+  "points": 1319330,
+  "cap": "EX_41_999",
+  "_row": 433
+ },
+ {
+  "index": 432,
+  "rank": 433,
+  "points": 1323550,
+  "cap": "EX_41_999",
+  "_row": 434
+ },
+ {
+  "index": 433,
+  "rank": 434,
+  "points": 1327770,
+  "cap": "EX_41_999",
+  "_row": 435
+ },
+ {
+  "index": 434,
+  "rank": 435,
+  "points": 1332010,
+  "cap": "EX_41_999",
+  "_row": 436
+ },
+ {
+  "index": 435,
+  "rank": 436,
+  "points": 1336250,
+  "cap": "EX_41_999",
+  "_row": 437
+ },
+ {
+  "index": 436,
+  "rank": 437,
+  "points": 1340490,
+  "cap": "EX_41_999",
+  "_row": 438
+ },
+ {
+  "index": 437,
+  "rank": 438,
+  "points": 1344730,
+  "cap": "EX_41_999",
+  "_row": 439
+ },
+ {
+  "index": 438,
+  "rank": 439,
+  "points": 1348970,
+  "cap": "EX_41_999",
+  "_row": 440
+ },
+ {
+  "index": 439,
+  "rank": 440,
+  "points": 1353230,
+  "cap": "EX_41_999",
+  "_row": 441
+ },
+ {
+  "index": 440,
+  "rank": 441,
+  "points": 1357490,
+  "cap": "EX_41_999",
+  "_row": 442
+ },
+ {
+  "index": 441,
+  "rank": 442,
+  "points": 1361750,
+  "cap": "EX_41_999",
+  "_row": 443
+ },
+ {
+  "index": 442,
+  "rank": 443,
+  "points": 1366010,
+  "cap": "EX_41_999",
+  "_row": 444
+ },
+ {
+  "index": 443,
+  "rank": 444,
+  "points": 1370270,
+  "cap": "EX_41_999",
+  "_row": 445
+ },
+ {
+  "index": 444,
+  "rank": 445,
+  "points": 1374550,
+  "cap": "EX_41_999",
+  "_row": 446
+ },
+ {
+  "index": 445,
+  "rank": 446,
+  "points": 1378830,
+  "cap": "EX_41_999",
+  "_row": 447
+ },
+ {
+  "index": 446,
+  "rank": 447,
+  "points": 1383110,
+  "cap": "EX_41_999",
+  "_row": 448
+ },
+ {
+  "index": 447,
+  "rank": 448,
+  "points": 1387390,
+  "cap": "EX_41_999",
+  "_row": 449
+ },
+ {
+  "index": 448,
+  "rank": 449,
+  "points": 1391670,
+  "cap": "EX_41_999",
+  "_row": 450
+ },
+ {
+  "index": 449,
+  "rank": 450,
+  "points": 1395970,
+  "cap": "EX_41_999",
+  "_row": 451
+ },
+ {
+  "index": 450,
+  "rank": 451,
+  "points": 1400270,
+  "cap": "EX_41_999",
+  "_row": 452
+ },
+ {
+  "index": 451,
+  "rank": 452,
+  "points": 1404570,
+  "cap": "EX_41_999",
+  "_row": 453
+ },
+ {
+  "index": 452,
+  "rank": 453,
+  "points": 1408870,
+  "cap": "EX_41_999",
+  "_row": 454
+ },
+ {
+  "index": 453,
+  "rank": 454,
+  "points": 1413170,
+  "cap": "EX_41_999",
+  "_row": 455
+ },
+ {
+  "index": 454,
+  "rank": 455,
+  "points": 1417490,
+  "cap": "EX_41_999",
+  "_row": 456
+ },
+ {
+  "index": 455,
+  "rank": 456,
+  "points": 1421810,
+  "cap": "EX_41_999",
+  "_row": 457
+ },
+ {
+  "index": 456,
+  "rank": 457,
+  "points": 1426130,
+  "cap": "EX_41_999",
+  "_row": 458
+ },
+ {
+  "index": 457,
+  "rank": 458,
+  "points": 1430450,
+  "cap": "EX_41_999",
+  "_row": 459
+ },
+ {
+  "index": 458,
+  "rank": 459,
+  "points": 1434770,
+  "cap": "EX_41_999",
+  "_row": 460
+ },
+ {
+  "index": 459,
+  "rank": 460,
+  "points": 1439110,
+  "cap": "EX_41_999",
+  "_row": 461
+ },
+ {
+  "index": 460,
+  "rank": 461,
+  "points": 1443450,
+  "cap": "EX_41_999",
+  "_row": 462
+ },
+ {
+  "index": 461,
+  "rank": 462,
+  "points": 1447790,
+  "cap": "EX_41_999",
+  "_row": 463
+ },
+ {
+  "index": 462,
+  "rank": 463,
+  "points": 1452130,
+  "cap": "EX_41_999",
+  "_row": 464
+ },
+ {
+  "index": 463,
+  "rank": 464,
+  "points": 1456470,
+  "cap": "EX_41_999",
+  "_row": 465
+ },
+ {
+  "index": 464,
+  "rank": 465,
+  "points": 1460830,
+  "cap": "EX_41_999",
+  "_row": 466
+ },
+ {
+  "index": 465,
+  "rank": 466,
+  "points": 1465190,
+  "cap": "EX_41_999",
+  "_row": 467
+ },
+ {
+  "index": 466,
+  "rank": 467,
+  "points": 1469550,
+  "cap": "EX_41_999",
+  "_row": 468
+ },
+ {
+  "index": 467,
+  "rank": 468,
+  "points": 1473910,
+  "cap": "EX_41_999",
+  "_row": 469
+ },
+ {
+  "index": 468,
+  "rank": 469,
+  "points": 1478270,
+  "cap": "EX_41_999",
+  "_row": 470
+ },
+ {
+  "index": 469,
+  "rank": 470,
+  "points": 1482650,
+  "cap": "EX_41_999",
+  "_row": 471
+ },
+ {
+  "index": 470,
+  "rank": 471,
+  "points": 1487030,
+  "cap": "EX_41_999",
+  "_row": 472
+ },
+ {
+  "index": 471,
+  "rank": 472,
+  "points": 1491410,
+  "cap": "EX_41_999",
+  "_row": 473
+ },
+ {
+  "index": 472,
+  "rank": 473,
+  "points": 1495790,
+  "cap": "EX_41_999",
+  "_row": 474
+ },
+ {
+  "index": 473,
+  "rank": 474,
+  "points": 1500170,
+  "cap": "EX_41_999",
+  "_row": 475
+ },
+ {
+  "index": 474,
+  "rank": 475,
+  "points": 1504570,
+  "cap": "EX_41_999",
+  "_row": 476
+ },
+ {
+  "index": 475,
+  "rank": 476,
+  "points": 1508970,
+  "cap": "EX_41_999",
+  "_row": 477
+ },
+ {
+  "index": 476,
+  "rank": 477,
+  "points": 1513370,
+  "cap": "EX_41_999",
+  "_row": 478
+ },
+ {
+  "index": 477,
+  "rank": 478,
+  "points": 1517770,
+  "cap": "EX_41_999",
+  "_row": 479
+ },
+ {
+  "index": 478,
+  "rank": 479,
+  "points": 1522170,
+  "cap": "EX_41_999",
+  "_row": 480
+ },
+ {
+  "index": 479,
+  "rank": 480,
+  "points": 1526590,
+  "cap": "EX_41_999",
+  "_row": 481
+ },
+ {
+  "index": 480,
+  "rank": 481,
+  "points": 1531010,
+  "cap": "EX_41_999",
+  "_row": 482
+ },
+ {
+  "index": 481,
+  "rank": 482,
+  "points": 1535430,
+  "cap": "EX_41_999",
+  "_row": 483
+ },
+ {
+  "index": 482,
+  "rank": 483,
+  "points": 1539850,
+  "cap": "EX_41_999",
+  "_row": 484
+ },
+ {
+  "index": 483,
+  "rank": 484,
+  "points": 1544270,
+  "cap": "EX_41_999",
+  "_row": 485
+ },
+ {
+  "index": 484,
+  "rank": 485,
+  "points": 1548710,
+  "cap": "EX_41_999",
+  "_row": 486
+ },
+ {
+  "index": 485,
+  "rank": 486,
+  "points": 1553150,
+  "cap": "EX_41_999",
+  "_row": 487
+ },
+ {
+  "index": 486,
+  "rank": 487,
+  "points": 1557590,
+  "cap": "EX_41_999",
+  "_row": 488
+ },
+ {
+  "index": 487,
+  "rank": 488,
+  "points": 1562030,
+  "cap": "EX_41_999",
+  "_row": 489
+ },
+ {
+  "index": 488,
+  "rank": 489,
+  "points": 1566470,
+  "cap": "EX_41_999",
+  "_row": 490
+ },
+ {
+  "index": 489,
+  "rank": 490,
+  "points": 1570930,
+  "cap": "EX_41_999",
+  "_row": 491
+ },
+ {
+  "index": 490,
+  "rank": 491,
+  "points": 1575390,
+  "cap": "EX_41_999",
+  "_row": 492
+ },
+ {
+  "index": 491,
+  "rank": 492,
+  "points": 1579850,
+  "cap": "EX_41_999",
+  "_row": 493
+ },
+ {
+  "index": 492,
+  "rank": 493,
+  "points": 1584310,
+  "cap": "EX_41_999",
+  "_row": 494
+ },
+ {
+  "index": 493,
+  "rank": 494,
+  "points": 1588770,
+  "cap": "EX_41_999",
+  "_row": 495
+ },
+ {
+  "index": 494,
+  "rank": 495,
+  "points": 1593250,
+  "cap": "EX_41_999",
+  "_row": 496
+ },
+ {
+  "index": 495,
+  "rank": 496,
+  "points": 1597730,
+  "cap": "EX_41_999",
+  "_row": 497
+ },
+ {
+  "index": 496,
+  "rank": 497,
+  "points": 1602210,
+  "cap": "EX_41_999",
+  "_row": 498
+ },
+ {
+  "index": 497,
+  "rank": 498,
+  "points": 1606690,
+  "cap": "EX_41_999",
+  "_row": 499
+ },
+ {
+  "index": 498,
+  "rank": 499,
+  "points": 1611170,
+  "cap": "EX_41_999",
+  "_row": 500
+ },
+ {
+  "index": 499,
+  "rank": 500,
+  "points": 1615670,
+  "cap": "EX_41_999",
+  "_row": 501
+ },
+ {
+  "index": 500,
+  "rank": 501,
+  "points": 1620170,
+  "cap": "EX_41_999",
+  "_row": 502
+ },
+ {
+  "index": 501,
+  "rank": 502,
+  "points": 1624670,
+  "cap": "EX_41_999",
+  "_row": 503
+ },
+ {
+  "index": 502,
+  "rank": 503,
+  "points": 1629170,
+  "cap": "EX_41_999",
+  "_row": 504
+ },
+ {
+  "index": 503,
+  "rank": 504,
+  "points": 1633670,
+  "cap": "EX_41_999",
+  "_row": 505
+ },
+ {
+  "index": 504,
+  "rank": 505,
+  "points": 1638190,
+  "cap": "EX_41_999",
+  "_row": 506
+ },
+ {
+  "index": 505,
+  "rank": 506,
+  "points": 1642710,
+  "cap": "EX_41_999",
+  "_row": 507
+ },
+ {
+  "index": 506,
+  "rank": 507,
+  "points": 1647230,
+  "cap": "EX_41_999",
+  "_row": 508
+ },
+ {
+  "index": 507,
+  "rank": 508,
+  "points": 1651750,
+  "cap": "EX_41_999",
+  "_row": 509
+ },
+ {
+  "index": 508,
+  "rank": 509,
+  "points": 1656270,
+  "cap": "EX_41_999",
+  "_row": 510
+ },
+ {
+  "index": 509,
+  "rank": 510,
+  "points": 1660790,
+  "cap": "EX_41_999",
+  "_row": 511
+ },
+ {
+  "index": 510,
+  "rank": 511,
+  "points": 1665310,
+  "cap": "EX_41_999",
+  "_row": 512
+ },
+ {
+  "index": 511,
+  "rank": 512,
+  "points": 1669830,
+  "cap": "EX_41_999",
+  "_row": 513
+ },
+ {
+  "index": 512,
+  "rank": 513,
+  "points": 1674350,
+  "cap": "EX_41_999",
+  "_row": 514
+ },
+ {
+  "index": 513,
+  "rank": 514,
+  "points": 1678870,
+  "cap": "EX_41_999",
+  "_row": 515
+ },
+ {
+  "index": 514,
+  "rank": 515,
+  "points": 1683410,
+  "cap": "EX_41_999",
+  "_row": 516
+ },
+ {
+  "index": 515,
+  "rank": 516,
+  "points": 1687950,
+  "cap": "EX_41_999",
+  "_row": 517
+ },
+ {
+  "index": 516,
+  "rank": 517,
+  "points": 1692490,
+  "cap": "EX_41_999",
+  "_row": 518
+ },
+ {
+  "index": 517,
+  "rank": 518,
+  "points": 1697030,
+  "cap": "EX_41_999",
+  "_row": 519
+ },
+ {
+  "index": 518,
+  "rank": 519,
+  "points": 1701570,
+  "cap": "EX_41_999",
+  "_row": 520
+ },
+ {
+  "index": 519,
+  "rank": 520,
+  "points": 1706110,
+  "cap": "EX_41_999",
+  "_row": 521
+ },
+ {
+  "index": 520,
+  "rank": 521,
+  "points": 1710650,
+  "cap": "EX_41_999",
+  "_row": 522
+ },
+ {
+  "index": 521,
+  "rank": 522,
+  "points": 1715190,
+  "cap": "EX_41_999",
+  "_row": 523
+ },
+ {
+  "index": 522,
+  "rank": 523,
+  "points": 1719730,
+  "cap": "EX_41_999",
+  "_row": 524
+ },
+ {
+  "index": 523,
+  "rank": 524,
+  "points": 1724270,
+  "cap": "EX_41_999",
+  "_row": 525
+ },
+ {
+  "index": 524,
+  "rank": 525,
+  "points": 1728830,
+  "cap": "EX_41_999",
+  "_row": 526
+ },
+ {
+  "index": 525,
+  "rank": 526,
+  "points": 1733390,
+  "cap": "EX_41_999",
+  "_row": 527
+ },
+ {
+  "index": 526,
+  "rank": 527,
+  "points": 1737950,
+  "cap": "EX_41_999",
+  "_row": 528
+ },
+ {
+  "index": 527,
+  "rank": 528,
+  "points": 1742510,
+  "cap": "EX_41_999",
+  "_row": 529
+ },
+ {
+  "index": 528,
+  "rank": 529,
+  "points": 1747070,
+  "cap": "EX_41_999",
+  "_row": 530
+ },
+ {
+  "index": 529,
+  "rank": 530,
+  "points": 1751630,
+  "cap": "EX_41_999",
+  "_row": 531
+ },
+ {
+  "index": 530,
+  "rank": 531,
+  "points": 1756190,
+  "cap": "EX_41_999",
+  "_row": 532
+ },
+ {
+  "index": 531,
+  "rank": 532,
+  "points": 1760750,
+  "cap": "EX_41_999",
+  "_row": 533
+ },
+ {
+  "index": 532,
+  "rank": 533,
+  "points": 1765310,
+  "cap": "EX_41_999",
+  "_row": 534
+ },
+ {
+  "index": 533,
+  "rank": 534,
+  "points": 1769870,
+  "cap": "EX_41_999",
+  "_row": 535
+ },
+ {
+  "index": 534,
+  "rank": 535,
+  "points": 1774450,
+  "cap": "EX_41_999",
+  "_row": 536
+ },
+ {
+  "index": 535,
+  "rank": 536,
+  "points": 1779030,
+  "cap": "EX_41_999",
+  "_row": 537
+ },
+ {
+  "index": 536,
+  "rank": 537,
+  "points": 1783610,
+  "cap": "EX_41_999",
+  "_row": 538
+ },
+ {
+  "index": 537,
+  "rank": 538,
+  "points": 1788190,
+  "cap": "EX_41_999",
+  "_row": 539
+ },
+ {
+  "index": 538,
+  "rank": 539,
+  "points": 1792770,
+  "cap": "EX_41_999",
+  "_row": 540
+ },
+ {
+  "index": 539,
+  "rank": 540,
+  "points": 1797350,
+  "cap": "EX_41_999",
+  "_row": 541
+ },
+ {
+  "index": 540,
+  "rank": 541,
+  "points": 1801930,
+  "cap": "EX_41_999",
+  "_row": 542
+ },
+ {
+  "index": 541,
+  "rank": 542,
+  "points": 1806510,
+  "cap": "EX_41_999",
+  "_row": 543
+ },
+ {
+  "index": 542,
+  "rank": 543,
+  "points": 1811090,
+  "cap": "EX_41_999",
+  "_row": 544
+ },
+ {
+  "index": 543,
+  "rank": 544,
+  "points": 1815670,
+  "cap": "EX_41_999",
+  "_row": 545
+ },
+ {
+  "index": 544,
+  "rank": 545,
+  "points": 1820270,
+  "cap": "EX_41_999",
+  "_row": 546
+ },
+ {
+  "index": 545,
+  "rank": 546,
+  "points": 1824870,
+  "cap": "EX_41_999",
+  "_row": 547
+ },
+ {
+  "index": 546,
+  "rank": 547,
+  "points": 1829470,
+  "cap": "EX_41_999",
+  "_row": 548
+ },
+ {
+  "index": 547,
+  "rank": 548,
+  "points": 1834070,
+  "cap": "EX_41_999",
+  "_row": 549
+ },
+ {
+  "index": 548,
+  "rank": 549,
+  "points": 1838670,
+  "cap": "EX_41_999",
+  "_row": 550
+ },
+ {
+  "index": 549,
+  "rank": 550,
+  "points": 1843270,
+  "cap": "EX_41_999",
+  "_row": 551
+ },
+ {
+  "index": 550,
+  "rank": 551,
+  "points": 1847870,
+  "cap": "EX_41_999",
+  "_row": 552
+ },
+ {
+  "index": 551,
+  "rank": 552,
+  "points": 1852470,
+  "cap": "EX_41_999",
+  "_row": 553
+ },
+ {
+  "index": 552,
+  "rank": 553,
+  "points": 1857070,
+  "cap": "EX_41_999",
+  "_row": 554
+ },
+ {
+  "index": 553,
+  "rank": 554,
+  "points": 1861670,
+  "cap": "EX_41_999",
+  "_row": 555
+ },
+ {
+  "index": 554,
+  "rank": 555,
+  "points": 1866290,
+  "cap": "EX_41_999",
+  "_row": 556
+ },
+ {
+  "index": 555,
+  "rank": 556,
+  "points": 1870910,
+  "cap": "EX_41_999",
+  "_row": 557
+ },
+ {
+  "index": 556,
+  "rank": 557,
+  "points": 1875530,
+  "cap": "EX_41_999",
+  "_row": 558
+ },
+ {
+  "index": 557,
+  "rank": 558,
+  "points": 1880150,
+  "cap": "EX_41_999",
+  "_row": 559
+ },
+ {
+  "index": 558,
+  "rank": 559,
+  "points": 1884770,
+  "cap": "EX_41_999",
+  "_row": 560
+ },
+ {
+  "index": 559,
+  "rank": 560,
+  "points": 1889390,
+  "cap": "EX_41_999",
+  "_row": 561
+ },
+ {
+  "index": 560,
+  "rank": 561,
+  "points": 1894010,
+  "cap": "EX_41_999",
+  "_row": 562
+ },
+ {
+  "index": 561,
+  "rank": 562,
+  "points": 1898630,
+  "cap": "EX_41_999",
+  "_row": 563
+ },
+ {
+  "index": 562,
+  "rank": 563,
+  "points": 1903250,
+  "cap": "EX_41_999",
+  "_row": 564
+ },
+ {
+  "index": 563,
+  "rank": 564,
+  "points": 1907870,
+  "cap": "EX_41_999",
+  "_row": 565
+ },
+ {
+  "index": 564,
+  "rank": 565,
+  "points": 1912510,
+  "cap": "EX_41_999",
+  "_row": 566
+ },
+ {
+  "index": 565,
+  "rank": 566,
+  "points": 1917150,
+  "cap": "EX_41_999",
+  "_row": 567
+ },
+ {
+  "index": 566,
+  "rank": 567,
+  "points": 1921790,
+  "cap": "EX_41_999",
+  "_row": 568
+ },
+ {
+  "index": 567,
+  "rank": 568,
+  "points": 1926430,
+  "cap": "EX_41_999",
+  "_row": 569
+ },
+ {
+  "index": 568,
+  "rank": 569,
+  "points": 1931070,
+  "cap": "EX_41_999",
+  "_row": 570
+ },
+ {
+  "index": 569,
+  "rank": 570,
+  "points": 1935710,
+  "cap": "EX_41_999",
+  "_row": 571
+ },
+ {
+  "index": 570,
+  "rank": 571,
+  "points": 1940350,
+  "cap": "EX_41_999",
+  "_row": 572
+ },
+ {
+  "index": 571,
+  "rank": 572,
+  "points": 1944990,
+  "cap": "EX_41_999",
+  "_row": 573
+ },
+ {
+  "index": 572,
+  "rank": 573,
+  "points": 1949630,
+  "cap": "EX_41_999",
+  "_row": 574
+ },
+ {
+  "index": 573,
+  "rank": 574,
+  "points": 1954270,
+  "cap": "EX_41_999",
+  "_row": 575
+ },
+ {
+  "index": 574,
+  "rank": 575,
+  "points": 1958930,
+  "cap": "EX_41_999",
+  "_row": 576
+ },
+ {
+  "index": 575,
+  "rank": 576,
+  "points": 1963590,
+  "cap": "EX_41_999",
+  "_row": 577
+ },
+ {
+  "index": 576,
+  "rank": 577,
+  "points": 1968250,
+  "cap": "EX_41_999",
+  "_row": 578
+ },
+ {
+  "index": 577,
+  "rank": 578,
+  "points": 1972910,
+  "cap": "EX_41_999",
+  "_row": 579
+ },
+ {
+  "index": 578,
+  "rank": 579,
+  "points": 1977570,
+  "cap": "EX_41_999",
+  "_row": 580
+ },
+ {
+  "index": 579,
+  "rank": 580,
+  "points": 1982230,
+  "cap": "EX_41_999",
+  "_row": 581
+ },
+ {
+  "index": 580,
+  "rank": 581,
+  "points": 1986890,
+  "cap": "EX_41_999",
+  "_row": 582
+ },
+ {
+  "index": 581,
+  "rank": 582,
+  "points": 1991550,
+  "cap": "EX_41_999",
+  "_row": 583
+ },
+ {
+  "index": 582,
+  "rank": 583,
+  "points": 1996210,
+  "cap": "EX_41_999",
+  "_row": 584
+ },
+ {
+  "index": 583,
+  "rank": 584,
+  "points": 2000870,
+  "cap": "EX_41_999",
+  "_row": 585
+ },
+ {
+  "index": 584,
+  "rank": 585,
+  "points": 2005550,
+  "cap": "EX_41_999",
+  "_row": 586
+ },
+ {
+  "index": 585,
+  "rank": 586,
+  "points": 2010230,
+  "cap": "EX_41_999",
+  "_row": 587
+ },
+ {
+  "index": 586,
+  "rank": 587,
+  "points": 2014910,
+  "cap": "EX_41_999",
+  "_row": 588
+ },
+ {
+  "index": 587,
+  "rank": 588,
+  "points": 2019590,
+  "cap": "EX_41_999",
+  "_row": 589
+ },
+ {
+  "index": 588,
+  "rank": 589,
+  "points": 2024270,
+  "cap": "EX_41_999",
+  "_row": 590
+ },
+ {
+  "index": 589,
+  "rank": 590,
+  "points": 2028950,
+  "cap": "EX_41_999",
+  "_row": 591
+ },
+ {
+  "index": 590,
+  "rank": 591,
+  "points": 2033630,
+  "cap": "EX_41_999",
+  "_row": 592
+ },
+ {
+  "index": 591,
+  "rank": 592,
+  "points": 2038310,
+  "cap": "EX_41_999",
+  "_row": 593
+ },
+ {
+  "index": 592,
+  "rank": 593,
+  "points": 2042990,
+  "cap": "EX_41_999",
+  "_row": 594
+ },
+ {
+  "index": 593,
+  "rank": 594,
+  "points": 2047670,
+  "cap": "EX_41_999",
+  "_row": 595
+ },
+ {
+  "index": 594,
+  "rank": 595,
+  "points": 2052370,
+  "cap": "EX_41_999",
+  "_row": 596
+ },
+ {
+  "index": 595,
+  "rank": 596,
+  "points": 2057070,
+  "cap": "EX_41_999",
+  "_row": 597
+ },
+ {
+  "index": 596,
+  "rank": 597,
+  "points": 2061770,
+  "cap": "EX_41_999",
+  "_row": 598
+ },
+ {
+  "index": 597,
+  "rank": 598,
+  "points": 2066470,
+  "cap": "EX_41_999",
+  "_row": 599
+ },
+ {
+  "index": 598,
+  "rank": 599,
+  "points": 2071170,
+  "cap": "EX_41_999",
+  "_row": 600
+ },
+ {
+  "index": 599,
+  "rank": 600,
+  "points": 2075870,
+  "cap": "EX_41_999",
+  "_row": 601
+ },
+ {
+  "index": 600,
+  "rank": 601,
+  "points": 2080570,
+  "cap": "EX_41_999",
+  "_row": 602
+ },
+ {
+  "index": 601,
+  "rank": 602,
+  "points": 2085270,
+  "cap": "EX_41_999",
+  "_row": 603
+ },
+ {
+  "index": 602,
+  "rank": 603,
+  "points": 2089970,
+  "cap": "EX_41_999",
+  "_row": 604
+ },
+ {
+  "index": 603,
+  "rank": 604,
+  "points": 2094670,
+  "cap": "EX_41_999",
+  "_row": 605
+ },
+ {
+  "index": 604,
+  "rank": 605,
+  "points": 2099390,
+  "cap": "EX_41_999",
+  "_row": 606
+ },
+ {
+  "index": 605,
+  "rank": 606,
+  "points": 2104110,
+  "cap": "EX_41_999",
+  "_row": 607
+ },
+ {
+  "index": 606,
+  "rank": 607,
+  "points": 2108830,
+  "cap": "EX_41_999",
+  "_row": 608
+ },
+ {
+  "index": 607,
+  "rank": 608,
+  "points": 2113550,
+  "cap": "EX_41_999",
+  "_row": 609
+ },
+ {
+  "index": 608,
+  "rank": 609,
+  "points": 2118270,
+  "cap": "EX_41_999",
+  "_row": 610
+ },
+ {
+  "index": 609,
+  "rank": 610,
+  "points": 2122990,
+  "cap": "EX_41_999",
+  "_row": 611
+ },
+ {
+  "index": 610,
+  "rank": 611,
+  "points": 2127710,
+  "cap": "EX_41_999",
+  "_row": 612
+ },
+ {
+  "index": 611,
+  "rank": 612,
+  "points": 2132430,
+  "cap": "EX_41_999",
+  "_row": 613
+ },
+ {
+  "index": 612,
+  "rank": 613,
+  "points": 2137150,
+  "cap": "EX_41_999",
+  "_row": 614
+ },
+ {
+  "index": 613,
+  "rank": 614,
+  "points": 2141870,
+  "cap": "EX_41_999",
+  "_row": 615
+ },
+ {
+  "index": 614,
+  "rank": 615,
+  "points": 2146610,
+  "cap": "EX_41_999",
+  "_row": 616
+ },
+ {
+  "index": 615,
+  "rank": 616,
+  "points": 2151350,
+  "cap": "EX_41_999",
+  "_row": 617
+ },
+ {
+  "index": 616,
+  "rank": 617,
+  "points": 2156090,
+  "cap": "EX_41_999",
+  "_row": 618
+ },
+ {
+  "index": 617,
+  "rank": 618,
+  "points": 2160830,
+  "cap": "EX_41_999",
+  "_row": 619
+ },
+ {
+  "index": 618,
+  "rank": 619,
+  "points": 2165570,
+  "cap": "EX_41_999",
+  "_row": 620
+ },
+ {
+  "index": 619,
+  "rank": 620,
+  "points": 2170310,
+  "cap": "EX_41_999",
+  "_row": 621
+ },
+ {
+  "index": 620,
+  "rank": 621,
+  "points": 2175050,
+  "cap": "EX_41_999",
+  "_row": 622
+ },
+ {
+  "index": 621,
+  "rank": 622,
+  "points": 2179790,
+  "cap": "EX_41_999",
+  "_row": 623
+ },
+ {
+  "index": 622,
+  "rank": 623,
+  "points": 2184530,
+  "cap": "EX_41_999",
+  "_row": 624
+ },
+ {
+  "index": 623,
+  "rank": 624,
+  "points": 2189270,
+  "cap": "EX_41_999",
+  "_row": 625
+ },
+ {
+  "index": 624,
+  "rank": 625,
+  "points": 2194030,
+  "cap": "EX_41_999",
+  "_row": 626
+ },
+ {
+  "index": 625,
+  "rank": 626,
+  "points": 2198790,
+  "cap": "EX_41_999",
+  "_row": 627
+ },
+ {
+  "index": 626,
+  "rank": 627,
+  "points": 2203550,
+  "cap": "EX_41_999",
+  "_row": 628
+ },
+ {
+  "index": 627,
+  "rank": 628,
+  "points": 2208310,
+  "cap": "EX_41_999",
+  "_row": 629
+ },
+ {
+  "index": 628,
+  "rank": 629,
+  "points": 2213070,
+  "cap": "EX_41_999",
+  "_row": 630
+ },
+ {
+  "index": 629,
+  "rank": 630,
+  "points": 2217830,
+  "cap": "EX_41_999",
+  "_row": 631
+ },
+ {
+  "index": 630,
+  "rank": 631,
+  "points": 2222590,
+  "cap": "EX_41_999",
+  "_row": 632
+ },
+ {
+  "index": 631,
+  "rank": 632,
+  "points": 2227350,
+  "cap": "EX_41_999",
+  "_row": 633
+ },
+ {
+  "index": 632,
+  "rank": 633,
+  "points": 2232110,
+  "cap": "EX_41_999",
+  "_row": 634
+ },
+ {
+  "index": 633,
+  "rank": 634,
+  "points": 2236870,
+  "cap": "EX_41_999",
+  "_row": 635
+ },
+ {
+  "index": 634,
+  "rank": 635,
+  "points": 2241650,
+  "cap": "EX_41_999",
+  "_row": 636
+ },
+ {
+  "index": 635,
+  "rank": 636,
+  "points": 2246430,
+  "cap": "EX_41_999",
+  "_row": 637
+ },
+ {
+  "index": 636,
+  "rank": 637,
+  "points": 2251210,
+  "cap": "EX_41_999",
+  "_row": 638
+ },
+ {
+  "index": 637,
+  "rank": 638,
+  "points": 2255990,
+  "cap": "EX_41_999",
+  "_row": 639
+ },
+ {
+  "index": 638,
+  "rank": 639,
+  "points": 2260770,
+  "cap": "EX_41_999",
+  "_row": 640
+ },
+ {
+  "index": 639,
+  "rank": 640,
+  "points": 2265550,
+  "cap": "EX_41_999",
+  "_row": 641
+ },
+ {
+  "index": 640,
+  "rank": 641,
+  "points": 2270330,
+  "cap": "EX_41_999",
+  "_row": 642
+ },
+ {
+  "index": 641,
+  "rank": 642,
+  "points": 2275110,
+  "cap": "EX_41_999",
+  "_row": 643
+ },
+ {
+  "index": 642,
+  "rank": 643,
+  "points": 2279890,
+  "cap": "EX_41_999",
+  "_row": 644
+ },
+ {
+  "index": 643,
+  "rank": 644,
+  "points": 2284670,
+  "cap": "EX_41_999",
+  "_row": 645
+ },
+ {
+  "index": 644,
+  "rank": 645,
+  "points": 2289470,
+  "cap": "EX_41_999",
+  "_row": 646
+ },
+ {
+  "index": 645,
+  "rank": 646,
+  "points": 2294270,
+  "cap": "EX_41_999",
+  "_row": 647
+ },
+ {
+  "index": 646,
+  "rank": 647,
+  "points": 2299070,
+  "cap": "EX_41_999",
+  "_row": 648
+ },
+ {
+  "index": 647,
+  "rank": 648,
+  "points": 2303870,
+  "cap": "EX_41_999",
+  "_row": 649
+ },
+ {
+  "index": 648,
+  "rank": 649,
+  "points": 2308670,
+  "cap": "EX_41_999",
+  "_row": 650
+ },
+ {
+  "index": 649,
+  "rank": 650,
+  "points": 2313470,
+  "cap": "EX_41_999",
+  "_row": 651
+ },
+ {
+  "index": 650,
+  "rank": 651,
+  "points": 2318270,
+  "cap": "EX_41_999",
+  "_row": 652
+ },
+ {
+  "index": 651,
+  "rank": 652,
+  "points": 2323070,
+  "cap": "EX_41_999",
+  "_row": 653
+ },
+ {
+  "index": 652,
+  "rank": 653,
+  "points": 2327870,
+  "cap": "EX_41_999",
+  "_row": 654
+ },
+ {
+  "index": 653,
+  "rank": 654,
+  "points": 2332670,
+  "cap": "EX_41_999",
+  "_row": 655
+ },
+ {
+  "index": 654,
+  "rank": 655,
+  "points": 2337490,
+  "cap": "EX_41_999",
+  "_row": 656
+ },
+ {
+  "index": 655,
+  "rank": 656,
+  "points": 2342310,
+  "cap": "EX_41_999",
+  "_row": 657
+ },
+ {
+  "index": 656,
+  "rank": 657,
+  "points": 2347130,
+  "cap": "EX_41_999",
+  "_row": 658
+ },
+ {
+  "index": 657,
+  "rank": 658,
+  "points": 2351950,
+  "cap": "EX_41_999",
+  "_row": 659
+ },
+ {
+  "index": 658,
+  "rank": 659,
+  "points": 2356770,
+  "cap": "EX_41_999",
+  "_row": 660
+ },
+ {
+  "index": 659,
+  "rank": 660,
+  "points": 2361590,
+  "cap": "EX_41_999",
+  "_row": 661
+ },
+ {
+  "index": 660,
+  "rank": 661,
+  "points": 2366410,
+  "cap": "EX_41_999",
+  "_row": 662
+ },
+ {
+  "index": 661,
+  "rank": 662,
+  "points": 2371230,
+  "cap": "EX_41_999",
+  "_row": 663
+ },
+ {
+  "index": 662,
+  "rank": 663,
+  "points": 2376050,
+  "cap": "EX_41_999",
+  "_row": 664
+ },
+ {
+  "index": 663,
+  "rank": 664,
+  "points": 2380870,
+  "cap": "EX_41_999",
+  "_row": 665
+ },
+ {
+  "index": 664,
+  "rank": 665,
+  "points": 2385710,
+  "cap": "EX_41_999",
+  "_row": 666
+ },
+ {
+  "index": 665,
+  "rank": 666,
+  "points": 2390550,
+  "cap": "EX_41_999",
+  "_row": 667
+ },
+ {
+  "index": 666,
+  "rank": 667,
+  "points": 2395390,
+  "cap": "EX_41_999",
+  "_row": 668
+ },
+ {
+  "index": 667,
+  "rank": 668,
+  "points": 2400230,
+  "cap": "EX_41_999",
+  "_row": 669
+ },
+ {
+  "index": 668,
+  "rank": 669,
+  "points": 2405070,
+  "cap": "EX_41_999",
+  "_row": 670
+ },
+ {
+  "index": 669,
+  "rank": 670,
+  "points": 2409910,
+  "cap": "EX_41_999",
+  "_row": 671
+ },
+ {
+  "index": 670,
+  "rank": 671,
+  "points": 2414750,
+  "cap": "EX_41_999",
+  "_row": 672
+ },
+ {
+  "index": 671,
+  "rank": 672,
+  "points": 2419590,
+  "cap": "EX_41_999",
+  "_row": 673
+ },
+ {
+  "index": 672,
+  "rank": 673,
+  "points": 2424430,
+  "cap": "EX_41_999",
+  "_row": 674
+ },
+ {
+  "index": 673,
+  "rank": 674,
+  "points": 2429270,
+  "cap": "EX_41_999",
+  "_row": 675
+ },
+ {
+  "index": 674,
+  "rank": 675,
+  "points": 2434130,
+  "cap": "EX_41_999",
+  "_row": 676
+ },
+ {
+  "index": 675,
+  "rank": 676,
+  "points": 2438990,
+  "cap": "EX_41_999",
+  "_row": 677
+ },
+ {
+  "index": 676,
+  "rank": 677,
+  "points": 2443850,
+  "cap": "EX_41_999",
+  "_row": 678
+ },
+ {
+  "index": 677,
+  "rank": 678,
+  "points": 2448710,
+  "cap": "EX_41_999",
+  "_row": 679
+ },
+ {
+  "index": 678,
+  "rank": 679,
+  "points": 2453570,
+  "cap": "EX_41_999",
+  "_row": 680
+ },
+ {
+  "index": 679,
+  "rank": 680,
+  "points": 2458430,
+  "cap": "EX_41_999",
+  "_row": 681
+ },
+ {
+  "index": 680,
+  "rank": 681,
+  "points": 2463290,
+  "cap": "EX_41_999",
+  "_row": 682
+ },
+ {
+  "index": 681,
+  "rank": 682,
+  "points": 2468150,
+  "cap": "EX_41_999",
+  "_row": 683
+ },
+ {
+  "index": 682,
+  "rank": 683,
+  "points": 2473010,
+  "cap": "EX_41_999",
+  "_row": 684
+ },
+ {
+  "index": 683,
+  "rank": 684,
+  "points": 2477870,
+  "cap": "EX_41_999",
+  "_row": 685
+ },
+ {
+  "index": 684,
+  "rank": 685,
+  "points": 2482750,
+  "cap": "EX_41_999",
+  "_row": 686
+ },
+ {
+  "index": 685,
+  "rank": 686,
+  "points": 2487630,
+  "cap": "EX_41_999",
+  "_row": 687
+ },
+ {
+  "index": 686,
+  "rank": 687,
+  "points": 2492510,
+  "cap": "EX_41_999",
+  "_row": 688
+ },
+ {
+  "index": 687,
+  "rank": 688,
+  "points": 2497390,
+  "cap": "EX_41_999",
+  "_row": 689
+ },
+ {
+  "index": 688,
+  "rank": 689,
+  "points": 2502270,
+  "cap": "EX_41_999",
+  "_row": 690
+ },
+ {
+  "index": 689,
+  "rank": 690,
+  "points": 2507150,
+  "cap": "EX_41_999",
+  "_row": 691
+ },
+ {
+  "index": 690,
+  "rank": 691,
+  "points": 2512030,
+  "cap": "EX_41_999",
+  "_row": 692
+ },
+ {
+  "index": 691,
+  "rank": 692,
+  "points": 2516910,
+  "cap": "EX_41_999",
+  "_row": 693
+ },
+ {
+  "index": 692,
+  "rank": 693,
+  "points": 2521790,
+  "cap": "EX_41_999",
+  "_row": 694
+ },
+ {
+  "index": 693,
+  "rank": 694,
+  "points": 2526670,
+  "cap": "EX_41_999",
+  "_row": 695
+ },
+ {
+  "index": 694,
+  "rank": 695,
+  "points": 2531570,
+  "cap": "EX_41_999",
+  "_row": 696
+ },
+ {
+  "index": 695,
+  "rank": 696,
+  "points": 2536470,
+  "cap": "EX_41_999",
+  "_row": 697
+ },
+ {
+  "index": 696,
+  "rank": 697,
+  "points": 2541370,
+  "cap": "EX_41_999",
+  "_row": 698
+ },
+ {
+  "index": 697,
+  "rank": 698,
+  "points": 2546270,
+  "cap": "EX_41_999",
+  "_row": 699
+ },
+ {
+  "index": 698,
+  "rank": 699,
+  "points": 2551170,
+  "cap": "EX_41_999",
+  "_row": 700
+ },
+ {
+  "index": 699,
+  "rank": 700,
+  "points": 2556070,
+  "cap": "EX_41_999",
+  "_row": 701
+ },
+ {
+  "index": 700,
+  "rank": 701,
+  "points": 2560970,
+  "cap": "EX_41_999",
+  "_row": 702
+ },
+ {
+  "index": 701,
+  "rank": 702,
+  "points": 2565870,
+  "cap": "EX_41_999",
+  "_row": 703
+ },
+ {
+  "index": 702,
+  "rank": 703,
+  "points": 2570770,
+  "cap": "EX_41_999",
+  "_row": 704
+ },
+ {
+  "index": 703,
+  "rank": 704,
+  "points": 2575670,
+  "cap": "EX_41_999",
+  "_row": 705
+ },
+ {
+  "index": 704,
+  "rank": 705,
+  "points": 2580580,
+  "cap": "EX_41_999",
+  "_row": 706
+ },
+ {
+  "index": 705,
+  "rank": 706,
+  "points": 2585490,
+  "cap": "EX_41_999",
+  "_row": 707
+ },
+ {
+  "index": 706,
+  "rank": 707,
+  "points": 2590400,
+  "cap": "EX_41_999",
+  "_row": 708
+ },
+ {
+  "index": 707,
+  "rank": 708,
+  "points": 2595310,
+  "cap": "EX_41_999",
+  "_row": 709
+ },
+ {
+  "index": 708,
+  "rank": 709,
+  "points": 2600220,
+  "cap": "EX_41_999",
+  "_row": 710
+ },
+ {
+  "index": 709,
+  "rank": 710,
+  "points": 2605130,
+  "cap": "EX_41_999",
+  "_row": 711
+ },
+ {
+  "index": 710,
+  "rank": 711,
+  "points": 2610040,
+  "cap": "EX_41_999",
+  "_row": 712
+ },
+ {
+  "index": 711,
+  "rank": 712,
+  "points": 2614950,
+  "cap": "EX_41_999",
+  "_row": 713
+ },
+ {
+  "index": 712,
+  "rank": 713,
+  "points": 2619860,
+  "cap": "EX_41_999",
+  "_row": 714
+ },
+ {
+  "index": 713,
+  "rank": 714,
+  "points": 2624770,
+  "cap": "EX_41_999",
+  "_row": 715
+ },
+ {
+  "index": 714,
+  "rank": 715,
+  "points": 2629690,
+  "cap": "EX_41_999",
+  "_row": 716
+ },
+ {
+  "index": 715,
+  "rank": 716,
+  "points": 2634610,
+  "cap": "EX_41_999",
+  "_row": 717
+ },
+ {
+  "index": 716,
+  "rank": 717,
+  "points": 2639530,
+  "cap": "EX_41_999",
+  "_row": 718
+ },
+ {
+  "index": 717,
+  "rank": 718,
+  "points": 2644450,
+  "cap": "EX_41_999",
+  "_row": 719
+ },
+ {
+  "index": 718,
+  "rank": 719,
+  "points": 2649370,
+  "cap": "EX_41_999",
+  "_row": 720
+ },
+ {
+  "index": 719,
+  "rank": 720,
+  "points": 2654290,
+  "cap": "EX_41_999",
+  "_row": 721
+ },
+ {
+  "index": 720,
+  "rank": 721,
+  "points": 2659210,
+  "cap": "EX_41_999",
+  "_row": 722
+ },
+ {
+  "index": 721,
+  "rank": 722,
+  "points": 2664130,
+  "cap": "EX_41_999",
+  "_row": 723
+ },
+ {
+  "index": 722,
+  "rank": 723,
+  "points": 2669050,
+  "cap": "EX_41_999",
+  "_row": 724
+ },
+ {
+  "index": 723,
+  "rank": 724,
+  "points": 2673970,
+  "cap": "EX_41_999",
+  "_row": 725
+ },
+ {
+  "index": 724,
+  "rank": 725,
+  "points": 2678900,
+  "cap": "EX_41_999",
+  "_row": 726
+ },
+ {
+  "index": 725,
+  "rank": 726,
+  "points": 2683830,
+  "cap": "EX_41_999",
+  "_row": 727
+ },
+ {
+  "index": 726,
+  "rank": 727,
+  "points": 2688760,
+  "cap": "EX_41_999",
+  "_row": 728
+ },
+ {
+  "index": 727,
+  "rank": 728,
+  "points": 2693690,
+  "cap": "EX_41_999",
+  "_row": 729
+ },
+ {
+  "index": 728,
+  "rank": 729,
+  "points": 2698620,
+  "cap": "EX_41_999",
+  "_row": 730
+ },
+ {
+  "index": 729,
+  "rank": 730,
+  "points": 2703550,
+  "cap": "EX_41_999",
+  "_row": 731
+ },
+ {
+  "index": 730,
+  "rank": 731,
+  "points": 2708480,
+  "cap": "EX_41_999",
+  "_row": 732
+ },
+ {
+  "index": 731,
+  "rank": 732,
+  "points": 2713410,
+  "cap": "EX_41_999",
+  "_row": 733
+ },
+ {
+  "index": 732,
+  "rank": 733,
+  "points": 2718340,
+  "cap": "EX_41_999",
+  "_row": 734
+ },
+ {
+  "index": 733,
+  "rank": 734,
+  "points": 2723270,
+  "cap": "EX_41_999",
+  "_row": 735
+ },
+ {
+  "index": 734,
+  "rank": 735,
+  "points": 2728210,
+  "cap": "EX_41_999",
+  "_row": 736
+ },
+ {
+  "index": 735,
+  "rank": 736,
+  "points": 2733150,
+  "cap": "EX_41_999",
+  "_row": 737
+ },
+ {
+  "index": 736,
+  "rank": 737,
+  "points": 2738090,
+  "cap": "EX_41_999",
+  "_row": 738
+ },
+ {
+  "index": 737,
+  "rank": 738,
+  "points": 2743030,
+  "cap": "EX_41_999",
+  "_row": 739
+ },
+ {
+  "index": 738,
+  "rank": 739,
+  "points": 2747970,
+  "cap": "EX_41_999",
+  "_row": 740
+ },
+ {
+  "index": 739,
+  "rank": 740,
+  "points": 2752910,
+  "cap": "EX_41_999",
+  "_row": 741
+ },
+ {
+  "index": 740,
+  "rank": 741,
+  "points": 2757850,
+  "cap": "EX_41_999",
+  "_row": 742
+ },
+ {
+  "index": 741,
+  "rank": 742,
+  "points": 2762790,
+  "cap": "EX_41_999",
+  "_row": 743
+ },
+ {
+  "index": 742,
+  "rank": 743,
+  "points": 2767730,
+  "cap": "EX_41_999",
+  "_row": 744
+ },
+ {
+  "index": 743,
+  "rank": 744,
+  "points": 2772670,
+  "cap": "EX_41_999",
+  "_row": 745
+ },
+ {
+  "index": 744,
+  "rank": 745,
+  "points": 2777620,
+  "cap": "EX_41_999",
+  "_row": 746
+ },
+ {
+  "index": 745,
+  "rank": 746,
+  "points": 2782570,
+  "cap": "EX_41_999",
+  "_row": 747
+ },
+ {
+  "index": 746,
+  "rank": 747,
+  "points": 2787520,
+  "cap": "EX_41_999",
+  "_row": 748
+ },
+ {
+  "index": 747,
+  "rank": 748,
+  "points": 2792470,
+  "cap": "EX_41_999",
+  "_row": 749
+ },
+ {
+  "index": 748,
+  "rank": 749,
+  "points": 2797420,
+  "cap": "EX_41_999",
+  "_row": 750
+ },
+ {
+  "index": 749,
+  "rank": 750,
+  "points": 2802370,
+  "cap": "EX_41_999",
+  "_row": 751
+ },
+ {
+  "index": 750,
+  "rank": 751,
+  "points": 2807320,
+  "cap": "EX_41_999",
+  "_row": 752
+ },
+ {
+  "index": 751,
+  "rank": 752,
+  "points": 2812270,
+  "cap": "EX_41_999",
+  "_row": 753
+ },
+ {
+  "index": 752,
+  "rank": 753,
+  "points": 2817220,
+  "cap": "EX_41_999",
+  "_row": 754
+ },
+ {
+  "index": 753,
+  "rank": 754,
+  "points": 2822170,
+  "cap": "EX_41_999",
+  "_row": 755
+ },
+ {
+  "index": 754,
+  "rank": 755,
+  "points": 2827130,
+  "cap": "EX_41_999",
+  "_row": 756
+ },
+ {
+  "index": 755,
+  "rank": 756,
+  "points": 2832090,
+  "cap": "EX_41_999",
+  "_row": 757
+ },
+ {
+  "index": 756,
+  "rank": 757,
+  "points": 2837050,
+  "cap": "EX_41_999",
+  "_row": 758
+ },
+ {
+  "index": 757,
+  "rank": 758,
+  "points": 2842010,
+  "cap": "EX_41_999",
+  "_row": 759
+ },
+ {
+  "index": 758,
+  "rank": 759,
+  "points": 2846970,
+  "cap": "EX_41_999",
+  "_row": 760
+ },
+ {
+  "index": 759,
+  "rank": 760,
+  "points": 2851930,
+  "cap": "EX_41_999",
+  "_row": 761
+ },
+ {
+  "index": 760,
+  "rank": 761,
+  "points": 2856890,
+  "cap": "EX_41_999",
+  "_row": 762
+ },
+ {
+  "index": 761,
+  "rank": 762,
+  "points": 2861850,
+  "cap": "EX_41_999",
+  "_row": 763
+ },
+ {
+  "index": 762,
+  "rank": 763,
+  "points": 2866810,
+  "cap": "EX_41_999",
+  "_row": 764
+ },
+ {
+  "index": 763,
+  "rank": 764,
+  "points": 2871770,
+  "cap": "EX_41_999",
+  "_row": 765
+ },
+ {
+  "index": 764,
+  "rank": 765,
+  "points": 2876740,
+  "cap": "EX_41_999",
+  "_row": 766
+ },
+ {
+  "index": 765,
+  "rank": 766,
+  "points": 2881710,
+  "cap": "EX_41_999",
+  "_row": 767
+ },
+ {
+  "index": 766,
+  "rank": 767,
+  "points": 2886680,
+  "cap": "EX_41_999",
+  "_row": 768
+ },
+ {
+  "index": 767,
+  "rank": 768,
+  "points": 2891650,
+  "cap": "EX_41_999",
+  "_row": 769
+ },
+ {
+  "index": 768,
+  "rank": 769,
+  "points": 2896620,
+  "cap": "EX_41_999",
+  "_row": 770
+ },
+ {
+  "index": 769,
+  "rank": 770,
+  "points": 2901590,
+  "cap": "EX_41_999",
+  "_row": 771
+ },
+ {
+  "index": 770,
+  "rank": 771,
+  "points": 2906560,
+  "cap": "EX_41_999",
+  "_row": 772
+ },
+ {
+  "index": 771,
+  "rank": 772,
+  "points": 2911530,
+  "cap": "EX_41_999",
+  "_row": 773
+ },
+ {
+  "index": 772,
+  "rank": 773,
+  "points": 2916500,
+  "cap": "EX_41_999",
+  "_row": 774
+ },
+ {
+  "index": 773,
+  "rank": 774,
+  "points": 2921470,
+  "cap": "EX_41_999",
+  "_row": 775
+ },
+ {
+  "index": 774,
+  "rank": 775,
+  "points": 2926450,
+  "cap": "EX_41_999",
+  "_row": 776
+ },
+ {
+  "index": 775,
+  "rank": 776,
+  "points": 2931430,
+  "cap": "EX_41_999",
+  "_row": 777
+ },
+ {
+  "index": 776,
+  "rank": 777,
+  "points": 2936410,
+  "cap": "EX_41_999",
+  "_row": 778
+ },
+ {
+  "index": 777,
+  "rank": 778,
+  "points": 2941390,
+  "cap": "EX_41_999",
+  "_row": 779
+ },
+ {
+  "index": 778,
+  "rank": 779,
+  "points": 2946370,
+  "cap": "EX_41_999",
+  "_row": 780
+ },
+ {
+  "index": 779,
+  "rank": 780,
+  "points": 2951350,
+  "cap": "EX_41_999",
+  "_row": 781
+ },
+ {
+  "index": 780,
+  "rank": 781,
+  "points": 2956330,
+  "cap": "EX_41_999",
+  "_row": 782
+ },
+ {
+  "index": 781,
+  "rank": 782,
+  "points": 2961310,
+  "cap": "EX_41_999",
+  "_row": 783
+ },
+ {
+  "index": 782,
+  "rank": 783,
+  "points": 2966290,
+  "cap": "EX_41_999",
+  "_row": 784
+ },
+ {
+  "index": 783,
+  "rank": 784,
+  "points": 2971270,
+  "cap": "EX_41_999",
+  "_row": 785
+ },
+ {
+  "index": 784,
+  "rank": 785,
+  "points": 2976260,
+  "cap": "EX_41_999",
+  "_row": 786
+ },
+ {
+  "index": 785,
+  "rank": 786,
+  "points": 2981250,
+  "cap": "EX_41_999",
+  "_row": 787
+ },
+ {
+  "index": 786,
+  "rank": 787,
+  "points": 2986240,
+  "cap": "EX_41_999",
+  "_row": 788
+ },
+ {
+  "index": 787,
+  "rank": 788,
+  "points": 2991230,
+  "cap": "EX_41_999",
+  "_row": 789
+ },
+ {
+  "index": 788,
+  "rank": 789,
+  "points": 2996220,
+  "cap": "EX_41_999",
+  "_row": 790
+ },
+ {
+  "index": 789,
+  "rank": 790,
+  "points": 3001210,
+  "cap": "EX_41_999",
+  "_row": 791
+ },
+ {
+  "index": 790,
+  "rank": 791,
+  "points": 3006200,
+  "cap": "EX_41_999",
+  "_row": 792
+ },
+ {
+  "index": 791,
+  "rank": 792,
+  "points": 3011190,
+  "cap": "EX_41_999",
+  "_row": 793
+ },
+ {
+  "index": 792,
+  "rank": 793,
+  "points": 3016180,
+  "cap": "EX_41_999",
+  "_row": 794
+ },
+ {
+  "index": 793,
+  "rank": 794,
+  "points": 3021170,
+  "cap": "EX_41_999",
+  "_row": 795
+ },
+ {
+  "index": 794,
+  "rank": 795,
+  "points": 3026170,
+  "cap": "EX_41_999",
+  "_row": 796
+ },
+ {
+  "index": 795,
+  "rank": 796,
+  "points": 3031170,
+  "cap": "EX_41_999",
+  "_row": 797
+ },
+ {
+  "index": 796,
+  "rank": 797,
+  "points": 3036170,
+  "cap": "EX_41_999",
+  "_row": 798
+ },
+ {
+  "index": 797,
+  "rank": 798,
+  "points": 3041170,
+  "cap": "EX_41_999",
+  "_row": 799
+ },
+ {
+  "index": 798,
+  "rank": 799,
+  "points": 3046170,
+  "cap": "EX_41_999",
+  "_row": 800
+ },
+ {
+  "index": 799,
+  "rank": 800,
+  "points": 3051170,
+  "cap": "EX_41_999",
+  "_row": 801
+ },
+ {
+  "index": 800,
+  "rank": 801,
+  "points": 3056170,
+  "cap": "EX_41_999",
+  "_row": 802
+ },
+ {
+  "index": 801,
+  "rank": 802,
+  "points": 3061170,
+  "cap": "EX_41_999",
+  "_row": 803
+ },
+ {
+  "index": 802,
+  "rank": 803,
+  "points": 3066170,
+  "cap": "EX_41_999",
+  "_row": 804
+ },
+ {
+  "index": 803,
+  "rank": 804,
+  "points": 3071170,
+  "cap": "EX_41_999",
+  "_row": 805
+ },
+ {
+  "index": 804,
+  "rank": 805,
+  "points": 3076180,
+  "cap": "EX_41_999",
+  "_row": 806
+ },
+ {
+  "index": 805,
+  "rank": 806,
+  "points": 3081190,
+  "cap": "EX_41_999",
+  "_row": 807
+ },
+ {
+  "index": 806,
+  "rank": 807,
+  "points": 3086200,
+  "cap": "EX_41_999",
+  "_row": 808
+ },
+ {
+  "index": 807,
+  "rank": 808,
+  "points": 3091210,
+  "cap": "EX_41_999",
+  "_row": 809
+ },
+ {
+  "index": 808,
+  "rank": 809,
+  "points": 3096220,
+  "cap": "EX_41_999",
+  "_row": 810
+ },
+ {
+  "index": 809,
+  "rank": 810,
+  "points": 3101230,
+  "cap": "EX_41_999",
+  "_row": 811
+ },
+ {
+  "index": 810,
+  "rank": 811,
+  "points": 3106240,
+  "cap": "EX_41_999",
+  "_row": 812
+ },
+ {
+  "index": 811,
+  "rank": 812,
+  "points": 3111250,
+  "cap": "EX_41_999",
+  "_row": 813
+ },
+ {
+  "index": 812,
+  "rank": 813,
+  "points": 3116260,
+  "cap": "EX_41_999",
+  "_row": 814
+ },
+ {
+  "index": 813,
+  "rank": 814,
+  "points": 3121270,
+  "cap": "EX_41_999",
+  "_row": 815
+ },
+ {
+  "index": 814,
+  "rank": 815,
+  "points": 3126290,
+  "cap": "EX_41_999",
+  "_row": 816
+ },
+ {
+  "index": 815,
+  "rank": 816,
+  "points": 3131310,
+  "cap": "EX_41_999",
+  "_row": 817
+ },
+ {
+  "index": 816,
+  "rank": 817,
+  "points": 3136330,
+  "cap": "EX_41_999",
+  "_row": 818
+ },
+ {
+  "index": 817,
+  "rank": 818,
+  "points": 3141350,
+  "cap": "EX_41_999",
+  "_row": 819
+ },
+ {
+  "index": 818,
+  "rank": 819,
+  "points": 3146370,
+  "cap": "EX_41_999",
+  "_row": 820
+ },
+ {
+  "index": 819,
+  "rank": 820,
+  "points": 3151390,
+  "cap": "EX_41_999",
+  "_row": 821
+ },
+ {
+  "index": 820,
+  "rank": 821,
+  "points": 3156410,
+  "cap": "EX_41_999",
+  "_row": 822
+ },
+ {
+  "index": 821,
+  "rank": 822,
+  "points": 3161430,
+  "cap": "EX_41_999",
+  "_row": 823
+ },
+ {
+  "index": 822,
+  "rank": 823,
+  "points": 3166450,
+  "cap": "EX_41_999",
+  "_row": 824
+ },
+ {
+  "index": 823,
+  "rank": 824,
+  "points": 3171470,
+  "cap": "EX_41_999",
+  "_row": 825
+ },
+ {
+  "index": 824,
+  "rank": 825,
+  "points": 3176500,
+  "cap": "EX_41_999",
+  "_row": 826
+ },
+ {
+  "index": 825,
+  "rank": 826,
+  "points": 3181530,
+  "cap": "EX_41_999",
+  "_row": 827
+ },
+ {
+  "index": 826,
+  "rank": 827,
+  "points": 3186560,
+  "cap": "EX_41_999",
+  "_row": 828
+ },
+ {
+  "index": 827,
+  "rank": 828,
+  "points": 3191590,
+  "cap": "EX_41_999",
+  "_row": 829
+ },
+ {
+  "index": 828,
+  "rank": 829,
+  "points": 3196620,
+  "cap": "EX_41_999",
+  "_row": 830
+ },
+ {
+  "index": 829,
+  "rank": 830,
+  "points": 3201650,
+  "cap": "EX_41_999",
+  "_row": 831
+ },
+ {
+  "index": 830,
+  "rank": 831,
+  "points": 3206680,
+  "cap": "EX_41_999",
+  "_row": 832
+ },
+ {
+  "index": 831,
+  "rank": 832,
+  "points": 3211710,
+  "cap": "EX_41_999",
+  "_row": 833
+ },
+ {
+  "index": 832,
+  "rank": 833,
+  "points": 3216740,
+  "cap": "EX_41_999",
+  "_row": 834
+ },
+ {
+  "index": 833,
+  "rank": 834,
+  "points": 3221770,
+  "cap": "EX_41_999",
+  "_row": 835
+ },
+ {
+  "index": 834,
+  "rank": 835,
+  "points": 3226810,
+  "cap": "EX_41_999",
+  "_row": 836
+ },
+ {
+  "index": 835,
+  "rank": 836,
+  "points": 3231850,
+  "cap": "EX_41_999",
+  "_row": 837
+ },
+ {
+  "index": 836,
+  "rank": 837,
+  "points": 3236890,
+  "cap": "EX_41_999",
+  "_row": 838
+ },
+ {
+  "index": 837,
+  "rank": 838,
+  "points": 3241930,
+  "cap": "EX_41_999",
+  "_row": 839
+ },
+ {
+  "index": 838,
+  "rank": 839,
+  "points": 3246970,
+  "cap": "EX_41_999",
+  "_row": 840
+ },
+ {
+  "index": 839,
+  "rank": 840,
+  "points": 3252010,
+  "cap": "EX_41_999",
+  "_row": 841
+ },
+ {
+  "index": 840,
+  "rank": 841,
+  "points": 3257050,
+  "cap": "EX_41_999",
+  "_row": 842
+ },
+ {
+  "index": 841,
+  "rank": 842,
+  "points": 3262090,
+  "cap": "EX_41_999",
+  "_row": 843
+ },
+ {
+  "index": 842,
+  "rank": 843,
+  "points": 3267130,
+  "cap": "EX_41_999",
+  "_row": 844
+ },
+ {
+  "index": 843,
+  "rank": 844,
+  "points": 3272170,
+  "cap": "EX_41_999",
+  "_row": 845
+ },
+ {
+  "index": 844,
+  "rank": 845,
+  "points": 3277220,
+  "cap": "EX_41_999",
+  "_row": 846
+ },
+ {
+  "index": 845,
+  "rank": 846,
+  "points": 3282270,
+  "cap": "EX_41_999",
+  "_row": 847
+ },
+ {
+  "index": 846,
+  "rank": 847,
+  "points": 3287320,
+  "cap": "EX_41_999",
+  "_row": 848
+ },
+ {
+  "index": 847,
+  "rank": 848,
+  "points": 3292370,
+  "cap": "EX_41_999",
+  "_row": 849
+ },
+ {
+  "index": 848,
+  "rank": 849,
+  "points": 3297420,
+  "cap": "EX_41_999",
+  "_row": 850
+ },
+ {
+  "index": 849,
+  "rank": 850,
+  "points": 3302470,
+  "cap": "EX_41_999",
+  "_row": 851
+ },
+ {
+  "index": 850,
+  "rank": 851,
+  "points": 3307520,
+  "cap": "EX_41_999",
+  "_row": 852
+ },
+ {
+  "index": 851,
+  "rank": 852,
+  "points": 3312570,
+  "cap": "EX_41_999",
+  "_row": 853
+ },
+ {
+  "index": 852,
+  "rank": 853,
+  "points": 3317620,
+  "cap": "EX_41_999",
+  "_row": 854
+ },
+ {
+  "index": 853,
+  "rank": 854,
+  "points": 3322670,
+  "cap": "EX_41_999",
+  "_row": 855
+ },
+ {
+  "index": 854,
+  "rank": 855,
+  "points": 3327730,
+  "cap": "EX_41_999",
+  "_row": 856
+ },
+ {
+  "index": 855,
+  "rank": 856,
+  "points": 3332790,
+  "cap": "EX_41_999",
+  "_row": 857
+ },
+ {
+  "index": 856,
+  "rank": 857,
+  "points": 3337850,
+  "cap": "EX_41_999",
+  "_row": 858
+ },
+ {
+  "index": 857,
+  "rank": 858,
+  "points": 3342910,
+  "cap": "EX_41_999",
+  "_row": 859
+ },
+ {
+  "index": 858,
+  "rank": 859,
+  "points": 3347970,
+  "cap": "EX_41_999",
+  "_row": 860
+ },
+ {
+  "index": 859,
+  "rank": 860,
+  "points": 3353030,
+  "cap": "EX_41_999",
+  "_row": 861
+ },
+ {
+  "index": 860,
+  "rank": 861,
+  "points": 3358090,
+  "cap": "EX_41_999",
+  "_row": 862
+ },
+ {
+  "index": 861,
+  "rank": 862,
+  "points": 3363150,
+  "cap": "EX_41_999",
+  "_row": 863
+ },
+ {
+  "index": 862,
+  "rank": 863,
+  "points": 3368210,
+  "cap": "EX_41_999",
+  "_row": 864
+ },
+ {
+  "index": 863,
+  "rank": 864,
+  "points": 3373270,
+  "cap": "EX_41_999",
+  "_row": 865
+ },
+ {
+  "index": 864,
+  "rank": 865,
+  "points": 3378340,
+  "cap": "EX_41_999",
+  "_row": 866
+ },
+ {
+  "index": 865,
+  "rank": 866,
+  "points": 3383410,
+  "cap": "EX_41_999",
+  "_row": 867
+ },
+ {
+  "index": 866,
+  "rank": 867,
+  "points": 3388480,
+  "cap": "EX_41_999",
+  "_row": 868
+ },
+ {
+  "index": 867,
+  "rank": 868,
+  "points": 3393550,
+  "cap": "EX_41_999",
+  "_row": 869
+ },
+ {
+  "index": 868,
+  "rank": 869,
+  "points": 3398620,
+  "cap": "EX_41_999",
+  "_row": 870
+ },
+ {
+  "index": 869,
+  "rank": 870,
+  "points": 3403690,
+  "cap": "EX_41_999",
+  "_row": 871
+ },
+ {
+  "index": 870,
+  "rank": 871,
+  "points": 3408760,
+  "cap": "EX_41_999",
+  "_row": 872
+ },
+ {
+  "index": 871,
+  "rank": 872,
+  "points": 3413830,
+  "cap": "EX_41_999",
+  "_row": 873
+ },
+ {
+  "index": 872,
+  "rank": 873,
+  "points": 3418900,
+  "cap": "EX_41_999",
+  "_row": 874
+ },
+ {
+  "index": 873,
+  "rank": 874,
+  "points": 3423970,
+  "cap": "EX_41_999",
+  "_row": 875
+ },
+ {
+  "index": 874,
+  "rank": 875,
+  "points": 3429050,
+  "cap": "EX_41_999",
+  "_row": 876
+ },
+ {
+  "index": 875,
+  "rank": 876,
+  "points": 3434130,
+  "cap": "EX_41_999",
+  "_row": 877
+ },
+ {
+  "index": 876,
+  "rank": 877,
+  "points": 3439210,
+  "cap": "EX_41_999",
+  "_row": 878
+ },
+ {
+  "index": 877,
+  "rank": 878,
+  "points": 3444290,
+  "cap": "EX_41_999",
+  "_row": 879
+ },
+ {
+  "index": 878,
+  "rank": 879,
+  "points": 3449370,
+  "cap": "EX_41_999",
+  "_row": 880
+ },
+ {
+  "index": 879,
+  "rank": 880,
+  "points": 3454450,
+  "cap": "EX_41_999",
+  "_row": 881
+ },
+ {
+  "index": 880,
+  "rank": 881,
+  "points": 3459530,
+  "cap": "EX_41_999",
+  "_row": 882
+ },
+ {
+  "index": 881,
+  "rank": 882,
+  "points": 3464610,
+  "cap": "EX_41_999",
+  "_row": 883
+ },
+ {
+  "index": 882,
+  "rank": 883,
+  "points": 3469690,
+  "cap": "EX_41_999",
+  "_row": 884
+ },
+ {
+  "index": 883,
+  "rank": 884,
+  "points": 3474770,
+  "cap": "EX_41_999",
+  "_row": 885
+ },
+ {
+  "index": 884,
+  "rank": 885,
+  "points": 3479860,
+  "cap": "EX_41_999",
+  "_row": 886
+ },
+ {
+  "index": 885,
+  "rank": 886,
+  "points": 3484950,
+  "cap": "EX_41_999",
+  "_row": 887
+ },
+ {
+  "index": 886,
+  "rank": 887,
+  "points": 3490040,
+  "cap": "EX_41_999",
+  "_row": 888
+ },
+ {
+  "index": 887,
+  "rank": 888,
+  "points": 3495130,
+  "cap": "EX_41_999",
+  "_row": 889
+ },
+ {
+  "index": 888,
+  "rank": 889,
+  "points": 3500220,
+  "cap": "EX_41_999",
+  "_row": 890
+ },
+ {
+  "index": 889,
+  "rank": 890,
+  "points": 3505310,
+  "cap": "EX_41_999",
+  "_row": 891
+ },
+ {
+  "index": 890,
+  "rank": 891,
+  "points": 3510400,
+  "cap": "EX_41_999",
+  "_row": 892
+ },
+ {
+  "index": 891,
+  "rank": 892,
+  "points": 3515490,
+  "cap": "EX_41_999",
+  "_row": 893
+ },
+ {
+  "index": 892,
+  "rank": 893,
+  "points": 3520580,
+  "cap": "EX_41_999",
+  "_row": 894
+ },
+ {
+  "index": 893,
+  "rank": 894,
+  "points": 3525670,
+  "cap": "EX_41_999",
+  "_row": 895
+ },
+ {
+  "index": 894,
+  "rank": 895,
+  "points": 3530770,
+  "cap": "EX_41_999",
+  "_row": 896
+ },
+ {
+  "index": 895,
+  "rank": 896,
+  "points": 3535870,
+  "cap": "EX_41_999",
+  "_row": 897
+ },
+ {
+  "index": 896,
+  "rank": 897,
+  "points": 3540970,
+  "cap": "EX_41_999",
+  "_row": 898
+ },
+ {
+  "index": 897,
+  "rank": 898,
+  "points": 3546070,
+  "cap": "EX_41_999",
+  "_row": 899
+ },
+ {
+  "index": 898,
+  "rank": 899,
+  "points": 3551170,
+  "cap": "EX_41_999",
+  "_row": 900
+ },
+ {
+  "index": 899,
+  "rank": 900,
+  "points": 3556270,
+  "cap": "EX_41_999",
+  "_row": 901
+ },
+ {
+  "index": 900,
+  "rank": 901,
+  "points": 3561370,
+  "cap": "EX_41_999",
+  "_row": 902
+ },
+ {
+  "index": 901,
+  "rank": 902,
+  "points": 3566470,
+  "cap": "EX_41_999",
+  "_row": 903
+ },
+ {
+  "index": 902,
+  "rank": 903,
+  "points": 3571570,
+  "cap": "EX_41_999",
+  "_row": 904
+ },
+ {
+  "index": 903,
+  "rank": 904,
+  "points": 3576670,
+  "cap": "EX_41_999",
+  "_row": 905
+ },
+ {
+  "index": 904,
+  "rank": 905,
+  "points": 3581780,
+  "cap": "EX_41_999",
+  "_row": 906
+ },
+ {
+  "index": 905,
+  "rank": 906,
+  "points": 3586890,
+  "cap": "EX_41_999",
+  "_row": 907
+ },
+ {
+  "index": 906,
+  "rank": 907,
+  "points": 3592000,
+  "cap": "EX_41_999",
+  "_row": 908
+ },
+ {
+  "index": 907,
+  "rank": 908,
+  "points": 3597110,
+  "cap": "EX_41_999",
+  "_row": 909
+ },
+ {
+  "index": 908,
+  "rank": 909,
+  "points": 3602220,
+  "cap": "EX_41_999",
+  "_row": 910
+ },
+ {
+  "index": 909,
+  "rank": 910,
+  "points": 3607330,
+  "cap": "EX_41_999",
+  "_row": 911
+ },
+ {
+  "index": 910,
+  "rank": 911,
+  "points": 3612440,
+  "cap": "EX_41_999",
+  "_row": 912
+ },
+ {
+  "index": 911,
+  "rank": 912,
+  "points": 3617550,
+  "cap": "EX_41_999",
+  "_row": 913
+ },
+ {
+  "index": 912,
+  "rank": 913,
+  "points": 3622660,
+  "cap": "EX_41_999",
+  "_row": 914
+ },
+ {
+  "index": 913,
+  "rank": 914,
+  "points": 3627770,
+  "cap": "EX_41_999",
+  "_row": 915
+ },
+ {
+  "index": 914,
+  "rank": 915,
+  "points": 3632890,
+  "cap": "EX_41_999",
+  "_row": 916
+ },
+ {
+  "index": 915,
+  "rank": 916,
+  "points": 3638010,
+  "cap": "EX_41_999",
+  "_row": 917
+ },
+ {
+  "index": 916,
+  "rank": 917,
+  "points": 3643130,
+  "cap": "EX_41_999",
+  "_row": 918
+ },
+ {
+  "index": 917,
+  "rank": 918,
+  "points": 3648250,
+  "cap": "EX_41_999",
+  "_row": 919
+ },
+ {
+  "index": 918,
+  "rank": 919,
+  "points": 3653370,
+  "cap": "EX_41_999",
+  "_row": 920
+ },
+ {
+  "index": 919,
+  "rank": 920,
+  "points": 3658490,
+  "cap": "EX_41_999",
+  "_row": 921
+ },
+ {
+  "index": 920,
+  "rank": 921,
+  "points": 3663610,
+  "cap": "EX_41_999",
+  "_row": 922
+ },
+ {
+  "index": 921,
+  "rank": 922,
+  "points": 3668730,
+  "cap": "EX_41_999",
+  "_row": 923
+ },
+ {
+  "index": 922,
+  "rank": 923,
+  "points": 3673850,
+  "cap": "EX_41_999",
+  "_row": 924
+ },
+ {
+  "index": 923,
+  "rank": 924,
+  "points": 3678970,
+  "cap": "EX_41_999",
+  "_row": 925
+ },
+ {
+  "index": 924,
+  "rank": 925,
+  "points": 3684100,
+  "cap": "EX_41_999",
+  "_row": 926
+ },
+ {
+  "index": 925,
+  "rank": 926,
+  "points": 3689230,
+  "cap": "EX_41_999",
+  "_row": 927
+ },
+ {
+  "index": 926,
+  "rank": 927,
+  "points": 3694360,
+  "cap": "EX_41_999",
+  "_row": 928
+ },
+ {
+  "index": 927,
+  "rank": 928,
+  "points": 3699490,
+  "cap": "EX_41_999",
+  "_row": 929
+ },
+ {
+  "index": 928,
+  "rank": 929,
+  "points": 3704620,
+  "cap": "EX_41_999",
+  "_row": 930
+ },
+ {
+  "index": 929,
+  "rank": 930,
+  "points": 3709750,
+  "cap": "EX_41_999",
+  "_row": 931
+ },
+ {
+  "index": 930,
+  "rank": 931,
+  "points": 3714880,
+  "cap": "EX_41_999",
+  "_row": 932
+ },
+ {
+  "index": 931,
+  "rank": 932,
+  "points": 3720010,
+  "cap": "EX_41_999",
+  "_row": 933
+ },
+ {
+  "index": 932,
+  "rank": 933,
+  "points": 3725140,
+  "cap": "EX_41_999",
+  "_row": 934
+ },
+ {
+  "index": 933,
+  "rank": 934,
+  "points": 3730270,
+  "cap": "EX_41_999",
+  "_row": 935
+ },
+ {
+  "index": 934,
+  "rank": 935,
+  "points": 3735410,
+  "cap": "EX_41_999",
+  "_row": 936
+ },
+ {
+  "index": 935,
+  "rank": 936,
+  "points": 3740550,
+  "cap": "EX_41_999",
+  "_row": 937
+ },
+ {
+  "index": 936,
+  "rank": 937,
+  "points": 3745690,
+  "cap": "EX_41_999",
+  "_row": 938
+ },
+ {
+  "index": 937,
+  "rank": 938,
+  "points": 3750830,
+  "cap": "EX_41_999",
+  "_row": 939
+ },
+ {
+  "index": 938,
+  "rank": 939,
+  "points": 3755970,
+  "cap": "EX_41_999",
+  "_row": 940
+ },
+ {
+  "index": 939,
+  "rank": 940,
+  "points": 3761110,
+  "cap": "EX_41_999",
+  "_row": 941
+ },
+ {
+  "index": 940,
+  "rank": 941,
+  "points": 3766250,
+  "cap": "EX_41_999",
+  "_row": 942
+ },
+ {
+  "index": 941,
+  "rank": 942,
+  "points": 3771390,
+  "cap": "EX_41_999",
+  "_row": 943
+ },
+ {
+  "index": 942,
+  "rank": 943,
+  "points": 3776530,
+  "cap": "EX_41_999",
+  "_row": 944
+ },
+ {
+  "index": 943,
+  "rank": 944,
+  "points": 3781670,
+  "cap": "EX_41_999",
+  "_row": 945
+ },
+ {
+  "index": 944,
+  "rank": 945,
+  "points": 3786820,
+  "cap": "EX_41_999",
+  "_row": 946
+ },
+ {
+  "index": 945,
+  "rank": 946,
+  "points": 3791970,
+  "cap": "EX_41_999",
+  "_row": 947
+ },
+ {
+  "index": 946,
+  "rank": 947,
+  "points": 3797120,
+  "cap": "EX_41_999",
+  "_row": 948
+ },
+ {
+  "index": 947,
+  "rank": 948,
+  "points": 3802270,
+  "cap": "EX_41_999",
+  "_row": 949
+ },
+ {
+  "index": 948,
+  "rank": 949,
+  "points": 3807420,
+  "cap": "EX_41_999",
+  "_row": 950
+ },
+ {
+  "index": 949,
+  "rank": 950,
+  "points": 3812570,
+  "cap": "EX_41_999",
+  "_row": 951
+ },
+ {
+  "index": 950,
+  "rank": 951,
+  "points": 3817720,
+  "cap": "EX_41_999",
+  "_row": 952
+ },
+ {
+  "index": 951,
+  "rank": 952,
+  "points": 3822870,
+  "cap": "EX_41_999",
+  "_row": 953
+ },
+ {
+  "index": 952,
+  "rank": 953,
+  "points": 3828020,
+  "cap": "EX_41_999",
+  "_row": 954
+ },
+ {
+  "index": 953,
+  "rank": 954,
+  "points": 3833170,
+  "cap": "EX_41_999",
+  "_row": 955
+ },
+ {
+  "index": 954,
+  "rank": 955,
+  "points": 3838330,
+  "cap": "EX_41_999",
+  "_row": 956
+ },
+ {
+  "index": 955,
+  "rank": 956,
+  "points": 3843490,
+  "cap": "EX_41_999",
+  "_row": 957
+ },
+ {
+  "index": 956,
+  "rank": 957,
+  "points": 3848650,
+  "cap": "EX_41_999",
+  "_row": 958
+ },
+ {
+  "index": 957,
+  "rank": 958,
+  "points": 3853810,
+  "cap": "EX_41_999",
+  "_row": 959
+ },
+ {
+  "index": 958,
+  "rank": 959,
+  "points": 3858970,
+  "cap": "EX_41_999",
+  "_row": 960
+ },
+ {
+  "index": 959,
+  "rank": 960,
+  "points": 3864130,
+  "cap": "EX_41_999",
+  "_row": 961
+ },
+ {
+  "index": 960,
+  "rank": 961,
+  "points": 3869290,
+  "cap": "EX_41_999",
+  "_row": 962
+ },
+ {
+  "index": 961,
+  "rank": 962,
+  "points": 3874450,
+  "cap": "EX_41_999",
+  "_row": 963
+ },
+ {
+  "index": 962,
+  "rank": 963,
+  "points": 3879610,
+  "cap": "EX_41_999",
+  "_row": 964
+ },
+ {
+  "index": 963,
+  "rank": 964,
+  "points": 3884770,
+  "cap": "EX_41_999",
+  "_row": 965
+ },
+ {
+  "index": 964,
+  "rank": 965,
+  "points": 3889940,
+  "cap": "EX_41_999",
+  "_row": 966
+ },
+ {
+  "index": 965,
+  "rank": 966,
+  "points": 3895110,
+  "cap": "EX_41_999",
+  "_row": 967
+ },
+ {
+  "index": 966,
+  "rank": 967,
+  "points": 3900280,
+  "cap": "EX_41_999",
+  "_row": 968
+ },
+ {
+  "index": 967,
+  "rank": 968,
+  "points": 3905450,
+  "cap": "EX_41_999",
+  "_row": 969
+ },
+ {
+  "index": 968,
+  "rank": 969,
+  "points": 3910620,
+  "cap": "EX_41_999",
+  "_row": 970
+ },
+ {
+  "index": 969,
+  "rank": 970,
+  "points": 3915790,
+  "cap": "EX_41_999",
+  "_row": 971
+ },
+ {
+  "index": 970,
+  "rank": 971,
+  "points": 3920960,
+  "cap": "EX_41_999",
+  "_row": 972
+ },
+ {
+  "index": 971,
+  "rank": 972,
+  "points": 3926130,
+  "cap": "EX_41_999",
+  "_row": 973
+ },
+ {
+  "index": 972,
+  "rank": 973,
+  "points": 3931300,
+  "cap": "EX_41_999",
+  "_row": 974
+ },
+ {
+  "index": 973,
+  "rank": 974,
+  "points": 3936470,
+  "cap": "EX_41_999",
+  "_row": 975
+ },
+ {
+  "index": 974,
+  "rank": 975,
+  "points": 3941650,
+  "cap": "EX_41_999",
+  "_row": 976
+ },
+ {
+  "index": 975,
+  "rank": 976,
+  "points": 3946830,
+  "cap": "EX_41_999",
+  "_row": 977
+ },
+ {
+  "index": 976,
+  "rank": 977,
+  "points": 3952010,
+  "cap": "EX_41_999",
+  "_row": 978
+ },
+ {
+  "index": 977,
+  "rank": 978,
+  "points": 3957190,
+  "cap": "EX_41_999",
+  "_row": 979
+ },
+ {
+  "index": 978,
+  "rank": 979,
+  "points": 3962370,
+  "cap": "EX_41_999",
+  "_row": 980
+ },
+ {
+  "index": 979,
+  "rank": 980,
+  "points": 3967550,
+  "cap": "EX_41_999",
+  "_row": 981
+ },
+ {
+  "index": 980,
+  "rank": 981,
+  "points": 3972730,
+  "cap": "EX_41_999",
+  "_row": 982
+ },
+ {
+  "index": 981,
+  "rank": 982,
+  "points": 3977910,
+  "cap": "EX_41_999",
+  "_row": 983
+ },
+ {
+  "index": 982,
+  "rank": 983,
+  "points": 3983090,
+  "cap": "EX_41_999",
+  "_row": 984
+ },
+ {
+  "index": 983,
+  "rank": 984,
+  "points": 3988270,
+  "cap": "EX_41_999",
+  "_row": 985
+ },
+ {
+  "index": 984,
+  "rank": 985,
+  "points": 3993460,
+  "cap": "EX_41_999",
+  "_row": 986
+ },
+ {
+  "index": 985,
+  "rank": 986,
+  "points": 3998650,
+  "cap": "EX_41_999",
+  "_row": 987
+ },
+ {
+  "index": 986,
+  "rank": 987,
+  "points": 4003840,
+  "cap": "EX_41_999",
+  "_row": 988
+ },
+ {
+  "index": 987,
+  "rank": 988,
+  "points": 4009030,
+  "cap": "EX_41_999",
+  "_row": 989
+ },
+ {
+  "index": 988,
+  "rank": 989,
+  "points": 4014220,
+  "cap": "EX_41_999",
+  "_row": 990
+ },
+ {
+  "index": 989,
+  "rank": 990,
+  "points": 4019410,
+  "cap": "EX_41_999",
+  "_row": 991
+ },
+ {
+  "index": 990,
+  "rank": 991,
+  "points": 4024600,
+  "cap": "EX_41_999",
+  "_row": 992
+ },
+ {
+  "index": 991,
+  "rank": 992,
+  "points": 4029790,
+  "cap": "EX_41_999",
+  "_row": 993
+ },
+ {
+  "index": 992,
+  "rank": 993,
+  "points": 4034980,
+  "cap": "EX_41_999",
+  "_row": 994
+ },
+ {
+  "index": 993,
+  "rank": 994,
+  "points": 4040170,
+  "cap": "EX_41_999",
+  "_row": 995
+ },
+ {
+  "index": 994,
+  "rank": 995,
+  "points": 4045370,
+  "cap": "EX_41_999",
+  "_row": 996
+ },
+ {
+  "index": 995,
+  "rank": 996,
+  "points": 4050570,
+  "cap": "EX_41_999",
+  "_row": 997
+ },
+ {
+  "index": 996,
+  "rank": 997,
+  "points": 4055770,
+  "cap": "EX_41_999",
+  "_row": 998
+ },
+ {
+  "index": 997,
+  "rank": 998,
+  "points": 4060970,
+  "cap": "EX_41_999",
+  "_row": 999
+ },
+ {
+  "index": 998,
+  "rank": 999,
+  "points": 4066170,
+  "cap": "EX_41_999",
+  "_row": 1000
+ }
+]

@@ -1,0 +1,380 @@
+# Contract for the Monster Hunter Wilds workbook.
+#
+# This file is NOT generated. It encodes an analysis: which joins carry the
+# database, and below which coverage a drop counts as an incident. The raw
+# inventory (every sheet, every column) lives next to it in inventory.json and
+# is regenerated on every extraction.
+#
+# Update rule: a line here is only corrected after re-measuring the join on the
+# new file. Never by copying whatever the extraction found, which is exactly
+# what the contract exists to prevent.
+#
+# Coverage measured 2026-09-10 on "Monster Hunter Wilds 2026-09-10.xlsx".
+
+schema_version: 1
+
+source:
+  sheet_id: 178o8U97P2cpb0RZbZBvGIoX4bPhUm_lPczg6elfIj9s
+  min_sheets: 240
+  min_rows: 55000
+
+# Load-bearing sheets. Losing one, or one of these columns, stops everything.
+sheets:
+  EM IDs:
+    min_rows: 200
+    columns: [EM ID, Enum Value, Fixed ID, Name]
+  ItemData:
+    min_rows: 700
+    # "Column 2" is the real foreign key for items. Do not lose it.
+    columns: [Index, Column 2, Item ID, Name, Description, Rarity, Sell Price, Buy Price]
+  SkillCommonData:
+    min_rows: 200
+    columns: [Index, Skill ID, Skill Type, Skill Category, Name, Description]
+  SkillData:
+    min_rows: 400
+    columns: [Index, Data ID, Skill ID, Level, Name, Description]
+  Species:
+    min_rows: 20
+    columns: [Index, Species, Name]
+  Locales:
+    min_rows: 15
+    columns: [Fixed ID, ST ID, Name]
+  Monsters:
+    min_rows: 50
+    columns: [EM ID, Fixed ID, Name, Class, Species, Locale, Base Health, Weakness]
+  Monster Drops:
+    min_rows: 1800
+    columns: [Monster ID, Monster, Reward Type, Rank, Item ID, Number, Probability]
+  Monster Parts Array:
+    min_rows: 350
+    columns: [Monster ID, Monster, Parts Type, Vital]
+  Monster Ailment Resistances:
+    min_rows: 45
+    columns: [Monster, Paralysis, Poison, Sleep, KO]
+  Monster Crown Chances:
+    min_rows: 80
+    columns: [Monster, Rank, Mini Size (Table 1), King Size (Table 1)]
+  Turf War:
+    min_rows: 40
+    columns: [Attacker, Receiver, Attacker Damage Per, Receiver Damage Per]
+  ArmourSeriesData:
+    min_rows: 180
+    columns: [Index, Series, Name, Rarity, Price, Is Full Set]
+  ArmorData:
+    min_rows: 650
+    columns: [Index, Series, Part, Name, Defense, Slots, Skills, Skill Levels]
+  ArmorRecipeData:
+    min_rows: 650
+    columns: [Index, Series, Part, Key Enemy, Items, Quantities]
+  Decorations:
+    min_rows: 300
+    columns: [Index, Enum, Name, Type, Rarity, Level, Skill 1 Lv]
+  Talismans:
+    min_rows: 150
+    columns: [Index, Level, Type, Name, Rarity, Price]
+  Weapon Recipes:
+    min_rows: 1000
+    columns: [Index, Type, ID, Name, Uprades From, Key Monster, Item 1 Raw, Number 1]
+  Medals:
+    min_rows: 45
+    columns: [Index, ID, Name, Description, Monster]
+  Palico Equipment Series:
+    min_rows: 80
+    columns: [Index, Name, Rarity, Price]
+  Palico Armour:
+    min_rows: 150
+    columns: [Index, Series, Type, Name, Defense]
+  Palico Equipment Recipes:
+    min_rows: 200
+    columns: [Index, Series, Category, Key Enemy, Item 1 Raw, Item 1 Quantity Raw]
+  Palico Weapons:
+    min_rows: 60
+    columns: [Index, Series, Name, Type, Melee Attack, Ranged Attack]
+  Palico Layered Armour:
+    min_rows: 150
+    columns: [Index, Series, Type, Name]
+  ItemRecipe:
+    min_rows: 60
+    columns: [Index, Item Recipe ID, Result Item, Quantity, Items]
+  ItemShopData:
+    min_rows: 20
+    columns: [Index, Item ID, Is Sale Target]
+  ItemExchange:
+    min_rows: 5
+    columns: [Index, Pay Item ID, Pay Quantity, Reward Item ID, Reward Quantity]
+  SupportShipData:
+    min_rows: 100
+    columns: [Index, Category, Item ID, Stock Number, Points, Rate]
+  FixItems:
+    min_rows: 10
+    columns: [Index, Item ID, Story Flag]
+  Slinger Ammo:
+    min_rows: 35
+    columns: [Enum Name, Enum Value, Fixed ID, Item ID]
+  NPC Trades:
+    min_rows: 70
+    columns: [Index, NPC, Locale, Request Raw, Reward 1 Raw, Requested Nummber]
+  Mission IDs:
+    min_rows: 500
+    columns: [Mission ID, Enum Value, Fixed ID]
+  Mission Reward Tables:
+    min_rows: 200
+    columns: [Index, Mission ID, Mission Name, Common Reward Table ID]
+  Mission Common Reward Data:
+    min_rows: 1300
+    columns: [Index, Data ID, Table ID, Common Lot Type, Item Raw, Quantity, Probability]
+  EnemyQuestData:
+    min_rows: 140
+    columns: [Index, EM ID, Monster, Guild Points, HR Points, Palico xp, Reward]
+  Hunter Highlights:
+    min_rows: 25
+    columns: [Index, ID, Name, Description, Unit, Weight, Threshold]
+
+# The 14 weapon sheets, referenced together by Weapon Recipes.
+weapon_sheets:
+  Great Sword: LongSword
+  Long Sword: Tachi
+  Sword & Shield: ShortSword
+  Dual Blades: TwinSword
+  Hammer: Hammer
+  Hunting Horn: Whistle
+  Lance: Lance
+  Gunlance: GunLance
+  Switch Axe: Switch Axes
+  Charge Blade: Charge Blades
+  Insect Glaive: Insect Glaives
+  Bow: Bows
+  Heavy Bowgun: Heavy Bowguns
+  Light Bowgun: Light Bowguns
+
+# Available transforms: identity, int_from_float, hex_to_dec,
+# split_newlines, split_commas, strip_paren
+joins:
+  - id: monster_drops.monster
+    child:  {sheet: Monster Drops, column: Monster ID}
+    parent: {sheet: EM IDs, column: EM ID}
+    min_coverage: 0.99
+
+  # WARNING: the item key is NOT ItemData.Index (a plain row ordinal) but
+  # ItemData."Column 2", the engine identifier, in hexadecimal. Both are dense
+  # integers, so a join on Index reports 99.5% coverage while matching entirely
+  # wrong rows. Sanity check: a Rathian carve must yield Rathian Scale+, not
+  # Dash Extract.
+  - id: monster_drops.item
+    child:  {sheet: Monster Drops, column: Item ID, transform: int_from_float}
+    parent: {sheet: ItemData, column: Column 2, transform: hex_to_dec}
+    min_coverage: 0.99
+
+  - id: monster_parts.monster
+    child:  {sheet: Monster Parts Array, column: Monster}
+    parent: {sheet: Monsters, column: Name, transform: split_newlines}
+    min_coverage: 0.95
+    ignore_values: ["#N/A", "#REF!"]
+
+  - id: monster_ailments.monster
+    child:  {sheet: Monster Ailment Resistances, column: Monster}
+    parent: {sheet: Monsters, column: Name, transform: split_newlines}
+    min_coverage: 0.95
+    ignore_values: ["#N/A", "#REF!"]
+
+  - id: monster_crowns.monster
+    child:  {sheet: Monster Crown Chances, column: Monster}
+    parent: {sheet: Monsters, column: Name, transform: split_newlines}
+    min_coverage: 0.99
+
+  - id: turf_war.attacker
+    child:  {sheet: Turf War, column: Attacker}
+    parent: {sheet: Monsters, column: Name, transform: split_newlines}
+    min_coverage: 0.99
+
+  - id: turf_war.receiver
+    child:  {sheet: Turf War, column: Receiver}
+    parent: {sheet: Monsters, column: Name, transform: split_newlines}
+    min_coverage: 0.99
+
+  - id: monsters.species
+    child:  {sheet: Monsters, column: Species}
+    parent: {sheet: Species, column: Name}
+    min_coverage: 0.99
+
+  - id: monsters.locale
+    child:  {sheet: Monsters, column: Locale, transform: split_commas}
+    parent: {sheet: Locales, column: Name}
+    min_coverage: 0.99
+
+  - id: skill_levels.skill
+    child:  {sheet: SkillData, column: Skill ID}
+    parent: {sheet: SkillCommonData, column: Skill ID}
+    min_coverage: 1.0
+
+  - id: armor.series
+    child:  {sheet: ArmorData, column: Series}
+    parent: {sheet: ArmourSeriesData, column: Series}
+    min_coverage: 0.99
+    ignore_values: ["ID_000"]
+
+  - id: armor_recipes.series
+    child:  {sheet: ArmorRecipeData, column: Series}
+    parent: {sheet: ArmourSeriesData, column: Series}
+    min_coverage: 0.99
+
+  - id: armor_recipes.monster
+    child:  {sheet: ArmorRecipeData, column: Key Enemy, transform: strip_paren}
+    parent: {sheet: EM IDs, column: EM ID}
+    min_coverage: 0.99
+
+  - id: weapon_recipes.weapon
+    child:  {sheet: Weapon Recipes, column: Name}
+    parent: {sheets: weapon_sheets, column: Name}
+    min_coverage: 0.99
+    ignore_values: ["#N/A", "#REF!"]
+
+  - id: weapon_recipes.upgrades_from
+    child:  {sheet: Weapon Recipes, column: Uprades From}
+    parent: {sheets: weapon_sheets, column: Name}
+    min_coverage: 0.99
+
+  - id: weapon_recipes.monster
+    child:  {sheet: Weapon Recipes, column: Key Monster}
+    parent: {sheet: EM IDs, column: Name}
+    min_coverage: 0.99
+
+  # The join the workbook no longer resolves, rebuilt from hexadecimal.
+  # Two recipe rows point at items absent from ItemData (799, 802). They are
+  # the same rows whose Name column already reads #REF!, so recipes orphaned at
+  # the source. We exclude them rather than lower the threshold, so that a real
+  # regression stays detectable.
+  - id: weapon_recipes.item1_reconstructed
+    child:
+      sheet: Weapon Recipes
+      column: Item 1 Raw
+      transform: hex_to_dec
+      exclude_rows: {column: Name, values: ["#REF!", "#N/A"]}
+    parent: {sheet: ItemData, column: Column 2, transform: hex_to_dec}
+    min_coverage: 0.99
+
+  - id: palico_armour.series
+    child:  {sheet: Palico Armour, column: Series}
+    parent: {sheet: Palico Equipment Series, column: Name}
+    min_coverage: 0.99
+
+  - id: palico_recipes.monster
+    child:  {sheet: Palico Equipment Recipes, column: Key Enemy}
+    parent: {sheet: EM IDs, column: Name}
+    min_coverage: 0.99
+
+  - id: medals.monster
+    child:  {sheet: Medals, column: Monster}
+    parent: {sheet: EM IDs, column: Name}
+    min_coverage: 0.99
+
+  # ---- items and economy. These sheets use the "ITEM_xxxx (Name)" form, which
+  # the workbook still resolves, so they join on the code rather than on hex.
+
+  - id: item_recipes.result
+    child:  {sheet: ItemRecipe, column: Result Item, transform: strip_paren}
+    parent: {sheet: ItemData, column: Item ID, transform: strip_paren}
+    min_coverage: 0.99
+
+  - id: item_shop.item
+    child:  {sheet: ItemShopData, column: Item ID, transform: strip_paren}
+    parent: {sheet: ItemData, column: Item ID, transform: strip_paren}
+    min_coverage: 0.99
+
+  - id: item_exchange.pay_item
+    child:  {sheet: ItemExchange, column: Pay Item ID, transform: strip_paren}
+    parent: {sheet: ItemData, column: Item ID, transform: strip_paren}
+    min_coverage: 0.99
+
+  - id: support_ship.item
+    child:  {sheet: SupportShipData, column: Item ID, transform: strip_paren}
+    parent: {sheet: ItemData, column: Item ID, transform: strip_paren}
+    min_coverage: 0.99
+    ignore_values: ["INVALID"]
+
+  # The SLEEP entry points at item 185, which is absent from ItemData: a
+  # dangling reference in the source, not a key problem. Excluded by name so the
+  # threshold stays at 99% and a real regression still trips it.
+  - id: slinger_ammo.item
+    child:
+      sheet: Slinger Ammo
+      column: Item ID
+      transform: int_from_float
+      exclude_rows: {column: Enum Name, values: ["SLEEP"]}
+    parent: {sheet: ItemData, column: Column 2, transform: hex_to_dec}
+    min_coverage: 0.99
+
+  - id: npc_trades.requested_item
+    child:  {sheet: NPC Trades, column: Request Raw, transform: hex_to_dec}
+    parent: {sheet: ItemData, column: Column 2, transform: hex_to_dec}
+    min_coverage: 0.99
+
+  # ---- quests and missions
+
+  - id: mission_reward_tables.mission
+    child:  {sheet: Mission Reward Tables, column: Mission ID}
+    parent: {sheet: Mission IDs, column: Mission ID}
+    min_coverage: 0.99
+    ignore_values: ["#N/A", "#REF!"]
+
+  # The Item column of this sheet reads #REF! on every row; only Item Raw is
+  # usable, and it resolves in full.
+  - id: mission_rewards.item
+    child:  {sheet: Mission Common Reward Data, column: Item Raw, transform: hex_to_dec}
+    parent: {sheet: ItemData, column: Column 2, transform: hex_to_dec}
+    min_coverage: 0.99
+
+  - id: monster_quest_rewards.monster
+    child:  {sheet: EnemyQuestData, column: EM ID}
+    parent: {sheet: EM IDs, column: EM ID}
+    min_coverage: 0.99
+
+  # ---- Palico
+
+  - id: palico_weapons.series
+    child:  {sheet: Palico Weapons, column: Series}
+    parent: {sheet: Palico Equipment Series, column: Name}
+    min_coverage: 0.99
+
+  - id: palico_layered.series
+    child:  {sheet: Palico Layered Armour, column: Series}
+    parent: {sheet: Palico Equipment Series, column: Name}
+    min_coverage: 0.99
+
+  - id: palico_recipes.item
+    child:  {sheet: Palico Equipment Recipes, column: Item 1 Raw, transform: hex_to_dec}
+    parent: {sheet: ItemData, column: Column 2, transform: hex_to_dec}
+    min_coverage: 0.99
+
+# Columns that must hold values. This is the guard against the worst case: a
+# column goes empty upstream and we publish an amputated database without any
+# join reporting an error.
+non_empty:
+  - [EM IDs, Name]
+  - [ItemData, Name]
+  - [ItemData, Index]
+  - [ItemData, Column 2]
+  - [Monsters, Name]
+  - [Monster Drops, Item ID]
+  - [Weapon Recipes, Item 1 Raw]
+  - [Weapon Recipes, Name]
+  - [ArmorRecipeData, Items]
+  - [ArmorData, Skills]
+  - [SkillCommonData, Name]
+  - [ItemRecipe, Items]
+  - [Mission Common Reward Data, Item Raw]
+  - [NPC Trades, Request Raw]
+  - [Palico Equipment Recipes, Item 1 Raw]
+  - [Mission IDs, Mission ID]
+
+# Columns known to be empty as of 2026-09-10: their formulas point at deleted
+# sheets (Items!, Skills!, Lances!, Hammers!, Gunlances!). If one fills up again
+# that is good news to fold in, so the validator reports it without failing.
+known_empty:
+  - [Weapon Recipes, Item 1]
+  - [Weapon Recipes, Key Item]
+  - [Decorations, Skill 1]
+  - [Monster Drops, Item]
+  - [Palico Equipment Recipes, Item 1]
+  - [NPC Trades, Requested Item]
+  - [Kinsect Recipes, Item 1]

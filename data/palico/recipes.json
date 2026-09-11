@@ -1,0 +1,4385 @@
+[
+ {
+  "index": 0,
+  "data_id": 1,
+  "series": "Felyne Hope",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [],
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "data_id": 2,
+  "series": "Felyne Hope",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [],
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "data_id": 3,
+  "series": "Felyne Hope",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [],
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "data_id": 4,
+  "series": "Felyne Bone",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 58,
+    "item_id": "ITEM_0079",
+    "item_name": "Mystery Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "data_id": 5,
+  "series": "Felyne Bone",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 58,
+    "item_id": "ITEM_0079",
+    "item_name": "Mystery Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "data_id": 6,
+  "series": "Felyne Bone",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 58,
+    "item_id": "ITEM_0079",
+    "item_name": "Mystery Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "data_id": 7,
+  "series": "Felyne Chatacabra",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 84,
+    "item_id": "ITEM_0107",
+    "item_name": "Chatacabra Jaw",
+    "quantity": 1
+   }
+  ],
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "data_id": 8,
+  "series": "Felyne Chatacabra",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 85,
+    "item_id": "ITEM_0108",
+    "item_name": "Chatacabra Hide",
+    "quantity": 1
+   }
+  ],
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "data_id": 9,
+  "series": "Felyne Chatacabra",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 87,
+    "item_id": "ITEM_0110",
+    "item_name": "Chatacabra Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "data_id": 10,
+  "series": "Felyne Quematrice",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 299,
+    "item_id": "ITEM_0325",
+    "item_name": "Quematrice Igniter",
+    "quantity": 1
+   }
+  ],
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "data_id": 11,
+  "series": "Felyne Quematrice",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 90,
+    "item_id": "ITEM_0113",
+    "item_name": "Quematrice Crest",
+    "quantity": 1
+   }
+  ],
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "data_id": 12,
+  "series": "Felyne Quematrice",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 88,
+    "item_id": "ITEM_0111",
+    "item_name": "Quematrice Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "data_id": 13,
+  "series": "Felyne Alloy",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": "E00F49A0",
+  "materials": [
+   {
+    "item_data_id": 54,
+    "item_id": "ITEM_0075",
+    "item_name": "Machalite Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "data_id": 14,
+  "series": "Felyne Alloy",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "E00F49A0",
+  "materials": [
+   {
+    "item_data_id": 54,
+    "item_id": "ITEM_0075",
+    "item_name": "Machalite Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "data_id": 15,
+  "series": "Felyne Alloy",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "E00F49A0",
+  "materials": [
+   {
+    "item_data_id": 54,
+    "item_id": "ITEM_0075",
+    "item_name": "Machalite Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "data_id": 16,
+  "series": "Felyne Lala Barina",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 274,
+    "item_id": "ITEM_0300",
+    "item_name": "Lala Barina Claw",
+    "quantity": 1
+   }
+  ],
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "data_id": 17,
+  "series": "Felyne Lala Barina",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 277,
+    "item_id": "ITEM_0303",
+    "item_name": "Lala Barina Floret",
+    "quantity": 1
+   }
+  ],
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "data_id": 18,
+  "series": "Felyne Lala Barina",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 273,
+    "item_id": "ITEM_0299",
+    "item_name": "Lala Barina Shell",
+    "quantity": 1
+   }
+  ],
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "data_id": 19,
+  "series": "Felyne Conga",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 505,
+    "item_id": "ITEM_0531",
+    "item_name": "Congalala Claw",
+    "quantity": 1
+   }
+  ],
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "data_id": 20,
+  "series": "Felyne Conga",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 507,
+    "item_id": "ITEM_0533",
+    "item_name": "Vibrant Pelt",
+    "quantity": 1
+   }
+  ],
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "data_id": 21,
+  "series": "Felyne Conga",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 504,
+    "item_id": "ITEM_0530",
+    "item_name": "Congalala Pelt",
+    "quantity": 1
+   }
+  ],
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "data_id": 22,
+  "series": "Felyne Balahara",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 82,
+    "item_id": "ITEM_0105",
+    "item_name": "Balahara Skull",
+    "quantity": 1
+   }
+  ],
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "data_id": 23,
+  "series": "Felyne Balahara",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 81,
+    "item_id": "ITEM_0104",
+    "item_name": "Balahara Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "data_id": 24,
+  "series": "Felyne Balahara",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 80,
+    "item_id": "ITEM_0103",
+    "item_name": "Balahara Shell",
+    "quantity": 1
+   }
+  ],
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "data_id": 25,
+  "series": "Felyne Doshaguma",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 36,
+    "item_id": "ITEM_0035",
+    "item_name": "Doshaguma Fang",
+    "quantity": 1
+   }
+  ],
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "data_id": 26,
+  "series": "Felyne Doshaguma",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 34,
+    "item_id": "ITEM_0033",
+    "item_name": "Doshaguma Fur",
+    "quantity": 1
+   }
+  ],
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "data_id": 27,
+  "series": "Felyne Doshaguma",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 33,
+    "item_id": "ITEM_0032",
+    "item_name": "Doshaguma Hide",
+    "quantity": 1
+   }
+  ],
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "data_id": 28,
+  "series": "Felyne Rompopolo",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 337,
+    "item_id": "ITEM_0363",
+    "item_name": "Rompopolo Claw",
+    "quantity": 1
+   }
+  ],
+  "_row": 29
+ },
+ {
+  "index": 28,
+  "data_id": 29,
+  "series": "Felyne Rompopolo",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 339,
+    "item_id": "ITEM_0365",
+    "item_name": "Rompopolo Beak",
+    "quantity": 1
+   }
+  ],
+  "_row": 30
+ },
+ {
+  "index": 29,
+  "data_id": 30,
+  "series": "Felyne Rompopolo",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 336,
+    "item_id": "ITEM_0362",
+    "item_name": "Rompopolo Hide",
+    "quantity": 1
+   }
+  ],
+  "_row": 31
+ },
+ {
+  "index": 30,
+  "data_id": 31,
+  "series": "Felyne Nerscylla",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 515,
+    "item_id": "ITEM_0541",
+    "item_name": "Nerscylla Claw",
+    "quantity": 1
+   }
+  ],
+  "_row": 32
+ },
+ {
+  "index": 31,
+  "data_id": 32,
+  "series": "Felyne Nerscylla",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 516,
+    "item_id": "ITEM_0542",
+    "item_name": "Nerscylla Spike",
+    "quantity": 1
+   }
+  ],
+  "_row": 33
+ },
+ {
+  "index": 32,
+  "data_id": 33,
+  "series": "Felyne Nerscylla",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 513,
+    "item_id": "ITEM_0539",
+    "item_name": "Nerscylla Shell",
+    "quantity": 1
+   }
+  ],
+  "_row": 34
+ },
+ {
+  "index": 33,
+  "data_id": 34,
+  "series": "Felyne Hirabami",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 356,
+    "item_id": "ITEM_0382",
+    "item_name": "Hirabami Tail Claw",
+    "quantity": 1
+   }
+  ],
+  "_row": 35
+ },
+ {
+  "index": 34,
+  "data_id": 35,
+  "series": "Felyne Hirabami",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 354,
+    "item_id": "ITEM_0380",
+    "item_name": "Hirabami Hide",
+    "quantity": 1
+   }
+  ],
+  "_row": 36
+ },
+ {
+  "index": 35,
+  "data_id": 36,
+  "series": "Felyne Hirabami",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 353,
+    "item_id": "ITEM_0379",
+    "item_name": "Hirabami Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 37
+ },
+ {
+  "index": 36,
+  "data_id": 37,
+  "series": "Felyne Ajarakan",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 367,
+    "item_id": "ITEM_0393",
+    "item_name": "Ajarakan Jewel",
+    "quantity": 1
+   }
+  ],
+  "_row": 38
+ },
+ {
+  "index": 37,
+  "data_id": 38,
+  "series": "Felyne Ajarakan",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 363,
+    "item_id": "ITEM_0389",
+    "item_name": "Ajarakan Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 39
+ },
+ {
+  "index": 38,
+  "data_id": 39,
+  "series": "Felyne Ajarakan",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 364,
+    "item_id": "ITEM_0390",
+    "item_name": "Ajarakan Shell",
+    "quantity": 1
+   }
+  ],
+  "_row": 40
+ },
+ {
+  "index": 39,
+  "data_id": 40,
+  "series": "Felyne Uth Duna",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 326,
+    "item_id": "ITEM_0352",
+    "item_name": "Uth Duna Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 454,
+    "item_id": "ITEM_0480",
+    "item_name": "Guardian Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 41
+ },
+ {
+  "index": 40,
+  "data_id": 41,
+  "series": "Felyne Uth Duna",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 324,
+    "item_id": "ITEM_0350",
+    "item_name": "Uth Duna Cilia",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 664,
+    "item_id": "ITEM_0690",
+    "item_name": "Guardian Pelt",
+    "quantity": 1
+   }
+  ],
+  "_row": 42
+ },
+ {
+  "index": 41,
+  "data_id": 42,
+  "series": "Felyne Uth Duna",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 322,
+    "item_id": "ITEM_0348",
+    "item_name": "Uth Duna Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 43
+ },
+ {
+  "index": 42,
+  "data_id": 43,
+  "series": "Felyne Rey Dau",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 142,
+    "item_id": "ITEM_0168",
+    "item_name": "Rey Dau Wingtalon",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 454,
+    "item_id": "ITEM_0480",
+    "item_name": "Guardian Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 44
+ },
+ {
+  "index": 43,
+  "data_id": 44,
+  "series": "Felyne Rey Dau",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 141,
+    "item_id": "ITEM_0167",
+    "item_name": "Rey Dau Thunderhorn",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 664,
+    "item_id": "ITEM_0690",
+    "item_name": "Guardian Pelt",
+    "quantity": 1
+   }
+  ],
+  "_row": 45
+ },
+ {
+  "index": 44,
+  "data_id": 45,
+  "series": "Felyne Rey Dau",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 139,
+    "item_id": "ITEM_0165",
+    "item_name": "Rey Dau Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 46
+ },
+ {
+  "index": 45,
+  "data_id": 46,
+  "series": "Felyne Nu Udra",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 379,
+    "item_id": "ITEM_0405",
+    "item_name": "Nu Udra Tentacle",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 454,
+    "item_id": "ITEM_0480",
+    "item_name": "Guardian Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 47
+ },
+ {
+  "index": 46,
+  "data_id": 47,
+  "series": "Felyne Nu Udra",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 378,
+    "item_id": "ITEM_0404",
+    "item_name": "Nu Udra Horn",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 664,
+    "item_id": "ITEM_0690",
+    "item_name": "Guardian Pelt",
+    "quantity": 1
+   }
+  ],
+  "_row": 48
+ },
+ {
+  "index": 47,
+  "data_id": 48,
+  "series": "Felyne Nu Udra",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 376,
+    "item_id": "ITEM_0402",
+    "item_name": "Nu Udra Hide",
+    "quantity": 1
+   }
+  ],
+  "_row": 49
+ },
+ {
+  "index": 48,
+  "data_id": 49,
+  "series": "Felyne G. Doshaguma",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 393,
+    "item_id": "ITEM_0419",
+    "item_name": "Guardian Doshaguma Fang",
+    "quantity": 1
+   }
+  ],
+  "_row": 50
+ },
+ {
+  "index": 49,
+  "data_id": 50,
+  "series": "Felyne G. Doshaguma",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 390,
+    "item_id": "ITEM_0416",
+    "item_name": "Guardian Doshaguma Fur",
+    "quantity": 1
+   }
+  ],
+  "_row": 51
+ },
+ {
+  "index": 50,
+  "data_id": 51,
+  "series": "Felyne G. Doshaguma",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 391,
+    "item_id": "ITEM_0417",
+    "item_name": "Guardian Doshaguma Hide",
+    "quantity": 1
+   }
+  ],
+  "_row": 52
+ },
+ {
+  "index": 51,
+  "data_id": 52,
+  "series": "Felyne G. Rathalos",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 402,
+    "item_id": "ITEM_0428",
+    "item_name": "Guardian Rathalos Webbing",
+    "quantity": 1
+   }
+  ],
+  "_row": 53
+ },
+ {
+  "index": 52,
+  "data_id": 53,
+  "series": "Felyne G. Rathalos",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 400,
+    "item_id": "ITEM_0426",
+    "item_name": "Guardian Rathalos Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 54
+ },
+ {
+  "index": 53,
+  "data_id": 54,
+  "series": "Felyne G. Rathalos",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 401,
+    "item_id": "ITEM_0427",
+    "item_name": "Guardian Rathalos Shell",
+    "quantity": 1
+   }
+  ],
+  "_row": 55
+ },
+ {
+  "index": 54,
+  "data_id": 55,
+  "series": "Felyne G. Ebony",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 428,
+    "item_id": "ITEM_0454",
+    "item_name": "Guardian Ebony Claw",
+    "quantity": 1
+   }
+  ],
+  "_row": 56
+ },
+ {
+  "index": 55,
+  "data_id": 56,
+  "series": "Felyne G. Ebony",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 426,
+    "item_id": "ITEM_0452",
+    "item_name": "Guardian Ebony Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 57
+ },
+ {
+  "index": 56,
+  "data_id": 57,
+  "series": "Felyne G. Ebony",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 427,
+    "item_id": "ITEM_0453",
+    "item_name": "Guardian Ebony Sinew",
+    "quantity": 1
+   }
+  ],
+  "_row": 58
+ },
+ {
+  "index": 57,
+  "data_id": 58,
+  "series": "Felyne Xu Wu",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 442,
+    "item_id": "ITEM_0468",
+    "item_name": "Xu Wu Tentacle",
+    "quantity": 1
+   }
+  ],
+  "_row": 59
+ },
+ {
+  "index": 58,
+  "data_id": 59,
+  "series": "Felyne Xu Wu",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 441,
+    "item_id": "ITEM_0467",
+    "item_name": "Golden Corneum",
+    "quantity": 1
+   }
+  ],
+  "_row": 60
+ },
+ {
+  "index": 59,
+  "data_id": 60,
+  "series": "Felyne Xu Wu",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 440,
+    "item_id": "ITEM_0466",
+    "item_name": "Xu Wu Hide",
+    "quantity": 1
+   }
+  ],
+  "_row": 61
+ },
+ {
+  "index": 60,
+  "data_id": 61,
+  "series": "Felyne G. Ark",
+  "category": "Weapon",
+  "key_monster": "Guardian Arkveld",
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 607,
+    "item_id": "ITEM_0633",
+    "item_name": "Guardian Blood",
+    "quantity": 1
+   }
+  ],
+  "_row": 62
+ },
+ {
+  "index": 61,
+  "data_id": 62,
+  "series": "Felyne G. Ark",
+  "category": "Helm",
+  "key_monster": "Guardian Arkveld",
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 664,
+    "item_id": "ITEM_0690",
+    "item_name": "Guardian Pelt",
+    "quantity": 1
+   }
+  ],
+  "_row": 63
+ },
+ {
+  "index": 62,
+  "data_id": 63,
+  "series": "Felyne G. Ark",
+  "category": "Body",
+  "key_monster": "Guardian Arkveld",
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 454,
+    "item_id": "ITEM_0480",
+    "item_name": "Guardian Scale",
+    "quantity": 1
+   }
+  ],
+  "_row": 64
+ },
+ {
+  "index": 63,
+  "data_id": 64,
+  "series": "Felyne Hope α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": "65760700",
+  "materials": [
+   {
+    "item_data_id": 59,
+    "item_id": "ITEM_0080",
+    "item_name": "Sturdy Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 65
+ },
+ {
+  "index": 64,
+  "data_id": 65,
+  "series": "Felyne Hope α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "65760700",
+  "materials": [
+   {
+    "item_data_id": 59,
+    "item_id": "ITEM_0080",
+    "item_name": "Sturdy Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 66
+ },
+ {
+  "index": 65,
+  "data_id": 66,
+  "series": "Felyne Hope α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "65760700",
+  "materials": [
+   {
+    "item_data_id": 59,
+    "item_id": "ITEM_0080",
+    "item_name": "Sturdy Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 67
+ },
+ {
+  "index": 66,
+  "data_id": 67,
+  "series": "Felyne Bone α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": "65760700",
+  "materials": [
+   {
+    "item_data_id": 588,
+    "item_id": "ITEM_0614",
+    "item_name": "Tough Guardian Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 68
+ },
+ {
+  "index": 67,
+  "data_id": 68,
+  "series": "Felyne Bone α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "65760700",
+  "materials": [
+   {
+    "item_data_id": 588,
+    "item_id": "ITEM_0614",
+    "item_name": "Tough Guardian Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 69
+ },
+ {
+  "index": 68,
+  "data_id": 69,
+  "series": "Felyne Bone α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "65760700",
+  "materials": [
+   {
+    "item_data_id": 588,
+    "item_id": "ITEM_0614",
+    "item_name": "Tough Guardian Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 70
+ },
+ {
+  "index": 69,
+  "data_id": 70,
+  "series": "Felyne Alloy α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": "65760700",
+  "materials": [
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 71
+ },
+ {
+  "index": 70,
+  "data_id": 71,
+  "series": "Felyne Alloy α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "65760700",
+  "materials": [
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 72
+ },
+ {
+  "index": 71,
+  "data_id": 72,
+  "series": "Felyne Alloy α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "65760700",
+  "materials": [
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 73
+ },
+ {
+  "index": 72,
+  "data_id": 73,
+  "series": "Felyne Kut-Ku α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 525,
+    "item_id": "ITEM_0551",
+    "item_name": "Giant Beak",
+    "quantity": 1
+   }
+  ],
+  "_row": 74
+ },
+ {
+  "index": 73,
+  "data_id": 74,
+  "series": "Felyne Kut-Ku α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 524,
+    "item_id": "ITEM_0550",
+    "item_name": "Kut-Ku Ear",
+    "quantity": 1
+   }
+  ],
+  "_row": 75
+ },
+ {
+  "index": 74,
+  "data_id": 75,
+  "series": "Felyne Kut-Ku α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 522,
+    "item_id": "ITEM_0548",
+    "item_name": "Kut-Ku Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 76
+ },
+ {
+  "index": 75,
+  "data_id": 76,
+  "series": "Felyne Chatacabra α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 294,
+    "item_id": "ITEM_0320",
+    "item_name": "Chatacabra Jaw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 77
+ },
+ {
+  "index": 76,
+  "data_id": 77,
+  "series": "Felyne Chatacabra α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 295,
+    "item_id": "ITEM_0321",
+    "item_name": "Chatacabra Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 78
+ },
+ {
+  "index": 77,
+  "data_id": 78,
+  "series": "Felyne Chatacabra α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 293,
+    "item_id": "ITEM_0319",
+    "item_name": "Chatacabra Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 79
+ },
+ {
+  "index": 78,
+  "data_id": 79,
+  "series": "Felyne Quematrice α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 303,
+    "item_id": "ITEM_0329",
+    "item_name": "Quematrice Igniter+",
+    "quantity": 1
+   }
+  ],
+  "_row": 80
+ },
+ {
+  "index": 79,
+  "data_id": 80,
+  "series": "Felyne Quematrice α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 304,
+    "item_id": "ITEM_0330",
+    "item_name": "Quematrice Crest+",
+    "quantity": 1
+   }
+  ],
+  "_row": 81
+ },
+ {
+  "index": 80,
+  "data_id": 81,
+  "series": "Felyne Quematrice α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 301,
+    "item_id": "ITEM_0327",
+    "item_name": "Quematrice Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 82
+ },
+ {
+  "index": 81,
+  "data_id": 82,
+  "series": "Felyne Lala Barina α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 308,
+    "item_id": "ITEM_0334",
+    "item_name": "Lala Barina Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 83
+ },
+ {
+  "index": 82,
+  "data_id": 83,
+  "series": "Felyne Lala Barina α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 306,
+    "item_id": "ITEM_0332",
+    "item_name": "Lala Barina Floret+",
+    "quantity": 1
+   }
+  ],
+  "_row": 84
+ },
+ {
+  "index": 83,
+  "data_id": 84,
+  "series": "Felyne Lala Barina α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 307,
+    "item_id": "ITEM_0333",
+    "item_name": "Lala Barina Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 85
+ },
+ {
+  "index": 84,
+  "data_id": 85,
+  "series": "Felyne Conga α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 510,
+    "item_id": "ITEM_0536",
+    "item_name": "Congalala Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 86
+ },
+ {
+  "index": 85,
+  "data_id": 86,
+  "series": "Felyne Conga α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 512,
+    "item_id": "ITEM_0538",
+    "item_name": "Vibrant Pelt+",
+    "quantity": 1
+   }
+  ],
+  "_row": 87
+ },
+ {
+  "index": 86,
+  "data_id": 87,
+  "series": "Felyne Conga α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 509,
+    "item_id": "ITEM_0535",
+    "item_name": "Congalala Pelt+",
+    "quantity": 1
+   }
+  ],
+  "_row": 88
+ },
+ {
+  "index": 87,
+  "data_id": 88,
+  "series": "Felyne Rompopolo α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 342,
+    "item_id": "ITEM_0368",
+    "item_name": "Rompopolo Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 89
+ },
+ {
+  "index": 88,
+  "data_id": 89,
+  "series": "Felyne Rompopolo α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 344,
+    "item_id": "ITEM_0370",
+    "item_name": "Rompopolo Beak+",
+    "quantity": 1
+   }
+  ],
+  "_row": 90
+ },
+ {
+  "index": 89,
+  "data_id": 90,
+  "series": "Felyne Rompopolo α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 341,
+    "item_id": "ITEM_0367",
+    "item_name": "Rompopolo Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 91
+ },
+ {
+  "index": 90,
+  "data_id": 91,
+  "series": "Felyne Gypceros α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 532,
+    "item_id": "ITEM_0558",
+    "item_name": "Gypceros Tail",
+    "quantity": 1
+   }
+  ],
+  "_row": 92
+ },
+ {
+  "index": 91,
+  "data_id": 92,
+  "series": "Felyne Gypceros α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 531,
+    "item_id": "ITEM_0557",
+    "item_name": "Gypceros Head",
+    "quantity": 1
+   }
+  ],
+  "_row": 93
+ },
+ {
+  "index": 92,
+  "data_id": 93,
+  "series": "Felyne Gypceros α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 529,
+    "item_id": "ITEM_0555",
+    "item_name": "Rubbery Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 94
+ },
+ {
+  "index": 93,
+  "data_id": 94,
+  "series": "Felyne Nerscylla α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 519,
+    "item_id": "ITEM_0545",
+    "item_name": "Nerscylla Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 95
+ },
+ {
+  "index": 94,
+  "data_id": 95,
+  "series": "Felyne Nerscylla α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 520,
+    "item_id": "ITEM_0546",
+    "item_name": "Nerscylla Spike+",
+    "quantity": 1
+   }
+  ],
+  "_row": 96
+ },
+ {
+  "index": 95,
+  "data_id": 96,
+  "series": "Felyne Nerscylla α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 518,
+    "item_id": "ITEM_0544",
+    "item_name": "Nerscylla Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 97
+ },
+ {
+  "index": 96,
+  "data_id": 97,
+  "series": "Felyne Balahara α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 314,
+    "item_id": "ITEM_0340",
+    "item_name": "Balahara Skull+",
+    "quantity": 1
+   }
+  ],
+  "_row": 98
+ },
+ {
+  "index": 97,
+  "data_id": 98,
+  "series": "Felyne Balahara α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 312,
+    "item_id": "ITEM_0338",
+    "item_name": "Balahara Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 99
+ },
+ {
+  "index": 98,
+  "data_id": 99,
+  "series": "Felyne Balahara α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 313,
+    "item_id": "ITEM_0339",
+    "item_name": "Balahara Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 100
+ },
+ {
+  "index": 99,
+  "data_id": 100,
+  "series": "Felyne Hirabami α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 361,
+    "item_id": "ITEM_0387",
+    "item_name": "Hirabami Tail Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 101
+ },
+ {
+  "index": 100,
+  "data_id": 101,
+  "series": "Felyne Hirabami α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 359,
+    "item_id": "ITEM_0385",
+    "item_name": "Hirabami Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 102
+ },
+ {
+  "index": 101,
+  "data_id": 102,
+  "series": "Felyne Hirabami α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 358,
+    "item_id": "ITEM_0384",
+    "item_name": "Hirabami Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 103
+ },
+ {
+  "index": 102,
+  "data_id": 103,
+  "series": "Felyne Rathian α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 105,
+    "item_id": "ITEM_0128",
+    "item_name": "Rathian Spike+",
+    "quantity": 1
+   }
+  ],
+  "_row": 104
+ },
+ {
+  "index": 103,
+  "data_id": 104,
+  "series": "Felyne Rathian α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 102,
+    "item_id": "ITEM_0125",
+    "item_name": "Rathian Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 105
+ },
+ {
+  "index": 104,
+  "data_id": 105,
+  "series": "Felyne Rathian α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 103,
+    "item_id": "ITEM_0126",
+    "item_name": "Rathian Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 106
+ },
+ {
+  "index": 105,
+  "data_id": 106,
+  "series": "Felyne G. Fulgur α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 484,
+    "item_id": "ITEM_0510",
+    "item_name": "Guardian Fulgur Nosebone+",
+    "quantity": 1
+   }
+  ],
+  "_row": 107
+ },
+ {
+  "index": 106,
+  "data_id": 107,
+  "series": "Felyne G. Fulgur α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 481,
+    "item_id": "ITEM_0507",
+    "item_name": "Guardian Fulgur Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 108
+ },
+ {
+  "index": 107,
+  "data_id": 108,
+  "series": "Felyne G. Fulgur α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 482,
+    "item_id": "ITEM_0508",
+    "item_name": "Guardian Fulgur Pelt+",
+    "quantity": 1
+   }
+  ],
+  "_row": 109
+ },
+ {
+  "index": 108,
+  "data_id": 109,
+  "series": "Felyne Doshaguma α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 320,
+    "item_id": "ITEM_0346",
+    "item_name": "Doshaguma Fang+",
+    "quantity": 1
+   }
+  ],
+  "_row": 110
+ },
+ {
+  "index": 109,
+  "data_id": 110,
+  "series": "Felyne Doshaguma α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 317,
+    "item_id": "ITEM_0343",
+    "item_name": "Doshaguma Fur+",
+    "quantity": 1
+   }
+  ],
+  "_row": 111
+ },
+ {
+  "index": 110,
+  "data_id": 111,
+  "series": "Felyne Doshaguma α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 318,
+    "item_id": "ITEM_0344",
+    "item_name": "Doshaguma Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 112
+ },
+ {
+  "index": 111,
+  "data_id": 112,
+  "series": "Felyne G. Doshaguma α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 398,
+    "item_id": "ITEM_0424",
+    "item_name": "Guardian Doshaguma Fang+",
+    "quantity": 1
+   }
+  ],
+  "_row": 113
+ },
+ {
+  "index": 112,
+  "data_id": 113,
+  "series": "Felyne G. Doshaguma α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 395,
+    "item_id": "ITEM_0421",
+    "item_name": "Guardian Doshaguma Fur+",
+    "quantity": 1
+   }
+  ],
+  "_row": 114
+ },
+ {
+  "index": 113,
+  "data_id": 114,
+  "series": "Felyne G. Doshaguma α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 396,
+    "item_id": "ITEM_0422",
+    "item_name": "Guardian Doshaguma Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 115
+ },
+ {
+  "index": 114,
+  "data_id": 115,
+  "series": "Felyne Ajarakan α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 373,
+    "item_id": "ITEM_0399",
+    "item_name": "Ajarakan Jewel+",
+    "quantity": 1
+   }
+  ],
+  "_row": 116
+ },
+ {
+  "index": 115,
+  "data_id": 116,
+  "series": "Felyne Ajarakan α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 370,
+    "item_id": "ITEM_0396",
+    "item_name": "Ajarakan Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 117
+ },
+ {
+  "index": 116,
+  "data_id": 117,
+  "series": "Felyne Ajarakan α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 371,
+    "item_id": "ITEM_0397",
+    "item_name": "Ajarakan Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 118
+ },
+ {
+  "index": 117,
+  "data_id": 118,
+  "series": "Felyne G. Ebony α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 435,
+    "item_id": "ITEM_0461",
+    "item_name": "Guardian Ebony Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 119
+ },
+ {
+  "index": 118,
+  "data_id": 119,
+  "series": "Felyne G. Ebony α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 433,
+    "item_id": "ITEM_0459",
+    "item_name": "Guardian Ebony Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 120
+ },
+ {
+  "index": 119,
+  "data_id": 120,
+  "series": "Felyne G. Ebony α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 434,
+    "item_id": "ITEM_0460",
+    "item_name": "Guardian Ebony Sinew+",
+    "quantity": 1
+   }
+  ],
+  "_row": 121
+ },
+ {
+  "index": 120,
+  "data_id": 121,
+  "series": "Felyne Xu Wu α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 449,
+    "item_id": "ITEM_0475",
+    "item_name": "Xu Wu Tentacle+",
+    "quantity": 1
+   }
+  ],
+  "_row": 122
+ },
+ {
+  "index": 121,
+  "data_id": 122,
+  "series": "Felyne Xu Wu α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 448,
+    "item_id": "ITEM_0474",
+    "item_name": "Golden Corneum+",
+    "quantity": 1
+   }
+  ],
+  "_row": 123
+ },
+ {
+  "index": 122,
+  "data_id": 123,
+  "series": "Felyne Xu Wu α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 447,
+    "item_id": "ITEM_0473",
+    "item_name": "Xu Wu Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 124
+ },
+ {
+  "index": 123,
+  "data_id": 124,
+  "series": "Felyne Rathalos α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 558,
+    "item_id": "ITEM_0584",
+    "item_name": "Rathalos Wing",
+    "quantity": 1
+   }
+  ],
+  "_row": 125
+ },
+ {
+  "index": 124,
+  "data_id": 125,
+  "series": "Felyne Rathalos α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 556,
+    "item_id": "ITEM_0582",
+    "item_name": "Rathalos Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 126
+ },
+ {
+  "index": 125,
+  "data_id": 126,
+  "series": "Felyne Rathalos α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 557,
+    "item_id": "ITEM_0583",
+    "item_name": "Rathalos Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 127
+ },
+ {
+  "index": 126,
+  "data_id": 127,
+  "series": "Felyne G. Rathalos α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 408,
+    "item_id": "ITEM_0434",
+    "item_name": "Guardian Rathalos Wing",
+    "quantity": 1
+   }
+  ],
+  "_row": 128
+ },
+ {
+  "index": 127,
+  "data_id": 128,
+  "series": "Felyne G. Rathalos α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 406,
+    "item_id": "ITEM_0432",
+    "item_name": "Guardian Rathalos Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 129
+ },
+ {
+  "index": 128,
+  "data_id": 129,
+  "series": "Felyne G. Rathalos α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 407,
+    "item_id": "ITEM_0433",
+    "item_name": "Guardian Rathalos Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 130
+ },
+ {
+  "index": 129,
+  "data_id": 130,
+  "series": "Felyne Gravios α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 546,
+    "item_id": "ITEM_0572",
+    "item_name": "Gravios Wing",
+    "quantity": 1
+   }
+  ],
+  "_row": 131
+ },
+ {
+  "index": 130,
+  "data_id": 131,
+  "series": "Felyne Gravios α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 543,
+    "item_id": "ITEM_0569",
+    "item_name": "Gravios Skull",
+    "quantity": 1
+   }
+  ],
+  "_row": 132
+ },
+ {
+  "index": 131,
+  "data_id": 132,
+  "series": "Felyne Gravios α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 542,
+    "item_id": "ITEM_0568",
+    "item_name": "Gravios Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 133
+ },
+ {
+  "index": 132,
+  "data_id": 133,
+  "series": "Felyne Blango α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 538,
+    "item_id": "ITEM_0564",
+    "item_name": "Blangonga Fang+",
+    "quantity": 1
+   }
+  ],
+  "_row": 134
+ },
+ {
+  "index": 133,
+  "data_id": 134,
+  "series": "Felyne Blango α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 537,
+    "item_id": "ITEM_0563",
+    "item_name": "Blangonga Pelt+",
+    "quantity": 1
+   }
+  ],
+  "_row": 135
+ },
+ {
+  "index": 134,
+  "data_id": 135,
+  "series": "Felyne Blango α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 540,
+    "item_id": "ITEM_0566",
+    "item_name": "Blangonga Tail",
+    "quantity": 1
+   }
+  ],
+  "_row": 136
+ },
+ {
+  "index": 135,
+  "data_id": 136,
+  "series": "Felyne Kunafa α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 610,
+    "item_id": "ITEM_0636",
+    "item_name": "Dalthydon Wool",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 98,
+    "item_id": "ITEM_0121",
+    "item_name": "Acute Fang",
+    "quantity": 1
+   }
+  ],
+  "_row": 137
+ },
+ {
+  "index": 136,
+  "data_id": 137,
+  "series": "Felyne Kunafa α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 610,
+    "item_id": "ITEM_0636",
+    "item_name": "Dalthydon Wool",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 491,
+    "item_id": "ITEM_0517",
+    "item_name": "Talioth Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 138
+ },
+ {
+  "index": 137,
+  "data_id": 138,
+  "series": "Wudwud Guise α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 633,
+    "item_id": "ITEM_0659",
+    "item_name": "Wudwud Treasure",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 525,
+    "item_id": "ITEM_0551",
+    "item_name": "Giant Beak",
+    "quantity": 1
+   }
+  ],
+  "_row": 139
+ },
+ {
+  "index": 138,
+  "data_id": 139,
+  "series": "Wudwud Guise α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 633,
+    "item_id": "ITEM_0659",
+    "item_name": "Wudwud Treasure",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 523,
+    "item_id": "ITEM_0549",
+    "item_name": "Kut-Ku Carapace",
+    "quantity": 3
+   }
+  ],
+  "_row": 140
+ },
+ {
+  "index": 139,
+  "data_id": 140,
+  "series": "Wudwud Guise α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [],
+  "_row": 141
+ },
+ {
+  "index": 140,
+  "data_id": 141,
+  "series": "Felyne Azuz α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 611,
+    "item_id": "ITEM_0637",
+    "item_name": "Azuz Tanned Leather",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 586,
+    "item_id": "ITEM_0612",
+    "item_name": "Charred Oilbone",
+    "quantity": 1
+   }
+  ],
+  "_row": 142
+ },
+ {
+  "index": 141,
+  "data_id": 142,
+  "series": "Felyne Azuz α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 611,
+    "item_id": "ITEM_0637",
+    "item_name": "Azuz Tanned Leather",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 580,
+    "item_id": "ITEM_0606",
+    "item_name": "Firestone",
+    "quantity": 1
+   }
+  ],
+  "_row": 143
+ },
+ {
+  "index": 142,
+  "data_id": 143,
+  "series": "Felyne Suja α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 612,
+    "item_id": "ITEM_0638",
+    "item_name": "Suja Textiles",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 582,
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 144
+ },
+ {
+  "index": 143,
+  "data_id": 144,
+  "series": "Felyne Suja α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 612,
+    "item_id": "ITEM_0638",
+    "item_name": "Suja Textiles",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 582,
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 145
+ },
+ {
+  "index": 144,
+  "data_id": 145,
+  "series": "Felyne Sild α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 613,
+    "item_id": "ITEM_0639",
+    "item_name": "Sild Cotton",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 503,
+    "item_id": "ITEM_0529",
+    "item_name": "Guardian Seikret Feather+",
+    "quantity": 1
+   }
+  ],
+  "_row": 146
+ },
+ {
+  "index": 145,
+  "data_id": 146,
+  "series": "Felyne Sild α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 613,
+    "item_id": "ITEM_0639",
+    "item_name": "Sild Cotton",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 503,
+    "item_id": "ITEM_0529",
+    "item_name": "Guardian Seikret Feather+",
+    "quantity": 1
+   }
+  ],
+  "_row": 147
+ },
+ {
+  "index": 146,
+  "data_id": 147,
+  "series": "Felyne Death Stench α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 229,
+    "item_id": "ITEM_0255",
+    "item_name": "Sinister Cloth",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 492,
+    "item_id": "ITEM_0518",
+    "item_name": "Wingdrake Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 148
+ },
+ {
+  "index": 147,
+  "data_id": 148,
+  "series": "Felyne Death Stench α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 229,
+    "item_id": "ITEM_0255",
+    "item_name": "Sinister Cloth",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 492,
+    "item_id": "ITEM_0518",
+    "item_name": "Wingdrake Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 149
+ },
+ {
+  "index": 148,
+  "data_id": 149,
+  "series": "Felyne Death Stench α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 229,
+    "item_id": "ITEM_0255",
+    "item_name": "Sinister Cloth",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 492,
+    "item_id": "ITEM_0518",
+    "item_name": "Wingdrake Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 150
+ },
+ {
+  "index": 149,
+  "data_id": 150,
+  "series": "Felyne Artian α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": "1563F5E0",
+  "materials": [
+   {
+    "item_data_id": 698,
+    "item_id": "ITEM_0724",
+    "item_name": "Gracium",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 418,
+    "item_id": "ITEM_0444",
+    "item_name": "Frenzy Shard",
+    "quantity": 1
+   }
+  ],
+  "_row": 151
+ },
+ {
+  "index": 150,
+  "data_id": 151,
+  "series": "Felyne Artian α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "1563F5E0",
+  "materials": [
+   {
+    "item_data_id": 698,
+    "item_id": "ITEM_0724",
+    "item_name": "Gracium",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 418,
+    "item_id": "ITEM_0444",
+    "item_name": "Frenzy Shard",
+    "quantity": 1
+   }
+  ],
+  "_row": 152
+ },
+ {
+  "index": 151,
+  "data_id": 152,
+  "series": "Felyne Artian α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "1563F5E0",
+  "materials": [
+   {
+    "item_data_id": 698,
+    "item_id": "ITEM_0724",
+    "item_name": "Gracium",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 418,
+    "item_id": "ITEM_0444",
+    "item_name": "Frenzy Shard",
+    "quantity": 1
+   }
+  ],
+  "_row": 153
+ },
+ {
+  "index": 152,
+  "data_id": 153,
+  "series": "Felyne Dahaad α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 421,
+    "item_id": "ITEM_0447",
+    "item_name": "Jin Dahaad Iceplate",
+    "quantity": 1
+   }
+  ],
+  "_row": 154
+ },
+ {
+  "index": 153,
+  "data_id": 154,
+  "series": "Felyne Dahaad α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 419,
+    "item_id": "ITEM_0445",
+    "item_name": "Jin Dahaad Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 155
+ },
+ {
+  "index": 154,
+  "data_id": 155,
+  "series": "Felyne Dahaad α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 420,
+    "item_id": "ITEM_0446",
+    "item_name": "Jin Dahaad Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 156
+ },
+ {
+  "index": 155,
+  "data_id": 156,
+  "series": "Felyne Uth Duna α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 333,
+    "item_id": "ITEM_0359",
+    "item_name": "Uth Duna Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 157
+ },
+ {
+  "index": 156,
+  "data_id": 157,
+  "series": "Felyne Uth Duna α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 331,
+    "item_id": "ITEM_0357",
+    "item_name": "Uth Duna Cilia+",
+    "quantity": 1
+   }
+  ],
+  "_row": 158
+ },
+ {
+  "index": 157,
+  "data_id": 158,
+  "series": "Felyne Uth Duna α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 329,
+    "item_id": "ITEM_0355",
+    "item_name": "Uth Duna Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 159
+ },
+ {
+  "index": 158,
+  "data_id": 159,
+  "series": "Felyne Rey Dau α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 350,
+    "item_id": "ITEM_0376",
+    "item_name": "Rey Dau Fulgurtalon",
+    "quantity": 1
+   }
+  ],
+  "_row": 160
+ },
+ {
+  "index": 159,
+  "data_id": 160,
+  "series": "Felyne Rey Dau α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 349,
+    "item_id": "ITEM_0375",
+    "item_name": "Rey Dau Bolthorn",
+    "quantity": 1
+   }
+  ],
+  "_row": 161
+ },
+ {
+  "index": 160,
+  "data_id": 161,
+  "series": "Felyne Rey Dau α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 347,
+    "item_id": "ITEM_0373",
+    "item_name": "Rey Dau Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 162
+ },
+ {
+  "index": 161,
+  "data_id": 162,
+  "series": "Felyne Nu Udra α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 386,
+    "item_id": "ITEM_0412",
+    "item_name": "Nu Udra Tentacle+",
+    "quantity": 1
+   }
+  ],
+  "_row": 163
+ },
+ {
+  "index": 162,
+  "data_id": 163,
+  "series": "Felyne Nu Udra α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 385,
+    "item_id": "ITEM_0411",
+    "item_name": "Nu Udra Horn+",
+    "quantity": 1
+   }
+  ],
+  "_row": 164
+ },
+ {
+  "index": 163,
+  "data_id": 164,
+  "series": "Felyne Nu Udra α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 383,
+    "item_id": "ITEM_0409",
+    "item_name": "Nu Udra Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 165
+ },
+ {
+  "index": 164,
+  "data_id": 165,
+  "series": "Felyne Gore α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 565,
+    "item_id": "ITEM_0591",
+    "item_name": "Gore Magala Ripclaw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 166
+ },
+ {
+  "index": 165,
+  "data_id": 166,
+  "series": "Felyne Gore α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 562,
+    "item_id": "ITEM_0588",
+    "item_name": "Gore Magala Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 167
+ },
+ {
+  "index": 166,
+  "data_id": 167,
+  "series": "Felyne Gore α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 563,
+    "item_id": "ITEM_0589",
+    "item_name": "Gore Magala Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 168
+ },
+ {
+  "index": 167,
+  "data_id": 168,
+  "series": "Felyne Arkveld α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 463,
+    "item_id": "ITEM_0489",
+    "item_name": "Arkveld Calloushell",
+    "quantity": 1
+   }
+  ],
+  "_row": 169
+ },
+ {
+  "index": 168,
+  "data_id": 169,
+  "series": "Felyne Arkveld α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 462,
+    "item_id": "ITEM_0488",
+    "item_name": "White Arkveld Pelt",
+    "quantity": 1
+   }
+  ],
+  "_row": 170
+ },
+ {
+  "index": 169,
+  "data_id": 170,
+  "series": "Felyne Arkveld α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 459,
+    "item_id": "ITEM_0485",
+    "item_name": "Arkveld Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 171
+ },
+ {
+  "index": 170,
+  "data_id": 171,
+  "series": "Felyne G. Ark α",
+  "category": "Weapon",
+  "key_monster": "Arkveld",
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 608,
+    "item_id": "ITEM_0634",
+    "item_name": "Guardian Blood+",
+    "quantity": 1
+   }
+  ],
+  "_row": 172
+ },
+ {
+  "index": 171,
+  "data_id": 172,
+  "series": "Felyne G. Ark α",
+  "category": "Helm",
+  "key_monster": "Arkveld",
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 665,
+    "item_id": "ITEM_0691",
+    "item_name": "Guardian Pelt+",
+    "quantity": 1
+   }
+  ],
+  "_row": 173
+ },
+ {
+  "index": 172,
+  "data_id": 173,
+  "series": "Felyne G. Ark α",
+  "category": "Body",
+  "key_monster": "Arkveld",
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 455,
+    "item_id": "ITEM_0481",
+    "item_name": "Guardian Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 174
+ },
+ {
+  "index": 173,
+  "data_id": 174,
+  "series": "Athos α",
+  "category": "Weapon",
+  "key_monster": "Arkveld",
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 582,
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 175
+ },
+ {
+  "index": 174,
+  "data_id": 175,
+  "series": "Athos α",
+  "category": "Helm",
+  "key_monster": "Arkveld",
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 582,
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 176
+ },
+ {
+  "index": 175,
+  "data_id": 176,
+  "series": "Athos α",
+  "category": "Body",
+  "key_monster": "Arkveld",
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 582,
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 177
+ },
+ {
+  "index": 176,
+  "data_id": 177,
+  "series": "Felyne Mizutsune α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 723,
+    "item_id": "ITEM_0749",
+    "item_name": "Mizutsune Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 178
+ },
+ {
+  "index": 177,
+  "data_id": 178,
+  "series": "Felyne Mizutsune α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 722,
+    "item_id": "ITEM_0748",
+    "item_name": "Mizutsune Purplefur+",
+    "quantity": 1
+   }
+  ],
+  "_row": 179
+ },
+ {
+  "index": 178,
+  "data_id": 179,
+  "series": "Felyne Mizutsune α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 721,
+    "item_id": "ITEM_0747",
+    "item_name": "Mizutsune Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 180
+ },
+ {
+  "index": 179,
+  "data_id": 180,
+  "series": "Felyne Numinous α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 719,
+    "item_id": "ITEM_0745",
+    "item_name": "Blackember Mass",
+    "quantity": 1
+   }
+  ],
+  "_row": 181
+ },
+ {
+  "index": 180,
+  "data_id": 181,
+  "series": "Felyne Numinous α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 714,
+    "item_id": "ITEM_0740",
+    "item_name": "Zoh Shia Crystalhorn",
+    "quantity": 1
+   }
+  ],
+  "_row": 182
+ },
+ {
+  "index": 181,
+  "data_id": 182,
+  "series": "Felyne Numinous α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 711,
+    "item_id": "ITEM_0737",
+    "item_name": "Zoh Shia Crystalscale",
+    "quantity": 1
+   }
+  ],
+  "_row": 183
+ },
+ {
+  "index": 182,
+  "data_id": 183,
+  "series": "Felyne Lagiacrus α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 732,
+    "item_id": "ITEM_0757",
+    "item_name": "Lagiacrus Shockspike",
+    "quantity": 1
+   }
+  ],
+  "_row": 184
+ },
+ {
+  "index": 183,
+  "data_id": 184,
+  "series": "Felyne Lagiacrus α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 730,
+    "item_id": "ITEM_0755",
+    "item_name": "Lagiacrus Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 185
+ },
+ {
+  "index": 184,
+  "data_id": 185,
+  "series": "Felyne Lagiacrus α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 731,
+    "item_id": "ITEM_0756",
+    "item_name": "Lagiacrus Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 186
+ },
+ {
+  "index": 185,
+  "data_id": 186,
+  "series": "Felyne Seregios α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 550,
+    "item_id": "ITEM_0576",
+    "item_name": "Seregios Carver",
+    "quantity": 1
+   }
+  ],
+  "_row": 187
+ },
+ {
+  "index": 186,
+  "data_id": 187,
+  "series": "Felyne Seregios α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 548,
+    "item_id": "ITEM_0574",
+    "item_name": "Seregios Slavescale",
+    "quantity": 1
+   }
+  ],
+  "_row": 188
+ },
+ {
+  "index": 187,
+  "data_id": 188,
+  "series": "Felyne Seregios α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 549,
+    "item_id": "ITEM_0575",
+    "item_name": "Seregios Airblade",
+    "quantity": 1
+   }
+  ],
+  "_row": 189
+ },
+ {
+  "index": 188,
+  "data_id": 189,
+  "series": "Felyne Gog α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 750,
+    "item_id": "ITEM_0775",
+    "item_name": "Gogmazios Lacerator",
+    "quantity": 1
+   }
+  ],
+  "_row": 190
+ },
+ {
+  "index": 189,
+  "data_id": 190,
+  "series": "Felyne Gog α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 749,
+    "item_id": "ITEM_0774",
+    "item_name": "Gogmazios Fortalice",
+    "quantity": 1
+   }
+  ],
+  "_row": 191
+ },
+ {
+  "index": 190,
+  "data_id": 191,
+  "series": "Felyne Gog α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 752,
+    "item_id": "ITEM_0777",
+    "item_name": "Gogmazios Fiberwing",
+    "quantity": 1
+   }
+  ],
+  "_row": 192
+ },
+ {
+  "index": 191,
+  "data_id": 192,
+  "series": "Felyne Rey Dau γ",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 758,
+    "item_id": "ITEM_0783",
+    "item_name": "Rey Dau Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 350,
+    "item_id": "ITEM_0376",
+    "item_name": "Rey Dau Fulgurtalon",
+    "quantity": 1
+   }
+  ],
+  "_row": 193
+ },
+ {
+  "index": 192,
+  "data_id": 193,
+  "series": "Felyne Rey Dau γ",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 758,
+    "item_id": "ITEM_0783",
+    "item_name": "Rey Dau Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 349,
+    "item_id": "ITEM_0375",
+    "item_name": "Rey Dau Bolthorn",
+    "quantity": 1
+   }
+  ],
+  "_row": 194
+ },
+ {
+  "index": 193,
+  "data_id": 194,
+  "series": "Felyne Rey Dau γ",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 758,
+    "item_id": "ITEM_0783",
+    "item_name": "Rey Dau Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 347,
+    "item_id": "ITEM_0373",
+    "item_name": "Rey Dau Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 195
+ },
+ {
+  "index": 194,
+  "data_id": 195,
+  "series": "Felyne Uth Duna γ",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 759,
+    "item_id": "ITEM_0784",
+    "item_name": "Uth Duna Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 333,
+    "item_id": "ITEM_0359",
+    "item_name": "Uth Duna Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 196
+ },
+ {
+  "index": 195,
+  "data_id": 196,
+  "series": "Felyne Uth Duna γ",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 759,
+    "item_id": "ITEM_0784",
+    "item_name": "Uth Duna Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 331,
+    "item_id": "ITEM_0357",
+    "item_name": "Uth Duna Cilia+",
+    "quantity": 1
+   }
+  ],
+  "_row": 197
+ },
+ {
+  "index": 196,
+  "data_id": 197,
+  "series": "Felyne Uth Duna γ",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 759,
+    "item_id": "ITEM_0784",
+    "item_name": "Uth Duna Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 329,
+    "item_id": "ITEM_0355",
+    "item_name": "Uth Duna Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 198
+ },
+ {
+  "index": 197,
+  "data_id": 198,
+  "series": "Felyne Udra γ",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 760,
+    "item_id": "ITEM_0785",
+    "item_name": "Nu Udra Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 386,
+    "item_id": "ITEM_0412",
+    "item_name": "Nu Udra Tentacle+",
+    "quantity": 1
+   }
+  ],
+  "_row": 199
+ },
+ {
+  "index": 198,
+  "data_id": 199,
+  "series": "Felyne Udra γ",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 760,
+    "item_id": "ITEM_0785",
+    "item_name": "Nu Udra Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 385,
+    "item_id": "ITEM_0411",
+    "item_name": "Nu Udra Horn+",
+    "quantity": 1
+   }
+  ],
+  "_row": 200
+ },
+ {
+  "index": 199,
+  "data_id": 200,
+  "series": "Felyne Udra γ",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 760,
+    "item_id": "ITEM_0785",
+    "item_name": "Nu Udra Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 383,
+    "item_id": "ITEM_0409",
+    "item_name": "Nu Udra Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 201
+ },
+ {
+  "index": 200,
+  "data_id": 201,
+  "series": "Felyne Dahaad γ",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 761,
+    "item_id": "ITEM_0786",
+    "item_name": "Jin Dahaad Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 421,
+    "item_id": "ITEM_0447",
+    "item_name": "Jin Dahaad Iceplate",
+    "quantity": 1
+   }
+  ],
+  "_row": 202
+ },
+ {
+  "index": 201,
+  "data_id": 202,
+  "series": "Felyne Dahaad γ",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 761,
+    "item_id": "ITEM_0786",
+    "item_name": "Jin Dahaad Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 419,
+    "item_id": "ITEM_0445",
+    "item_name": "Jin Dahaad Scale+",
+    "quantity": 1
+   }
+  ],
+  "_row": 203
+ },
+ {
+  "index": 202,
+  "data_id": 203,
+  "series": "Felyne Dahaad γ",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 761,
+    "item_id": "ITEM_0786",
+    "item_name": "Jin Dahaad Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 420,
+    "item_id": "ITEM_0446",
+    "item_name": "Jin Dahaad Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 204
+ },
+ {
+  "index": 206,
+  "data_id": 207,
+  "series": "Felyne Papier-Mâché α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "0000170A",
+  "materials": [
+   {
+    "item_data_id": 763,
+    "item_id": "ITEM_0788",
+    "item_name": "Blossomdance Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 205
+ },
+ {
+  "index": 207,
+  "data_id": 208,
+  "series": "Felyne Papier-Mâché α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "0000170A",
+  "materials": [
+   {
+    "item_data_id": 763,
+    "item_id": "ITEM_0788",
+    "item_name": "Blossomdance Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 206
+ },
+ {
+  "index": 208,
+  "data_id": 209,
+  "series": "Felyne Butterfly α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 764,
+    "item_id": "ITEM_0789",
+    "item_name": "Blossom Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 604,
+    "item_id": "ITEM_0630",
+    "item_name": "Lala Barina Mucus+",
+    "quantity": 1
+   }
+  ],
+  "_row": 207
+ },
+ {
+  "index": 209,
+  "data_id": 210,
+  "series": "Felyne Butterfly α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 764,
+    "item_id": "ITEM_0789",
+    "item_name": "Blossom Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 306,
+    "item_id": "ITEM_0332",
+    "item_name": "Lala Barina Floret+",
+    "quantity": 1
+   }
+  ],
+  "_row": 208
+ },
+ {
+  "index": 210,
+  "data_id": 211,
+  "series": "Felyne Butterfly α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 764,
+    "item_id": "ITEM_0789",
+    "item_name": "Blossom Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 307,
+    "item_id": "ITEM_0333",
+    "item_name": "Lala Barina Carapace",
+    "quantity": 1
+   }
+  ],
+  "_row": 209
+ },
+ {
+  "index": 211,
+  "data_id": 212,
+  "series": "Felyne Afi α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "0000170A",
+  "materials": [
+   {
+    "item_data_id": 766,
+    "item_id": "ITEM_0791",
+    "item_name": "Flamefete Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 210
+ },
+ {
+  "index": 212,
+  "data_id": 213,
+  "series": "Felyne Afi α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "0000170A",
+  "materials": [
+   {
+    "item_data_id": 766,
+    "item_id": "ITEM_0791",
+    "item_name": "Flamefete Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 211
+ },
+ {
+  "index": 213,
+  "data_id": 214,
+  "series": "Felyne Aloha Set α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 767,
+    "item_id": "ITEM_0792",
+    "item_name": "Diving Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 341,
+    "item_id": "ITEM_0367",
+    "item_name": "Rompopolo Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 212
+ },
+ {
+  "index": 214,
+  "data_id": 215,
+  "series": "Felyne Aloha Set α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 767,
+    "item_id": "ITEM_0792",
+    "item_name": "Diving Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 530,
+    "item_id": "ITEM_0556",
+    "item_name": "Gypceros Wing",
+    "quantity": 1
+   }
+  ],
+  "_row": 213
+ },
+ {
+  "index": 215,
+  "data_id": 216,
+  "series": "Felyne Aloha Set α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 767,
+    "item_id": "ITEM_0792",
+    "item_name": "Diving Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 343,
+    "item_id": "ITEM_0369",
+    "item_name": "Spotted Poison Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 214
+ },
+ {
+  "index": 216,
+  "data_id": 217,
+  "series": "Meowrionette α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "0000170A",
+  "materials": [
+   {
+    "item_data_id": 770,
+    "item_id": "ITEM_0795",
+    "item_name": "Dreamspell Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 698,
+    "item_id": "ITEM_0724",
+    "item_name": "Gracium",
+    "quantity": 1
+   }
+  ],
+  "_row": 215
+ },
+ {
+  "index": 217,
+  "data_id": 218,
+  "series": "Meowrionette α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "0000170A",
+  "materials": [
+   {
+    "item_data_id": 770,
+    "item_id": "ITEM_0795",
+    "item_name": "Dreamspell Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 587,
+    "item_id": "ITEM_0613",
+    "item_name": "Frozen Icebone",
+    "quantity": 1
+   }
+  ],
+  "_row": 216
+ },
+ {
+  "index": 218,
+  "data_id": 219,
+  "series": "Felyne Ghost α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 771,
+    "item_id": "ITEM_0796",
+    "item_name": "Harvest Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 361,
+    "item_id": "ITEM_0387",
+    "item_name": "Hirabami Tail Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 217
+ },
+ {
+  "index": 219,
+  "data_id": 220,
+  "series": "Felyne Ghost α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 771,
+    "item_id": "ITEM_0796",
+    "item_name": "Harvest Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 360,
+    "item_id": "ITEM_0386",
+    "item_name": "Hirabami Webbing+",
+    "quantity": 1
+   }
+  ],
+  "_row": 218
+ },
+ {
+  "index": 220,
+  "data_id": 221,
+  "series": "Felyne Ghost α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 771,
+    "item_id": "ITEM_0796",
+    "item_name": "Harvest Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 359,
+    "item_id": "ITEM_0385",
+    "item_name": "Hirabami Hide+",
+    "quantity": 1
+   }
+  ],
+  "_row": 219
+ },
+ {
+  "index": 221,
+  "data_id": 222,
+  "series": "Felyne Snowcat α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 800,
+    "item_id": "ITEM_0825",
+    "item_name": "Orion Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 538,
+    "item_id": "ITEM_0564",
+    "item_name": "Blangonga Fang+",
+    "quantity": 1
+   }
+  ],
+  "_row": 220
+ },
+ {
+  "index": 222,
+  "data_id": 223,
+  "series": "Felyne Snowcat α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 800,
+    "item_id": "ITEM_0825",
+    "item_name": "Orion Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 539,
+    "item_id": "ITEM_0565",
+    "item_name": "Blangonga Whisker",
+    "quantity": 1
+   }
+  ],
+  "_row": 221
+ },
+ {
+  "index": 223,
+  "data_id": 224,
+  "series": "Felyne Snowcat α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 800,
+    "item_id": "ITEM_0825",
+    "item_name": "Orion Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 540,
+    "item_id": "ITEM_0566",
+    "item_name": "Blangonga Tail",
+    "quantity": 1
+   }
+  ],
+  "_row": 222
+ },
+ {
+  "index": 224,
+  "data_id": 225,
+  "series": "Our Lil' Seikret α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "0000170A",
+  "materials": [
+   {
+    "item_data_id": 774,
+    "item_id": "ITEM_0799",
+    "item_name": "Lumenhymn Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 582,
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": 1
+   }
+  ],
+  "_row": 223
+ },
+ {
+  "index": 225,
+  "data_id": 226,
+  "series": "Our Lil' Seikret α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "0000170A",
+  "materials": [
+   {
+    "item_data_id": 774,
+    "item_id": "ITEM_0799",
+    "item_name": "Lumenhymn Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 578,
+    "item_id": "ITEM_0604",
+    "item_name": "Lightcrystal",
+    "quantity": 1
+   }
+  ],
+  "_row": 224
+ },
+ {
+  "index": 229,
+  "data_id": 230,
+  "series": "Blanka-Chan α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": "0000429A",
+  "materials": [
+   {
+    "item_data_id": 781,
+    "item_id": "ITEM_0806",
+    "item_name": "SF6 Ticket",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 370,
+    "item_id": "ITEM_0396",
+    "item_name": "Ajarakan Scale+",
+    "quantity": 2
+   }
+  ],
+  "_row": 225
+ },
+ {
+  "index": 230,
+  "data_id": 231,
+  "series": "Blanka-Chan α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": "0000429A",
+  "materials": [],
+  "_row": 226
+ },
+ {
+  "index": 231,
+  "data_id": 242,
+  "series": "Morbol Seedling α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 737,
+    "item_id": "ITEM_0762",
+    "item_name": "Omega Data 1.0",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 740,
+    "item_id": "ITEM_0765",
+    "item_name": "Omega Pedal",
+    "quantity": 1
+   }
+  ],
+  "_row": 227
+ },
+ {
+  "index": 232,
+  "data_id": 233,
+  "series": "Morbol Seedling α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 737,
+    "item_id": "ITEM_0762",
+    "item_name": "Omega Data 1.0",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 738,
+    "item_id": "ITEM_0763",
+    "item_name": "Omega Screw",
+    "quantity": 2
+   }
+  ],
+  "_row": 228
+ },
+ {
+  "index": 233,
+  "data_id": 234,
+  "series": "Morbol Seedling α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [],
+  "_row": 229
+ },
+ {
+  "index": 239,
+  "data_id": 238,
+  "series": "Wacky Wudwud α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 633,
+    "item_id": "ITEM_0659",
+    "item_name": "Wudwud Treasure",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 523,
+    "item_id": "ITEM_0549",
+    "item_name": "Kut-Ku Carapace",
+    "quantity": 3
+   }
+  ],
+  "_row": 230
+ },
+ {
+  "index": 240,
+  "data_id": 239,
+  "series": "Wacky Wudwud α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [],
+  "_row": 231
+ },
+ {
+  "index": 241,
+  "data_id": 241,
+  "series": "Felyne Bell Collar α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 794,
+    "item_id": "ITEM_0819",
+    "item_name": "Necklace Ticket",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 384,
+    "item_id": "ITEM_0410",
+    "item_name": "Nu Udra Spike+",
+    "quantity": 2
+   }
+  ],
+  "_row": 232
+ },
+ {
+  "index": 242,
+  "data_id": 236,
+  "series": "Felyne Hymstrigian α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 798,
+    "item_id": "ITEM_0823",
+    "item_name": "Songbird Sketch",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 512,
+    "item_id": "ITEM_0538",
+    "item_name": "Vibrant Pelt+",
+    "quantity": 1
+   }
+  ],
+  "_row": 233
+ },
+ {
+  "index": 243,
+  "data_id": 237,
+  "series": "Felyne Hymstrigian α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 798,
+    "item_id": "ITEM_0823",
+    "item_name": "Songbird Sketch",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 509,
+    "item_id": "ITEM_0535",
+    "item_name": "Congalala Pelt+",
+    "quantity": 1
+   }
+  ],
+  "_row": 234
+ },
+ {
+  "index": 244,
+  "data_id": 243,
+  "series": "Thief α",
+  "category": "Weapon",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 802,
+    "item_id": "ITEM_0827",
+    "item_name": "Felyne Wanted Poster",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 319,
+    "item_id": "ITEM_0345",
+    "item_name": "Doshaguma Claw+",
+    "quantity": 1
+   }
+  ],
+  "_row": 235
+ },
+ {
+  "index": 245,
+  "data_id": 244,
+  "series": "Thief α",
+  "category": "Helm",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 802,
+    "item_id": "ITEM_0827",
+    "item_name": "Felyne Wanted Poster",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 306,
+    "item_id": "ITEM_0332",
+    "item_name": "Lala Barina Floret+",
+    "quantity": 1
+   }
+  ],
+  "_row": 236
+ },
+ {
+  "index": 246,
+  "data_id": 245,
+  "series": "Thief α",
+  "category": "Body",
+  "key_monster": null,
+  "key_story": null,
+  "materials": [
+   {
+    "item_data_id": 802,
+    "item_id": "ITEM_0827",
+    "item_name": "Felyne Wanted Poster",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 309,
+    "item_id": "ITEM_0335",
+    "item_name": "Lala Barina Stinger+",
+    "quantity": 1
+   }
+  ],
+  "_row": 237
+ }
+]

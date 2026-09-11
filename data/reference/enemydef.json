@@ -1,0 +1,1062 @@
+[
+ {
+  "ID": "00000000",
+  "Name": "INVALID",
+  "_row": 2
+ },
+ {
+  "ID": "0000001A",
+  "Name": "EM0001_00_0 (Rathian)",
+  "_row": 3
+ },
+ {
+  "ID": "75231300",
+  "Name": "EM0002_00_0 (Rathalos)",
+  "_row": 4
+ },
+ {
+  "ID": "54286400",
+  "Name": "EM0002_50_0 (Guardian Rathalos)",
+  "_row": 5
+ },
+ {
+  "ID": "00006C8D",
+  "Name": "EM0003_00_0 (Khezu)",
+  "_row": 6
+ },
+ {
+  "ID": "00000B14",
+  "Name": "EM0004_00_0 (Basarios)",
+  "_row": 7
+ },
+ {
+  "ID": "E01B5A00",
+  "Name": "EM0005_00_0 (Gravios)",
+  "_row": 8
+ },
+ {
+  "ID": "00007DC4",
+  "Name": "EM0007_00_0 (Diablos)",
+  "_row": 9
+ },
+ {
+  "ID": "17F6E620",
+  "Name": "EM0008_00_0 (Yian Kut-Ku)",
+  "_row": 10
+ },
+ {
+  "ID": "3E913CC0",
+  "Name": "EM0009_00_0 (Gypceros)",
+  "_row": 11
+ },
+ {
+  "ID": "00003CA9",
+  "Name": "EM0011_00_0 (Kirin)",
+  "_row": 12
+ },
+ {
+  "ID": "00001441",
+  "Name": "EM0018_00_0 (Yian Garuga)",
+  "_row": 13
+ },
+ {
+  "ID": "00002135",
+  "Name": "EM0019_00_0 (Daimyo Hermitaur)",
+  "_row": 14
+ },
+ {
+  "ID": "00001478",
+  "Name": "EM0020_00_0 (Shogun Ceanataur)",
+  "_row": 15
+ },
+ {
+  "ID": "AA284680",
+  "Name": "EM0021_00_0 (Congalala)",
+  "_row": 16
+ },
+ {
+  "ID": "7EEF1180",
+  "Name": "EM0022_00_0 (Blangonga)",
+  "_row": 17
+ },
+ {
+  "ID": "00000D16",
+  "Name": "EM0023_00_0 (Rajang)",
+  "_row": 18
+ },
+ {
+  "ID": "00006A27",
+  "Name": "EM0024_00_0 (Kushala Daora)",
+  "_row": 19
+ },
+ {
+  "ID": "00003A3C",
+  "Name": "EM0025_00_0 (Chameleos)",
+  "_row": 20
+ },
+ {
+  "ID": "00005632",
+  "Name": "EM0026_00_0 (Lunastra)",
+  "_row": 21
+ },
+ {
+  "ID": "000046C5",
+  "Name": "EM0027_00_0 (Teostra)",
+  "_row": 22
+ },
+ {
+  "ID": "0000337C",
+  "Name": "EM0032_00_0 (Tigrex)",
+  "_row": 23
+ },
+ {
+  "ID": "00000E59",
+  "Name": "EM0036_00_0 (Lavasioth)",
+  "_row": 24
+ },
+ {
+  "ID": "00001CFF",
+  "Name": "EM0037_00_0 (Nargacuga)",
+  "_row": 25
+ },
+ {
+  "ID": "0000424C",
+  "Name": "EM0042_00_0 (Barioth)",
+  "_row": 26
+ },
+ {
+  "ID": "0000569E",
+  "Name": "EM0043_00_0 (Deviljho)",
+  "_row": 27
+ },
+ {
+  "ID": "00005B46",
+  "Name": "EM0044_00_0 (Barroth)",
+  "_row": 28
+ },
+ {
+  "ID": "00003D2A",
+  "Name": "EM0045_00_0 (Uragaan)",
+  "_row": 29
+ },
+ {
+  "ID": "BF65DE80",
+  "Name": "EM0046_00_0 (Lagiacrus)",
+  "_row": 30
+ },
+ {
+  "ID": "000000B1",
+  "Name": "EM0047_00_0 (Royal Ludroth)",
+  "_row": 31
+ },
+ {
+  "ID": "00004F25",
+  "Name": "EM0054_00_0 (Great Baggi)",
+  "_row": 32
+ },
+ {
+  "ID": "000040F5",
+  "Name": "EM0057_00_0 (Zinogre)",
+  "_row": 33
+ },
+ {
+  "ID": "0000545D",
+  "Name": "EM0059_00_0 (Great Wroggi)",
+  "_row": 34
+ },
+ {
+  "ID": "000072C8",
+  "Name": "EM0060_00_0 (Arzuros)",
+  "_row": 35
+ },
+ {
+  "ID": "000057E0",
+  "Name": "EM0061_00_0 (Lagombi)",
+  "_row": 36
+ },
+ {
+  "ID": "00005E0C",
+  "Name": "EM0062_00_0 (Volvidon)",
+  "_row": 37
+ },
+ {
+  "ID": "00000372",
+  "Name": "EM0063_00_0 (Brachydios)",
+  "_row": 38
+ },
+ {
+  "ID": "AEBC9E00",
+  "Name": "EM0070_00_0 (Nerscylla)",
+  "_row": 39
+ },
+ {
+  "ID": "D2CE02C0",
+  "Name": "EM0071_00_0 (Gore Magala)",
+  "_row": 40
+ },
+ {
+  "ID": "00000019",
+  "Name": "EM0077_00_0 (Seregios)",
+  "_row": 41
+ },
+ {
+  "ID": "000032FC",
+  "Name": "EM0078_00_0 (Gogmazios)",
+  "_row": 42
+ },
+ {
+  "ID": "00004C50",
+  "Name": "EM0080_00_0 (Glavenus)",
+  "_row": 43
+ },
+ {
+  "ID": "00003858",
+  "Name": "EM0081_00_0 (Astalos)",
+  "_row": 44
+ },
+ {
+  "ID": "00007F7A",
+  "Name": "EM0082_00_0 (Mizutsune)",
+  "_row": 45
+ },
+ {
+  "ID": "00007B44",
+  "Name": "EM0089_00_0 (Magnamalo)",
+  "_row": 46
+ },
+ {
+  "ID": "000008F2",
+  "Name": "EM0090_00_0 (Bishaten)",
+  "_row": 47
+ },
+ {
+  "ID": "000030E4",
+  "Name": "EM0091_00_0 (Aknosom)",
+  "_row": 48
+ },
+ {
+  "ID": "0000407A",
+  "Name": "EM0092_00_0 (Tetranadon)",
+  "_row": 49
+ },
+ {
+  "ID": "00007225",
+  "Name": "EM0093_00_0 (Somnacanth)",
+  "_row": 50
+ },
+ {
+  "ID": "000015D9",
+  "Name": "EM0094_00_0 (Rakna-Kadaki)",
+  "_row": 51
+ },
+ {
+  "ID": "00006339",
+  "Name": "EM0095_00_0 (Almudron)",
+  "_row": 52
+ },
+ {
+  "ID": "00004317",
+  "Name": "EM0096_00_0 (Ibushi)",
+  "_row": 53
+ },
+ {
+  "ID": "00004A7E",
+  "Name": "EM0097_00_0 (Goss Harag)",
+  "_row": 54
+ },
+ {
+  "ID": "00004D5A",
+  "Name": "EM0098_00_0 (Great Izuchi)",
+  "_row": 55
+ },
+ {
+  "ID": "00003429",
+  "Name": "EM0100_00_0 (Anjanath)",
+  "_row": 56
+ },
+ {
+  "ID": "0663AA30",
+  "Name": "EM0100_51_0 (Guardian Fulgur Anjanath)",
+  "_row": 57
+ },
+ {
+  "ID": "00005CB4",
+  "Name": "EM0101_00_0 (Great Jagras)",
+  "_row": 58
+ },
+ {
+  "ID": "00004E90",
+  "Name": "EM0102_00_0 (Pukei-Pukei)",
+  "_row": 59
+ },
+ {
+  "ID": "00004A01",
+  "Name": "EM0103_00_0 (Nergigante)",
+  "_row": 60
+ },
+ {
+  "ID": "00006047",
+  "Name": "EM0107_00_0 (Kulu-Ya-Ku)",
+  "_row": 61
+ },
+ {
+  "ID": "00001EA7",
+  "Name": "EM0108_00_0 (Jyuratodus)",
+  "_row": 62
+ },
+ {
+  "ID": "00000C59",
+  "Name": "EM0109_00_0 (Tobi-Kadachi)",
+  "_row": 63
+ },
+ {
+  "ID": "00001ED2",
+  "Name": "EM0110_00_0 (Paolumu)",
+  "_row": 64
+ },
+ {
+  "ID": "00004986",
+  "Name": "EM0111_00_0 (Legiana)",
+  "_row": 65
+ },
+ {
+  "ID": "00005154",
+  "Name": "EM0112_00_0 (Great Girros)",
+  "_row": 66
+ },
+ {
+  "ID": "000002FB",
+  "Name": "EM0113_00_0 (Odogaron)",
+  "_row": 67
+ },
+ {
+  "ID": "632E9000",
+  "Name": "EM0113_51_0 (Guardian Ebony Odogaron)",
+  "_row": 68
+ },
+ {
+  "ID": "00005960",
+  "Name": "EM0114_00_0 (Radobaan)",
+  "_row": 69
+ },
+ {
+  "ID": "00005348",
+  "Name": "EM0115_00_0 (Vaal Hazak)",
+  "_row": 70
+ },
+ {
+  "ID": "000021C9",
+  "Name": "EM0116_00_0 (Dodogama)",
+  "_row": 71
+ },
+ {
+  "ID": "0000299A",
+  "Name": "EM0118_00_0 (Bazelgeuse)",
+  "_row": 72
+ },
+ {
+  "ID": "00000DCF",
+  "Name": "EM0120_00_0 (Tzitzi-Ya-Ku)",
+  "_row": 73
+ },
+ {
+  "ID": "0000342C",
+  "Name": "EM0122_00_0 (Beotodus)",
+  "_row": 74
+ },
+ {
+  "ID": "00006308",
+  "Name": "EM0123_00_0 (Banbaro)",
+  "_row": 75
+ },
+ {
+  "ID": "0000790C",
+  "Name": "EM0124_00_0 (Velkhana)",
+  "_row": 76
+ },
+ {
+  "ID": "0000258D",
+  "Name": "EM0125_00_0 (Namielle)",
+  "_row": 77
+ },
+ {
+  "ID": "00000285",
+  "Name": "EM0136_00_0 (Espinas)",
+  "_row": 78
+ },
+ {
+  "ID": "0000000F",
+  "Name": "EM0150_00_0 (Doshaguma)",
+  "_row": 79
+ },
+ {
+  "ID": "8DC59A80",
+  "Name": "EM0150_50_0 (Guardian Doshaguma)",
+  "_row": 80
+ },
+ {
+  "ID": "00000010",
+  "Name": "EM0151_00_0 (Balahara)",
+  "_row": 81
+ },
+ {
+  "ID": "00000021",
+  "Name": "EM0152_00_0 (Chatacabra)",
+  "_row": 82
+ },
+ {
+  "ID": "FDEAE550",
+  "Name": "EM0153_00_0 (Quematrice)",
+  "_row": 83
+ },
+ {
+  "ID": "A4DDE380",
+  "Name": "EM0154_00_0 (Lala Barina)",
+  "_row": 84
+ },
+ {
+  "ID": "21D55200",
+  "Name": "EM0155_00_0 (Rompopolo)",
+  "_row": 85
+ },
+ {
+  "ID": "A3C51700",
+  "Name": "EM0156_00_0 (Rey Dau)",
+  "_row": 86
+ },
+ {
+  "ID": "577FE300",
+  "Name": "EM0157_00_0 (Uth Duna)",
+  "_row": 87
+ },
+ {
+  "ID": "62CFB100",
+  "Name": "EM0158_00_0 (Nu Udra)",
+  "_row": 88
+ },
+ {
+  "ID": "2E571C80",
+  "Name": "EM0159_00_0 (Ajarakan)",
+  "_row": 89
+ },
+ {
+  "ID": "2C864480",
+  "Name": "EM0160_00_0 (Arkveld)",
+  "_row": 90
+ },
+ {
+  "ID": "EF17C700",
+  "Name": "EM0160_50_0 (Guardian Arkveld)",
+  "_row": 91
+ },
+ {
+  "ID": "0D49B3C0",
+  "Name": "EM0161_00_0 (Hirabami)",
+  "_row": 92
+ },
+ {
+  "ID": "5C97DE80",
+  "Name": "EM0162_00_0 (Jin Dahaad)",
+  "_row": 93
+ },
+ {
+  "ID": "538EBC80",
+  "Name": "EM0163_00_0 (Xu Wu)",
+  "_row": 94
+ },
+ {
+  "ID": "88957E80",
+  "Name": "EM0164_50_0 (Zoh Shia)",
+  "_row": 95
+ },
+ {
+  "ID": "EC132260",
+  "Name": "EM0165_00_0 (High Purrformance Barrel Puncher)",
+  "_row": 96
+ },
+ {
+  "ID": "00005559",
+  "Name": "EM0166_00_0 (Omega Planetes)",
+  "_row": 97
+ },
+ {
+  "ID": "229E3700",
+  "Name": "EM1006_00_0 (Vespoid)",
+  "_row": 98
+ },
+ {
+  "ID": "F41DC0B0",
+  "Name": "EM1022_00_0 (Conga)",
+  "_row": 99
+ },
+ {
+  "ID": "9B2B2D00",
+  "Name": "EM1023_00_0 (Blango)",
+  "_row": 100
+ },
+ {
+  "ID": "A89B0480",
+  "Name": "EM1062_00_0 (Training Barrel)",
+  "_row": 101
+ },
+ {
+  "ID": "00000011",
+  "Name": "EM1150_00_0 (Ceratonoth (Male))",
+  "_row": 102
+ },
+ {
+  "ID": "00000013",
+  "Name": "EM1150_00_1 (Ceratonoth (Female))",
+  "_row": 103
+ },
+ {
+  "ID": "00000012",
+  "Name": "EM1151_00_0 (Dalthydon)",
+  "_row": 104
+ },
+ {
+  "ID": "71D10E80",
+  "Name": "EM1151_00_1 (Dalthydon (Livestock)",
+  "_row": 105
+ },
+ {
+  "ID": "0441EAD8",
+  "Name": "EM1152_00_0 (Bulaqchi)",
+  "_row": 106
+ },
+ {
+  "ID": "00000022",
+  "Name": "EM1153_00_0 (Talioth)",
+  "_row": 107
+ },
+ {
+  "ID": "B259E400",
+  "Name": "EM1154_00_0 (Baunos)",
+  "_row": 108
+ },
+ {
+  "ID": "3E24D680",
+  "Name": "EM1155_00_0 (Gajios)",
+  "_row": 109
+ },
+ {
+  "ID": "FDC33884",
+  "Name": "EM1156_00_0 (Piragill)",
+  "_row": 110
+ },
+ {
+  "ID": "46276200",
+  "Name": "EM1157_00_0 (Harpios)",
+  "_row": 111
+ },
+ {
+  "ID": "416B3480",
+  "Name": "EM1158_00_0 (Kranodath)",
+  "_row": 112
+ },
+ {
+  "ID": "3150F500",
+  "Name": "EM1159_00_0 (Comaqchi)",
+  "_row": 113
+ },
+ {
+  "ID": "0E1C5780",
+  "Name": "EM1160_00_0 (Gelidron)",
+  "_row": 114
+ },
+ {
+  "ID": "570ED080",
+  "Name": "EM1161_00_0 (Rafma)",
+  "_row": 115
+ },
+ {
+  "ID": "108E9FC0",
+  "Name": "EM1162_00_0 (Porkeplume)",
+  "_row": 116
+ },
+ {
+  "ID": "5433D180",
+  "Name": "EM1163_00_0 (Nerscylla Hatchling)",
+  "_row": 117
+ },
+ {
+  "ID": "D9A96E00",
+  "Name": "EM1164_50_0 (Guardian Seikret)",
+  "_row": 118
+ },
+ {
+  "ID": "00004F66",
+  "Name": "EM1165_00_0 (Omega Micros)",
+  "_row": 119
+ },
+ {
+  "ID": "0000001E",
+  "Name": "EM5001_00_0 (Paratoad)",
+  "_row": 120
+ },
+ {
+  "ID": "C57E2080",
+  "Name": "EM5001_10_0 (Nitrotoad)",
+  "_row": 121
+ },
+ {
+  "ID": "C5DFFC40",
+  "Name": "EM5001_20_0 (Sleeptoad)",
+  "_row": 122
+ },
+ {
+  "ID": "0000001F",
+  "Name": "EM5002_00_0 (Vigorwasp)",
+  "_row": 123
+ },
+ {
+  "ID": "BF213600",
+  "Name": "EM5002_01_0 (Giant Vigorwasp)",
+  "_row": 124
+ },
+ {
+  "ID": "2E12FFC0",
+  "Name": "EM5002_10_0 (Purewasp)",
+  "_row": 125
+ },
+ {
+  "ID": "00000020",
+  "Name": "EM5003_00_0 (Flashflies)",
+  "_row": 126
+ },
+ {
+  "ID": "6F4AAA17",
+  "Name": "EM5004_00_0 (Dung Beetle)",
+  "_row": 127
+ },
+ {
+  "ID": "82353200",
+  "Name": "EM5004_10_0 (Bomb Beetle)",
+  "_row": 128
+ },
+ {
+  "ID": "C0A6E840",
+  "Name": "EM5004_20_0 (Rime Beetle)",
+  "_row": 129
+ },
+ {
+  "ID": "9C5C6300",
+  "Name": "EM5005_00_0 (Vigormantle Bug)",
+  "_row": 130
+ },
+ {
+  "ID": "B545B180",
+  "Name": "EM5005_10_0 (Chillmantle Bug)",
+  "_row": 131
+ },
+ {
+  "ID": "A7085F00",
+  "Name": "EM5005_20_0 (Heatmantle Bug)",
+  "_row": 132
+ },
+ {
+  "ID": "904F6B00",
+  "Name": "EM5006_00_0 (Wiggly Litchi)",
+  "_row": 133
+ },
+ {
+  "ID": "DD3C3380",
+  "Name": "EM5007_00_0 (Dark Hornet)",
+  "_row": 134
+ },
+ {
+  "ID": "4068F580",
+  "Name": "EM5008_00_0 (Great Thunderbugs)",
+  "_row": 135
+ },
+ {
+  "ID": "D335E240",
+  "Name": "EM5009_00_0 (Wedge Beetle)",
+  "_row": 136
+ },
+ {
+  "ID": "0000254D",
+  "Name": "EM5010_00_0 (Cactuar)",
+  "_row": 137
+ },
+ {
+  "ID": "00007C18",
+  "Name": "EM5011_00_0 (Morbol Seedling)",
+  "_row": 138
+ },
+ {
+  "ID": "00000017",
+  "Name": "EM5100_00_0 (Thunderbug)",
+  "_row": 139
+ },
+ {
+  "ID": "2D970140",
+  "Name": "EM5101_00_0 (Flashbug)",
+  "_row": 140
+ },
+ {
+  "ID": "7B14DB00",
+  "Name": "EM5101_10_0 (Godbug)",
+  "_row": 141
+ },
+ {
+  "ID": "E2984980",
+  "Name": "EM5101_20_0 (Bitterbug)",
+  "_row": 142
+ },
+ {
+  "ID": "2B02D3C0",
+  "Name": "EM5102_00_0 (Leaflugger Ant)",
+  "_row": 143
+ },
+ {
+  "ID": "0000001C",
+  "Name": "EM5200_00_0 (Windrustler)",
+  "_row": 144
+ },
+ {
+  "ID": "9E4FB500",
+  "Name": "EM5200_09_0 (Black Windrustler)",
+  "_row": 145
+ },
+ {
+  "ID": "0000001D",
+  "Name": "EM5201_00_0 (Nothpecker)",
+  "_row": 146
+ },
+ {
+  "ID": "5808C300",
+  "Name": "EM5202_00_0 (Landlight Shrimp)",
+  "_row": 147
+ },
+ {
+  "ID": "B8D31400",
+  "Name": "EM5202_10_0 (Pink Landlight Shrimp)",
+  "_row": 148
+ },
+ {
+  "ID": "BABD6A80",
+  "Name": "EM5203_00_0 (Amstrigian)",
+  "_row": 149
+ },
+ {
+  "ID": "E1E43F80",
+  "Name": "EM5203_09_0 (Hymstrigian)",
+  "_row": 150
+ },
+ {
+  "ID": "51F97000",
+  "Name": "EM5204_00_0 (Rufflizard)",
+  "_row": 151
+ },
+ {
+  "ID": "FEFA2E5C",
+  "Name": "EM5204_10_0 (Ember Rufflizard)",
+  "_row": 152
+ },
+ {
+  "ID": "5F7A4200",
+  "Name": "EM5204_19_0 (Azure Rufflizard)",
+  "_row": 153
+ },
+ {
+  "ID": "DFCF1340",
+  "Name": "EM5205_00_0 (Pallbug)",
+  "_row": 154
+ },
+ {
+  "ID": "A9A7EC00",
+  "Name": "EM5206_00_0 (Tracktail Lizard)",
+  "_row": 155
+ },
+ {
+  "ID": "6F13F380",
+  "Name": "EM5207_00_0 (Emperor Hopper)",
+  "_row": 156
+ },
+ {
+  "ID": "99373F80",
+  "Name": "EM5207_10_0 (Tyrant Hopper)",
+  "_row": 157
+ },
+ {
+  "ID": "FC21DDDC",
+  "Name": "EM5208_00_0 (Hercudrome)",
+  "_row": 158
+ },
+ {
+  "ID": "E43C5AA0",
+  "Name": "EM5208_10_0 (Gold Hercudrome)",
+  "_row": 159
+ },
+ {
+  "ID": "71C42580",
+  "Name": "EM5208_20_0 (Prism Hercudrome)",
+  "_row": 160
+ },
+ {
+  "ID": "61B09880",
+  "Name": "EM5209_00_0 (Quatreflies)",
+  "_row": 161
+ },
+ {
+  "ID": "6BB2CB80",
+  "Name": "EM5210_00_0 (Myriads)",
+  "_row": 162
+ },
+ {
+  "ID": "B57AB880",
+  "Name": "EM5210_10_0 (Myriads)",
+  "_row": 163
+ },
+ {
+  "ID": "0CF501F0",
+  "Name": "EM5211_00_0 (Jewel Scarab)",
+  "_row": 164
+ },
+ {
+  "ID": "E30714C0",
+  "Name": "EM5211_09_0 (Regal Jewel Scarab)",
+  "_row": 165
+ },
+ {
+  "ID": "E99BB840",
+  "Name": "EM5212_00_0 (Vaporonid)",
+  "_row": 166
+ },
+ {
+  "ID": "D2AD78C0",
+  "Name": "EM5213_00_0 (Omenfly)",
+  "_row": 167
+ },
+ {
+  "ID": "3F00F680",
+  "Name": "EM5214_00_0 (Mimiphyta)",
+  "_row": 168
+ },
+ {
+  "ID": "DB5E8DC0",
+  "Name": "EM5214_10_0 (Gawkie)",
+  "_row": 169
+ },
+ {
+  "ID": "BCCE4200",
+  "Name": "EM5215_00_0 (Scarlet Joyperch)",
+  "_row": 170
+ },
+ {
+  "ID": "041FAD98",
+  "Name": "EM5215_10_0 (Blink Angler)",
+  "_row": 171
+ },
+ {
+  "ID": "73445F00",
+  "Name": "EM5216_00_0 (Florashell Crab)",
+  "_row": 172
+ },
+ {
+  "ID": "86DEEB80",
+  "Name": "EM5216_09_0 (Curioshell Crab)",
+  "_row": 173
+ },
+ {
+  "ID": "20EDD000",
+  "Name": "EM5216_10_0 (Crudeshell Crab)",
+  "_row": 174
+ },
+ {
+  "ID": "9185EC00",
+  "Name": "EM5217_00_0 (Smokeshroud Gekko)",
+  "_row": 175
+ },
+ {
+  "ID": "65BA6400",
+  "Name": "EM5217_10_0 (Gloom Gekko)",
+  "_row": 176
+ },
+ {
+  "ID": "1C59BA00",
+  "Name": "EM5218_00_0 (Dapperwing)",
+  "_row": 177
+ },
+ {
+  "ID": "B4DAC700",
+  "Name": "EM5218_09_0 (Dazzlewing)",
+  "_row": 178
+ },
+ {
+  "ID": "ADC48400",
+  "Name": "EM5219_00_0 (Sandstar)",
+  "_row": 179
+ },
+ {
+  "ID": "E72B05A0",
+  "Name": "EM5220_00_0 (Scalebat)",
+  "_row": 180
+ },
+ {
+  "ID": "202722C0",
+  "Name": "EM5221_00_0 (Sparklerjelly)",
+  "_row": 181
+ },
+ {
+  "ID": "83599180",
+  "Name": "EM5221_09_0 (Peony Sparklerjelly)",
+  "_row": 182
+ },
+ {
+  "ID": "46EE1380",
+  "Name": "EM5222_00_0 (Nu Yaya)",
+  "_row": 183
+ },
+ {
+  "ID": "0E348EB0",
+  "Name": "EM5222_10_0 (Xu Yo)",
+  "_row": 184
+ },
+ {
+  "ID": "4A6E1900",
+  "Name": "EM5223_00_0 (Solanaria)",
+  "_row": 185
+ },
+ {
+  "ID": "34CE24C0",
+  "Name": "EM5224_00_0 (Pillopod)",
+  "_row": 186
+ },
+ {
+  "ID": "45F2E900",
+  "Name": "EM5224_09_0 (Gillopod)",
+  "_row": 187
+ },
+ {
+  "ID": "4621FF00",
+  "Name": "EM5225_00_0 (Petalfly)",
+  "_row": 188
+ },
+ {
+  "ID": "04A34D88",
+  "Name": "EM5226_00_0 (Downy Crake)",
+  "_row": 189
+ },
+ {
+  "ID": "000060C9",
+  "Name": "EM5227_00_0 (Giant Downy Crake)",
+  "_row": 190
+ },
+ {
+  "ID": "23BBC940",
+  "Name": "EM5300_00_0 (Starduster)",
+  "_row": 191
+ },
+ {
+  "ID": "C63F6A80",
+  "Name": "EM5300_10_0 (Starduster)",
+  "_row": 192
+ },
+ {
+  "ID": "D1277380",
+  "Name": "EM5301_00_0 (Virid Bowfin)",
+  "_row": 193
+ },
+ {
+  "ID": "C66484C0",
+  "Name": "EM5302_00_0 (Whetfish)",
+  "_row": 194
+ },
+ {
+  "ID": "52FCB100",
+  "Name": "EM5303_00_0 (Sushifish)",
+  "_row": 195
+ },
+ {
+  "ID": "DE7773C0",
+  "Name": "EM5304_00_0 (Gastronome Tuna)",
+  "_row": 196
+ },
+ {
+  "ID": "B520DE00",
+  "Name": "EM5305_00_0 (Gajau)",
+  "_row": 197
+ },
+ {
+  "ID": "36B11540",
+  "Name": "EM5306_00_0 (Goldenfry)",
+  "_row": 198
+ },
+ {
+  "ID": "3D5F0F00",
+  "Name": "EM5307_00_0 (Goldenfish)",
+  "_row": 199
+ },
+ {
+  "ID": "277D53C0",
+  "Name": "EM5308_00_0 (Platinumfish)",
+  "_row": 200
+ },
+ {
+  "ID": "38470940",
+  "Name": "EM5309_00_0 (Burst Arowana)",
+  "_row": 201
+ },
+ {
+  "ID": "F1980F60",
+  "Name": "EM5310_00_0 (Bomb Arowana)",
+  "_row": 202
+ },
+ {
+  "ID": "2A851740",
+  "Name": "EM5311_00_0 (Gunpowderfish)",
+  "_row": 203
+ },
+ {
+  "ID": "524D7D80",
+  "Name": "EM5312_00_0 (Speartuna)",
+  "_row": 204
+ },
+ {
+  "ID": "33A484C0",
+  "Name": "EM5313_00_0 (Petricanths)",
+  "_row": 205
+ },
+ {
+  "ID": "EC2A2140",
+  "Name": "EM5314_00_0 (Glass Parexus)",
+  "_row": 206
+ },
+ {
+  "ID": "41395A00",
+  "Name": "EM5315_00_0 (Goliath Squid)",
+  "_row": 207
+ },
+ {
+  "ID": "C839CDC0",
+  "Name": "EM5316_00_0 (Great Trevally)",
+  "_row": 208
+ },
+ {
+  "ID": "E929A280",
+  "Name": "EM5317_00_0 (Escunite)",
+  "_row": 209
+ },
+ {
+  "ID": "B1779000",
+  "Name": "EM5317_09_0 (Grand Escunite)",
+  "_row": 210
+ },
+ {
+  "ID": "A0BA4900",
+  "Name": "EM5318_00_0 (Gravid Bowfin)",
+  "_row": 211
+ },
+ {
+  "ID": "D83A83C0",
+  "Name": "EM5319_00_0 (Blind Perch)",
+  "_row": 212
+ },
+ {
+  "ID": "00000001",
+  "Name": "MAX",
+  "_row": 213
+ }
+]

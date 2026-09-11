@@ -1,0 +1,830 @@
+[
+ {
+  "em_id": "EM5001_00_0",
+  "fixed_id": "0000001E",
+  "name": "Paratoad",
+  "points": 10,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Ruins of Wyveria"
+  ],
+  "_row": 2
+ },
+ {
+  "em_id": "EM5001_10_0",
+  "fixed_id": "C57E2080",
+  "name": "Nitrotoad",
+  "points": 10,
+  "locales": [
+   "Oilwell Basin",
+   "Ruins of Wyveria"
+  ],
+  "_row": 3
+ },
+ {
+  "em_id": "EM5001_20_0",
+  "fixed_id": "C5DFFC40",
+  "name": "Sleeptoad",
+  "points": 10,
+  "locales": [
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "_row": 4
+ },
+ {
+  "em_id": "EM5002_00_0",
+  "fixed_id": "0000001F",
+  "name": "Vigorwasp",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria",
+   "Riverside Trail",
+   "Cavern Tunnel",
+   "Lost Path to Wyveria",
+   "Keepers' Approach",
+   "Wounded Hollow",
+   "Rimechain Peak",
+   "Dragontorch Shrine",
+   "Training Area"
+  ],
+  "_row": 5
+ },
+ {
+  "em_id": "EM5002_01_0",
+  "fixed_id": "BF213600",
+  "name": "Giant Vigorwasp",
+  "points": 10,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria",
+   "Riverside Trail",
+   "Cavern Tunnel",
+   "Lost Path to Wyveria",
+   "Keepers' Approach",
+   "Wounded Hollow",
+   "Rimechain Peak",
+   "Dragontorch Shrine",
+   "Training Area"
+  ],
+  "_row": 6
+ },
+ {
+  "em_id": "EM5002_10_0",
+  "fixed_id": "2E12FFC0",
+  "name": "Purewasp",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria",
+   "Riverside Trail",
+   "Cavern Tunnel",
+   "Lost Path to Wyveria",
+   "Keepers' Approach",
+   "Wounded Hollow",
+   "Rimechain Peak",
+   "Dragontorch Shrine",
+   "Training Area"
+  ],
+  "_row": 7
+ },
+ {
+  "em_id": "EM5003_00_0",
+  "fixed_id": "00000020",
+  "name": "Flashflies",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "_row": 8
+ },
+ {
+  "em_id": "EM5004_00_0",
+  "fixed_id": "6F4AAA17",
+  "name": "Dung Beetle",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin"
+  ],
+  "_row": 9
+ },
+ {
+  "em_id": "EM5004_10_0",
+  "fixed_id": "82353200",
+  "name": "Bomb Beetle",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin",
+   "Ruins of Wyveria"
+  ],
+  "_row": 10
+ },
+ {
+  "em_id": "EM5004_20_0",
+  "fixed_id": "C0A6E840",
+  "name": "Rime Beetle",
+  "points": 5,
+  "locales": [
+   "Iceshard Cliffs",
+   "Lost Path to Wyveria"
+  ],
+  "_row": 11
+ },
+ {
+  "em_id": "EM5005_00_0",
+  "fixed_id": "9C5C6300",
+  "name": "Vigormantle Bug",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "_row": 12
+ },
+ {
+  "em_id": "EM5005_10_0",
+  "fixed_id": "B545B180",
+  "name": "Chillmantle Bug",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin"
+  ],
+  "_row": 13
+ },
+ {
+  "em_id": "EM5005_20_0",
+  "fixed_id": "A7085F00",
+  "name": "Heatmantle Bug",
+  "points": 5,
+  "locales": [
+   "Iceshard Cliffs",
+   "Rimechain Peak"
+  ],
+  "_row": 14
+ },
+ {
+  "em_id": "EM5006_00_0",
+  "fixed_id": "904F6B00",
+  "name": "Wiggly Litchi",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria",
+   "Rimechain Peak"
+  ],
+  "_row": 15
+ },
+ {
+  "em_id": "EM5007_00_0",
+  "fixed_id": "DD3C3380",
+  "name": "Dark Hornet",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Ruins of Wyveria"
+  ],
+  "_row": 16
+ },
+ {
+  "em_id": "EM5008_00_0",
+  "fixed_id": "4068F580",
+  "name": "Great Thunderbugs",
+  "points": 10,
+  "locales": [
+   "Windward Plains",
+   "Ruins of Wyveria"
+  ],
+  "_row": 17
+ },
+ {
+  "em_id": "EM5009_00_0",
+  "fixed_id": "D335E240",
+  "name": "Wedge Beetle",
+  "points": 1,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria",
+   "Training Area"
+  ],
+  "_row": 18
+ },
+ {
+  "em_id": "EM5100_00_0",
+  "fixed_id": "00000017",
+  "name": "Thunderbug",
+  "points": 2,
+  "locales": [
+   "Windward Plains",
+   "Ruins of Wyveria"
+  ],
+  "_row": 19
+ },
+ {
+  "em_id": "EM5101_00_0",
+  "fixed_id": "2D970140",
+  "name": "Flashbug",
+  "points": 2,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria",
+   "Riverside Trail",
+   "Keepers' Approach",
+   "Rimechain Peak"
+  ],
+  "_row": 20
+ },
+ {
+  "em_id": "EM5101_10_0",
+  "fixed_id": "7B14DB00",
+  "name": "Godbug",
+  "points": 2,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria",
+   "Riverside Trail",
+   "Lost Path to Wyveria",
+   "Keepers' Approach",
+   "Rimechain Peak"
+  ],
+  "_row": 21
+ },
+ {
+  "em_id": "EM5101_20_0",
+  "fixed_id": "E2984980",
+  "name": "Bitterbug",
+  "points": 2,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Ruins of Wyveria",
+   "Riverside Trail"
+  ],
+  "_row": 22
+ },
+ {
+  "em_id": "EM5102_00_0",
+  "fixed_id": "2B02D3C0",
+  "name": "Leaflugger Ant",
+  "points": 1,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 23
+ },
+ {
+  "em_id": "EM5200_00_0",
+  "fixed_id": "0000001C",
+  "name": "Windrustler",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Riverside Trail"
+  ],
+  "_row": 24
+ },
+ {
+  "em_id": "EM5200_09_0",
+  "fixed_id": "9E4FB500",
+  "name": "Black Windrustler",
+  "points": 20,
+  "locales": [
+   "Windward Plains",
+   "Riverside Trail"
+  ],
+  "_row": 25
+ },
+ {
+  "em_id": "EM5201_00_0",
+  "fixed_id": "0000001D",
+  "name": "Nothpecker",
+  "points": 1,
+  "locales": [
+   "Windward Plains"
+  ],
+  "_row": 26
+ },
+ {
+  "em_id": "EM5202_00_0",
+  "fixed_id": "5808C300",
+  "name": "Landlight Shrimp",
+  "points": 5,
+  "locales": [
+   "Windward Plains"
+  ],
+  "_row": 27
+ },
+ {
+  "em_id": "EM5202_10_0",
+  "fixed_id": "B8D31400",
+  "name": "Pink Landlight Shrimp",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin"
+  ],
+  "_row": 28
+ },
+ {
+  "em_id": "EM5203_00_0",
+  "fixed_id": "BABD6A80",
+  "name": "Amstrigian",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest"
+  ],
+  "_row": 29
+ },
+ {
+  "em_id": "EM5203_09_0",
+  "fixed_id": "E1E43F80",
+  "name": "Hymstrigian",
+  "points": 20,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest"
+  ],
+  "_row": 30
+ },
+ {
+  "em_id": "EM5204_00_0",
+  "fixed_id": "51F97000",
+  "name": "Rufflizard",
+  "points": 5,
+  "locales": [
+   "Windward Plains"
+  ],
+  "_row": 31
+ },
+ {
+  "em_id": "EM5204_10_0",
+  "fixed_id": "FEFA2E5C",
+  "name": "Ember Rufflizard",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin"
+  ],
+  "_row": 32
+ },
+ {
+  "em_id": "EM5204_19_0",
+  "fixed_id": "5F7A4200",
+  "name": "Azure Rufflizard",
+  "points": 20,
+  "locales": [
+   "Oilwell Basin"
+  ],
+  "_row": 33
+ },
+ {
+  "em_id": "EM5205_00_0",
+  "fixed_id": "DFCF1340",
+  "name": "Pallbug",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria",
+   "Cavern Tunnel"
+  ],
+  "_row": 34
+ },
+ {
+  "em_id": "EM5206_00_0",
+  "fixed_id": "A9A7EC00",
+  "name": "Tracktail Lizard",
+  "points": 5,
+  "locales": [
+   "Windward Plains"
+  ],
+  "_row": 35
+ },
+ {
+  "em_id": "EM5207_00_0",
+  "fixed_id": "6F13F380",
+  "name": "Emperor Hopper",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest"
+  ],
+  "_row": 36
+ },
+ {
+  "em_id": "EM5207_10_0",
+  "fixed_id": "99373F80",
+  "name": "Tyrant Hopper",
+  "points": 5,
+  "locales": [
+   "Ruins of Wyveria"
+  ],
+  "_row": 37
+ },
+ {
+  "em_id": "EM5208_00_0",
+  "fixed_id": "FC21DDDC",
+  "name": "Hercudrome",
+  "points": 20,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 38
+ },
+ {
+  "em_id": "EM5208_10_0",
+  "fixed_id": "E43C5AA0",
+  "name": "Gold Hercudrome",
+  "points": 50,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 39
+ },
+ {
+  "em_id": "EM5208_20_0",
+  "fixed_id": "71C42580",
+  "name": "Prism Hercudrome",
+  "points": 100,
+  "locales": [
+   "Ruins of Wyveria"
+  ],
+  "_row": 40
+ },
+ {
+  "em_id": "EM5209_00_0",
+  "fixed_id": "61B09880",
+  "name": "Quatreflies",
+  "points": 1,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "_row": 41
+ },
+ {
+  "em_id": "EM5210_00_0",
+  "fixed_id": "6BB2CB80",
+  "name": "Myriads",
+  "points": 1,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 42
+ },
+ {
+  "em_id": "EM5210_10_0",
+  "fixed_id": "B57AB880",
+  "name": "Myriads",
+  "points": 1,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 43
+ },
+ {
+  "em_id": "EM5211_00_0",
+  "fixed_id": "0CF501F0",
+  "name": "Jewel Scarab",
+  "points": 20,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 44
+ },
+ {
+  "em_id": "EM5211_09_0",
+  "fixed_id": "E30714C0",
+  "name": "Regal Jewel Scarab",
+  "points": 50,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 45
+ },
+ {
+  "em_id": "EM5212_00_0",
+  "fixed_id": "E99BB840",
+  "name": "Vaporonid",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 46
+ },
+ {
+  "em_id": "EM5213_00_0",
+  "fixed_id": "D2AD78C0",
+  "name": "Omenfly",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 47
+ },
+ {
+  "em_id": "EM5214_00_0",
+  "fixed_id": "3F00F680",
+  "name": "Mimiphyta",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 48
+ },
+ {
+  "em_id": "EM5214_10_0",
+  "fixed_id": "DB5E8DC0",
+  "name": "Gawkie",
+  "points": 5,
+  "locales": [
+   "Iceshard Cliffs",
+   "Ruins of Wyveria",
+   "Lost Path to Wyveria",
+   "Keepers' Approach",
+   "Rimechain Peak"
+  ],
+  "_row": 49
+ },
+ {
+  "em_id": "EM5215_00_0",
+  "fixed_id": "BCCE4200",
+  "name": "Scarlet Joyperch",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 50
+ },
+ {
+  "em_id": "EM5215_10_0",
+  "fixed_id": "041FAD98",
+  "name": "Blink Angler",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin"
+  ],
+  "_row": 51
+ },
+ {
+  "em_id": "EM5216_00_0",
+  "fixed_id": "73445F00",
+  "name": "Florashell Crab",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 52
+ },
+ {
+  "em_id": "EM5216_09_0",
+  "fixed_id": "86DEEB80",
+  "name": "Curioshell Crab",
+  "points": 20,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "_row": 53
+ },
+ {
+  "em_id": "EM5216_10_0",
+  "fixed_id": "20EDD000",
+  "name": "Crudeshell Crab",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin"
+  ],
+  "_row": 54
+ },
+ {
+  "em_id": "EM5217_00_0",
+  "fixed_id": "9185EC00",
+  "name": "Smokeshroud Gekko",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest",
+   "Cavern Tunnel"
+  ],
+  "_row": 55
+ },
+ {
+  "em_id": "EM5217_10_0",
+  "fixed_id": "65BA6400",
+  "name": "Gloom Gekko",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin",
+   "Iceshard Cliffs"
+  ],
+  "_row": 56
+ },
+ {
+  "em_id": "EM5218_00_0",
+  "fixed_id": "1C59BA00",
+  "name": "Dapperwing",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 57
+ },
+ {
+  "em_id": "EM5218_09_0",
+  "fixed_id": "B4DAC700",
+  "name": "Dazzlewing",
+  "points": 20,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 58
+ },
+ {
+  "em_id": "EM5219_00_0",
+  "fixed_id": "ADC48400",
+  "name": "Sandstar",
+  "points": 100,
+  "locales": [
+   "Windward Plains"
+  ],
+  "_row": 59
+ },
+ {
+  "em_id": "EM5220_00_0",
+  "fixed_id": "E72B05A0",
+  "name": "Scalebat",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin"
+  ],
+  "_row": 60
+ },
+ {
+  "em_id": "EM5221_00_0",
+  "fixed_id": "202722C0",
+  "name": "Sparklerjelly",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin"
+  ],
+  "_row": 61
+ },
+ {
+  "em_id": "EM5221_09_0",
+  "fixed_id": "83599180",
+  "name": "Peony Sparklerjelly",
+  "points": 50,
+  "locales": [
+   "Oilwell Basin"
+  ],
+  "_row": 62
+ },
+ {
+  "em_id": "EM5222_00_0",
+  "fixed_id": "46EE1380",
+  "name": "Nu Yaya",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin"
+  ],
+  "_row": 63
+ },
+ {
+  "em_id": "EM5222_10_0",
+  "fixed_id": "0E348EB0",
+  "name": "Xu Yo",
+  "points": 1,
+  "locales": [
+   "Ruins of Wyveria"
+  ],
+  "_row": 64
+ },
+ {
+  "em_id": "EM5223_00_0",
+  "fixed_id": "4A6E1900",
+  "name": "Solanaria",
+  "points": 5,
+  "locales": [
+   "Iceshard Cliffs",
+   "Ruins of Wyveria",
+   "Lost Path to Wyveria"
+  ],
+  "_row": 65
+ },
+ {
+  "em_id": "EM5224_00_0",
+  "fixed_id": "34CE24C0",
+  "name": "Pillopod",
+  "points": 5,
+  "locales": [
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "_row": 66
+ },
+ {
+  "em_id": "EM5224_09_0",
+  "fixed_id": "45F2E900",
+  "name": "Gillopod",
+  "points": 50,
+  "locales": [
+   "Ruins of Wyveria"
+  ],
+  "_row": 67
+ },
+ {
+  "em_id": "EM5225_00_0",
+  "fixed_id": "4621FF00",
+  "name": "Petalfly",
+  "points": 1,
+  "locales": [
+   "Ruins of Wyveria"
+  ],
+  "_row": 68
+ },
+ {
+  "em_id": "EM5226_00_0",
+  "fixed_id": "04A34D88",
+  "name": "Downy Crake",
+  "points": 50,
+  "locales": [
+   "Iceshard Cliffs",
+   "\"Suja",
+   "Peaks of Accord\""
+  ],
+  "_row": 69
+ },
+ {
+  "em_id": "EM5227_00_0",
+  "fixed_id": "000060C9",
+  "name": null,
+  "points": null,
+  "locales": [
+   "ST502"
+  ],
+  "_row": 70
+ },
+ {
+  "em_id": "EM5300_00_0",
+  "fixed_id": "23BBC940",
+  "name": "Starduster",
+  "points": 1,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 71
+ },
+ {
+  "em_id": "EM5300_10_0",
+  "fixed_id": "C63F6A80",
+  "name": "Starduster",
+  "points": 1,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "_row": 72
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "index": 0,
+  "skill_id": "A_SKILL_002 (Rocksteady Mantle)",
+  "description": "Reduces damage taken and prevents\ndamage reactions when attacked.\nGrants protection from wind\npressure, roars, and tremors.",
+  "story_flag": "STORY_000617",
+  "sort_id": 0,
+  "item_id": "ITEM_0652 (Rocksteady Mantle)",
+  "description_guid": "9959aab1-ef17-487c-b6fd-6da64b626407",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "skill_id": "A_SKILL_003 (Mending Mantle)",
+  "description": "Continually restores health for\na period of time.",
+  "story_flag": "STORY_000618",
+  "sort_id": 1,
+  "item_id": "ITEM_0653 (Mending Mantle)",
+  "description_guid": "757a71d0-4b8f-46b7-b54b-7e51a84c1431",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "skill_id": "A_SKILL_004 (Evasion Mantle)",
+  "description": "Evading just before an attack\ntriggers a special evasive\nmaneuver that lets you escape\nunharmed. Upon success,\ngrants a temporary attack\nboost and alternative combos.",
+  "story_flag": "STORY_000619",
+  "sort_id": 2,
+  "item_id": "ITEM_0654 (Evasion Mantle)",
+  "description_guid": "efdeb614-6767-4553-9c9c-c324a4832b46",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "skill_id": "A_SKILL_005 (Corrupted Mantle)",
+  "description": "Decreases health, but increases\naffinity and weapon performance\nwhile equipped. Repeated attacks\non monsters will further increase\nyour attack power and affinity.",
+  "story_flag": "STORY_000620",
+  "sort_id": 3,
+  "item_id": "ITEM_0655 (Corrupted Mantle)",
+  "description_guid": "c76d5ec8-09dc-4941-b982-cb6290925816",
+  "_row": 5
+ }
+]

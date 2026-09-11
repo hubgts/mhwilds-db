@@ -1,0 +1,210 @@
+[
+ {
+  "index": 0,
+  "item_id": "ITEM_0000",
+  "item_name": "Potion",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 2
+ },
+ {
+  "index": 2,
+  "item_id": "ITEM_0002",
+  "item_name": "Antidote",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 3
+ },
+ {
+  "index": 1,
+  "item_id": "ITEM_0010",
+  "item_name": "Lifepowder",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 4
+ },
+ {
+  "index": 8,
+  "item_id": "ITEM_0012",
+  "item_name": "Barrel Bomb",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 5
+ },
+ {
+  "index": 10,
+  "item_id": "ITEM_0013",
+  "item_name": "Large Barrel Bomb",
+  "story_flag": "STORY_000443",
+  "on_sale": true,
+  "_row": 6
+ },
+ {
+  "index": 17,
+  "item_id": "ITEM_0046",
+  "item_name": "Sticky Ammo",
+  "story_flag": "STORY_000440",
+  "on_sale": true,
+  "_row": 7
+ },
+ {
+  "index": 18,
+  "item_id": "ITEM_0049",
+  "item_name": "Cluster Bomb",
+  "story_flag": "STORY_000440",
+  "on_sale": true,
+  "_row": 8
+ },
+ {
+  "index": 12,
+  "item_id": "ITEM_0052",
+  "item_name": "Flaming Ammo",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 9
+ },
+ {
+  "index": 13,
+  "item_id": "ITEM_0053",
+  "item_name": "Water Ammo",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 10
+ },
+ {
+  "index": 14,
+  "item_id": "ITEM_0054",
+  "item_name": "Thunder Ammo",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 11
+ },
+ {
+  "index": 15,
+  "item_id": "ITEM_0055",
+  "item_name": "Freeze Ammo",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 12
+ },
+ {
+  "index": 16,
+  "item_id": "ITEM_0056",
+  "item_name": "Dragon Ammo",
+  "story_flag": "STORY_000443",
+  "on_sale": true,
+  "_row": 13
+ },
+ {
+  "index": 19,
+  "item_id": "ITEM_0057",
+  "item_name": "Poison Ammo",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 14
+ },
+ {
+  "index": 20,
+  "item_id": "ITEM_0059",
+  "item_name": "Paralysis Ammo",
+  "story_flag": "STORY_000440",
+  "on_sale": true,
+  "_row": 15
+ },
+ {
+  "index": 21,
+  "item_id": "ITEM_0061",
+  "item_name": "Sleep Ammo",
+  "story_flag": "STORY_000440",
+  "on_sale": true,
+  "_row": 16
+ },
+ {
+  "index": 25,
+  "item_id": "ITEM_0068",
+  "item_name": "Slicing Ammo",
+  "story_flag": "STORY_000440",
+  "on_sale": true,
+  "_row": 17
+ },
+ {
+  "index": 6,
+  "item_id": "ITEM_0093",
+  "item_name": "Dung Pod",
+  "story_flag": "STORY_000443",
+  "on_sale": true,
+  "_row": 18
+ },
+ {
+  "index": 11,
+  "item_id": "ITEM_0096",
+  "item_name": "Trap Tool",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 19
+ },
+ {
+  "index": 24,
+  "item_id": "ITEM_0180",
+  "item_name": "Wyvern Ammo",
+  "story_flag": "STORY_000440",
+  "on_sale": true,
+  "_row": 20
+ },
+ {
+  "index": 4,
+  "item_id": "ITEM_0192",
+  "item_name": "Cool Drink",
+  "story_flag": "STORY_000441",
+  "on_sale": true,
+  "_row": 21
+ },
+ {
+  "index": 5,
+  "item_id": "ITEM_0193",
+  "item_name": "Hot Drink",
+  "story_flag": "STORY_000442",
+  "on_sale": true,
+  "_row": 22
+ },
+ {
+  "index": 23,
+  "item_id": "ITEM_0441",
+  "item_name": "Recover Ammo",
+  "story_flag": "STORY_000440",
+  "on_sale": true,
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "item_id": "ITEM_0443",
+  "item_name": "Exhaust Ammo",
+  "story_flag": "STORY_000440",
+  "on_sale": true,
+  "_row": 24
+ },
+ {
+  "index": 3,
+  "item_id": "ITEM_0658",
+  "item_name": "Wild Jerky",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 25
+ },
+ {
+  "index": 7,
+  "item_id": "ITEM_0662",
+  "item_name": "Small Barrel",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 26
+ },
+ {
+  "index": 9,
+  "item_id": "ITEM_0663",
+  "item_name": "Large Barrel",
+  "story_flag": "INVALID",
+  "on_sale": true,
+  "_row": 27
+ }
+]

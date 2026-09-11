@@ -1,0 +1,13 @@
+# Source archives: heavy, reproducible from the Google Sheet.
+rawdata/*.xlsx
+rawdata/latest.xlsx
+
+# Intermediate extraction and SQL exports: fully derived, disposable.
+build/
+
+# Icons weigh 75 MB and are rewritten on every game update.
+# Use Git LFS or an attached release rather than the repository history.
+data/assets/
+
+__pycache__/
+*.pyc

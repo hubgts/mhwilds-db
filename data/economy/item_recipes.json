@@ -1,0 +1,1212 @@
+[
+ {
+  "index": 0,
+  "recipe_id": "RECIPE_000",
+  "result_item_id": "ITEM_0000",
+  "result_item_name": "Potion",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0025",
+    "item_name": "Herb"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "recipe_id": "RECIPE_001",
+  "result_item_id": "ITEM_0001",
+  "result_item_name": "Mega Potion",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0000",
+    "item_name": "Potion"
+   },
+   {
+    "item_id": "ITEM_0027",
+    "item_name": "Honey"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 3
+ },
+ {
+  "index": 3,
+  "recipe_id": "RECIPE_002",
+  "result_item_id": "ITEM_0002",
+  "result_item_name": "Antidote",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0026",
+    "item_name": "Antidote Herb"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 4
+ },
+ {
+  "index": 11,
+  "recipe_id": "RECIPE_003",
+  "result_item_id": "ITEM_0010",
+  "result_item_name": "Lifepowder",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0030",
+    "item_name": "Godbug Essence"
+   },
+   {
+    "item_id": "ITEM_0088",
+    "item_name": "Blue Mushroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 5
+ },
+ {
+  "index": 35,
+  "recipe_id": "RECIPE_004",
+  "result_item_id": "ITEM_0093",
+  "result_item_name": "Dung Pod",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0122",
+    "item_name": "Dung"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 6
+ },
+ {
+  "index": 36,
+  "recipe_id": "RECIPE_005",
+  "result_item_id": "ITEM_0093",
+  "result_item_name": "Dung Pod",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0124",
+    "item_name": "Rolled-up Dung"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 7
+ },
+ {
+  "index": 34,
+  "recipe_id": "RECIPE_008",
+  "result_item_id": "ITEM_0014",
+  "result_item_name": "Flash Pod",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0029",
+    "item_name": "Flashbug Phosphor"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 8
+ },
+ {
+  "index": 48,
+  "recipe_id": "RECIPE_009",
+  "result_item_id": "ITEM_0046",
+  "result_item_name": "Sticky Ammo",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0156",
+    "item_name": "Blastnut"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 9
+ },
+ {
+  "index": 51,
+  "recipe_id": "RECIPE_010",
+  "result_item_id": "ITEM_0068",
+  "result_item_name": "Slicing Ammo",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0157",
+    "item_name": "Slashberry"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 10
+ },
+ {
+  "index": 53,
+  "recipe_id": "RECIPE_011",
+  "result_item_id": "ITEM_0052",
+  "result_item_name": "Flaming Ammo",
+  "result_quantity": 6,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0142",
+    "item_name": "Fire Herb"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 11
+ },
+ {
+  "index": 54,
+  "recipe_id": "RECIPE_012",
+  "result_item_id": "ITEM_0053",
+  "result_item_name": "Water Ammo",
+  "result_quantity": 6,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0143",
+    "item_name": "Flowfern"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 12
+ },
+ {
+  "index": 55,
+  "recipe_id": "RECIPE_013",
+  "result_item_id": "ITEM_0054",
+  "result_item_name": "Thunder Ammo",
+  "result_quantity": 12,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0031",
+    "item_name": "Thunderbug Capacitor"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 13
+ },
+ {
+  "index": 56,
+  "recipe_id": "RECIPE_014",
+  "result_item_id": "ITEM_0055",
+  "result_item_name": "Freeze Ammo",
+  "result_quantity": 6,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0144",
+    "item_name": "Snow Herb"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 14
+ },
+ {
+  "index": 57,
+  "recipe_id": "RECIPE_015",
+  "result_item_id": "ITEM_0056",
+  "result_item_name": "Dragon Ammo",
+  "result_quantity": 2,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0145",
+    "item_name": "Dragonfell Berry"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 15
+ },
+ {
+  "index": 58,
+  "recipe_id": "RECIPE_016",
+  "result_item_id": "ITEM_0057",
+  "result_item_name": "Poison Ammo",
+  "result_quantity": 2,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0139",
+    "item_name": "Toadstool"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 16
+ },
+ {
+  "index": 59,
+  "recipe_id": "RECIPE_017",
+  "result_item_id": "ITEM_0059",
+  "result_item_name": "Paralysis Ammo",
+  "result_quantity": 2,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0140",
+    "item_name": "Parashroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 17
+ },
+ {
+  "index": 60,
+  "recipe_id": "RECIPE_018",
+  "result_item_id": "ITEM_0061",
+  "result_item_name": "Sleep Ammo",
+  "result_quantity": 2,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0141",
+    "item_name": "Sleep Herb"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 18
+ },
+ {
+  "index": 4,
+  "recipe_id": "RECIPE_019",
+  "result_item_id": "ITEM_0200",
+  "result_item_name": "Herbal Medicine",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0002",
+    "item_name": "Antidote"
+   },
+   {
+    "item_id": "ITEM_0088",
+    "item_name": "Blue Mushroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 19
+ },
+ {
+  "index": 5,
+  "recipe_id": "RECIPE_020",
+  "result_item_id": "ITEM_0238",
+  "result_item_name": "Deodorant",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0098",
+    "item_name": "Smokenut"
+   },
+   {
+    "item_id": "ITEM_0028",
+    "item_name": "Bitterbug Broth"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 20
+ },
+ {
+  "index": 6,
+  "recipe_id": "RECIPE_021",
+  "result_item_id": "ITEM_0205",
+  "result_item_name": "Cleanser",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0142",
+    "item_name": "Fire Herb"
+   },
+   {
+    "item_id": "ITEM_0030",
+    "item_name": "Godbug Essence"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 21
+ },
+ {
+  "index": 7,
+  "recipe_id": "RECIPE_022",
+  "result_item_id": "ITEM_0003",
+  "result_item_name": "Max Potion",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0660",
+    "item_name": "Catalyst"
+   },
+   {
+    "item_id": "ITEM_0087",
+    "item_name": "Mandragora"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 22
+ },
+ {
+  "index": 8,
+  "recipe_id": "RECIPE_023",
+  "result_item_id": "ITEM_0660",
+  "result_item_name": "Catalyst",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0028",
+    "item_name": "Bitterbug Broth"
+   },
+   {
+    "item_id": "ITEM_0027",
+    "item_name": "Honey"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 23
+ },
+ {
+  "index": 9,
+  "recipe_id": "RECIPE_024",
+  "result_item_id": "ITEM_0191",
+  "result_item_name": "Immunizer",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0028",
+    "item_name": "Bitterbug Broth"
+   },
+   {
+    "item_id": "ITEM_0087",
+    "item_name": "Mandragora"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 24
+ },
+ {
+  "index": 10,
+  "recipe_id": "RECIPE_025",
+  "result_item_id": "ITEM_0004",
+  "result_item_name": "Ancient Potion",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0191",
+    "item_name": "Immunizer"
+   },
+   {
+    "item_id": "ITEM_0465",
+    "item_name": "Nourishing Extract"
+   }
+  ],
+  "auto_craft": false,
+  "_row": 25
+ },
+ {
+  "index": 12,
+  "recipe_id": "RECIPE_026",
+  "result_item_id": "ITEM_0204",
+  "result_item_name": "Dust of Life",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0030",
+    "item_name": "Godbug Essence"
+   },
+   {
+    "item_id": "ITEM_0151",
+    "item_name": "Gloamgrass Bud"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 26
+ },
+ {
+  "index": 13,
+  "recipe_id": "RECIPE_027",
+  "result_item_id": "ITEM_0201",
+  "result_item_name": "Herbal Powder",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0030",
+    "item_name": "Godbug Essence"
+   },
+   {
+    "item_id": "ITEM_0200",
+    "item_name": "Herbal Medicine"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 27
+ },
+ {
+  "index": 14,
+  "recipe_id": "RECIPE_028",
+  "result_item_id": "ITEM_0189",
+  "result_item_name": "Energy Drink",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0154",
+    "item_name": "Nitroshroom"
+   },
+   {
+    "item_id": "ITEM_0027",
+    "item_name": "Honey"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 28
+ },
+ {
+  "index": 16,
+  "recipe_id": "RECIPE_029",
+  "result_item_id": "ITEM_0193",
+  "result_item_name": "Hot Drink",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0504",
+    "item_name": "Hot Pepper"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 29
+ },
+ {
+  "index": 15,
+  "recipe_id": "RECIPE_030",
+  "result_item_id": "ITEM_0192",
+  "result_item_name": "Cool Drink",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0503",
+    "item_name": "Chillshroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 30
+ },
+ {
+  "index": 17,
+  "recipe_id": "RECIPE_031",
+  "result_item_id": "ITEM_0190",
+  "result_item_name": "Dash Juice",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0660",
+    "item_name": "Catalyst"
+   },
+   {
+    "item_id": "ITEM_0561",
+    "item_name": "Dash Extract"
+   }
+  ],
+  "auto_craft": false,
+  "_row": 31
+ },
+ {
+  "index": 18,
+  "recipe_id": "RECIPE_032",
+  "result_item_id": "ITEM_0194",
+  "result_item_name": "Demondrug",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0660",
+    "item_name": "Catalyst"
+   },
+   {
+    "item_id": "ITEM_0152",
+    "item_name": "Might Seed"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 32
+ },
+ {
+  "index": 19,
+  "recipe_id": "RECIPE_033",
+  "result_item_id": "ITEM_0196",
+  "result_item_name": "Mega Demondrug",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0465",
+    "item_name": "Nourishing Extract"
+   },
+   {
+    "item_id": "ITEM_0194",
+    "item_name": "Demondrug"
+   }
+  ],
+  "auto_craft": false,
+  "_row": 33
+ },
+ {
+  "index": 20,
+  "recipe_id": "RECIPE_034",
+  "result_item_id": "ITEM_0202",
+  "result_item_name": "Demon Powder",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0030",
+    "item_name": "Godbug Essence"
+   },
+   {
+    "item_id": "ITEM_0152",
+    "item_name": "Might Seed"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 34
+ },
+ {
+  "index": 21,
+  "recipe_id": "RECIPE_035",
+  "result_item_id": "ITEM_0195",
+  "result_item_name": "Might Pill",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0191",
+    "item_name": "Immunizer"
+   },
+   {
+    "item_id": "ITEM_0152",
+    "item_name": "Might Seed"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 35
+ },
+ {
+  "index": 22,
+  "recipe_id": "RECIPE_036",
+  "result_item_id": "ITEM_0197",
+  "result_item_name": "Armorskin",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0660",
+    "item_name": "Catalyst"
+   },
+   {
+    "item_id": "ITEM_0153",
+    "item_name": "Adamant Seed"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 36
+ },
+ {
+  "index": 23,
+  "recipe_id": "RECIPE_037",
+  "result_item_id": "ITEM_0199",
+  "result_item_name": "Mega Armorskin",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0465",
+    "item_name": "Nourishing Extract"
+   },
+   {
+    "item_id": "ITEM_0197",
+    "item_name": "Armorskin"
+   }
+  ],
+  "auto_craft": false,
+  "_row": 37
+ },
+ {
+  "index": 24,
+  "recipe_id": "RECIPE_038",
+  "result_item_id": "ITEM_0203",
+  "result_item_name": "Hardshell Powder",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0030",
+    "item_name": "Godbug Essence"
+   },
+   {
+    "item_id": "ITEM_0153",
+    "item_name": "Adamant Seed"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 38
+ },
+ {
+  "index": 25,
+  "recipe_id": "RECIPE_039",
+  "result_item_id": "ITEM_0198",
+  "result_item_name": "Adamant Pill",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0191",
+    "item_name": "Immunizer"
+   },
+   {
+    "item_id": "ITEM_0153",
+    "item_name": "Adamant Seed"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 39
+ },
+ {
+  "index": 26,
+  "recipe_id": "RECIPE_040",
+  "result_item_id": "ITEM_0100",
+  "result_item_name": "Farcaster",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0098",
+    "item_name": "Smokenut"
+   },
+   {
+    "item_id": "ITEM_0097",
+    "item_name": "Exciteshroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 40
+ },
+ {
+  "index": 27,
+  "recipe_id": "RECIPE_041",
+  "result_item_id": "ITEM_0661",
+  "result_item_name": "Gunpowder",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0142",
+    "item_name": "Fire Herb"
+   },
+   {
+    "item_id": "ITEM_0154",
+    "item_name": "Nitroshroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 41
+ },
+ {
+  "index": 28,
+  "recipe_id": "RECIPE_042",
+  "result_item_id": "ITEM_0012",
+  "result_item_name": "Barrel Bomb",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0142",
+    "item_name": "Fire Herb"
+   },
+   {
+    "item_id": "ITEM_0662",
+    "item_name": "Small Barrel"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 42
+ },
+ {
+  "index": 29,
+  "recipe_id": "RECIPE_043",
+  "result_item_id": "ITEM_0013",
+  "result_item_name": "Large Barrel Bomb",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0661",
+    "item_name": "Gunpowder"
+   },
+   {
+    "item_id": "ITEM_0663",
+    "item_name": "Large Barrel"
+   }
+  ],
+  "auto_craft": false,
+  "_row": 43
+ },
+ {
+  "index": 30,
+  "recipe_id": "RECIPE_044",
+  "result_item_id": "ITEM_0223",
+  "result_item_name": "Mega Barrel Bomb",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0155",
+    "item_name": "Devil's Blight"
+   },
+   {
+    "item_id": "ITEM_0013",
+    "item_name": "Large Barrel Bomb"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 44
+ },
+ {
+  "index": 31,
+  "recipe_id": "RECIPE_045",
+  "result_item_id": "ITEM_0223",
+  "result_item_name": "Mega Barrel Bomb",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0666",
+    "item_name": "Gunpowderfish Scale"
+   },
+   {
+    "item_id": "ITEM_0013",
+    "item_name": "Large Barrel Bomb"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 45
+ },
+ {
+  "index": 32,
+  "recipe_id": "RECIPE_046",
+  "result_item_id": "ITEM_0177",
+  "result_item_name": "Smoke Bomb",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0098",
+    "item_name": "Smokenut"
+   },
+   {
+    "item_id": "ITEM_0099",
+    "item_name": "Ivy"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 46
+ },
+ {
+  "index": 33,
+  "recipe_id": "RECIPE_047",
+  "result_item_id": "ITEM_0206",
+  "result_item_name": "Poison Smoke Bomb",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0098",
+    "item_name": "Smokenut"
+   },
+   {
+    "item_id": "ITEM_0139",
+    "item_name": "Toadstool"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 47
+ },
+ {
+  "index": 37,
+  "recipe_id": "RECIPE_048",
+  "result_item_id": "ITEM_0483",
+  "result_item_name": "Large Dung Pod",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0093",
+    "item_name": "Dung Pod"
+   },
+   {
+    "item_id": "ITEM_0154",
+    "item_name": "Nitroshroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 48
+ },
+ {
+  "index": 38,
+  "recipe_id": "RECIPE_049",
+  "result_item_id": "ITEM_0222",
+  "result_item_name": "Luring Pod",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0097",
+    "item_name": "Exciteshroom"
+   },
+   {
+    "item_id": "ITEM_0028",
+    "item_name": "Bitterbug Broth"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 49
+ },
+ {
+  "index": 39,
+  "recipe_id": "RECIPE_050",
+  "result_item_id": "ITEM_0237",
+  "result_item_name": "Poisoned Meat",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0011",
+    "item_name": "Raw Meat"
+   },
+   {
+    "item_id": "ITEM_0139",
+    "item_name": "Toadstool"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 50
+ },
+ {
+  "index": 40,
+  "recipe_id": "RECIPE_051",
+  "result_item_id": "ITEM_0234",
+  "result_item_name": "Tinged Meat",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0011",
+    "item_name": "Raw Meat"
+   },
+   {
+    "item_id": "ITEM_0140",
+    "item_name": "Parashroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 51
+ },
+ {
+  "index": 41,
+  "recipe_id": "RECIPE_052",
+  "result_item_id": "ITEM_0212",
+  "result_item_name": "Drugged Meat",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0011",
+    "item_name": "Raw Meat"
+   },
+   {
+    "item_id": "ITEM_0141",
+    "item_name": "Sleep Herb"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 52
+ },
+ {
+  "index": 42,
+  "recipe_id": "RECIPE_053",
+  "result_item_id": "ITEM_0665",
+  "result_item_name": "Net",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0099",
+    "item_name": "Ivy"
+   },
+   {
+    "item_id": "ITEM_0664",
+    "item_name": "Spider Web"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 53
+ },
+ {
+  "index": 43,
+  "recipe_id": "RECIPE_054",
+  "result_item_id": "ITEM_0017",
+  "result_item_name": "Pitfall Trap",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0096",
+    "item_name": "Trap Tool"
+   },
+   {
+    "item_id": "ITEM_0665",
+    "item_name": "Net"
+   }
+  ],
+  "auto_craft": false,
+  "_row": 54
+ },
+ {
+  "index": 44,
+  "recipe_id": "RECIPE_055",
+  "result_item_id": "ITEM_0018",
+  "result_item_name": "Shock Trap",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0096",
+    "item_name": "Trap Tool"
+   },
+   {
+    "item_id": "ITEM_0031",
+    "item_name": "Thunderbug Capacitor"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 55
+ },
+ {
+  "index": 45,
+  "recipe_id": "RECIPE_056",
+  "result_item_id": "ITEM_0207",
+  "result_item_name": "Tranq Bomb",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0141",
+    "item_name": "Sleep Herb"
+   },
+   {
+    "item_id": "ITEM_0140",
+    "item_name": "Parashroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 56
+ },
+ {
+  "index": 46,
+  "recipe_id": "RECIPE_057",
+  "result_item_id": "ITEM_0442",
+  "result_item_name": "Tranq Ammo",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0207",
+    "item_name": "Tranq Bomb"
+   },
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   }
+  ],
+  "auto_craft": false,
+  "_row": 57
+ },
+ {
+  "index": 47,
+  "recipe_id": "RECIPE_058",
+  "result_item_id": "ITEM_0171",
+  "result_item_name": "Tranq Blade",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0207",
+    "item_name": "Tranq Bomb"
+   },
+   {
+    "item_id": "ITEM_0208",
+    "item_name": "Throwing Knife"
+   }
+  ],
+  "auto_craft": false,
+  "_row": 58
+ },
+ {
+  "index": 49,
+  "recipe_id": "RECIPE_059",
+  "result_item_id": "ITEM_0046",
+  "result_item_name": "Sticky Ammo",
+  "result_quantity": 3,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0668",
+    "item_name": "Bomb Arowana Scale"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 59
+ },
+ {
+  "index": 50,
+  "recipe_id": "RECIPE_060",
+  "result_item_id": "ITEM_0049",
+  "result_item_name": "Cluster Bomb",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0317",
+    "item_name": "Bomberry"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 60
+ },
+ {
+  "index": 52,
+  "recipe_id": "RECIPE_061",
+  "result_item_id": "ITEM_0068",
+  "result_item_name": "Slicing Ammo",
+  "result_quantity": 3,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0667",
+    "item_name": "Burst Arowana Scale"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 61
+ },
+ {
+  "index": 61,
+  "recipe_id": "RECIPE_062",
+  "result_item_id": "ITEM_0443",
+  "result_item_name": "Exhaust Ammo",
+  "result_quantity": 2,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0097",
+    "item_name": "Exciteshroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 62
+ },
+ {
+  "index": 62,
+  "recipe_id": "RECIPE_063",
+  "result_item_id": "ITEM_0441",
+  "result_item_name": "Recover Ammo",
+  "result_quantity": 2,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0088",
+    "item_name": "Blue Mushroom"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 63
+ },
+ {
+  "index": 63,
+  "recipe_id": "RECIPE_064",
+  "result_item_id": "ITEM_0439",
+  "result_item_name": "Demon Ammo",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0152",
+    "item_name": "Might Seed"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 64
+ },
+ {
+  "index": 64,
+  "recipe_id": "RECIPE_065",
+  "result_item_id": "ITEM_0440",
+  "result_item_name": "Armor Ammo",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0037",
+    "item_name": "Normal Ammo"
+   },
+   {
+    "item_id": "ITEM_0153",
+    "item_name": "Adamant Seed"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 65
+ },
+ {
+  "index": 65,
+  "recipe_id": "RECIPE_066",
+  "result_item_id": "ITEM_0180",
+  "result_item_name": "Wyvern Ammo",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0316",
+    "item_name": "Dragonstrike Nut"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 66
+ },
+ {
+  "index": 2,
+  "recipe_id": "RECIPE_067",
+  "result_item_id": "ITEM_0224",
+  "result_item_name": "First-aid Med+",
+  "result_quantity": 1,
+  "materials": [
+   {
+    "item_id": "ITEM_0146",
+    "item_name": "First-aid Med"
+   },
+   {
+    "item_id": "ITEM_0027",
+    "item_name": "Honey"
+   }
+  ],
+  "auto_craft": true,
+  "_row": 67
+ }
+]

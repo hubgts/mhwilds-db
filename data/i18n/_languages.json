@@ -1,0 +1,276 @@
+{
+ "languages": [
+  {
+   "code": "japanese",
+   "column": "Japanese",
+   "strings": 15167
+  },
+  {
+   "code": "english",
+   "column": "English",
+   "strings": 15135
+  },
+  {
+   "code": "french",
+   "column": "French",
+   "strings": 15133
+  },
+  {
+   "code": "italian",
+   "column": "Italian",
+   "strings": 15133
+  },
+  {
+   "code": "german",
+   "column": "German",
+   "strings": 15133
+  },
+  {
+   "code": "spanish",
+   "column": "Spanish",
+   "strings": 15135
+  },
+  {
+   "code": "russian",
+   "column": "Russian",
+   "strings": 15133
+  },
+  {
+   "code": "polish",
+   "column": "Polish",
+   "strings": 15129
+  },
+  {
+   "code": "portuguese_br",
+   "column": "PortugueseBr",
+   "strings": 15133
+  },
+  {
+   "code": "korean",
+   "column": "Korean",
+   "strings": 15167
+  },
+  {
+   "code": "chinese_traditional",
+   "column": "TraditionalChinese",
+   "strings": 15133
+  },
+  {
+   "code": "chinese_simplified",
+   "column": "SimplifiedChinese",
+   "strings": 15133
+  },
+  {
+   "code": "arabic",
+   "column": "Arabic",
+   "strings": 15133
+  }
+ ],
+ "sources": [
+  {
+   "sheet": "Armor.msg.23",
+   "entries": 1438
+  },
+  {
+   "sheet": "ArmorSeries.msg.23",
+   "entries": 195
+  },
+  {
+   "sheet": "Hammer.msg.23",
+   "entries": 170
+  },
+  {
+   "sheet": "HunterActiveSkill.msg.23",
+   "entries": 4
+  },
+  {
+   "sheet": "Item.msg.23",
+   "entries": 1564
+  },
+  {
+   "sheet": "Lance.msg.23",
+   "entries": 172
+  },
+  {
+   "sheet": "LongSword.msg.23",
+   "entries": 182
+  },
+  {
+   "sheet": "OuterArmor.msg.23",
+   "entries": 1224
+  },
+  {
+   "sheet": "ShortSword.msg.23",
+   "entries": 192
+  },
+  {
+   "sheet": "Skill.msg.23",
+   "entries": 886
+  },
+  {
+   "sheet": "SkillCommon.msg.23",
+   "entries": 436
+  },
+  {
+   "sheet": "Tachi.msg.23",
+   "entries": 180
+  },
+  {
+   "sheet": "TwinSword.msg.23",
+   "entries": 182
+  },
+  {
+   "sheet": "WeaponSeries.msg.23",
+   "entries": 47
+  },
+  {
+   "sheet": "Whistle.msg.23",
+   "entries": 170
+  },
+  {
+   "sheet": "OtomoArmor.msg.23",
+   "entries": 338
+  },
+  {
+   "sheet": "MealSkill.msg.23",
+   "entries": 52
+  },
+  {
+   "sheet": "Accessory.msg.23",
+   "entries": 722
+  },
+  {
+   "sheet": "ArtianBonus.msg.23",
+   "entries": 17
+  },
+  {
+   "sheet": "ArtianParts.msg.23",
+   "entries": 8
+  },
+  {
+   "sheet": "ArtianPerformance.msg.23",
+   "entries": 19
+  },
+  {
+   "sheet": "Gimmick.msg.23",
+   "entries": 1210
+  },
+  {
+   "sheet": "Background.msg.23",
+   "entries": 44
+  },
+  {
+   "sheet": "Medal.msg.23",
+   "entries": 100
+  },
+  {
+   "sheet": "NamePlate.msg.23",
+   "entries": 138
+  },
+  {
+   "sheet": "Title_Conjunction.msg.23",
+   "entries": 246
+  },
+  {
+   "sheet": "Title_Word.msg.23",
+   "entries": 1718
+  },
+  {
+   "sheet": "EnemyPartsTypeName.msg.23",
+   "entries": 122
+  },
+  {
+   "sheet": "BowgunCustomize.msg.23",
+   "entries": 30
+  },
+  {
+   "sheet": "QuestAward.msg.23",
+   "entries": 60
+  },
+  {
+   "sheet": "NPC001CustomizeCostume.msg.23",
+   "entries": 7
+  },
+  {
+   "sheet": "NPC001CustomizeGlasses.msg.23",
+   "entries": 6
+  },
+  {
+   "sheet": "NPC002CustomizeCostume.msg.23",
+   "entries": 2
+  },
+  {
+   "sheet": "NPC003CustomizeCostume.msg.23",
+   "entries": 2
+  },
+  {
+   "sheet": "ChargeAxe.msg.23",
+   "entries": 168
+  },
+  {
+   "sheet": "HeavyBowgun.msg.23",
+   "entries": 150
+  },
+  {
+   "sheet": "LightBowgun.msg.23",
+   "entries": 162
+  },
+  {
+   "sheet": "OtomoEquipSeries.msg.23",
+   "entries": 89
+  },
+  {
+   "sheet": "OtomoOuterArmor.msg.23",
+   "entries": 184
+  },
+  {
+   "sheet": "OtomoWeapon.msg.23",
+   "entries": 146
+  },
+  {
+   "sheet": "DlcProduct.msg.23",
+   "entries": 269
+  },
+  {
+   "sheet": "EnemySpeciesName.msg.23",
+   "entries": 21
+  },
+  {
+   "sheet": "Charm.msg.23",
+   "entries": 115
+  },
+  {
+   "sheet": "Bow.msg.23",
+   "entries": 172
+  },
+  {
+   "sheet": "GunLance.msg.23",
+   "entries": 164
+  },
+  {
+   "sheet": "Rod.msg.23",
+   "entries": 178
+  },
+  {
+   "sheet": "SlashAxe.msg.23",
+   "entries": 158
+  },
+  {
+   "sheet": "RodInsect.msg.23",
+   "entries": 21
+  },
+  {
+   "sheet": "NpcName.msg.23",
+   "entries": 337
+  },
+  {
+   "sheet": "EnemyText.msg.23",
+   "entries": 1936
+  },
+  {
+   "sheet": "Amulet.msg.23",
+   "entries": 370
+  }
+ ],
+ "total_guids": 16523
+}

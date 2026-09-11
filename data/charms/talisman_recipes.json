@@ -1,0 +1,6625 @@
+[
+ {
+  "index": 0,
+  "data_id": 1,
+  "type": "34DACC40",
+  "level": 1,
+  "name": "Marathon Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 390,
+    "item_id": "ITEM_0416",
+    "item_name": "Guardian Doshaguma Fur",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 392,
+    "item_id": "ITEM_0418",
+    "item_name": "Guardian Doshaguma Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 393,
+    "item_id": "ITEM_0419",
+    "item_name": "Guardian Doshaguma Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 502,
+    "item_id": "ITEM_0528",
+    "item_name": "Guardian Seikret Feather",
+    "quantity": 1
+   }
+  ],
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "data_id": 2,
+  "type": "34DACC40",
+  "level": 2,
+  "name": "Marathon Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Gypceros",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 529,
+    "item_id": "ITEM_0555",
+    "item_name": "Rubbery Hide+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 531,
+    "item_id": "ITEM_0557",
+    "item_name": "Gypceros Head",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 293,
+    "item_id": "ITEM_0319",
+    "item_name": "Chatacabra Scale+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 534,
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "data_id": 3,
+  "type": "34DACC40",
+  "level": 3,
+  "name": "Marathon Charm III",
+  "key_item_data_id": 1,
+  "key_monster": "Guardian Fulgur Anjanath",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 481,
+    "item_id": "ITEM_0507",
+    "item_name": "Guardian Fulgur Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 483,
+    "item_id": "ITEM_0509",
+    "item_name": "Guardian Fulgur Fang+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 319,
+    "item_id": "ITEM_0345",
+    "item_name": "Doshaguma Claw+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 486,
+    "item_id": "ITEM_0512",
+    "item_name": "Guardian Fulgur Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "data_id": 4,
+  "type": "67FAC800",
+  "level": 1,
+  "name": "Fitness Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 363,
+    "item_id": "ITEM_0389",
+    "item_name": "Ajarakan Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 367,
+    "item_id": "ITEM_0393",
+    "item_name": "Ajarakan Jewel",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 365,
+    "item_id": "ITEM_0391",
+    "item_name": "Ajarakan Ridge",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 496,
+    "item_id": "ITEM_0522",
+    "item_name": "Kranodath Skull",
+    "quantity": 1
+   }
+  ],
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "data_id": 5,
+  "type": "67FAC800",
+  "level": 2,
+  "name": "Fitness Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 522,
+    "item_id": "ITEM_0548",
+    "item_name": "Kut-Ku Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 526,
+    "item_id": "ITEM_0552",
+    "item_name": "Kut-Ku Wing",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 524,
+    "item_id": "ITEM_0550",
+    "item_name": "Kut-Ku Ear",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 5
+   }
+  ],
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "data_id": 6,
+  "type": "67FAC800",
+  "level": 3,
+  "name": "Fitness Charm III",
+  "key_item_data_id": 433,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 435,
+    "item_id": "ITEM_0461",
+    "item_name": "Guardian Ebony Claw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 436,
+    "item_id": "ITEM_0462",
+    "item_name": "Guardian Ebony Fang+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 397,
+    "item_id": "ITEM_0423",
+    "item_name": "Guardian Doshaguma Claw+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "data_id": 7,
+  "type": "67FAC800",
+  "level": 4,
+  "name": "Fitness Charm IV",
+  "key_item_data_id": 1,
+  "key_monster": "Gore Magala",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 564,
+    "item_id": "ITEM_0590",
+    "item_name": "Gore Magala Wing+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 566,
+    "item_id": "ITEM_0592",
+    "item_name": "Gore Magala Tail",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 437,
+    "item_id": "ITEM_0463",
+    "item_name": "Guardian Ebony Gem",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 568,
+    "item_id": "ITEM_0594",
+    "item_name": "Gore Magala Nyctgem",
+    "quantity": 1
+   }
+  ],
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "data_id": 8,
+  "type": "67FAC800",
+  "level": 5,
+  "name": "Fitness Charm V",
+  "key_item_data_id": 661,
+  "key_monster": "Mizutsune",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 722,
+    "item_id": "ITEM_0748",
+    "item_name": "Mizutsune Purplefur+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 724,
+    "item_id": "ITEM_0750",
+    "item_name": "Mizutsune Fin+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 728,
+    "item_id": "ITEM_0753",
+    "item_name": "Mizutsune Water Orb",
+    "quantity": 1
+   }
+  ],
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "data_id": 9,
+  "type": "DA42AF80",
+  "level": 1,
+  "name": "Sheathe Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 356,
+    "item_id": "ITEM_0382",
+    "item_name": "Hirabami Tail Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 81,
+    "item_id": "ITEM_0104",
+    "item_name": "Balahara Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 82,
+    "item_id": "ITEM_0105",
+    "item_name": "Balahara Skull",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "data_id": 10,
+  "type": "DA42AF80",
+  "level": 2,
+  "name": "Sheathe Charm II",
+  "key_item_data_id": 341,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 343,
+    "item_id": "ITEM_0369",
+    "item_name": "Spotted Poison Hide+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 344,
+    "item_id": "ITEM_0370",
+    "item_name": "Rompopolo Beak+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 497,
+    "item_id": "ITEM_0523",
+    "item_name": "Kranodath Skull+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 368,
+    "item_id": "ITEM_0394",
+    "item_name": "Ajarakan Marrow",
+    "quantity": 1
+   }
+  ],
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "data_id": 11,
+  "type": "DA42AF80",
+  "level": 3,
+  "name": "Sheathe Charm III",
+  "key_item_data_id": 481,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 483,
+    "item_id": "ITEM_0509",
+    "item_name": "Guardian Fulgur Fang+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 484,
+    "item_id": "ITEM_0510",
+    "item_name": "Guardian Fulgur Nosebone+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 408,
+    "item_id": "ITEM_0434",
+    "item_name": "Guardian Rathalos Wing",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 486,
+    "item_id": "ITEM_0512",
+    "item_name": "Guardian Fulgur Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "data_id": 12,
+  "type": "A4DED500",
+  "level": 1,
+  "name": "Challenger Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Rathian",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 102,
+    "item_id": "ITEM_0125",
+    "item_name": "Rathian Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 104,
+    "item_id": "ITEM_0127",
+    "item_name": "Rathian Webbing",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 522,
+    "item_id": "ITEM_0548",
+    "item_name": "Kut-Ku Scale+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "data_id": 13,
+  "type": "A4DED500",
+  "level": 2,
+  "name": "Challenger Charm II",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 334,
+    "item_id": "ITEM_0360",
+    "item_name": "Uth Duna Watergem",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 705,
+    "item_id": "ITEM_0731",
+    "item_name": "Guardian Rathalos Ruby",
+    "quantity": 1
+   }
+  ],
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "data_id": 14,
+  "type": "A4DED500",
+  "level": 3,
+  "name": "Challenger Charm III",
+  "key_item_data_id": 761,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 761,
+    "item_id": "ITEM_0786",
+    "item_name": "Jin Dahaad Certificate γ",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 422,
+    "item_id": "ITEM_0448",
+    "item_name": "Jin Dahaad Claw+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 751,
+    "item_id": "ITEM_0776",
+    "item_name": "Gogmazios Shredders",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 754,
+    "item_id": "ITEM_0779",
+    "item_name": "Wartorn Dragongem",
+    "quantity": 1
+   }
+  ],
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "data_id": 15,
+  "type": "9FAA7380",
+  "level": 1,
+  "name": "Unscathed Charm I",
+  "key_item_data_id": 358,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 358,
+    "item_id": "ITEM_0384",
+    "item_name": "Hirabami Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 360,
+    "item_id": "ITEM_0386",
+    "item_name": "Hirabami Webbing+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 512,
+    "item_id": "ITEM_0538",
+    "item_name": "Vibrant Pelt+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "data_id": 16,
+  "type": "9FAA7380",
+  "level": 2,
+  "name": "Unscathed Charm II",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 424,
+    "item_id": "ITEM_0450",
+    "item_name": "Jin Dahaad Icegem",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 545,
+    "item_id": "ITEM_0571",
+    "item_name": "Gravios Medulla",
+    "quantity": 2
+   }
+  ],
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "data_id": 17,
+  "type": "9FAA7380",
+  "level": 3,
+  "name": "Unscathed Charm III",
+  "key_item_data_id": 759,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 759,
+    "item_id": "ITEM_0784",
+    "item_name": "Uth Duna Certificate γ",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 329,
+    "item_id": "ITEM_0355",
+    "item_name": "Uth Duna Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 332,
+    "item_id": "ITEM_0358",
+    "item_name": "Uth Duna Tentacle+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 334,
+    "item_id": "ITEM_0360",
+    "item_name": "Uth Duna Watergem",
+    "quantity": 1
+   }
+  ],
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "data_id": 18,
+  "type": "699F1E00",
+  "level": 1,
+  "name": "Fury Charm I",
+  "key_item_data_id": 518,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 518,
+    "item_id": "ITEM_0544",
+    "item_name": "Nerscylla Carapace",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 520,
+    "item_id": "ITEM_0546",
+    "item_name": "Nerscylla Spike+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 344,
+    "item_id": "ITEM_0370",
+    "item_name": "Rompopolo Beak+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "data_id": 19,
+  "type": "699F1E00",
+  "level": 2,
+  "name": "Fury Charm II",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 388,
+    "item_id": "ITEM_0414",
+    "item_name": "Nu Udra Flamegem",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 374,
+    "item_id": "ITEM_0400",
+    "item_name": "Ajarakan Medulla",
+    "quantity": 1
+   }
+  ],
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "data_id": 20,
+  "type": "699F1E00",
+  "level": 3,
+  "name": "Fury Charm III",
+  "key_item_data_id": 760,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 760,
+    "item_id": "ITEM_0785",
+    "item_name": "Nu Udra Certificate γ",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 383,
+    "item_id": "ITEM_0409",
+    "item_name": "Nu Udra Hide+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 387,
+    "item_id": "ITEM_0413",
+    "item_name": "Nu Udra Oilmucus+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 717,
+    "item_id": "ITEM_0743",
+    "item_name": "Faux Whitegleam Orb",
+    "quantity": 1
+   }
+  ],
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "data_id": 21,
+  "type": "77C54D00",
+  "level": 1,
+  "name": "Exploiter Charm I",
+  "key_item_data_id": 103,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 103,
+    "item_id": "ITEM_0126",
+    "item_name": "Rathian Carapace",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 105,
+    "item_id": "ITEM_0128",
+    "item_name": "Rathian Spike+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 296,
+    "item_id": "ITEM_0322",
+    "item_name": "Chatacabra Carapace",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 106,
+    "item_id": "ITEM_0129",
+    "item_name": "Rathian Ruby",
+    "quantity": 1
+   }
+  ],
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "data_id": 22,
+  "type": "77C54D00",
+  "level": 2,
+  "name": "Exploiter Charm II",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 465,
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 705,
+    "item_id": "ITEM_0731",
+    "item_name": "Guardian Rathalos Ruby",
+    "quantity": 1
+   }
+  ],
+  "_row": 23
+ },
+ {
+  "index": 23,
+  "data_id": 24,
+  "type": "C90218C0",
+  "level": 1,
+  "name": "Power Charm I",
+  "key_item_data_id": 358,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 358,
+    "item_id": "ITEM_0384",
+    "item_name": "Hirabami Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 303,
+    "item_id": "ITEM_0329",
+    "item_name": "Quematrice Igniter+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 304,
+    "item_id": "ITEM_0330",
+    "item_name": "Quematrice Crest+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 24
+ },
+ {
+  "index": 24,
+  "data_id": 25,
+  "type": "C90218C0",
+  "level": 2,
+  "name": "Power Charm II",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 351,
+    "item_id": "ITEM_0377",
+    "item_name": "Rey Dau Boltgem",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 486,
+    "item_id": "ITEM_0512",
+    "item_name": "Guardian Fulgur Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 25
+ },
+ {
+  "index": 25,
+  "data_id": 26,
+  "type": "C90218C0",
+  "level": 3,
+  "name": "Power Charm III",
+  "key_item_data_id": 758,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 758,
+    "item_id": "ITEM_0783",
+    "item_name": "Rey Dau Certificate γ",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 347,
+    "item_id": "ITEM_0373",
+    "item_name": "Rey Dau Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 349,
+    "item_id": "ITEM_0375",
+    "item_name": "Rey Dau Bolthorn",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 465,
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 26
+ },
+ {
+  "index": 26,
+  "data_id": 27,
+  "type": "AE361800",
+  "level": 1,
+  "name": "Mighty Charm I",
+  "key_item_data_id": 518,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 519,
+    "item_id": "ITEM_0545",
+    "item_name": "Nerscylla Claw+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 480,
+    "item_id": "ITEM_0506",
+    "item_name": "Nerscylla Shear",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 531,
+    "item_id": "ITEM_0557",
+    "item_name": "Gypceros Head",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 534,
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 27
+ },
+ {
+  "index": 27,
+  "data_id": 28,
+  "type": "AE361800",
+  "level": 2,
+  "name": "Mighty Charm II",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 452,
+    "item_id": "ITEM_0478",
+    "item_name": "Xu Wu Umbragem",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 351,
+    "item_id": "ITEM_0377",
+    "item_name": "Rey Dau Boltgem",
+    "quantity": 1
+   }
+  ],
+  "_row": 28
+ },
+ {
+  "index": 28,
+  "data_id": 29,
+  "type": "AE361800",
+  "level": 3,
+  "name": "Mighty Charm III",
+  "key_item_data_id": 781,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 781,
+    "item_id": "ITEM_0806",
+    "item_name": "SF6 Ticket",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 371,
+    "item_id": "ITEM_0397",
+    "item_name": "Ajarakan Carapace",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 568,
+    "item_id": "ITEM_0594",
+    "item_name": "Gore Magala Nyctgem",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 334,
+    "item_id": "ITEM_0360",
+    "item_name": "Uth Duna Watergem",
+    "quantity": 1
+   }
+  ],
+  "_row": 29
+ },
+ {
+  "index": 29,
+  "data_id": 30,
+  "type": "C6EC2E40",
+  "level": 1,
+  "name": "Surge Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Xu Wu",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 440,
+    "item_id": "ITEM_0466",
+    "item_name": "Xu Wu Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 443,
+    "item_id": "ITEM_0469",
+    "item_name": "Xu Wu Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 376,
+    "item_id": "ITEM_0402",
+    "item_name": "Nu Udra Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 445,
+    "item_id": "ITEM_0471",
+    "item_name": "Xu Wu Cerebrospinal Fluid",
+    "quantity": 1
+   }
+  ],
+  "_row": 30
+ },
+ {
+  "index": 30,
+  "data_id": 31,
+  "type": "C6EC2E40",
+  "level": 2,
+  "name": "Surge Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Gypceros",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 529,
+    "item_id": "ITEM_0555",
+    "item_name": "Rubbery Hide+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 532,
+    "item_id": "ITEM_0558",
+    "item_name": "Gypceros Tail",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 578,
+    "item_id": "ITEM_0604",
+    "item_name": "Lightcrystal",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 534,
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 31
+ },
+ {
+  "index": 31,
+  "data_id": 32,
+  "type": "C6EC2E40",
+  "level": 3,
+  "name": "Surge Charm III",
+  "key_item_data_id": 447,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 448,
+    "item_id": "ITEM_0474",
+    "item_name": "Golden Corneum+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 450,
+    "item_id": "ITEM_0476",
+    "item_name": "Xu Wu Claw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 320,
+    "item_id": "ITEM_0346",
+    "item_name": "Doshaguma Fang+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 452,
+    "item_id": "ITEM_0478",
+    "item_name": "Xu Wu Umbragem",
+    "quantity": 1
+   }
+  ],
+  "_row": 32
+ },
+ {
+  "index": 32,
+  "data_id": 33,
+  "type": "CC7EAFC0",
+  "level": 1,
+  "name": "Defense Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "97DC3400",
+  "materials": [
+   {
+    "item_data_id": 35,
+    "item_id": "ITEM_0034",
+    "item_name": "Doshaguma Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 80,
+    "item_id": "ITEM_0103",
+    "item_name": "Balahara Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 82,
+    "item_id": "ITEM_0105",
+    "item_name": "Balahara Skull",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 54,
+    "item_id": "ITEM_0075",
+    "item_name": "Machalite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 33
+ },
+ {
+  "index": 33,
+  "data_id": 34,
+  "type": "CC7EAFC0",
+  "level": 2,
+  "name": "Defense Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 391,
+    "item_id": "ITEM_0417",
+    "item_name": "Guardian Doshaguma Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 392,
+    "item_id": "ITEM_0418",
+    "item_name": "Guardian Doshaguma Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 393,
+    "item_id": "ITEM_0419",
+    "item_name": "Guardian Doshaguma Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 34
+ },
+ {
+  "index": 34,
+  "data_id": 35,
+  "type": "CC7EAFC0",
+  "level": 3,
+  "name": "Defense Charm III",
+  "key_item_data_id": 293,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 296,
+    "item_id": "ITEM_0322",
+    "item_name": "Chatacabra Carapace",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 293,
+    "item_id": "ITEM_0319",
+    "item_name": "Chatacabra Scale+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 304,
+    "item_id": "ITEM_0330",
+    "item_name": "Quematrice Crest+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 581,
+    "item_id": "ITEM_0607",
+    "item_name": "Firecell Stone",
+    "quantity": 1
+   }
+  ],
+  "_row": 35
+ },
+ {
+  "index": 35,
+  "data_id": 36,
+  "type": "CC7EAFC0",
+  "level": 4,
+  "name": "Defense Charm IV",
+  "key_item_data_id": 1,
+  "key_monster": "Gravios",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 542,
+    "item_id": "ITEM_0568",
+    "item_name": "Gravios Carapace",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 546,
+    "item_id": "ITEM_0572",
+    "item_name": "Gravios Wing",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 396,
+    "item_id": "ITEM_0422",
+    "item_name": "Guardian Doshaguma Hide+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 397,
+    "item_id": "ITEM_0423",
+    "item_name": "Guardian Doshaguma Claw+",
+    "quantity": 2
+   }
+  ],
+  "_row": 36
+ },
+ {
+  "index": 36,
+  "data_id": 37,
+  "type": "CC7EAFC0",
+  "level": 5,
+  "name": "Defense Charm V",
+  "key_item_data_id": 758,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 758,
+    "item_id": "ITEM_0783",
+    "item_name": "Rey Dau Certificate γ",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 372,
+    "item_id": "ITEM_0398",
+    "item_name": "Ajarakan Ridge+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 543,
+    "item_id": "ITEM_0569",
+    "item_name": "Gravios Skull",
+    "quantity": 2
+   }
+  ],
+  "_row": 37
+ },
+ {
+  "index": 37,
+  "data_id": 38,
+  "type": "4BA00B00",
+  "level": 1,
+  "name": "Blessing Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "97DC3400",
+  "materials": [
+   {
+    "item_data_id": 87,
+    "item_id": "ITEM_0110",
+    "item_name": "Chatacabra Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 88,
+    "item_id": "ITEM_0111",
+    "item_name": "Quematrice Scale",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 603,
+    "item_id": "ITEM_0629",
+    "item_name": "Lala Barina Mucus",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 57,
+    "item_id": "ITEM_0078",
+    "item_name": "Earth Crystal",
+    "quantity": 2
+   }
+  ],
+  "_row": 38
+ },
+ {
+  "index": 38,
+  "data_id": 39,
+  "type": "4BA00B00",
+  "level": 2,
+  "name": "Blessing Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 354,
+    "item_id": "ITEM_0380",
+    "item_name": "Hirabami Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 355,
+    "item_id": "ITEM_0381",
+    "item_name": "Hirabami Webbing",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 325,
+    "item_id": "ITEM_0351",
+    "item_name": "Uth Duna Tentacle",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 39
+ },
+ {
+  "index": 39,
+  "data_id": 40,
+  "type": "4BA00B00",
+  "level": 3,
+  "name": "Blessing Charm III",
+  "key_item_data_id": 358,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 360,
+    "item_id": "ITEM_0386",
+    "item_name": "Hirabami Webbing+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 105,
+    "item_id": "ITEM_0128",
+    "item_name": "Rathian Spike+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 579,
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 40
+ },
+ {
+  "index": 40,
+  "data_id": 41,
+  "type": "64DED900",
+  "level": 1,
+  "name": "Recovery Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 277,
+    "item_id": "ITEM_0303",
+    "item_name": "Lala Barina Floret",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 603,
+    "item_id": "ITEM_0629",
+    "item_name": "Lala Barina Mucus",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 504,
+    "item_id": "ITEM_0530",
+    "item_name": "Congalala Pelt",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 59,
+    "item_id": "ITEM_0080",
+    "item_name": "Sturdy Bone",
+    "quantity": 2
+   }
+  ],
+  "_row": 41
+ },
+ {
+  "index": 41,
+  "data_id": 42,
+  "type": "64DED900",
+  "level": 2,
+  "name": "Recovery Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 515,
+    "item_id": "ITEM_0541",
+    "item_name": "Nerscylla Claw",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 514,
+    "item_id": "ITEM_0540",
+    "item_name": "Nerscylla Chelicera",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 338,
+    "item_id": "ITEM_0364",
+    "item_name": "Spotted Poison Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 586,
+    "item_id": "ITEM_0612",
+    "item_name": "Charred Oilbone",
+    "quantity": 2
+   }
+  ],
+  "_row": 42
+ },
+ {
+  "index": 42,
+  "data_id": 43,
+  "type": "64DED900",
+  "level": 3,
+  "name": "Recovery Charm III",
+  "key_item_data_id": 306,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 306,
+    "item_id": "ITEM_0332",
+    "item_name": "Lala Barina Floret+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 604,
+    "item_id": "ITEM_0630",
+    "item_name": "Lala Barina Mucus+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 525,
+    "item_id": "ITEM_0551",
+    "item_name": "Giant Beak",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 534,
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 43
+ },
+ {
+  "index": 43,
+  "data_id": 44,
+  "type": "64C57E00",
+  "level": 1,
+  "name": "Speed Heal Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "97DC3400",
+  "materials": [
+   {
+    "item_data_id": 33,
+    "item_id": "ITEM_0032",
+    "item_name": "Doshaguma Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 36,
+    "item_id": "ITEM_0035",
+    "item_name": "Doshaguma Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 85,
+    "item_id": "ITEM_0108",
+    "item_name": "Chatacabra Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 60,
+    "item_id": "ITEM_0081",
+    "item_name": "Brute Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 44
+ },
+ {
+  "index": 44,
+  "data_id": 45,
+  "type": "64C57E00",
+  "level": 2,
+  "name": "Speed Heal Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 354,
+    "item_id": "ITEM_0380",
+    "item_name": "Hirabami Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 355,
+    "item_id": "ITEM_0381",
+    "item_name": "Hirabami Webbing",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 276,
+    "item_id": "ITEM_0302",
+    "item_name": "Lala Barina Certificate",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 587,
+    "item_id": "ITEM_0613",
+    "item_name": "Frozen Icebone",
+    "quantity": 2
+   }
+  ],
+  "_row": 45
+ },
+ {
+  "index": 45,
+  "data_id": 46,
+  "type": "64C57E00",
+  "level": 3,
+  "name": "Speed Heal Charm III",
+  "key_item_data_id": 1,
+  "key_monster": "Gypceros",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 530,
+    "item_id": "ITEM_0556",
+    "item_name": "Gypceros Wing",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 532,
+    "item_id": "ITEM_0558",
+    "item_name": "Gypceros Tail",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 344,
+    "item_id": "ITEM_0370",
+    "item_name": "Rompopolo Beak+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 62,
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": 1
+   }
+  ],
+  "_row": 46
+ },
+ {
+  "index": 46,
+  "data_id": 47,
+  "type": "A45C6400",
+  "level": 1,
+  "name": "Glutton's Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "97DC3400",
+  "materials": [
+   {
+    "item_data_id": 34,
+    "item_id": "ITEM_0033",
+    "item_name": "Doshaguma Fur",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 36,
+    "item_id": "ITEM_0035",
+    "item_name": "Doshaguma Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 87,
+    "item_id": "ITEM_0110",
+    "item_name": "Chatacabra Scale",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 60,
+    "item_id": "ITEM_0081",
+    "item_name": "Brute Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 47
+ },
+ {
+  "index": 47,
+  "data_id": 48,
+  "type": "A45C6400",
+  "level": 2,
+  "name": "Glutton's Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Guardian Ebony Odogaron",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 428,
+    "item_id": "ITEM_0454",
+    "item_name": "Guardian Ebony Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 429,
+    "item_id": "ITEM_0455",
+    "item_name": "Guardian Ebony Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 378,
+    "item_id": "ITEM_0404",
+    "item_name": "Nu Udra Horn",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 588,
+    "item_id": "ITEM_0614",
+    "item_name": "Tough Guardian Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 48
+ },
+ {
+  "index": 48,
+  "data_id": 49,
+  "type": "A45C6400",
+  "level": 3,
+  "name": "Glutton's Charm III",
+  "key_item_data_id": 481,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 483,
+    "item_id": "ITEM_0509",
+    "item_name": "Guardian Fulgur Fang+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 104,
+    "item_id": "ITEM_0127",
+    "item_name": "Rathian Webbing",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 294,
+    "item_id": "ITEM_0320",
+    "item_name": "Chatacabra Jaw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 411,
+    "item_id": "ITEM_0437",
+    "item_name": "Rath Medulla",
+    "quantity": 1
+   }
+  ],
+  "_row": 49
+ },
+ {
+  "index": 49,
+  "data_id": 50,
+  "type": "BC338080",
+  "level": 1,
+  "name": "Earplugs Charm I",
+  "key_item_data_id": 557,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 557,
+    "item_id": "ITEM_0583",
+    "item_name": "Rathalos Carapace",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 558,
+    "item_id": "ITEM_0584",
+    "item_name": "Rathalos Wing",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 524,
+    "item_id": "ITEM_0550",
+    "item_name": "Kut-Ku Ear",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 560,
+    "item_id": "ITEM_0586",
+    "item_name": "Rathalos Ruby",
+    "quantity": 1
+   }
+  ],
+  "_row": 50
+ },
+ {
+  "index": 50,
+  "data_id": 51,
+  "type": "BC338080",
+  "level": 2,
+  "name": "Earplugs Charm II",
+  "key_item_data_id": 711,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 711,
+    "item_id": "ITEM_0737",
+    "item_name": "Zoh Shia Crystalscale",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 713,
+    "item_id": "ITEM_0739",
+    "item_name": "Zoh Shia Stakeclaw",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 719,
+    "item_id": "ITEM_0745",
+    "item_name": "Blackember Mass",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 717,
+    "item_id": "ITEM_0743",
+    "item_name": "Faux Whitegleam Orb",
+    "quantity": 1
+   }
+  ],
+  "_row": 51
+ },
+ {
+  "index": 51,
+  "data_id": 52,
+  "type": "83BE9480",
+  "level": 1,
+  "name": "Windproof Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 391,
+    "item_id": "ITEM_0417",
+    "item_name": "Guardian Doshaguma Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 393,
+    "item_id": "ITEM_0419",
+    "item_name": "Guardian Doshaguma Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 504,
+    "item_id": "ITEM_0530",
+    "item_name": "Congalala Pelt",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 52
+ },
+ {
+  "index": 52,
+  "data_id": 53,
+  "type": "83BE9480",
+  "level": 2,
+  "name": "Windproof Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 523,
+    "item_id": "ITEM_0549",
+    "item_name": "Kut-Ku Carapace",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 526,
+    "item_id": "ITEM_0552",
+    "item_name": "Kut-Ku Wing",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 525,
+    "item_id": "ITEM_0551",
+    "item_name": "Giant Beak",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 534,
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 53
+ },
+ {
+  "index": 53,
+  "data_id": 54,
+  "type": "83BE9480",
+  "level": 3,
+  "name": "Windproof Charm III",
+  "key_item_data_id": 406,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 407,
+    "item_id": "ITEM_0433",
+    "item_name": "Guardian Rathalos Carapace",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 408,
+    "item_id": "ITEM_0434",
+    "item_name": "Guardian Rathalos Wing",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 105,
+    "item_id": "ITEM_0128",
+    "item_name": "Rathian Spike+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 106,
+    "item_id": "ITEM_0129",
+    "item_name": "Rathian Ruby",
+    "quantity": 1
+   }
+  ],
+  "_row": 54
+ },
+ {
+  "index": 54,
+  "data_id": 55,
+  "type": "35FB7D00",
+  "level": 1,
+  "name": "Tremor Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 364,
+    "item_id": "ITEM_0390",
+    "item_name": "Ajarakan Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 365,
+    "item_id": "ITEM_0391",
+    "item_name": "Ajarakan Ridge",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 505,
+    "item_id": "ITEM_0531",
+    "item_name": "Congalala Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 55
+ },
+ {
+  "index": 55,
+  "data_id": 56,
+  "type": "35FB7D00",
+  "level": 2,
+  "name": "Tremor Charm II",
+  "key_item_data_id": 313,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 313,
+    "item_id": "ITEM_0339",
+    "item_name": "Balahara Carapace",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 295,
+    "item_id": "ITEM_0321",
+    "item_name": "Chatacabra Hide+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 296,
+    "item_id": "ITEM_0322",
+    "item_name": "Chatacabra Carapace",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 4
+   }
+  ],
+  "_row": 56
+ },
+ {
+  "index": 56,
+  "data_id": 57,
+  "type": "35FB7D00",
+  "level": 3,
+  "name": "Tremor Charm III",
+  "key_item_data_id": 1,
+  "key_monster": "Gravios",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 542,
+    "item_id": "ITEM_0568",
+    "item_name": "Gravios Carapace",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 544,
+    "item_id": "ITEM_0570",
+    "item_name": "Gravios Pleura+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 397,
+    "item_id": "ITEM_0423",
+    "item_name": "Guardian Doshaguma Claw+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 581,
+    "item_id": "ITEM_0607",
+    "item_name": "Firecell Stone",
+    "quantity": 2
+   }
+  ],
+  "_row": 57
+ },
+ {
+  "index": 57,
+  "data_id": 58,
+  "type": "A5486880",
+  "level": 1,
+  "name": "Evasion Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 353,
+    "item_id": "ITEM_0379",
+    "item_name": "Hirabami Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 356,
+    "item_id": "ITEM_0382",
+    "item_name": "Hirabami Tail Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 35,
+    "item_id": "ITEM_0034",
+    "item_name": "Doshaguma Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 583,
+    "item_id": "ITEM_0609",
+    "item_name": "Icium",
+    "quantity": 2
+   }
+  ],
+  "_row": 58
+ },
+ {
+  "index": 58,
+  "data_id": 59,
+  "type": "A5486880",
+  "level": 2,
+  "name": "Evasion Charm II",
+  "key_item_data_id": 358,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 359,
+    "item_id": "ITEM_0385",
+    "item_name": "Hirabami Hide+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 361,
+    "item_id": "ITEM_0387",
+    "item_name": "Hirabami Tail Claw+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 487,
+    "item_id": "ITEM_0513",
+    "item_name": "Herbivore Carapace",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 581,
+    "item_id": "ITEM_0607",
+    "item_name": "Firecell Stone",
+    "quantity": 1
+   }
+  ],
+  "_row": 59
+ },
+ {
+  "index": 59,
+  "data_id": 60,
+  "type": "A5486880",
+  "level": 3,
+  "name": "Evasion Charm III",
+  "key_item_data_id": 556,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 556,
+    "item_id": "ITEM_0582",
+    "item_name": "Rathalos Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 558,
+    "item_id": "ITEM_0584",
+    "item_name": "Rathalos Wing",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 372,
+    "item_id": "ITEM_0398",
+    "item_name": "Ajarakan Ridge+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 560,
+    "item_id": "ITEM_0586",
+    "item_name": "Rathalos Ruby",
+    "quantity": 1
+   }
+  ],
+  "_row": 60
+ },
+ {
+  "index": 60,
+  "data_id": 61,
+  "type": "A5486880",
+  "level": 4,
+  "name": "Evasion Charm IV",
+  "key_item_data_id": 661,
+  "key_monster": "Mizutsune",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 721,
+    "item_id": "ITEM_0747",
+    "item_name": "Mizutsune Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 723,
+    "item_id": "ITEM_0749",
+    "item_name": "Mizutsune Claw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 728,
+    "item_id": "ITEM_0753",
+    "item_name": "Mizutsune Water Orb",
+    "quantity": 1
+   }
+  ],
+  "_row": 61
+ },
+ {
+  "index": 61,
+  "data_id": 62,
+  "type": "9BC0B080",
+  "level": 1,
+  "name": "Leaping Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 80,
+    "item_id": "ITEM_0103",
+    "item_name": "Balahara Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 82,
+    "item_id": "ITEM_0105",
+    "item_name": "Balahara Skull",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 515,
+    "item_id": "ITEM_0541",
+    "item_name": "Nerscylla Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 62
+ },
+ {
+  "index": 62,
+  "data_id": 63,
+  "type": "9BC0B080",
+  "level": 2,
+  "name": "Leaping Charm II",
+  "key_item_data_id": 313,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 313,
+    "item_id": "ITEM_0339",
+    "item_name": "Balahara Carapace",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 308,
+    "item_id": "ITEM_0334",
+    "item_name": "Lala Barina Claw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 491,
+    "item_id": "ITEM_0517",
+    "item_name": "Talioth Scale+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 63
+ },
+ {
+  "index": 63,
+  "data_id": 64,
+  "type": "9BC0B080",
+  "level": 3,
+  "name": "Leaping Charm III",
+  "key_item_data_id": 1,
+  "key_monster": "Rathalos",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 557,
+    "item_id": "ITEM_0583",
+    "item_name": "Rathalos Carapace",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 558,
+    "item_id": "ITEM_0584",
+    "item_name": "Rathalos Wing",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 372,
+    "item_id": "ITEM_0398",
+    "item_name": "Ajarakan Ridge+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 560,
+    "item_id": "ITEM_0586",
+    "item_name": "Rathalos Ruby",
+    "quantity": 1
+   }
+  ],
+  "_row": 64
+ },
+ {
+  "index": 64,
+  "data_id": 65,
+  "type": "93AF7900",
+  "level": 1,
+  "name": "Fire Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "97DC3400",
+  "materials": [
+   {
+    "item_data_id": 88,
+    "item_id": "ITEM_0111",
+    "item_name": "Quematrice Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 299,
+    "item_id": "ITEM_0325",
+    "item_name": "Quematrice Igniter",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 53,
+    "item_id": "ITEM_0074",
+    "item_name": "Iron Ore",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 65
+ },
+ {
+  "index": 65,
+  "data_id": 66,
+  "type": "93AF7900",
+  "level": 2,
+  "name": "Fire Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 363,
+    "item_id": "ITEM_0389",
+    "item_name": "Ajarakan Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 367,
+    "item_id": "ITEM_0393",
+    "item_name": "Ajarakan Jewel",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 496,
+    "item_id": "ITEM_0522",
+    "item_name": "Kranodath Skull",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 580,
+    "item_id": "ITEM_0606",
+    "item_name": "Firestone",
+    "quantity": 1
+   }
+  ],
+  "_row": 66
+ },
+ {
+  "index": 66,
+  "data_id": 67,
+  "type": "93AF7900",
+  "level": 3,
+  "name": "Fire Charm III",
+  "key_item_data_id": 301,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 301,
+    "item_id": "ITEM_0327",
+    "item_name": "Quematrice Scale+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 303,
+    "item_id": "ITEM_0329",
+    "item_name": "Quematrice Igniter+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 491,
+    "item_id": "ITEM_0517",
+    "item_name": "Talioth Scale+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 581,
+    "item_id": "ITEM_0607",
+    "item_name": "Firecell Stone",
+    "quantity": 1
+   }
+  ],
+  "_row": 67
+ },
+ {
+  "index": 67,
+  "data_id": 68,
+  "type": "DDB0A080",
+  "level": 1,
+  "name": "Water Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "97DC3400",
+  "materials": [
+   {
+    "item_data_id": 81,
+    "item_id": "ITEM_0104",
+    "item_name": "Balahara Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 82,
+    "item_id": "ITEM_0105",
+    "item_name": "Balahara Skull",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 57,
+    "item_id": "ITEM_0078",
+    "item_name": "Earth Crystal",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 68
+ },
+ {
+  "index": 68,
+  "data_id": 69,
+  "type": "DDB0A080",
+  "level": 2,
+  "name": "Water Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 322,
+    "item_id": "ITEM_0348",
+    "item_name": "Uth Duna Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 324,
+    "item_id": "ITEM_0350",
+    "item_name": "Uth Duna Cilia",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 493,
+    "item_id": "ITEM_0519",
+    "item_name": "Piragill Fin",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 583,
+    "item_id": "ITEM_0609",
+    "item_name": "Icium",
+    "quantity": 2
+   }
+  ],
+  "_row": 69
+ },
+ {
+  "index": 69,
+  "data_id": 70,
+  "type": "DDB0A080",
+  "level": 3,
+  "name": "Water Charm III",
+  "key_item_data_id": 313,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 313,
+    "item_id": "ITEM_0339",
+    "item_name": "Balahara Carapace",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 312,
+    "item_id": "ITEM_0338",
+    "item_name": "Balahara Scale+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 494,
+    "item_id": "ITEM_0520",
+    "item_name": "Piragill Fin+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 698,
+    "item_id": "ITEM_0724",
+    "item_name": "Gracium",
+    "quantity": 4
+   }
+  ],
+  "_row": 70
+ },
+ {
+  "index": 70,
+  "data_id": 71,
+  "type": "C575E700",
+  "level": 1,
+  "name": "Thunder Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Rompopolo",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 336,
+    "item_id": "ITEM_0362",
+    "item_name": "Rompopolo Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 338,
+    "item_id": "ITEM_0364",
+    "item_name": "Spotted Poison Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 57,
+    "item_id": "ITEM_0078",
+    "item_name": "Earth Crystal",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 71
+ },
+ {
+  "index": 71,
+  "data_id": 72,
+  "type": "C575E700",
+  "level": 2,
+  "name": "Thunder Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 139,
+    "item_id": "ITEM_0165",
+    "item_name": "Rey Dau Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 142,
+    "item_id": "ITEM_0168",
+    "item_name": "Rey Dau Wingtalon",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 94,
+    "item_id": "ITEM_0117",
+    "item_name": "Bulaqchi Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 54,
+    "item_id": "ITEM_0075",
+    "item_name": "Machalite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 72
+ },
+ {
+  "index": 72,
+  "data_id": 73,
+  "type": "C575E700",
+  "level": 3,
+  "name": "Thunder Charm III",
+  "key_item_data_id": 341,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 341,
+    "item_id": "ITEM_0367",
+    "item_name": "Rompopolo Hide+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 343,
+    "item_id": "ITEM_0369",
+    "item_name": "Spotted Poison Hide+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 491,
+    "item_id": "ITEM_0517",
+    "item_name": "Talioth Scale+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 578,
+    "item_id": "ITEM_0604",
+    "item_name": "Lightcrystal",
+    "quantity": 2
+   }
+  ],
+  "_row": 73
+ },
+ {
+  "index": 73,
+  "data_id": 74,
+  "type": "F2B063B0",
+  "level": 1,
+  "name": "Ice Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 504,
+    "item_id": "ITEM_0530",
+    "item_name": "Congalala Pelt",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 506,
+    "item_id": "ITEM_0532",
+    "item_name": "Congalala Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 57,
+    "item_id": "ITEM_0078",
+    "item_name": "Earth Crystal",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 74
+ },
+ {
+  "index": 74,
+  "data_id": 75,
+  "type": "F2B063B0",
+  "level": 2,
+  "name": "Ice Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Hirabami",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 353,
+    "item_id": "ITEM_0379",
+    "item_name": "Hirabami Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 355,
+    "item_id": "ITEM_0381",
+    "item_name": "Hirabami Webbing",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 498,
+    "item_id": "ITEM_0524",
+    "item_name": "Comaqchi Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 583,
+    "item_id": "ITEM_0609",
+    "item_name": "Icium",
+    "quantity": 2
+   }
+  ],
+  "_row": 75
+ },
+ {
+  "index": 75,
+  "data_id": 76,
+  "type": "F2B063B0",
+  "level": 3,
+  "name": "Ice Charm III",
+  "key_item_data_id": 358,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 358,
+    "item_id": "ITEM_0384",
+    "item_name": "Hirabami Scale+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 360,
+    "item_id": "ITEM_0386",
+    "item_name": "Hirabami Webbing+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 577,
+    "item_id": "ITEM_0603",
+    "item_name": "Blango Pelt+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 698,
+    "item_id": "ITEM_0724",
+    "item_name": "Gracium",
+    "quantity": 4
+   }
+  ],
+  "_row": 76
+ },
+ {
+  "index": 76,
+  "data_id": 77,
+  "type": "7785DF00",
+  "level": 1,
+  "name": "Dragon Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 273,
+    "item_id": "ITEM_0299",
+    "item_name": "Lala Barina Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 603,
+    "item_id": "ITEM_0629",
+    "item_name": "Lala Barina Mucus",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 57,
+    "item_id": "ITEM_0078",
+    "item_name": "Earth Crystal",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 77
+ },
+ {
+  "index": 77,
+  "data_id": 78,
+  "type": "7785DF00",
+  "level": 2,
+  "name": "Dragon Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 390,
+    "item_id": "ITEM_0416",
+    "item_name": "Guardian Doshaguma Fur",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 392,
+    "item_id": "ITEM_0418",
+    "item_name": "Guardian Doshaguma Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 573,
+    "item_id": "ITEM_0599",
+    "item_name": "Vespoid Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 580,
+    "item_id": "ITEM_0606",
+    "item_name": "Firestone",
+    "quantity": 1
+   }
+  ],
+  "_row": 78
+ },
+ {
+  "index": 78,
+  "data_id": 79,
+  "type": "7785DF00",
+  "level": 3,
+  "name": "Dragon Charm III",
+  "key_item_data_id": 518,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 518,
+    "item_id": "ITEM_0544",
+    "item_name": "Nerscylla Carapace",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 480,
+    "item_id": "ITEM_0506",
+    "item_name": "Nerscylla Shear",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 574,
+    "item_id": "ITEM_0600",
+    "item_name": "Vespoid Carapace",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 579,
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": 1
+   }
+  ],
+  "_row": 79
+ },
+ {
+  "index": 79,
+  "data_id": 80,
+  "type": "EA456FE0",
+  "level": 1,
+  "name": "Blight Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Blangonga",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 537,
+    "item_id": "ITEM_0563",
+    "item_name": "Blangonga Pelt+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 482,
+    "item_id": "ITEM_0508",
+    "item_name": "Guardian Fulgur Pelt+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 312,
+    "item_id": "ITEM_0338",
+    "item_name": "Balahara Scale+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 358,
+    "item_id": "ITEM_0384",
+    "item_name": "Hirabami Scale+",
+    "quantity": 2
+   }
+  ],
+  "_row": 80
+ },
+ {
+  "index": 80,
+  "data_id": 81,
+  "type": "EA456FE0",
+  "level": 2,
+  "name": "Blight Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Arkveld",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 459,
+    "item_id": "ITEM_0485",
+    "item_name": "Arkveld Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 462,
+    "item_id": "ITEM_0488",
+    "item_name": "White Arkveld Pelt",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 579,
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 81
+ },
+ {
+  "index": 81,
+  "data_id": 82,
+  "type": "EA456FE0",
+  "level": 3,
+  "name": "Blight Charm III",
+  "key_item_data_id": 747,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 747,
+    "item_id": "ITEM_0772",
+    "item_name": "Gogmazios Certificate S",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 749,
+    "item_id": "ITEM_0774",
+    "item_name": "Gogmazios Fortalice",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 383,
+    "item_id": "ITEM_0409",
+    "item_name": "Nu Udra Hide+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 388,
+    "item_id": "ITEM_0414",
+    "item_name": "Nu Udra Flamegem",
+    "quantity": 1
+   }
+  ],
+  "_row": 82
+ },
+ {
+  "index": 82,
+  "data_id": 83,
+  "type": "CCFD9980",
+  "level": 1,
+  "name": "Poison Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Rompopolo",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 337,
+    "item_id": "ITEM_0363",
+    "item_name": "Rompopolo Claw",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 339,
+    "item_id": "ITEM_0365",
+    "item_name": "Rompopolo Beak",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 489,
+    "item_id": "ITEM_0515",
+    "item_name": "Monster Fluid",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 83
+ },
+ {
+  "index": 83,
+  "data_id": 84,
+  "type": "CCFD9980",
+  "level": 2,
+  "name": "Poison Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Nerscylla",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 513,
+    "item_id": "ITEM_0539",
+    "item_name": "Nerscylla Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 516,
+    "item_id": "ITEM_0542",
+    "item_name": "Nerscylla Spike",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 94,
+    "item_id": "ITEM_0117",
+    "item_name": "Bulaqchi Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 59,
+    "item_id": "ITEM_0080",
+    "item_name": "Sturdy Bone",
+    "quantity": 2
+   }
+  ],
+  "_row": 84
+ },
+ {
+  "index": 84,
+  "data_id": 85,
+  "type": "CCFD9980",
+  "level": 3,
+  "name": "Poison Charm III",
+  "key_item_data_id": 341,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 342,
+    "item_id": "ITEM_0368",
+    "item_name": "Rompopolo Claw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 523,
+    "item_id": "ITEM_0549",
+    "item_name": "Kut-Ku Carapace",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 574,
+    "item_id": "ITEM_0600",
+    "item_name": "Vespoid Carapace",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 589,
+    "item_id": "ITEM_0615",
+    "item_name": "Quality Bone",
+    "quantity": 4
+   }
+  ],
+  "_row": 85
+ },
+ {
+  "index": 85,
+  "data_id": 86,
+  "type": "B9DA5500",
+  "level": 1,
+  "name": "Paralysis Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "97DC3400",
+  "materials": [
+   {
+    "item_data_id": 277,
+    "item_id": "ITEM_0303",
+    "item_name": "Lala Barina Floret",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 603,
+    "item_id": "ITEM_0629",
+    "item_name": "Lala Barina Mucus",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 573,
+    "item_id": "ITEM_0599",
+    "item_name": "Vespoid Shell",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 86
+ },
+ {
+  "index": 86,
+  "data_id": 87,
+  "type": "B9DA5500",
+  "level": 2,
+  "name": "Paralysis Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Nerscylla",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 515,
+    "item_id": "ITEM_0541",
+    "item_name": "Nerscylla Claw",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 273,
+    "item_id": "ITEM_0299",
+    "item_name": "Lala Barina Shell",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 575,
+    "item_id": "ITEM_0601",
+    "item_name": "Vespoid Wing",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 586,
+    "item_id": "ITEM_0612",
+    "item_name": "Charred Oilbone",
+    "quantity": 2
+   }
+  ],
+  "_row": 87
+ },
+ {
+  "index": 87,
+  "data_id": 88,
+  "type": "B9DA5500",
+  "level": 3,
+  "name": "Paralysis Charm III",
+  "key_item_data_id": 518,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 520,
+    "item_id": "ITEM_0546",
+    "item_name": "Nerscylla Spike+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 306,
+    "item_id": "ITEM_0332",
+    "item_name": "Lala Barina Floret+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 574,
+    "item_id": "ITEM_0600",
+    "item_name": "Vespoid Carapace",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 61,
+    "item_id": "ITEM_0082",
+    "item_name": "Colossal Bone",
+    "quantity": 4
+   }
+  ],
+  "_row": 88
+ },
+ {
+  "index": 88,
+  "data_id": 89,
+  "type": "A21F0E00",
+  "level": 1,
+  "name": "Sleep Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 505,
+    "item_id": "ITEM_0531",
+    "item_name": "Congalala Claw",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 504,
+    "item_id": "ITEM_0530",
+    "item_name": "Congalala Pelt",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 94,
+    "item_id": "ITEM_0117",
+    "item_name": "Bulaqchi Shell",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 89
+ },
+ {
+  "index": 89,
+  "data_id": 90,
+  "type": "A21F0E00",
+  "level": 2,
+  "name": "Sleep Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Nerscylla",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 515,
+    "item_id": "ITEM_0541",
+    "item_name": "Nerscylla Claw",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 514,
+    "item_id": "ITEM_0540",
+    "item_name": "Nerscylla Chelicera",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 498,
+    "item_id": "ITEM_0524",
+    "item_name": "Comaqchi Shell",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 587,
+    "item_id": "ITEM_0613",
+    "item_name": "Frozen Icebone",
+    "quantity": 3
+   }
+  ],
+  "_row": 90
+ },
+ {
+  "index": 90,
+  "data_id": 91,
+  "type": "A21F0E00",
+  "level": 3,
+  "name": "Sleep Charm III",
+  "key_item_data_id": 518,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 519,
+    "item_id": "ITEM_0545",
+    "item_name": "Nerscylla Claw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 480,
+    "item_id": "ITEM_0506",
+    "item_name": "Nerscylla Shear",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 499,
+    "item_id": "ITEM_0525",
+    "item_name": "Comaqchi Carapace",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 589,
+    "item_id": "ITEM_0615",
+    "item_name": "Quality Bone",
+    "quantity": 4
+   }
+  ],
+  "_row": 91
+ },
+ {
+  "index": 91,
+  "data_id": 92,
+  "type": "AE64CD80",
+  "level": 1,
+  "name": "Stun Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 82,
+    "item_id": "ITEM_0105",
+    "item_name": "Balahara Skull",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 80,
+    "item_id": "ITEM_0103",
+    "item_name": "Balahara Shell",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 95,
+    "item_id": "ITEM_0118",
+    "item_name": "Talioth Scale",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 92
+ },
+ {
+  "index": 92,
+  "data_id": 93,
+  "type": "AE64CD80",
+  "level": 2,
+  "name": "Stun Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 365,
+    "item_id": "ITEM_0391",
+    "item_name": "Ajarakan Ridge",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 364,
+    "item_id": "ITEM_0390",
+    "item_name": "Ajarakan Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 496,
+    "item_id": "ITEM_0522",
+    "item_name": "Kranodath Skull",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 59,
+    "item_id": "ITEM_0080",
+    "item_name": "Sturdy Bone",
+    "quantity": 2
+   }
+  ],
+  "_row": 93
+ },
+ {
+  "index": 93,
+  "data_id": 94,
+  "type": "AE64CD80",
+  "level": 3,
+  "name": "Stun Charm III",
+  "key_item_data_id": 313,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 314,
+    "item_id": "ITEM_0340",
+    "item_name": "Balahara Skull+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 313,
+    "item_id": "ITEM_0339",
+    "item_name": "Balahara Carapace",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 497,
+    "item_id": "ITEM_0523",
+    "item_name": "Kranodath Skull+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 62,
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": 4
+   }
+  ],
+  "_row": 94
+ },
+ {
+  "index": 94,
+  "data_id": 95,
+  "type": "A639B280",
+  "level": 1,
+  "name": "Blast Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 89,
+    "item_id": "ITEM_0112",
+    "item_name": "Quematrice Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 299,
+    "item_id": "ITEM_0325",
+    "item_name": "Quematrice Igniter",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 97,
+    "item_id": "ITEM_0120",
+    "item_name": "Wingdrake Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 95
+ },
+ {
+  "index": 95,
+  "data_id": 96,
+  "type": "A639B280",
+  "level": 2,
+  "name": "Blast Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 363,
+    "item_id": "ITEM_0389",
+    "item_name": "Ajarakan Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 365,
+    "item_id": "ITEM_0391",
+    "item_name": "Ajarakan Ridge",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 93,
+    "item_id": "ITEM_0116",
+    "item_name": "Herbivore Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 580,
+    "item_id": "ITEM_0606",
+    "item_name": "Firestone",
+    "quantity": 1
+   }
+  ],
+  "_row": 96
+ },
+ {
+  "index": 96,
+  "data_id": 97,
+  "type": "A639B280",
+  "level": 3,
+  "name": "Blast Charm III",
+  "key_item_data_id": 370,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 370,
+    "item_id": "ITEM_0396",
+    "item_name": "Ajarakan Scale+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 102,
+    "item_id": "ITEM_0125",
+    "item_name": "Rathian Scale+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 492,
+    "item_id": "ITEM_0518",
+    "item_name": "Wingdrake Hide+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 581,
+    "item_id": "ITEM_0607",
+    "item_name": "Firecell Stone",
+    "quantity": 1
+   }
+  ],
+  "_row": 97
+ },
+ {
+  "index": 97,
+  "data_id": 98,
+  "type": "75B62E00",
+  "level": 1,
+  "name": "Botany Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "97DC3400",
+  "materials": [
+   {
+    "item_data_id": 505,
+    "item_id": "ITEM_0531",
+    "item_name": "Congalala Claw",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 506,
+    "item_id": "ITEM_0532",
+    "item_name": "Congalala Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 571,
+    "item_id": "ITEM_0597",
+    "item_name": "Conga Pelt",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 98
+ },
+ {
+  "index": 98,
+  "data_id": 99,
+  "type": "75B62E00",
+  "level": 2,
+  "name": "Botany Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 515,
+    "item_id": "ITEM_0541",
+    "item_name": "Nerscylla Claw",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 504,
+    "item_id": "ITEM_0530",
+    "item_name": "Congalala Pelt",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 93,
+    "item_id": "ITEM_0116",
+    "item_name": "Herbivore Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 60,
+    "item_id": "ITEM_0081",
+    "item_name": "Brute Bone",
+    "quantity": 2
+   }
+  ],
+  "_row": 99
+ },
+ {
+  "index": 99,
+  "data_id": 100,
+  "type": "75B62E00",
+  "level": 3,
+  "name": "Botany Charm III",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 400,
+    "item_id": "ITEM_0426",
+    "item_name": "Guardian Rathalos Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 516,
+    "item_id": "ITEM_0542",
+    "item_name": "Nerscylla Spike",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 498,
+    "item_id": "ITEM_0524",
+    "item_name": "Comaqchi Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 586,
+    "item_id": "ITEM_0612",
+    "item_name": "Charred Oilbone",
+    "quantity": 2
+   }
+  ],
+  "_row": 100
+ },
+ {
+  "index": 100,
+  "data_id": 101,
+  "type": "75B62E00",
+  "level": 4,
+  "name": "Botany Charm IV",
+  "key_item_data_id": 518,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 520,
+    "item_id": "ITEM_0546",
+    "item_name": "Nerscylla Spike+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 511,
+    "item_id": "ITEM_0537",
+    "item_name": "Congalala Fang+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 572,
+    "item_id": "ITEM_0598",
+    "item_name": "Conga Pelt+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 62,
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": 1
+   }
+  ],
+  "_row": 101
+ },
+ {
+  "index": 101,
+  "data_id": 102,
+  "type": "7067B000",
+  "level": 1,
+  "name": "Geology Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "97DC3400",
+  "materials": [
+   {
+    "item_data_id": 81,
+    "item_id": "ITEM_0104",
+    "item_name": "Balahara Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 80,
+    "item_id": "ITEM_0103",
+    "item_name": "Balahara Shell",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 59,
+    "item_id": "ITEM_0080",
+    "item_name": "Sturdy Bone",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 102
+ },
+ {
+  "index": 102,
+  "data_id": 103,
+  "type": "7067B000",
+  "level": 2,
+  "name": "Geology Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 337,
+    "item_id": "ITEM_0363",
+    "item_name": "Rompopolo Claw",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 339,
+    "item_id": "ITEM_0365",
+    "item_name": "Rompopolo Beak",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 54,
+    "item_id": "ITEM_0075",
+    "item_name": "Machalite Ore",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 103
+ },
+ {
+  "index": 103,
+  "data_id": 104,
+  "type": "7067B000",
+  "level": 3,
+  "name": "Geology Charm III",
+  "key_item_data_id": 312,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 312,
+    "item_id": "ITEM_0338",
+    "item_name": "Balahara Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 314,
+    "item_id": "ITEM_0340",
+    "item_name": "Balahara Skull+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 579,
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 104
+ },
+ {
+  "index": 104,
+  "data_id": 105,
+  "type": "003E2F69",
+  "level": 1,
+  "name": "Breaker Charm I",
+  "key_item_data_id": 312,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 314,
+    "item_id": "ITEM_0340",
+    "item_name": "Balahara Skull+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 296,
+    "item_id": "ITEM_0322",
+    "item_name": "Chatacabra Carapace",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 494,
+    "item_id": "ITEM_0520",
+    "item_name": "Piragill Fin+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 105
+ },
+ {
+  "index": 105,
+  "data_id": 106,
+  "type": "003E2F69",
+  "level": 2,
+  "name": "Breaker Charm II",
+  "key_item_data_id": 347,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 349,
+    "item_id": "ITEM_0375",
+    "item_name": "Rey Dau Bolthorn",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 373,
+    "item_id": "ITEM_0399",
+    "item_name": "Ajarakan Jewel+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 497,
+    "item_id": "ITEM_0523",
+    "item_name": "Kranodath Skull+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 374,
+    "item_id": "ITEM_0400",
+    "item_name": "Ajarakan Medulla",
+    "quantity": 1
+   }
+  ],
+  "_row": 106
+ },
+ {
+  "index": 106,
+  "data_id": 107,
+  "type": "003E2F69",
+  "level": 3,
+  "name": "Breaker Charm III",
+  "key_item_data_id": 747,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 755,
+    "item_id": "ITEM_0780",
+    "item_name": "Heavy Drakesbone Oil",
+    "quantity": 8
+   },
+   {
+    "item_data_id": 750,
+    "item_id": "ITEM_0775",
+    "item_name": "Gogmazios Lacerator",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 464,
+    "item_id": "ITEM_0490",
+    "item_name": "Arkveld Horn+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 107
+ },
+ {
+  "index": 107,
+  "data_id": 108,
+  "type": "45E09300",
+  "level": 1,
+  "name": "Bombardier Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 364,
+    "item_id": "ITEM_0390",
+    "item_name": "Ajarakan Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 367,
+    "item_id": "ITEM_0393",
+    "item_name": "Ajarakan Jewel",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 496,
+    "item_id": "ITEM_0522",
+    "item_name": "Kranodath Skull",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 580,
+    "item_id": "ITEM_0606",
+    "item_name": "Firestone",
+    "quantity": 1
+   }
+  ],
+  "_row": 108
+ },
+ {
+  "index": 108,
+  "data_id": 109,
+  "type": "45E09300",
+  "level": 2,
+  "name": "Bombardier Charm II",
+  "key_item_data_id": 301,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 301,
+    "item_id": "ITEM_0327",
+    "item_name": "Quematrice Scale+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 303,
+    "item_id": "ITEM_0329",
+    "item_name": "Quematrice Igniter+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 497,
+    "item_id": "ITEM_0523",
+    "item_name": "Kranodath Skull+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 581,
+    "item_id": "ITEM_0607",
+    "item_name": "Firecell Stone",
+    "quantity": 1
+   }
+  ],
+  "_row": 109
+ },
+ {
+  "index": 109,
+  "data_id": 110,
+  "type": "45E09300",
+  "level": 3,
+  "name": "Bombardier Charm III",
+  "key_item_data_id": 371,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 371,
+    "item_id": "ITEM_0397",
+    "item_name": "Ajarakan Carapace",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 373,
+    "item_id": "ITEM_0399",
+    "item_name": "Ajarakan Jewel+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 594,
+    "item_id": "ITEM_0620",
+    "item_name": "Inferno Sac",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 110
+ },
+ {
+  "index": 110,
+  "data_id": 111,
+  "type": "1EB11940",
+  "level": 1,
+  "name": "Mushroom Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 514,
+    "item_id": "ITEM_0540",
+    "item_name": "Nerscylla Chelicera",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 505,
+    "item_id": "ITEM_0531",
+    "item_name": "Congalala Claw",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 571,
+    "item_id": "ITEM_0597",
+    "item_name": "Conga Pelt",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 586,
+    "item_id": "ITEM_0612",
+    "item_name": "Charred Oilbone",
+    "quantity": 2
+   }
+  ],
+  "_row": 111
+ },
+ {
+  "index": 111,
+  "data_id": 112,
+  "type": "1EB11940",
+  "level": 2,
+  "name": "Mushroom Charm II",
+  "key_item_data_id": 395,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 398,
+    "item_id": "ITEM_0424",
+    "item_name": "Guardian Doshaguma Fang+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 397,
+    "item_id": "ITEM_0423",
+    "item_name": "Guardian Doshaguma Claw+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 511,
+    "item_id": "ITEM_0537",
+    "item_name": "Congalala Fang+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 112
+ },
+ {
+  "index": 112,
+  "data_id": 113,
+  "type": "1EB11940",
+  "level": 3,
+  "name": "Mushroom Charm III",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 486,
+    "item_id": "ITEM_0512",
+    "item_name": "Guardian Fulgur Gem",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 334,
+    "item_id": "ITEM_0360",
+    "item_name": "Uth Duna Watergem",
+    "quantity": 1
+   }
+  ],
+  "_row": 113
+ },
+ {
+  "index": 113,
+  "data_id": 114,
+  "type": "EEB175A0",
+  "level": 1,
+  "name": "Extension Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 87,
+    "item_id": "ITEM_0110",
+    "item_name": "Chatacabra Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 85,
+    "item_id": "ITEM_0108",
+    "item_name": "Chatacabra Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 93,
+    "item_id": "ITEM_0116",
+    "item_name": "Herbivore Shell",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 53,
+    "item_id": "ITEM_0074",
+    "item_name": "Iron Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 114
+ },
+ {
+  "index": 114,
+  "data_id": 115,
+  "type": "EEB175A0",
+  "level": 2,
+  "name": "Extension Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 338,
+    "item_id": "ITEM_0364",
+    "item_name": "Spotted Poison Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 33,
+    "item_id": "ITEM_0032",
+    "item_name": "Doshaguma Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 94,
+    "item_id": "ITEM_0117",
+    "item_name": "Bulaqchi Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 115
+ },
+ {
+  "index": 115,
+  "data_id": 116,
+  "type": "EEB175A0",
+  "level": 3,
+  "name": "Extension Charm III",
+  "key_item_data_id": 293,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 293,
+    "item_id": "ITEM_0319",
+    "item_name": "Chatacabra Scale+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 294,
+    "item_id": "ITEM_0320",
+    "item_name": "Chatacabra Jaw+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 604,
+    "item_id": "ITEM_0630",
+    "item_name": "Lala Barina Mucus+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 579,
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": 1
+   }
+  ],
+  "_row": 116
+ },
+ {
+  "index": 116,
+  "data_id": 117,
+  "type": "E2503580",
+  "level": 1,
+  "name": "Friendship Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 336,
+    "item_id": "ITEM_0362",
+    "item_name": "Rompopolo Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 338,
+    "item_id": "ITEM_0364",
+    "item_name": "Spotted Poison Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 97,
+    "item_id": "ITEM_0120",
+    "item_name": "Wingdrake Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 57,
+    "item_id": "ITEM_0078",
+    "item_name": "Earth Crystal",
+    "quantity": 2
+   }
+  ],
+  "_row": 117
+ },
+ {
+  "index": 117,
+  "data_id": 118,
+  "type": "E2503580",
+  "level": 2,
+  "name": "Friendship Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 354,
+    "item_id": "ITEM_0380",
+    "item_name": "Hirabami Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 356,
+    "item_id": "ITEM_0382",
+    "item_name": "Hirabami Tail Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 93,
+    "item_id": "ITEM_0116",
+    "item_name": "Herbivore Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 54,
+    "item_id": "ITEM_0075",
+    "item_name": "Machalite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 118
+ },
+ {
+  "index": 118,
+  "data_id": 119,
+  "type": "E2503580",
+  "level": 3,
+  "name": "Friendship Charm III",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 400,
+    "item_id": "ITEM_0426",
+    "item_name": "Guardian Rathalos Scale",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 403,
+    "item_id": "ITEM_0429",
+    "item_name": "Guardian Rathalos Tail",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 498,
+    "item_id": "ITEM_0524",
+    "item_name": "Comaqchi Shell",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 119
+ },
+ {
+  "index": 119,
+  "data_id": 120,
+  "type": "E2503580",
+  "level": 4,
+  "name": "Friendship Charm IV",
+  "key_item_data_id": 358,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 361,
+    "item_id": "ITEM_0387",
+    "item_name": "Hirabami Tail Claw+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 343,
+    "item_id": "ITEM_0369",
+    "item_name": "Spotted Poison Hide+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 492,
+    "item_id": "ITEM_0518",
+    "item_name": "Wingdrake Hide+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 120
+ },
+ {
+  "index": 120,
+  "data_id": 121,
+  "type": "E2503580",
+  "level": 5,
+  "name": "Friendship Charm V",
+  "key_item_data_id": 1,
+  "key_monster": "Lagiacrus",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 731,
+    "item_id": "ITEM_0756",
+    "item_name": "Lagiacrus Hide+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 732,
+    "item_id": "ITEM_0757",
+    "item_name": "Lagiacrus Shockspike",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 735,
+    "item_id": "ITEM_0760",
+    "item_name": "Lagiacrus Claw+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 736,
+    "item_id": "ITEM_0761",
+    "item_name": "Lagiacrus Sapphire",
+    "quantity": 1
+   }
+  ],
+  "_row": 121
+ },
+ {
+  "index": 121,
+  "data_id": 122,
+  "type": "9A14C400",
+  "level": 1,
+  "name": "Light Eater's Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 393,
+    "item_id": "ITEM_0419",
+    "item_name": "Guardian Doshaguma Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 35,
+    "item_id": "ITEM_0034",
+    "item_name": "Doshaguma Claw",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 95,
+    "item_id": "ITEM_0118",
+    "item_name": "Talioth Scale",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 60,
+    "item_id": "ITEM_0081",
+    "item_name": "Brute Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 122
+ },
+ {
+  "index": 122,
+  "data_id": 123,
+  "type": "9A14C400",
+  "level": 2,
+  "name": "Light Eater's Charm II",
+  "key_item_data_id": 509,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 509,
+    "item_id": "ITEM_0535",
+    "item_name": "Congalala Pelt+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 511,
+    "item_id": "ITEM_0537",
+    "item_name": "Congalala Fang+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 572,
+    "item_id": "ITEM_0598",
+    "item_name": "Conga Pelt+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 589,
+    "item_id": "ITEM_0615",
+    "item_name": "Quality Bone",
+    "quantity": 1
+   }
+  ],
+  "_row": 123
+ },
+ {
+  "index": 123,
+  "data_id": 124,
+  "type": "9A14C400",
+  "level": 3,
+  "name": "Light Eater's Charm III",
+  "key_item_data_id": 317,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 317,
+    "item_id": "ITEM_0343",
+    "item_name": "Doshaguma Fur+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 319,
+    "item_id": "ITEM_0345",
+    "item_name": "Doshaguma Claw+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 370,
+    "item_id": "ITEM_0396",
+    "item_name": "Ajarakan Scale+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 62,
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": 1
+   }
+  ],
+  "_row": 124
+ },
+ {
+  "index": 124,
+  "data_id": 125,
+  "type": "98081380",
+  "level": 1,
+  "name": "Grit Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 390,
+    "item_id": "ITEM_0416",
+    "item_name": "Guardian Doshaguma Fur",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 392,
+    "item_id": "ITEM_0418",
+    "item_name": "Guardian Doshaguma Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 502,
+    "item_id": "ITEM_0528",
+    "item_name": "Guardian Seikret Feather",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 125
+ },
+ {
+  "index": 125,
+  "data_id": 126,
+  "type": "98081380",
+  "level": 2,
+  "name": "Grit Charm II",
+  "key_item_data_id": 395,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 395,
+    "item_id": "ITEM_0421",
+    "item_name": "Guardian Doshaguma Fur+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 397,
+    "item_id": "ITEM_0423",
+    "item_name": "Guardian Doshaguma Claw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 503,
+    "item_id": "ITEM_0529",
+    "item_name": "Guardian Seikret Feather+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 581,
+    "item_id": "ITEM_0607",
+    "item_name": "Firecell Stone",
+    "quantity": 1
+   }
+  ],
+  "_row": 126
+ },
+ {
+  "index": 126,
+  "data_id": 127,
+  "type": "98081380",
+  "level": 3,
+  "name": "Grit Charm III",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 349,
+    "item_id": "ITEM_0375",
+    "item_name": "Rey Dau Bolthorn",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 450,
+    "item_id": "ITEM_0476",
+    "item_name": "Xu Wu Claw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 452,
+    "item_id": "ITEM_0478",
+    "item_name": "Xu Wu Umbragem",
+    "quantity": 1
+   }
+  ],
+  "_row": 127
+ },
+ {
+  "index": 127,
+  "data_id": 128,
+  "type": "98081380",
+  "level": 4,
+  "name": "Grit Charm IV",
+  "key_item_data_id": 661,
+  "key_monster": "Seregios",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 549,
+    "item_id": "ITEM_0575",
+    "item_name": "Seregios Airblade",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 552,
+    "item_id": "ITEM_0578",
+    "item_name": "Seregios Breacher",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 554,
+    "item_id": "ITEM_0580",
+    "item_name": "Seregios Dissenter",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 351,
+    "item_id": "ITEM_0377",
+    "item_name": "Rey Dau Boltgem",
+    "quantity": 1
+   }
+  ],
+  "_row": 128
+ },
+ {
+  "index": 128,
+  "data_id": 129,
+  "type": "1E6E1F00",
+  "level": 1,
+  "name": "Impact Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 88,
+    "item_id": "ITEM_0111",
+    "item_name": "Quematrice Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 89,
+    "item_id": "ITEM_0112",
+    "item_name": "Quematrice Hide",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 496,
+    "item_id": "ITEM_0522",
+    "item_name": "Kranodath Skull",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 53,
+    "item_id": "ITEM_0074",
+    "item_name": "Iron Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 129
+ },
+ {
+  "index": 129,
+  "data_id": 130,
+  "type": "1E6E1F00",
+  "level": 2,
+  "name": "Impact Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "D9C1E4C0",
+  "materials": [
+   {
+    "item_data_id": 401,
+    "item_id": "ITEM_0427",
+    "item_name": "Guardian Rathalos Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 402,
+    "item_id": "ITEM_0428",
+    "item_name": "Guardian Rathalos Webbing",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 493,
+    "item_id": "ITEM_0519",
+    "item_name": "Piragill Fin",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 54,
+    "item_id": "ITEM_0075",
+    "item_name": "Machalite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 130
+ },
+ {
+  "index": 130,
+  "data_id": 131,
+  "type": "1E6E1F00",
+  "level": 3,
+  "name": "Impact Charm III",
+  "key_item_data_id": 301,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 301,
+    "item_id": "ITEM_0327",
+    "item_name": "Quematrice Scale+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 304,
+    "item_id": "ITEM_0330",
+    "item_name": "Quematrice Crest+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 494,
+    "item_id": "ITEM_0520",
+    "item_name": "Piragill Fin+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 62,
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": 1
+   }
+  ],
+  "_row": 131
+ },
+ {
+  "index": 131,
+  "data_id": 132,
+  "type": "93DB8E00",
+  "level": 1,
+  "name": "Hungerless Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "97DC3400",
+  "materials": [
+   {
+    "item_data_id": 81,
+    "item_id": "ITEM_0104",
+    "item_name": "Balahara Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 83,
+    "item_id": "ITEM_0106",
+    "item_name": "Balahara Tail",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 96,
+    "item_id": "ITEM_0119",
+    "item_name": "Sharp Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 132
+ },
+ {
+  "index": 132,
+  "data_id": 133,
+  "type": "93DB8E00",
+  "level": 2,
+  "name": "Hungerless Charm II",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 353,
+    "item_id": "ITEM_0379",
+    "item_name": "Hirabami Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 355,
+    "item_id": "ITEM_0381",
+    "item_name": "Hirabami Webbing",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 95,
+    "item_id": "ITEM_0118",
+    "item_name": "Talioth Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 587,
+    "item_id": "ITEM_0613",
+    "item_name": "Frozen Icebone",
+    "quantity": 2
+   }
+  ],
+  "_row": 133
+ },
+ {
+  "index": 133,
+  "data_id": 134,
+  "type": "93DB8E00",
+  "level": 3,
+  "name": "Hungerless Charm III",
+  "key_item_data_id": 293,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 293,
+    "item_id": "ITEM_0319",
+    "item_name": "Chatacabra Scale+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 296,
+    "item_id": "ITEM_0322",
+    "item_name": "Chatacabra Carapace",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 511,
+    "item_id": "ITEM_0537",
+    "item_name": "Congalala Fang+",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 62,
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": 1
+   }
+  ],
+  "_row": 134
+ },
+ {
+  "index": 134,
+  "data_id": 135,
+  "type": "D209A9C0",
+  "level": 1,
+  "name": "Counter Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Rathian",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 104,
+    "item_id": "ITEM_0127",
+    "item_name": "Rathian Webbing",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 531,
+    "item_id": "ITEM_0557",
+    "item_name": "Gypceros Head",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 491,
+    "item_id": "ITEM_0517",
+    "item_name": "Talioth Scale+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 534,
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 135
+ },
+ {
+  "index": 135,
+  "data_id": 136,
+  "type": "D209A9C0",
+  "level": 2,
+  "name": "Counter Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Blangonga",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 537,
+    "item_id": "ITEM_0563",
+    "item_name": "Blangonga Pelt+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 539,
+    "item_id": "ITEM_0565",
+    "item_name": "Blangonga Whisker",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 577,
+    "item_id": "ITEM_0603",
+    "item_name": "Blango Pelt+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 136
+ },
+ {
+  "index": 136,
+  "data_id": 137,
+  "type": "D209A9C0",
+  "level": 3,
+  "name": "Counter Charm III",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 385,
+    "item_id": "ITEM_0411",
+    "item_name": "Nu Udra Horn+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 408,
+    "item_id": "ITEM_0434",
+    "item_name": "Guardian Rathalos Wing",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 560,
+    "item_id": "ITEM_0586",
+    "item_name": "Rathalos Ruby",
+    "quantity": 1
+   }
+  ],
+  "_row": 137
+ },
+ {
+  "index": 137,
+  "data_id": 138,
+  "type": "77E10F00",
+  "level": 1,
+  "name": "Foray Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Rompopolo",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 338,
+    "item_id": "ITEM_0364",
+    "item_name": "Spotted Poison Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 277,
+    "item_id": "ITEM_0303",
+    "item_name": "Lala Barina Floret",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 575,
+    "item_id": "ITEM_0601",
+    "item_name": "Vespoid Wing",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 57,
+    "item_id": "ITEM_0078",
+    "item_name": "Earth Crystal",
+    "quantity": 2
+   }
+  ],
+  "_row": 138
+ },
+ {
+  "index": 138,
+  "data_id": 139,
+  "type": "77E10F00",
+  "level": 2,
+  "name": "Foray Charm II",
+  "key_item_data_id": 660,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 544,
+    "item_id": "ITEM_0570",
+    "item_name": "Gravios Pleura+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 105,
+    "item_id": "ITEM_0128",
+    "item_name": "Rathian Spike+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 106,
+    "item_id": "ITEM_0129",
+    "item_name": "Rathian Ruby",
+    "quantity": 1
+   }
+  ],
+  "_row": 139
+ },
+ {
+  "index": 139,
+  "data_id": 140,
+  "type": "77E10F00",
+  "level": 3,
+  "name": "Foray Charm III",
+  "key_item_data_id": 737,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 737,
+    "item_id": "ITEM_0762",
+    "item_name": "Omega Data 1.0",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 741,
+    "item_id": "ITEM_0766",
+    "item_name": "Omega Lens",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 736,
+    "item_id": "ITEM_0761",
+    "item_name": "Lagiacrus Sapphire",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 744,
+    "item_id": "ITEM_0769",
+    "item_name": "Omega Nodule",
+    "quantity": 1
+   }
+  ],
+  "_row": 140
+ },
+ {
+  "index": 140,
+  "data_id": 141,
+  "type": "428FA680",
+  "level": 1,
+  "name": "Phoenix Charm I",
+  "key_item_data_id": 406,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 408,
+    "item_id": "ITEM_0434",
+    "item_name": "Guardian Rathalos Wing",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 449,
+    "item_id": "ITEM_0475",
+    "item_name": "Xu Wu Tentacle+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 503,
+    "item_id": "ITEM_0529",
+    "item_name": "Guardian Seikret Feather+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 141
+ },
+ {
+  "index": 141,
+  "data_id": 142,
+  "type": "428FA680",
+  "level": 2,
+  "name": "Phoenix Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Gore Magala",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 562,
+    "item_id": "ITEM_0588",
+    "item_name": "Gore Magala Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 564,
+    "item_id": "ITEM_0590",
+    "item_name": "Gore Magala Wing+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 567,
+    "item_id": "ITEM_0593",
+    "item_name": "Gore Magala Feeler+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 568,
+    "item_id": "ITEM_0594",
+    "item_name": "Gore Magala Nyctgem",
+    "quantity": 1
+   }
+  ],
+  "_row": 142
+ },
+ {
+  "index": 142,
+  "data_id": 143,
+  "type": "428FA680",
+  "level": 3,
+  "name": "Phoenix Charm III",
+  "key_item_data_id": 761,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 761,
+    "item_id": "ITEM_0786",
+    "item_name": "Jin Dahaad Certificate γ",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 421,
+    "item_id": "ITEM_0447",
+    "item_name": "Jin Dahaad Iceplate",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 423,
+    "item_id": "ITEM_0449",
+    "item_name": "Jin Dahaad Horn",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 424,
+    "item_id": "ITEM_0450",
+    "item_name": "Jin Dahaad Icegem",
+    "quantity": 1
+   }
+  ],
+  "_row": 143
+ },
+ {
+  "index": 143,
+  "data_id": 144,
+  "type": "7C8CAF80",
+  "level": 1,
+  "name": "Chain Charm I",
+  "key_item_data_id": 518,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 480,
+    "item_id": "ITEM_0506",
+    "item_name": "Nerscylla Shear",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 519,
+    "item_id": "ITEM_0545",
+    "item_name": "Nerscylla Claw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 510,
+    "item_id": "ITEM_0536",
+    "item_name": "Congalala Claw+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 144
+ },
+ {
+  "index": 144,
+  "data_id": 145,
+  "type": "7C8CAF80",
+  "level": 2,
+  "name": "Chain Charm II",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 437,
+    "item_id": "ITEM_0463",
+    "item_name": "Guardian Ebony Gem",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 388,
+    "item_id": "ITEM_0414",
+    "item_name": "Nu Udra Flamegem",
+    "quantity": 1
+   }
+  ],
+  "_row": 145
+ },
+ {
+  "index": 145,
+  "data_id": 146,
+  "type": "7C8CAF80",
+  "level": 3,
+  "name": "Chain Charm III",
+  "key_item_data_id": 737,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 737,
+    "item_id": "ITEM_0762",
+    "item_name": "Omega Data 1.0",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 743,
+    "item_id": "ITEM_0768",
+    "item_name": "Omega Axle",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 554,
+    "item_id": "ITEM_0580",
+    "item_name": "Seregios Dissenter",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 744,
+    "item_id": "ITEM_0769",
+    "item_name": "Omega Nodule",
+    "quantity": 1
+   }
+  ],
+  "_row": 146
+ },
+ {
+  "index": 146,
+  "data_id": 147,
+  "type": "2B6F4C00",
+  "level": 1,
+  "name": "Counterattack Charm I",
+  "key_item_data_id": 358,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 360,
+    "item_id": "ITEM_0386",
+    "item_name": "Hirabami Webbing+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 361,
+    "item_id": "ITEM_0387",
+    "item_name": "Hirabami Tail Claw+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 309,
+    "item_id": "ITEM_0335",
+    "item_name": "Lala Barina Stinger+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 147
+ },
+ {
+  "index": 147,
+  "data_id": 148,
+  "type": "2B6F4C00",
+  "level": 2,
+  "name": "Counterattack Charm II",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 660,
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 560,
+    "item_id": "ITEM_0586",
+    "item_name": "Rathalos Ruby",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 568,
+    "item_id": "ITEM_0594",
+    "item_name": "Gore Magala Nyctgem",
+    "quantity": 1
+   }
+  ],
+  "_row": 148
+ },
+ {
+  "index": 148,
+  "data_id": 149,
+  "type": "2B6F4C00",
+  "level": 3,
+  "name": "Counterattack Charm III",
+  "key_item_data_id": 661,
+  "key_monster": "Seregios",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 550,
+    "item_id": "ITEM_0576",
+    "item_name": "Seregios Carver",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 551,
+    "item_id": "ITEM_0577",
+    "item_name": "Seregios Impaler",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 465,
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 149
+ },
+ {
+  "index": 149,
+  "data_id": 150,
+  "type": "4F24B200",
+  "level": 1,
+  "name": "Descent Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Xu Wu",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 441,
+    "item_id": "ITEM_0467",
+    "item_name": "Golden Corneum",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 442,
+    "item_id": "ITEM_0468",
+    "item_name": "Xu Wu Tentacle",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 444,
+    "item_id": "ITEM_0470",
+    "item_name": "Xu Wu Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 580,
+    "item_id": "ITEM_0606",
+    "item_name": "Firestone",
+    "quantity": 1
+   }
+  ],
+  "_row": 150
+ },
+ {
+  "index": 150,
+  "data_id": 151,
+  "type": "4F24B200",
+  "level": 2,
+  "name": "Descent Charm II",
+  "key_item_data_id": 447,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 448,
+    "item_id": "ITEM_0474",
+    "item_name": "Golden Corneum+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 449,
+    "item_id": "ITEM_0475",
+    "item_name": "Xu Wu Tentacle+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 451,
+    "item_id": "ITEM_0477",
+    "item_name": "Xu Wu Fang+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 452,
+    "item_id": "ITEM_0478",
+    "item_name": "Xu Wu Umbragem",
+    "quantity": 1
+   }
+  ],
+  "_row": 151
+ },
+ {
+  "index": 151,
+  "data_id": 152,
+  "type": "4F24B200",
+  "level": 3,
+  "name": "Descent Charm III",
+  "key_item_data_id": 760,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 760,
+    "item_id": "ITEM_0785",
+    "item_name": "Nu Udra Certificate γ",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 384,
+    "item_id": "ITEM_0410",
+    "item_name": "Nu Udra Spike+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 385,
+    "item_id": "ITEM_0411",
+    "item_name": "Nu Udra Horn+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 388,
+    "item_id": "ITEM_0414",
+    "item_name": "Nu Udra Flamegem",
+    "quantity": 1
+   }
+  ],
+  "_row": 152
+ },
+ {
+  "index": 152,
+  "data_id": 153,
+  "type": "463F0800",
+  "level": 1,
+  "name": "Bleed Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Guardian Ebony Odogaron",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 427,
+    "item_id": "ITEM_0453",
+    "item_name": "Guardian Ebony Sinew",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 426,
+    "item_id": "ITEM_0452",
+    "item_name": "Guardian Ebony Scale",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 95,
+    "item_id": "ITEM_0118",
+    "item_name": "Talioth Scale",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 53,
+    "item_id": "ITEM_0074",
+    "item_name": "Iron Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 153
+ },
+ {
+  "index": 153,
+  "data_id": 154,
+  "type": "463F0800",
+  "level": 2,
+  "name": "Bleed Charm II",
+  "key_item_data_id": 359,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 359,
+    "item_id": "ITEM_0385",
+    "item_name": "Hirabami Hide+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 360,
+    "item_id": "ITEM_0386",
+    "item_name": "Hirabami Webbing+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 577,
+    "item_id": "ITEM_0603",
+    "item_name": "Blango Pelt+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 4
+   }
+  ],
+  "_row": 154
+ },
+ {
+  "index": 154,
+  "data_id": 155,
+  "type": "463F0800",
+  "level": 3,
+  "name": "Bleed Charm III",
+  "key_item_data_id": 433,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 433,
+    "item_id": "ITEM_0459",
+    "item_name": "Guardian Ebony Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 434,
+    "item_id": "ITEM_0460",
+    "item_name": "Guardian Ebony Sinew+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 503,
+    "item_id": "ITEM_0529",
+    "item_name": "Guardian Seikret Feather+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 155
+ },
+ {
+  "index": 155,
+  "data_id": 156,
+  "type": "4E656080",
+  "level": 1,
+  "name": "Guard Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 33,
+    "item_id": "ITEM_0032",
+    "item_name": "Doshaguma Hide",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 36,
+    "item_id": "ITEM_0035",
+    "item_name": "Doshaguma Fang",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 493,
+    "item_id": "ITEM_0519",
+    "item_name": "Piragill Fin",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 53,
+    "item_id": "ITEM_0074",
+    "item_name": "Iron Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 156
+ },
+ {
+  "index": 156,
+  "data_id": 157,
+  "type": "4E656080",
+  "level": 2,
+  "name": "Guard Charm II",
+  "key_item_data_id": 312,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 312,
+    "item_id": "ITEM_0338",
+    "item_name": "Balahara Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 314,
+    "item_id": "ITEM_0340",
+    "item_name": "Balahara Skull+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 494,
+    "item_id": "ITEM_0520",
+    "item_name": "Piragill Fin+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 4
+   }
+  ],
+  "_row": 157
+ },
+ {
+  "index": 157,
+  "data_id": 158,
+  "type": "4E656080",
+  "level": 3,
+  "name": "Guard Charm III",
+  "key_item_data_id": 396,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 396,
+    "item_id": "ITEM_0422",
+    "item_name": "Guardian Doshaguma Hide+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 398,
+    "item_id": "ITEM_0424",
+    "item_name": "Guardian Doshaguma Fang+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 503,
+    "item_id": "ITEM_0529",
+    "item_name": "Guardian Seikret Feather+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 158
+ },
+ {
+  "index": 159,
+  "data_id": 160,
+  "type": "BA24B200",
+  "level": 1,
+  "name": "Survival Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 277,
+    "item_id": "ITEM_0303",
+    "item_name": "Lala Barina Floret",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 273,
+    "item_id": "ITEM_0299",
+    "item_name": "Lala Barina Shell",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 573,
+    "item_id": "ITEM_0599",
+    "item_name": "Vespoid Shell",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 1,
+    "item_id": "NONE",
+    "item_name": "---",
+    "quantity": null
+   }
+  ],
+  "_row": 159
+ },
+ {
+  "index": 160,
+  "data_id": 161,
+  "type": "BA24B200",
+  "level": 2,
+  "name": "Survival Charm II",
+  "key_item_data_id": 306,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 306,
+    "item_id": "ITEM_0332",
+    "item_name": "Lala Barina Floret+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 307,
+    "item_id": "ITEM_0333",
+    "item_name": "Lala Barina Carapace",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 487,
+    "item_id": "ITEM_0513",
+    "item_name": "Herbivore Carapace",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 4
+   }
+  ],
+  "_row": 160
+ },
+ {
+  "index": 161,
+  "data_id": 162,
+  "type": "BA24B200",
+  "level": 3,
+  "name": "Survival Charm III",
+  "key_item_data_id": 1,
+  "key_monster": "Blangonga",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 537,
+    "item_id": "ITEM_0563",
+    "item_name": "Blangonga Pelt+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 538,
+    "item_id": "ITEM_0564",
+    "item_name": "Blangonga Fang+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 576,
+    "item_id": "ITEM_0602",
+    "item_name": "Vespoid Innerwing",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 62,
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": 1
+   }
+  ],
+  "_row": 161
+ },
+ {
+  "index": 162,
+  "data_id": 163,
+  "type": "8ECA0100",
+  "level": 1,
+  "name": "Maintenance Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 322,
+    "item_id": "ITEM_0348",
+    "item_name": "Uth Duna Scale",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 324,
+    "item_id": "ITEM_0350",
+    "item_name": "Uth Duna Cilia",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 493,
+    "item_id": "ITEM_0519",
+    "item_name": "Piragill Fin",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 54,
+    "item_id": "ITEM_0075",
+    "item_name": "Machalite Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 162
+ },
+ {
+  "index": 163,
+  "data_id": 164,
+  "type": "8ECA0100",
+  "level": 2,
+  "name": "Maintenance Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Gravios",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 542,
+    "item_id": "ITEM_0568",
+    "item_name": "Gravios Carapace",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 543,
+    "item_id": "ITEM_0569",
+    "item_name": "Gravios Skull",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 512,
+    "item_id": "ITEM_0538",
+    "item_name": "Vibrant Pelt+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 545,
+    "item_id": "ITEM_0571",
+    "item_name": "Gravios Medulla",
+    "quantity": 1
+   }
+  ],
+  "_row": 163
+ },
+ {
+  "index": 164,
+  "data_id": 165,
+  "type": "8ECA0100",
+  "level": 3,
+  "name": "Maintenance Charm III",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 329,
+    "item_id": "ITEM_0355",
+    "item_name": "Uth Duna Scale+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 332,
+    "item_id": "ITEM_0358",
+    "item_name": "Uth Duna Tentacle+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 334,
+    "item_id": "ITEM_0360",
+    "item_name": "Uth Duna Watergem",
+    "quantity": 1
+   }
+  ],
+  "_row": 164
+ },
+ {
+  "index": 166,
+  "data_id": 166,
+  "type": "1C83BA80",
+  "level": 1,
+  "name": "Intimidator Charm I",
+  "key_item_data_id": 1,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 34,
+    "item_id": "ITEM_0033",
+    "item_name": "Doshaguma Fur",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 35,
+    "item_id": "ITEM_0034",
+    "item_name": "Doshaguma Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 489,
+    "item_id": "ITEM_0515",
+    "item_name": "Monster Fluid",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 53,
+    "item_id": "ITEM_0074",
+    "item_name": "Iron Ore",
+    "quantity": 2
+   }
+  ],
+  "_row": 165
+ },
+ {
+  "index": 167,
+  "data_id": 167,
+  "type": "1C83BA80",
+  "level": 2,
+  "name": "Intimidator Charm II",
+  "key_item_data_id": 1,
+  "key_monster": "Rathian",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 102,
+    "item_id": "ITEM_0125",
+    "item_name": "Rathian Scale+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 104,
+    "item_id": "ITEM_0127",
+    "item_name": "Rathian Webbing",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 490,
+    "item_id": "ITEM_0516",
+    "item_name": "Monster Broth",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 4
+   }
+  ],
+  "_row": 166
+ },
+ {
+  "index": 168,
+  "data_id": 168,
+  "type": "1C83BA80",
+  "level": 3,
+  "name": "Intimidator Charm III",
+  "key_item_data_id": 406,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 406,
+    "item_id": "ITEM_0432",
+    "item_name": "Guardian Rathalos Scale+",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 408,
+    "item_id": "ITEM_0434",
+    "item_name": "Guardian Rathalos Wing",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 403,
+    "item_id": "ITEM_0429",
+    "item_name": "Guardian Rathalos Tail",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 581,
+    "item_id": "ITEM_0607",
+    "item_name": "Firecell Stone",
+    "quantity": 2
+   }
+  ],
+  "_row": 167
+ },
+ {
+  "index": 169,
+  "data_id": 169,
+  "type": "61636500",
+  "level": 1,
+  "name": "Escape Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Nerscylla",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 513,
+    "item_id": "ITEM_0539",
+    "item_name": "Nerscylla Shell",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 515,
+    "item_id": "ITEM_0541",
+    "item_name": "Nerscylla Claw",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 573,
+    "item_id": "ITEM_0599",
+    "item_name": "Vespoid Shell",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 57,
+    "item_id": "ITEM_0078",
+    "item_name": "Earth Crystal",
+    "quantity": 2
+   }
+  ],
+  "_row": 168
+ },
+ {
+  "index": 170,
+  "data_id": 170,
+  "type": "61636500",
+  "level": 2,
+  "name": "Escape Charm II",
+  "key_item_data_id": 433,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 434,
+    "item_id": "ITEM_0460",
+    "item_name": "Guardian Ebony Sinew+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 435,
+    "item_id": "ITEM_0461",
+    "item_name": "Guardian Ebony Claw+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 520,
+    "item_id": "ITEM_0546",
+    "item_name": "Nerscylla Spike+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 4
+   }
+  ],
+  "_row": 169
+ },
+ {
+  "index": 171,
+  "data_id": 171,
+  "type": "61636500",
+  "level": 3,
+  "name": "Escape Charm III",
+  "key_item_data_id": 419,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 421,
+    "item_id": "ITEM_0447",
+    "item_name": "Jin Dahaad Iceplate",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 422,
+    "item_id": "ITEM_0448",
+    "item_name": "Jin Dahaad Claw+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 538,
+    "item_id": "ITEM_0564",
+    "item_name": "Blangonga Fang+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 600,
+    "item_id": "ITEM_0626",
+    "item_name": "Freezer Sac",
+    "quantity": 4
+   }
+  ],
+  "_row": 170
+ },
+ {
+  "index": 172,
+  "data_id": 172,
+  "type": "361B2B00",
+  "level": 1,
+  "name": "Chainblade Charm I",
+  "key_item_data_id": 1,
+  "key_monster": "Guardian Arkveld",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 607,
+    "item_id": "ITEM_0633",
+    "item_name": "Guardian Blood",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 454,
+    "item_id": "ITEM_0480",
+    "item_name": "Guardian Scale",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 664,
+    "item_id": "ITEM_0690",
+    "item_name": "Guardian Pelt",
+    "quantity": 1
+   },
+   {
+    "item_data_id": 502,
+    "item_id": "ITEM_0528",
+    "item_name": "Guardian Seikret Feather",
+    "quantity": 1
+   }
+  ],
+  "_row": 171
+ },
+ {
+  "index": 173,
+  "data_id": 173,
+  "type": "361B2B00",
+  "level": 2,
+  "name": "Chainblade Charm II",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 460,
+    "item_id": "ITEM_0486",
+    "item_name": "Arkveld Armorplate",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 463,
+    "item_id": "ITEM_0489",
+    "item_name": "Arkveld Calloushell",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 465,
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 172
+ },
+ {
+  "index": 176,
+  "data_id": 176,
+  "type": "50CCF100",
+  "level": 1,
+  "name": "Imbibe Charm I",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 462,
+    "item_id": "ITEM_0488",
+    "item_name": "White Arkveld Pelt",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 456,
+    "item_id": "ITEM_0482",
+    "item_name": "Arkveld Tail",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 465,
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 173
+ },
+ {
+  "index": 177,
+  "data_id": 177,
+  "type": "50CCF100",
+  "level": 2,
+  "name": "Imbibe Charm II",
+  "key_item_data_id": 459,
+  "key_monster": "Lagiacrus",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 463,
+    "item_id": "ITEM_0489",
+    "item_name": "Arkveld Calloushell",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 732,
+    "item_id": "ITEM_0757",
+    "item_name": "Lagiacrus Shockspike",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 736,
+    "item_id": "ITEM_0761",
+    "item_name": "Lagiacrus Sapphire",
+    "quantity": 1
+   }
+  ],
+  "_row": 174
+ },
+ {
+  "index": 178,
+  "data_id": 178,
+  "type": "4A53E700",
+  "level": 1,
+  "name": "Convert Charm I",
+  "key_item_data_id": 661,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 661,
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 459,
+    "item_id": "ITEM_0485",
+    "item_name": "Arkveld Scale+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 464,
+    "item_id": "ITEM_0490",
+    "item_name": "Arkveld Horn+",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 465,
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": 1
+   }
+  ],
+  "_row": 175
+ },
+ {
+  "index": 179,
+  "data_id": 179,
+  "type": "4A53E700",
+  "level": 2,
+  "name": "Convert Charm II",
+  "key_item_data_id": 711,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 712,
+    "item_id": "ITEM_0738",
+    "item_name": "Zoh Shia Layershell",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 714,
+    "item_id": "ITEM_0740",
+    "item_name": "Zoh Shia Crystalhorn",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 715,
+    "item_id": "ITEM_0741",
+    "item_name": "Zoh Shia Crystaltail",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 717,
+    "item_id": "ITEM_0743",
+    "item_name": "Faux Whitegleam Orb",
+    "quantity": 1
+   }
+  ],
+  "_row": 176
+ },
+ {
+  "index": 180,
+  "data_id": 180,
+  "type": "15E71580",
+  "level": 1,
+  "name": "Sanity Charm I",
+  "key_item_data_id": 418,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 418,
+    "item_id": "ITEM_0444",
+    "item_name": "Frenzy Shard",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 480,
+    "item_id": "ITEM_0506",
+    "item_name": "Nerscylla Shear",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 361,
+    "item_id": "ITEM_0387",
+    "item_name": "Hirabami Tail Claw+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 56,
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": 4
+   }
+  ],
+  "_row": 177
+ },
+ {
+  "index": 181,
+  "data_id": 181,
+  "type": "15E71580",
+  "level": 2,
+  "name": "Sanity Charm II",
+  "key_item_data_id": 570,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 570,
+    "item_id": "ITEM_0596",
+    "item_name": "Frenzy Crystal",
+    "quantity": 5
+   },
+   {
+    "item_data_id": 537,
+    "item_id": "ITEM_0563",
+    "item_name": "Blangonga Pelt+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 539,
+    "item_id": "ITEM_0565",
+    "item_name": "Blangonga Whisker",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 579,
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": 1
+   }
+  ],
+  "_row": 178
+ },
+ {
+  "index": 182,
+  "data_id": 182,
+  "type": "15E71580",
+  "level": 3,
+  "name": "Sanity Charm III",
+  "key_item_data_id": 1,
+  "key_monster": "Gore Magala",
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 562,
+    "item_id": "ITEM_0588",
+    "item_name": "Gore Magala Scale+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 565,
+    "item_id": "ITEM_0591",
+    "item_name": "Gore Magala Ripclaw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 567,
+    "item_id": "ITEM_0593",
+    "item_name": "Gore Magala Feeler+",
+    "quantity": 2
+   },
+   {
+    "item_data_id": 568,
+    "item_id": "ITEM_0594",
+    "item_name": "Gore Magala Nyctgem",
+    "quantity": 1
+   }
+  ],
+  "_row": 179
+ },
+ {
+  "index": 165,
+  "data_id": 1000,
+  "type": "8ECA0100",
+  "level": 4,
+  "name": "Maintenance Charm IV",
+  "key_item_data_id": 759,
+  "key_monster": null,
+  "key_story": "00000000",
+  "materials": [
+   {
+    "item_data_id": 759,
+    "item_id": "ITEM_0784",
+    "item_name": "Uth Duna Certificate γ",
+    "quantity": 3
+   },
+   {
+    "item_data_id": 330,
+    "item_id": "ITEM_0356",
+    "item_name": "Uth Duna Hide+",
+    "quantity": 6
+   },
+   {
+    "item_data_id": 333,
+    "item_id": "ITEM_0359",
+    "item_name": "Uth Duna Claw+",
+    "quantity": 4
+   },
+   {
+    "item_data_id": 424,
+    "item_id": "ITEM_0450",
+    "item_name": "Jin Dahaad Icegem",
+    "quantity": 1
+   }
+  ],
+  "_row": 180
+ }
+]

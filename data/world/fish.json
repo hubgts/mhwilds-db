@@ -1,0 +1,348 @@
+[
+ {
+  "em_id": "EM5301_00_0",
+  "fixed_id": "D1277380",
+  "name": "Virid Bowfin",
+  "is_whopper": false,
+  "best_lure": "Common Wood Minnow",
+  "best_lure_action": "Pull Slow, Pull Fast",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest"
+  ],
+  "base_size": 107.52,
+  "min_size": 72.0,
+  "max_size": 108.0,
+  "_row": 2
+ },
+ {
+  "em_id": "EM5302_00_0",
+  "fixed_id": "C66484C0",
+  "name": "Whetfish",
+  "is_whopper": false,
+  "best_lure": "Emerald Jitterbait",
+  "best_lure_action": "Pull Fast",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin"
+  ],
+  "base_size": 110.0,
+  "min_size": 64.0,
+  "max_size": 96.0,
+  "_row": 3
+ },
+ {
+  "em_id": "EM5303_00_0",
+  "fixed_id": "52FCB100",
+  "name": "Sushifish",
+  "is_whopper": false,
+  "best_lure": "Emerald Jitterbait",
+  "best_lure_action": "Pull Slow",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin"
+  ],
+  "base_size": 112.56,
+  "min_size": 68.0,
+  "max_size": 120.0,
+  "_row": 4
+ },
+ {
+  "em_id": "EM5304_00_0",
+  "fixed_id": "DE7773C0",
+  "name": "Gastronome Tuna",
+  "is_whopper": true,
+  "best_lure": "Tuff Joint Bait",
+  "best_lure_action": "Shake, Pull Slow, Pull Fast",
+  "points": 20,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "base_size": 114.3,
+  "min_size": 144.0,
+  "max_size": 400.0,
+  "_row": 5
+ },
+ {
+  "em_id": "EM5305_00_0",
+  "fixed_id": "B520DE00",
+  "name": "Gajau",
+  "is_whopper": true,
+  "best_lure": "Duster Rig",
+  "best_lure_action": "Pull Slow",
+  "points": 20,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "base_size": 561.08997,
+  "min_size": 36.0,
+  "max_size": 100.0,
+  "_row": 6
+ },
+ {
+  "em_id": "EM5306_00_0",
+  "fixed_id": "36B11540",
+  "name": "Goldenfry",
+  "is_whopper": false,
+  "best_lure": "Golden Bughead",
+  "best_lure_action": "Pull Slow, Pull Fast",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "base_size": 31.96,
+  "min_size": 120.0,
+  "max_size": 180.0,
+  "_row": 7
+ },
+ {
+  "em_id": "EM5307_00_0",
+  "fixed_id": "3D5F0F00",
+  "name": "Goldenfish",
+  "is_whopper": false,
+  "best_lure": "Golden Bughead",
+  "best_lure_action": "Pull Fast",
+  "points": 50,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs"
+  ],
+  "base_size": 216.62,
+  "min_size": 72.0,
+  "max_size": 115.0,
+  "_row": 8
+ },
+ {
+  "em_id": "EM5308_00_0",
+  "fixed_id": "277D53C0",
+  "name": "Platinumfish",
+  "is_whopper": false,
+  "best_lure": "Golden Bughead",
+  "best_lure_action": "Pull Fast",
+  "points": 100,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs"
+  ],
+  "base_size": 216.62,
+  "min_size": 72.0,
+  "max_size": 115.0,
+  "_row": 9
+ },
+ {
+  "em_id": "EM5309_00_0",
+  "fixed_id": "38470940",
+  "name": "Burst Arowana",
+  "is_whopper": false,
+  "best_lure": "Emerald Jitterbait",
+  "best_lure_action": "Shake",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest",
+   "Oilwell Basin"
+  ],
+  "base_size": 216.62,
+  "min_size": 72.0,
+  "max_size": 115.0,
+  "_row": 10
+ },
+ {
+  "em_id": "EM5310_00_0",
+  "fixed_id": "F1980F60",
+  "name": "Bomb Arowana",
+  "is_whopper": false,
+  "best_lure": "Emerald Jitterbait",
+  "best_lure_action": "Shake",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest",
+   "Oilwell Basin"
+  ],
+  "base_size": 216.62,
+  "min_size": 72.0,
+  "max_size": 115.0,
+  "_row": 11
+ },
+ {
+  "em_id": "EM5311_00_0",
+  "fixed_id": "2A851740",
+  "name": "Gunpowderfish",
+  "is_whopper": false,
+  "best_lure": "Emerald Jitterbait",
+  "best_lure_action": "Shake",
+  "points": 5,
+  "locales": [
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "base_size": 31.96,
+  "min_size": 120.0,
+  "max_size": 180.0,
+  "_row": 12
+ },
+ {
+  "em_id": "EM5312_00_0",
+  "fixed_id": "524D7D80",
+  "name": "Speartuna",
+  "is_whopper": true,
+  "best_lure": "Tuff Joint Bait",
+  "best_lure_action": "Pull Fast",
+  "points": 20,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "base_size": 146.1,
+  "min_size": 144.0,
+  "max_size": 400.0,
+  "_row": 13
+ },
+ {
+  "em_id": "EM5313_00_0",
+  "fixed_id": "33A484C0",
+  "name": "Petricanths",
+  "is_whopper": false,
+  "best_lure": "Duster Rig",
+  "best_lure_action": "Pull Slow, Pull Fast",
+  "points": 50,
+  "locales": [
+   "Scarlet Forest",
+   "Oilwell Basin"
+  ],
+  "base_size": 114.0,
+  "min_size": 120.0,
+  "max_size": 180.0,
+  "_row": 14
+ },
+ {
+  "em_id": "EM5314_00_0",
+  "fixed_id": "EC2A2140",
+  "name": "Glass Parexus",
+  "is_whopper": false,
+  "best_lure": "Common Wood Minnow",
+  "best_lure_action": "Pull Slow, Pull Fast",
+  "points": 5,
+  "locales": [
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "base_size": 104.99,
+  "min_size": 88.0,
+  "max_size": 132.0,
+  "_row": 15
+ },
+ {
+  "em_id": "EM5315_00_0",
+  "fixed_id": "41395A00",
+  "name": "Goliath Squid",
+  "is_whopper": true,
+  "best_lure": "Tentacle Jig",
+  "best_lure_action": "Shake",
+  "points": 20,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "base_size": 535.0,
+  "min_size": 36.0,
+  "max_size": 99.0,
+  "_row": 16
+ },
+ {
+  "em_id": "EM5316_00_0",
+  "fixed_id": "C839CDC0",
+  "name": "Great Trevally",
+  "is_whopper": true,
+  "best_lure": "Tuff Joint Bait",
+  "best_lure_action": "Pull Fast",
+  "points": 20,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "base_size": 122.86,
+  "min_size": 72.0,
+  "max_size": 200.0,
+  "_row": 17
+ },
+ {
+  "em_id": "EM5317_00_0",
+  "fixed_id": "E929A280",
+  "name": "Escunite",
+  "is_whopper": false,
+  "best_lure": "Tentacle Jig",
+  "best_lure_action": "Shake",
+  "points": 20,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "base_size": 552.56,
+  "min_size": 16.0,
+  "max_size": 24.0,
+  "_row": 18
+ },
+ {
+  "em_id": "EM5317_09_0",
+  "fixed_id": "B1779000",
+  "name": "Grand Escunite",
+  "is_whopper": false,
+  "best_lure": "Tentacle Jig",
+  "best_lure_action": "Shake",
+  "points": 50,
+  "locales": [
+   "Scarlet Forest"
+  ],
+  "base_size": 100.0,
+  "min_size": 16.0,
+  "max_size": 24.0,
+  "_row": 19
+ },
+ {
+  "em_id": "EM5318_00_0",
+  "fixed_id": "A0BA4900",
+  "name": "Gravid Bowfin",
+  "is_whopper": false,
+  "best_lure": "Emerald Jitterbait",
+  "best_lure_action": "Pull Slow",
+  "points": 5,
+  "locales": [
+   "Windward Plains",
+   "Scarlet Forest",
+   "Oilwell Basin",
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "base_size": 117.71,
+  "min_size": 72.0,
+  "max_size": 108.0,
+  "_row": 20
+ },
+ {
+  "em_id": "EM5319_00_0",
+  "fixed_id": "D83A83C0",
+  "name": "Blind Perch",
+  "is_whopper": false,
+  "best_lure": "Common Wood Minnow",
+  "best_lure_action": "Pull Slow, Pull Fast",
+  "points": 5,
+  "locales": [
+   "Iceshard Cliffs",
+   "Ruins of Wyveria"
+  ],
+  "base_size": 122.86,
+  "min_size": 72.0,
+  "max_size": 200.0,
+  "_row": 21
+ }
+]

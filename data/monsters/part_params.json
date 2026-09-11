@@ -1,0 +1,512 @@
+[
+ {
+  "em_id": "EM0001_00_0",
+  "monster": "Rathian",
+  "scar_standard_size": 1.0,
+  "reaction_per": 50.0,
+  "base_health": 4500,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 2
+ },
+ {
+  "em_id": "EM0002_00_0",
+  "monster": "Rathalos",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4500,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 3
+ },
+ {
+  "em_id": "EM0002_50_0",
+  "monster": "Guardian Rathalos",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 5000,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 4
+ },
+ {
+  "em_id": "EM0005_00_0",
+  "monster": "Gravios",
+  "scar_standard_size": 1.100000024,
+  "reaction_per": 0.0,
+  "base_health": 5500,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 5
+ },
+ {
+  "em_id": "EM0008_00_0",
+  "monster": "Yian Kut-Ku",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 3800,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 6
+ },
+ {
+  "em_id": "EM0009_00_0",
+  "monster": "Gypceros",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4200,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 7
+ },
+ {
+  "em_id": "EM0021_00_0",
+  "monster": "Congalala",
+  "scar_standard_size": 0.8000000119,
+  "reaction_per": 0.0,
+  "base_health": 5000,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 8
+ },
+ {
+  "em_id": "EM0022_00_0",
+  "monster": "Blangonga",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4500,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 9
+ },
+ {
+  "em_id": "EM0046_00_0",
+  "monster": "Lagiacrus",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 5600,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 10
+ },
+ {
+  "em_id": "EM0070_00_0",
+  "monster": "Nerscylla",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4400,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 11
+ },
+ {
+  "em_id": "EM0071_00_0",
+  "monster": "Gore Magala",
+  "scar_standard_size": 1.0,
+  "reaction_per": 50.0,
+  "base_health": 5100,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 12
+ },
+ {
+  "em_id": "EM0077_00_0",
+  "monster": "Seregios",
+  "scar_standard_size": 0.8000000119,
+  "reaction_per": 0.0,
+  "base_health": 5500,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 13
+ },
+ {
+  "em_id": "EM0082_00_0",
+  "monster": "Mizutsune",
+  "scar_standard_size": 1.0,
+  "reaction_per": 50.0,
+  "base_health": 5500,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 14
+ },
+ {
+  "em_id": "EM0100_51_0",
+  "monster": "Guardian Fulgur Anjanath",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 5000,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 15
+ },
+ {
+  "em_id": "EM0113_51_0",
+  "monster": "Guardian Ebony Odogaron",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 5000,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 16
+ },
+ {
+  "em_id": "EM0150_00_0",
+  "monster": "Doshaguma",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4800,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 17
+ },
+ {
+  "em_id": "EM0150_50_0",
+  "monster": "Guardian Doshaguma",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 5800,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 18
+ },
+ {
+  "em_id": "EM0151_00_0",
+  "monster": "Balahara",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4400,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 19
+ },
+ {
+  "em_id": "EM0152_00_0",
+  "monster": "Chatacabra",
+  "scar_standard_size": 0.8000000119,
+  "reaction_per": 0.0,
+  "base_health": 4000,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 20
+ },
+ {
+  "em_id": "EM0153_00_0",
+  "monster": "Quematrice",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4000,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 21
+ },
+ {
+  "em_id": "EM0154_00_0",
+  "monster": "Lala Barina",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4000,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 22
+ },
+ {
+  "em_id": "EM0155_00_0",
+  "monster": "Rompopolo",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4500,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 23
+ },
+ {
+  "em_id": "EM0156_00_0",
+  "monster": "Rey Dau",
+  "scar_standard_size": 1.0,
+  "reaction_per": 50.0,
+  "base_health": 5000,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 24
+ },
+ {
+  "em_id": "EM0157_00_0",
+  "monster": "Uth Duna",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 5500,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 25
+ },
+ {
+  "em_id": "EM0158_00_0",
+  "monster": "Nu Udra",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 5250,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 26
+ },
+ {
+  "em_id": "EM0159_00_0",
+  "monster": "Ajarakan",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 5200,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 27
+ },
+ {
+  "em_id": "EM0160_00_0",
+  "monster": "Arkveld",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 5200,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 28
+ },
+ {
+  "em_id": "EM0161_00_0",
+  "monster": "Hirabami",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4500,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 29
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "scar_standard_size": 1.0,
+  "reaction_per": 50.0,
+  "base_health": 7400,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 30
+ },
+ {
+  "em_id": "EM0163_00_0",
+  "monster": "Xu Wu",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 4500,
+  "scar_pitfall_threshold": 3.0,
+  "legendary_scar_pitfall_threshold": 1.0,
+  "_row": 31
+ },
+ {
+  "em_id": "EM0164_50_0",
+  "monster": "Zoh Shia",
+  "scar_standard_size": 1.5,
+  "reaction_per": 0.0,
+  "base_health": 9000,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 32
+ },
+ {
+  "em_id": "EM0165_00_0",
+  "monster": "High Purrformance Barrel Puncher",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 50000,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 33
+ },
+ {
+  "em_id": "EM1006_00_0",
+  "monster": "Vespoid",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 8,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 34
+ },
+ {
+  "em_id": "EM1022_00_0",
+  "monster": "Conga",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 130,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 35
+ },
+ {
+  "em_id": "EM1023_00_0",
+  "monster": "Blango",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 120,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 36
+ },
+ {
+  "em_id": "EM1062_00_0",
+  "monster": null,
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 999999,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 37
+ },
+ {
+  "em_id": "EM1150_00_0",
+  "monster": "Ceratonoth (Male)",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 150,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 38
+ },
+ {
+  "em_id": "EM1151_00_0",
+  "monster": "Dalthydon",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 150,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 39
+ },
+ {
+  "em_id": "EM1152_00_0",
+  "monster": "Bulaqchi",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 80,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 40
+ },
+ {
+  "em_id": "EM1153_00_0",
+  "monster": "Talioth",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 150,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 41
+ },
+ {
+  "em_id": "EM1154_00_0",
+  "monster": "Baunos",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 80,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 42
+ },
+ {
+  "em_id": "EM1155_00_0",
+  "monster": "Gajios",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 130,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 43
+ },
+ {
+  "em_id": "EM1156_00_0",
+  "monster": "Piragill",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 110,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 44
+ },
+ {
+  "em_id": "EM1157_00_0",
+  "monster": "Harpios",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 80,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 45
+ },
+ {
+  "em_id": "EM1158_00_0",
+  "monster": "Kranodath",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 150,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 46
+ },
+ {
+  "em_id": "EM1159_00_0",
+  "monster": "Comaqchi",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 120,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 47
+ },
+ {
+  "em_id": "EM1160_00_0",
+  "monster": "Gelidron",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 80,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 48
+ },
+ {
+  "em_id": "EM1161_00_0",
+  "monster": "Rafma",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 100,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 49
+ },
+ {
+  "em_id": "EM1162_00_0",
+  "monster": "Porkeplume",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 80,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 50
+ },
+ {
+  "em_id": "EM1163_00_0",
+  "monster": "Nerscylla Hatchling",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 10,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 51
+ },
+ {
+  "em_id": "EM1164_50_0",
+  "monster": "Guardian Seikret",
+  "scar_standard_size": 1.0,
+  "reaction_per": 0.0,
+  "base_health": 120,
+  "scar_pitfall_threshold": 0.0,
+  "legendary_scar_pitfall_threshold": 0.0,
+  "_row": 52
+ }
+]

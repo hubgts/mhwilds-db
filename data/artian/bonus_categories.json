@@ -1,0 +1,30 @@
+[
+ {
+  "index": 0,
+  "category_id": "0",
+  "probability": 60.0,
+  "grinding_max": 5,
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "category_id": "1",
+  "probability": 60.0,
+  "grinding_max": 5,
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "category_id": "3",
+  "probability": 60.0,
+  "grinding_max": 2,
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "category_id": "2",
+  "probability": 60.0,
+  "grinding_max": 4,
+  "_row": 5
+ }
+]

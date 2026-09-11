@@ -1,0 +1,90 @@
+[
+ {
+  "index": 0,
+  "fixed_id": "0DD1C0A0",
+  "part_type": "SWORD",
+  "name": "Broken Blade",
+  "sort_id": 0,
+  "sell_price": 100,
+  "used_for": "Great Sword,Long Sword,Sword & Shield,Dual Blades,Lance,Switch Axe,Charge Blade,Insect Glaive",
+  "name_guid": "2088f9a1-0587-4cdb-a9be-6fe5db942cd5",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "fixed_id": "00CBF30A",
+  "part_type": "ROD",
+  "name": "Crushed Tube",
+  "sort_id": 1,
+  "sell_price": 100,
+  "used_for": "Great Sword,Long Sword,Sword & Shield,Hammer,Insect Glaive,Light Bowgun,Heavy Bowgun,Bow",
+  "name_guid": "02a19c76-741f-4ecc-b0f3-5243d811fd6d",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "fixed_id": "52F74E80",
+  "part_type": "PLATE",
+  "name": "Cracked Disc",
+  "sort_id": 2,
+  "sell_price": 100,
+  "used_for": "Sword & Shield,Dual Blades,Hammer,Hunting Horn,Lance,Gunlance,Charge Blade,Heavy Bowgun",
+  "name_guid": "363da4ab-7b9a-4b22-b892-3c9c6a224cac",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "fixed_id": "7091C200",
+  "part_type": "MECHANISM",
+  "name": "Rusted Device",
+  "sort_id": 3,
+  "sell_price": 100,
+  "used_for": "Hunting Horn,Gunlance,Switch Axe,Charge Blade,Insect Glaive,Light Bowgun,Heavy Bowgun,Bow",
+  "name_guid": "d4c24c9f-bf31-4fd4-bade-019c37b7f1e2",
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "fixed_id": "00005136",
+  "part_type": "EM0078_PARTS_01",
+  "name": "Tarred Blade",
+  "sort_id": 4,
+  "sell_price": 150,
+  "used_for": "Great Sword,Long Sword,Sword & Shield,Dual Blades",
+  "name_guid": "e9988ec9-27de-4197-85f7-df570e7658f0",
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "fixed_id": "00006269",
+  "part_type": "EM0078_PARTS_03",
+  "name": "Tarred Tube",
+  "sort_id": 5,
+  "sell_price": 150,
+  "used_for": "Insect Glaive,Light Bowgun,Heavy Bowgun,Bow",
+  "name_guid": "b0170270-4f1e-41be-87a3-936ee3615828",
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "fixed_id": "00001682",
+  "part_type": "EM0078_PARTS_02",
+  "name": "Tarred Disc",
+  "sort_id": 6,
+  "sell_price": 150,
+  "used_for": "Hammer,Lance,Gunlance",
+  "name_guid": "b056e214-182f-467d-a04b-1bd8e6eafeb3",
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "fixed_id": "00004D7B",
+  "part_type": "EM0078_PARTS_04",
+  "name": "Tarred Device",
+  "sort_id": 7,
+  "sell_price": 150,
+  "used_for": "Hunting Horn,Switch Axe,Charge Blade",
+  "name_guid": "f9d99a5b-68c6-414d-adb0-229849bb4457",
+  "_row": 9
+ }
+]

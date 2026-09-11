@@ -1,0 +1,23 @@
+[
+ {
+  "index": 0,
+  "focus_type_id": "0",
+  "focus_type": "ATTACK",
+  "icon_color": "I_RED",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "focus_type_id": "1",
+  "focus_type": "AFFINITY",
+  "icon_color": "I_PURPLE",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "focus_type_id": "2",
+  "focus_type": "ELEMENT",
+  "icon_color": "I_BLUE",
+  "_row": 4
+ }
+]

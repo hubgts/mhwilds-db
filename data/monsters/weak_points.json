@@ -1,0 +1,812 @@
+[
+ {
+  "em_id": "EM0001_00_0",
+  "monster": "Rathian",
+  "instance_guid": "0D1E5BE0-3318-4582-B87B-74CD393A621E",
+  "vital": 15,
+  "meat_guid": "0D427B1C-85FC-4C51-A401-EEF9EEDFAFD5",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 2
+ },
+ {
+  "em_id": "EM0002_00_0",
+  "monster": "Rathalos",
+  "instance_guid": "B15FC9C6-32CF-4F67-8DC7-BA9525A588E6",
+  "vital": 15,
+  "meat_guid": "CB3C97FF-A863-4B7C-B519-4DB9CFADCEB6",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 3
+ },
+ {
+  "em_id": "EM0002_00_0",
+  "monster": "Rathalos",
+  "instance_guid": "B15FC9C6-32CF-4F67-8DC7-BA9525A588E6",
+  "vital": 100,
+  "meat_guid": "CB3C97FF-A863-4B7C-B519-4DB9CFADCEB6",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 4
+ },
+ {
+  "em_id": "EM0002_00_0",
+  "monster": "Rathalos",
+  "instance_guid": "B15FC9C6-32CF-4F67-8DC7-BA9525A588E6",
+  "vital": 200,
+  "meat_guid": "CB3C97FF-A863-4B7C-B519-4DB9CFADCEB6",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 5
+ },
+ {
+  "em_id": "EM0002_50_0",
+  "monster": "Guardian Rathalos",
+  "instance_guid": "EC8A915E-A343-41C0-A56D-51405E618344",
+  "vital": 15,
+  "meat_guid": "983840ED-5AAB-4889-9E4E-3554C6C10E4F",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 6
+ },
+ {
+  "em_id": "EM0002_50_0",
+  "monster": "Guardian Rathalos",
+  "instance_guid": "EC8A915E-A343-41C0-A56D-51405E618344",
+  "vital": 100,
+  "meat_guid": "983840ED-5AAB-4889-9E4E-3554C6C10E4F",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 7
+ },
+ {
+  "em_id": "EM0002_50_0",
+  "monster": "Guardian Rathalos",
+  "instance_guid": "EC8A915E-A343-41C0-A56D-51405E618344",
+  "vital": 200,
+  "meat_guid": "983840ED-5AAB-4889-9E4E-3554C6C10E4F",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 8
+ },
+ {
+  "em_id": "EM0002_50_0",
+  "monster": "Guardian Rathalos",
+  "instance_guid": "EE6BB8BB-A585-48C2-B046-67B23E17FE62",
+  "vital": 0,
+  "meat_guid": "939C577E-141D-4A7B-AE78-79C0E3F09BF7",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 9
+ },
+ {
+  "em_id": "EM0005_00_0",
+  "monster": "Gravios",
+  "instance_guid": "CB922DF5-48A9-47AF-A8F3-497CFDBA1807",
+  "vital": 0,
+  "meat_guid": "D2771659-7DFC-4DA0-9874-A8F3BE809E86",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 10
+ },
+ {
+  "em_id": "EM0005_00_0",
+  "monster": "Gravios",
+  "instance_guid": "4AEFD7F3-9527-46E4-9C96-26DF363964ED",
+  "vital": 0,
+  "meat_guid": "D2771659-7DFC-4DA0-9874-A8F3BE809E86",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 11
+ },
+ {
+  "em_id": "EM0005_00_0",
+  "monster": "Gravios",
+  "instance_guid": "988BEFB2-1FD6-493F-8ED0-02F401EE7934",
+  "vital": 0,
+  "meat_guid": "D2771659-7DFC-4DA0-9874-A8F3BE809E86",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 12
+ },
+ {
+  "em_id": "EM0005_00_0",
+  "monster": "Gravios",
+  "instance_guid": "1BE627E6-3400-4FB9-9C16-5F41DC502DD9",
+  "vital": 0,
+  "meat_guid": "D2771659-7DFC-4DA0-9874-A8F3BE809E86",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 13
+ },
+ {
+  "em_id": "EM0005_00_0",
+  "monster": "Gravios",
+  "instance_guid": "2181610C-7B9B-4B3F-8299-A626BAB3D5E9",
+  "vital": 0,
+  "meat_guid": "D2771659-7DFC-4DA0-9874-A8F3BE809E86",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 14
+ },
+ {
+  "em_id": "EM0005_00_0",
+  "monster": "Gravios",
+  "instance_guid": "D08152D6-04DD-4875-9120-40FE4E0370E8",
+  "vital": 0,
+  "meat_guid": "D2771659-7DFC-4DA0-9874-A8F3BE809E86",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 15
+ },
+ {
+  "em_id": "EM0008_00_0",
+  "monster": "Yian Kut-Ku",
+  "instance_guid": "F63E73ED-CD51-46E1-9DBF-B98BE6F25C71",
+  "vital": 1,
+  "meat_guid": "A62F04F9-F7A3-4EF9-AD7F-61F7506E4845",
+  "link_parts_guid": "89534D32-08C0-4BF0-B72E-FBBA12F336E8",
+  "highlight_type": "00000000",
+  "_row": 16
+ },
+ {
+  "em_id": "EM0009_00_0",
+  "monster": "Gypceros",
+  "instance_guid": "E976FB40-864F-404A-9A1D-DE07866F2F6F",
+  "vital": 1,
+  "meat_guid": "05D47281-6AE9-4818-81AC-B995B3C8A98D",
+  "link_parts_guid": "29773F64-D803-48DF-AD76-D20007770422",
+  "highlight_type": "00000000",
+  "_row": 17
+ },
+ {
+  "em_id": "EM0021_00_0",
+  "monster": "Congalala",
+  "instance_guid": "8ED148FF-EB62-428C-8B52-9089A20F0394",
+  "vital": 10,
+  "meat_guid": "74B39AB2-82AF-454B-ABD9-D0BF499A2E71",
+  "link_parts_guid": "8A5173E8-267E-48C4-9AF3-494E528001C8",
+  "highlight_type": "00000000",
+  "_row": 18
+ },
+ {
+  "em_id": "EM0021_00_0",
+  "monster": "Congalala",
+  "instance_guid": "8ED148FF-EB62-428C-8B52-9089A20F0394",
+  "vital": 100,
+  "meat_guid": "74B39AB2-82AF-454B-ABD9-D0BF499A2E71",
+  "link_parts_guid": "8A5173E8-267E-48C4-9AF3-494E528001C8",
+  "highlight_type": "00000000",
+  "_row": 19
+ },
+ {
+  "em_id": "EM0021_00_0",
+  "monster": "Congalala",
+  "instance_guid": "8ED148FF-EB62-428C-8B52-9089A20F0394",
+  "vital": 200,
+  "meat_guid": "74B39AB2-82AF-454B-ABD9-D0BF499A2E71",
+  "link_parts_guid": "8A5173E8-267E-48C4-9AF3-494E528001C8",
+  "highlight_type": "00000000",
+  "_row": 20
+ },
+ {
+  "em_id": "EM0022_00_0",
+  "monster": "Blangonga",
+  "instance_guid": "10F9BDDE-69A0-4D7D-8952-F58402257AB8",
+  "vital": 0,
+  "meat_guid": "C563A54C-9425-4B5D-AA15-A107FA8C2C01",
+  "link_parts_guid": "84C6E645-3922-4FD0-852B-69F232FDEBD9",
+  "highlight_type": "00000000",
+  "_row": 21
+ },
+ {
+  "em_id": "EM0046_00_0",
+  "monster": "Lagiacrus",
+  "instance_guid": "2A5427F6-5BE5-4704-9B8D-EACE007C136E",
+  "vital": 0,
+  "meat_guid": "B4BC32B7-3D0D-4CF0-B1EA-564B61936179",
+  "link_parts_guid": "C496EBA1-4FDD-48BB-A3CC-F20A87C3AAEF",
+  "highlight_type": "00000001",
+  "_row": 22
+ },
+ {
+  "em_id": "EM0046_00_0",
+  "monster": "Lagiacrus",
+  "instance_guid": "70F78C6F-08BC-4099-A2A4-E8C8197D2A28",
+  "vital": 0,
+  "meat_guid": "354329A8-AEE5-4CCF-B0E1-B8329C82FCAA",
+  "link_parts_guid": "67E48853-BEA0-4334-B30A-568A33E3D6E8",
+  "highlight_type": "00000001",
+  "_row": 23
+ },
+ {
+  "em_id": "EM0046_00_0",
+  "monster": "Lagiacrus",
+  "instance_guid": "7A06F64B-3511-4264-8D6F-4658A546427E",
+  "vital": 0,
+  "meat_guid": "25A3C72B-7099-4CFA-9071-13BA4CDF2D0F",
+  "link_parts_guid": "C496EBA1-4FDD-48BB-A3CC-F20A87C3AAEF",
+  "highlight_type": "00000001",
+  "_row": 24
+ },
+ {
+  "em_id": "EM0070_00_0",
+  "monster": "Nerscylla",
+  "instance_guid": "32BC0028-4E57-4474-A4C1-49A121EE382F",
+  "vital": 0,
+  "meat_guid": "FE39B862-A380-4B73-BE44-A62EC1F8C9F4",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 25
+ },
+ {
+  "em_id": "EM0071_00_0",
+  "monster": "Gore Magala",
+  "instance_guid": "16D5DDEB-4BBE-4AAD-B766-1157426B875D",
+  "vital": 15,
+  "meat_guid": "57AE0D3C-B1CF-4490-BCC6-6445D53C68EC",
+  "link_parts_guid": "2BCB83B4-4C09-44F7-AE4F-D79D682EF000",
+  "highlight_type": "00000000",
+  "_row": 26
+ },
+ {
+  "em_id": "EM0071_00_0",
+  "monster": "Gore Magala",
+  "instance_guid": "16D5DDEB-4BBE-4AAD-B766-1157426B875D",
+  "vital": 1500,
+  "meat_guid": "57AE0D3C-B1CF-4490-BCC6-6445D53C68EC",
+  "link_parts_guid": "2BCB83B4-4C09-44F7-AE4F-D79D682EF000",
+  "highlight_type": "00000000",
+  "_row": 27
+ },
+ {
+  "em_id": "EM0071_00_0",
+  "monster": "Gore Magala",
+  "instance_guid": "16D5DDEB-4BBE-4AAD-B766-1157426B875D",
+  "vital": 2000,
+  "meat_guid": "57AE0D3C-B1CF-4490-BCC6-6445D53C68EC",
+  "link_parts_guid": "2BCB83B4-4C09-44F7-AE4F-D79D682EF000",
+  "highlight_type": "00000000",
+  "_row": 28
+ },
+ {
+  "em_id": "EM0077_00_0",
+  "monster": "Seregios",
+  "instance_guid": "CBBAA4EF-40CE-4215-847C-9BBA8A2C0C6B",
+  "vital": 1,
+  "meat_guid": "E9F47CF9-D4C8-4599-816B-799F1AD031BE",
+  "link_parts_guid": "0F3747BE-1F46-41B0-A94C-0EC16CFAAAE4",
+  "highlight_type": "00000000",
+  "_row": 29
+ },
+ {
+  "em_id": "EM0077_00_0",
+  "monster": "Seregios",
+  "instance_guid": "47B5E5BD-1A93-4FD5-9420-1D1597C3E2E3",
+  "vital": 1,
+  "meat_guid": "E9F47CF9-D4C8-4599-816B-799F1AD031BE",
+  "link_parts_guid": "A3053321-C842-4D96-827B-E9DD7FE9079E",
+  "highlight_type": "00000000",
+  "_row": 30
+ },
+ {
+  "em_id": "EM0082_00_0",
+  "monster": "Mizutsune",
+  "instance_guid": "C872DEE8-1D97-44D6-BC15-E3EC921B997E",
+  "vital": 15,
+  "meat_guid": "E882B8A1-0501-42B0-B892-DA5F3E1FA114",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 31
+ },
+ {
+  "em_id": "EM0100_51_0",
+  "monster": "Guardian Fulgur Anjanath",
+  "instance_guid": "0314AD8B-25A8-48FD-96C0-53C4FDCA07FD",
+  "vital": 1,
+  "meat_guid": "913A5793-9F6E-48ED-9F6F-864C1840EBC6",
+  "link_parts_guid": "9FEFFF1A-7E0D-4411-820E-A1A23CF6A319",
+  "highlight_type": "00000000",
+  "_row": 32
+ },
+ {
+  "em_id": "EM0113_51_0",
+  "monster": "Guardian Ebony Odogaron",
+  "instance_guid": "B151E5A5-7271-45E7-9AD0-5B7992A8B2EA",
+  "vital": 1,
+  "meat_guid": "1AF7C950-28FB-48B9-9D1F-8B8901C391E9",
+  "link_parts_guid": "D8EDA4BC-5E12-42DB-B8EF-BD0DF0021211",
+  "highlight_type": "00000000",
+  "_row": 33
+ },
+ {
+  "em_id": "EM0113_51_0",
+  "monster": "Guardian Ebony Odogaron",
+  "instance_guid": "B6B698FD-42BC-41DA-8DCA-82D144BB7D1F",
+  "vital": 1,
+  "meat_guid": "1AF7C950-28FB-48B9-9D1F-8B8901C391E9",
+  "link_parts_guid": "D8EDA4BC-5E12-42DB-B8EF-BD0DF0021211",
+  "highlight_type": "00000000",
+  "_row": 34
+ },
+ {
+  "em_id": "EM0113_51_0",
+  "monster": "Guardian Ebony Odogaron",
+  "instance_guid": "4F637918-E1B3-484C-A8B3-FF466325460B",
+  "vital": 1,
+  "meat_guid": "1AF7C950-28FB-48B9-9D1F-8B8901C391E9",
+  "link_parts_guid": "AA391C05-0529-42F6-A24A-07715E61A5B9",
+  "highlight_type": "00000000",
+  "_row": 35
+ },
+ {
+  "em_id": "EM0150_00_0",
+  "monster": "Doshaguma",
+  "instance_guid": "3EAD2B15-F42A-449C-8916-8DF4B698EA5B",
+  "vital": 1,
+  "meat_guid": "B1CA0401-F489-4ECC-B65B-1E98F8D5281A",
+  "link_parts_guid": "86E881FB-E671-4FAC-87EE-DEEFF6D687D4",
+  "highlight_type": "00000000",
+  "_row": 36
+ },
+ {
+  "em_id": "EM0150_00_0",
+  "monster": "Doshaguma",
+  "instance_guid": "3EAD2B15-F42A-449C-8916-8DF4B698EA5B",
+  "vital": 100,
+  "meat_guid": "B1CA0401-F489-4ECC-B65B-1E98F8D5281A",
+  "link_parts_guid": "86E881FB-E671-4FAC-87EE-DEEFF6D687D4",
+  "highlight_type": "00000000",
+  "_row": 37
+ },
+ {
+  "em_id": "EM0150_00_0",
+  "monster": "Doshaguma",
+  "instance_guid": "3EAD2B15-F42A-449C-8916-8DF4B698EA5B",
+  "vital": 200,
+  "meat_guid": "B1CA0401-F489-4ECC-B65B-1E98F8D5281A",
+  "link_parts_guid": "86E881FB-E671-4FAC-87EE-DEEFF6D687D4",
+  "highlight_type": "00000000",
+  "_row": 38
+ },
+ {
+  "em_id": "EM0150_50_0",
+  "monster": "Guardian Doshaguma",
+  "instance_guid": "79FDCB3A-7813-4DBD-AD91-F7C4189FBAAC",
+  "vital": 1,
+  "meat_guid": "5FFA1DC1-7129-4599-B170-4A42ABFECB31",
+  "link_parts_guid": "72065377-4310-484B-B547-A22E944EB67C",
+  "highlight_type": "00000000",
+  "_row": 39
+ },
+ {
+  "em_id": "EM0150_50_0",
+  "monster": "Guardian Doshaguma",
+  "instance_guid": "79FDCB3A-7813-4DBD-AD91-F7C4189FBAAC",
+  "vital": 100,
+  "meat_guid": "5FFA1DC1-7129-4599-B170-4A42ABFECB31",
+  "link_parts_guid": "72065377-4310-484B-B547-A22E944EB67C",
+  "highlight_type": "00000000",
+  "_row": 40
+ },
+ {
+  "em_id": "EM0150_50_0",
+  "monster": "Guardian Doshaguma",
+  "instance_guid": "79FDCB3A-7813-4DBD-AD91-F7C4189FBAAC",
+  "vital": 200,
+  "meat_guid": "5FFA1DC1-7129-4599-B170-4A42ABFECB31",
+  "link_parts_guid": "72065377-4310-484B-B547-A22E944EB67C",
+  "highlight_type": "00000000",
+  "_row": 41
+ },
+ {
+  "em_id": "EM0150_50_0",
+  "monster": "Guardian Doshaguma",
+  "instance_guid": "6C7A2F21-CD54-4B10-8060-95D473455943",
+  "vital": 1,
+  "meat_guid": "5FFA1DC1-7129-4599-B170-4A42ABFECB31",
+  "link_parts_guid": "3F472502-B89D-4650-9274-C1B79537C034",
+  "highlight_type": "00000000",
+  "_row": 42
+ },
+ {
+  "em_id": "EM0150_50_0",
+  "monster": "Guardian Doshaguma",
+  "instance_guid": "6C7A2F21-CD54-4B10-8060-95D473455943",
+  "vital": 100,
+  "meat_guid": "5FFA1DC1-7129-4599-B170-4A42ABFECB31",
+  "link_parts_guid": "3F472502-B89D-4650-9274-C1B79537C034",
+  "highlight_type": "00000000",
+  "_row": 43
+ },
+ {
+  "em_id": "EM0150_50_0",
+  "monster": "Guardian Doshaguma",
+  "instance_guid": "6C7A2F21-CD54-4B10-8060-95D473455943",
+  "vital": 200,
+  "meat_guid": "5FFA1DC1-7129-4599-B170-4A42ABFECB31",
+  "link_parts_guid": "3F472502-B89D-4650-9274-C1B79537C034",
+  "highlight_type": "00000000",
+  "_row": 44
+ },
+ {
+  "em_id": "EM0151_00_0",
+  "monster": "Balahara",
+  "instance_guid": "5C8ABF7E-D96E-4E83-B804-00115A8EC457",
+  "vital": 1,
+  "meat_guid": "1275237C-3EF4-4EC8-B6F4-C030EF2AAA79",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 45
+ },
+ {
+  "em_id": "EM0151_00_0",
+  "monster": "Balahara",
+  "instance_guid": "5C8ABF7E-D96E-4E83-B804-00115A8EC457",
+  "vital": 100,
+  "meat_guid": "1275237C-3EF4-4EC8-B6F4-C030EF2AAA79",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 46
+ },
+ {
+  "em_id": "EM0151_00_0",
+  "monster": "Balahara",
+  "instance_guid": "5C8ABF7E-D96E-4E83-B804-00115A8EC457",
+  "vital": 200,
+  "meat_guid": "1275237C-3EF4-4EC8-B6F4-C030EF2AAA79",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 47
+ },
+ {
+  "em_id": "EM0152_00_0",
+  "monster": "Chatacabra",
+  "instance_guid": "C88FCB06-D993-47F5-B063-B2896857178F",
+  "vital": 10,
+  "meat_guid": "C7B4E5B1-4378-4784-B6FF-4B4BB88E770B",
+  "link_parts_guid": "C9FC0C9D-455F-473D-8EE1-8DCEDD7E0378",
+  "highlight_type": "00000000",
+  "_row": 48
+ },
+ {
+  "em_id": "EM0152_00_0",
+  "monster": "Chatacabra",
+  "instance_guid": "C88FCB06-D993-47F5-B063-B2896857178F",
+  "vital": 100,
+  "meat_guid": "C7B4E5B1-4378-4784-B6FF-4B4BB88E770B",
+  "link_parts_guid": "C9FC0C9D-455F-473D-8EE1-8DCEDD7E0378",
+  "highlight_type": "00000000",
+  "_row": 49
+ },
+ {
+  "em_id": "EM0152_00_0",
+  "monster": "Chatacabra",
+  "instance_guid": "C88FCB06-D993-47F5-B063-B2896857178F",
+  "vital": 200,
+  "meat_guid": "C7B4E5B1-4378-4784-B6FF-4B4BB88E770B",
+  "link_parts_guid": "C9FC0C9D-455F-473D-8EE1-8DCEDD7E0378",
+  "highlight_type": "00000000",
+  "_row": 50
+ },
+ {
+  "em_id": "EM0152_00_0",
+  "monster": "Chatacabra",
+  "instance_guid": "C88FCB06-D993-47F5-B063-B2896857178F",
+  "vital": 300,
+  "meat_guid": "C7B4E5B1-4378-4784-B6FF-4B4BB88E770B",
+  "link_parts_guid": "C9FC0C9D-455F-473D-8EE1-8DCEDD7E0378",
+  "highlight_type": "00000000",
+  "_row": 51
+ },
+ {
+  "em_id": "EM0153_00_0",
+  "monster": "Quematrice",
+  "instance_guid": "7A67AE08-F1E8-419A-9F35-0AC703BF2A2D",
+  "vital": 1,
+  "meat_guid": "D06065BD-A7E4-4FD5-9E8E-1D845B65A5CD",
+  "link_parts_guid": "35610DFE-7DAC-49B8-9D44-42B833B32735",
+  "highlight_type": "00000000",
+  "_row": 52
+ },
+ {
+  "em_id": "EM0153_00_0",
+  "monster": "Quematrice",
+  "instance_guid": "7A67AE08-F1E8-419A-9F35-0AC703BF2A2D",
+  "vital": 100,
+  "meat_guid": "D06065BD-A7E4-4FD5-9E8E-1D845B65A5CD",
+  "link_parts_guid": "35610DFE-7DAC-49B8-9D44-42B833B32735",
+  "highlight_type": "00000000",
+  "_row": 53
+ },
+ {
+  "em_id": "EM0153_00_0",
+  "monster": "Quematrice",
+  "instance_guid": "7A67AE08-F1E8-419A-9F35-0AC703BF2A2D",
+  "vital": 200,
+  "meat_guid": "D06065BD-A7E4-4FD5-9E8E-1D845B65A5CD",
+  "link_parts_guid": "35610DFE-7DAC-49B8-9D44-42B833B32735",
+  "highlight_type": "00000000",
+  "_row": 54
+ },
+ {
+  "em_id": "EM0154_00_0",
+  "monster": "Lala Barina",
+  "instance_guid": "705BD5CB-0399-4CD7-BF25-8E1C61F14C44",
+  "vital": 10,
+  "meat_guid": "B72F37E7-11BF-44EA-8A57-AB42B5FA3027",
+  "link_parts_guid": "27CF4CB2-833A-4035-8A37-F796C22BF1B0",
+  "highlight_type": "00000000",
+  "_row": 55
+ },
+ {
+  "em_id": "EM0155_00_0",
+  "monster": "Rompopolo",
+  "instance_guid": "0D66F974-F4BB-4464-AC68-AE4EA442BD32",
+  "vital": 10,
+  "meat_guid": "B5446F05-E72B-46DE-8F11-A868BB868F60",
+  "link_parts_guid": "EE6A2BE9-DD7D-459A-8D92-63BFBD60B335",
+  "highlight_type": "00000000",
+  "_row": 56
+ },
+ {
+  "em_id": "EM0155_00_0",
+  "monster": "Rompopolo",
+  "instance_guid": "0D66F974-F4BB-4464-AC68-AE4EA442BD32",
+  "vital": 100,
+  "meat_guid": "B5446F05-E72B-46DE-8F11-A868BB868F60",
+  "link_parts_guid": "EE6A2BE9-DD7D-459A-8D92-63BFBD60B335",
+  "highlight_type": "00000000",
+  "_row": 57
+ },
+ {
+  "em_id": "EM0155_00_0",
+  "monster": "Rompopolo",
+  "instance_guid": "0D66F974-F4BB-4464-AC68-AE4EA442BD32",
+  "vital": 200,
+  "meat_guid": "B5446F05-E72B-46DE-8F11-A868BB868F60",
+  "link_parts_guid": "EE6A2BE9-DD7D-459A-8D92-63BFBD60B335",
+  "highlight_type": "00000000",
+  "_row": 58
+ },
+ {
+  "em_id": "EM0156_00_0",
+  "monster": "Rey Dau",
+  "instance_guid": "238A78C7-CC10-402B-B7B8-0507C8A98868",
+  "vital": 1,
+  "meat_guid": "1FC1A55D-C982-4065-96A0-9EC7FE72E34F",
+  "link_parts_guid": "CCD93F03-0C35-4992-86DD-C92BB6A603F3",
+  "highlight_type": "00000000",
+  "_row": 59
+ },
+ {
+  "em_id": "EM0157_00_0",
+  "monster": "Uth Duna",
+  "instance_guid": "E6ACFC07-AE71-492C-B14E-78AA2D84E5FA",
+  "vital": 1,
+  "meat_guid": "325BB1C0-06D3-4C85-98B5-F3D720D7AA3F",
+  "link_parts_guid": "9F0E93BD-952B-4CC1-9548-B417F918FD92",
+  "highlight_type": "00000000",
+  "_row": 60
+ },
+ {
+  "em_id": "EM0157_00_0",
+  "monster": "Uth Duna",
+  "instance_guid": "E6ACFC07-AE71-492C-B14E-78AA2D84E5FA",
+  "vital": 100,
+  "meat_guid": "325BB1C0-06D3-4C85-98B5-F3D720D7AA3F",
+  "link_parts_guid": "9F0E93BD-952B-4CC1-9548-B417F918FD92",
+  "highlight_type": "00000000",
+  "_row": 61
+ },
+ {
+  "em_id": "EM0157_00_0",
+  "monster": "Uth Duna",
+  "instance_guid": "E6ACFC07-AE71-492C-B14E-78AA2D84E5FA",
+  "vital": 200,
+  "meat_guid": "325BB1C0-06D3-4C85-98B5-F3D720D7AA3F",
+  "link_parts_guid": "9F0E93BD-952B-4CC1-9548-B417F918FD92",
+  "highlight_type": "00000000",
+  "_row": 62
+ },
+ {
+  "em_id": "EM0158_00_0",
+  "monster": "Nu Udra",
+  "instance_guid": "3487B259-494E-4B4F-A09C-00637937BD6D",
+  "vital": 1,
+  "meat_guid": "17884C6A-69CE-4F07-A27C-EF776844E6D0",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 63
+ },
+ {
+  "em_id": "EM0159_00_0",
+  "monster": "Ajarakan",
+  "instance_guid": "74525F77-DF20-4BA9-B711-32133B7871B6",
+  "vital": 1,
+  "meat_guid": "C940B6DA-33B6-4041-A2D0-D1B1DAA74B17",
+  "link_parts_guid": "717BFC7A-B4D4-4536-ABEC-345A08C5C0CE",
+  "highlight_type": "00000000",
+  "_row": 64
+ },
+ {
+  "em_id": "EM0159_00_0",
+  "monster": "Ajarakan",
+  "instance_guid": "33D9AAFD-A5BA-4888-9DFE-0E3FB7DFA03F",
+  "vital": 1,
+  "meat_guid": "C940B6DA-33B6-4041-A2D0-D1B1DAA74B17",
+  "link_parts_guid": "344F0269-669D-4D0B-BDED-F5D42E55D8EB",
+  "highlight_type": "00000002",
+  "_row": 65
+ },
+ {
+  "em_id": "EM0160_00_0",
+  "monster": "Arkveld",
+  "instance_guid": "B126ED55-2439-4F8D-9B1D-97B2B4DBFA43",
+  "vital": 1,
+  "meat_guid": "F0850CD0-C256-43C8-A02D-6FAD8D76B914",
+  "link_parts_guid": "F34D614E-89F1-4078-B189-2C209F8F615F",
+  "highlight_type": "00000000",
+  "_row": 66
+ },
+ {
+  "em_id": "EM0160_00_0",
+  "monster": "Arkveld",
+  "instance_guid": "84C74300-1776-4EE8-A2EE-8248329F3946",
+  "vital": 1,
+  "meat_guid": "F0850CD0-C256-43C8-A02D-6FAD8D76B914",
+  "link_parts_guid": "240AE294-AA93-4F75-BE34-7C5D6DB29C40",
+  "highlight_type": "00000000",
+  "_row": 67
+ },
+ {
+  "em_id": "EM0161_00_0",
+  "monster": "Hirabami",
+  "instance_guid": "59F67C4F-54BC-42B2-BC00-218AD279F98A",
+  "vital": 0,
+  "meat_guid": "E49D98EF-10BA-4026-9A8D-EB24535C23B8",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 68
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "instance_guid": "87080F78-E54F-4194-8349-BA489AD19004",
+  "vital": 15,
+  "meat_guid": "F43F680F-0599-4A37-AA26-B09682E2B6E7",
+  "link_parts_guid": "19A86F1F-1364-480A-8376-D6E4C398B3E0",
+  "highlight_type": "00000000",
+  "_row": 69
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "instance_guid": "87080F78-E54F-4194-8349-BA489AD19004",
+  "vital": 1500,
+  "meat_guid": "F43F680F-0599-4A37-AA26-B09682E2B6E7",
+  "link_parts_guid": "19A86F1F-1364-480A-8376-D6E4C398B3E0",
+  "highlight_type": "00000000",
+  "_row": 70
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "instance_guid": "87080F78-E54F-4194-8349-BA489AD19004",
+  "vital": 2500,
+  "meat_guid": "F43F680F-0599-4A37-AA26-B09682E2B6E7",
+  "link_parts_guid": "19A86F1F-1364-480A-8376-D6E4C398B3E0",
+  "highlight_type": "00000000",
+  "_row": 71
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "instance_guid": "EB976BE2-B1FA-4013-BACF-94F5E8A1005D",
+  "vital": 15,
+  "meat_guid": "F43F680F-0599-4A37-AA26-B09682E2B6E7",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 72
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "instance_guid": "EB976BE2-B1FA-4013-BACF-94F5E8A1005D",
+  "vital": 1500,
+  "meat_guid": "F43F680F-0599-4A37-AA26-B09682E2B6E7",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 73
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "instance_guid": "EB976BE2-B1FA-4013-BACF-94F5E8A1005D",
+  "vital": 2500,
+  "meat_guid": "F43F680F-0599-4A37-AA26-B09682E2B6E7",
+  "link_parts_guid": "00000000-0000-0000-0000-000000000000",
+  "highlight_type": "00000000",
+  "_row": 74
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "instance_guid": "4D8D97CE-D7C9-4B6E-8EA9-87E3D99BDE43",
+  "vital": 0,
+  "meat_guid": "9136A45F-182B-4BA6-B2CB-95371154CD89",
+  "link_parts_guid": "19A86F1F-1364-480A-8376-D6E4C398B3E0",
+  "highlight_type": "00000000",
+  "_row": 75
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "instance_guid": "8EC0B518-8B7D-47BC-93E0-4AFE6D19BA40",
+  "vital": 0,
+  "meat_guid": "9136A45F-182B-4BA6-B2CB-95371154CD89",
+  "link_parts_guid": "83FE089F-D9A0-4E12-850A-A26202A5835C",
+  "highlight_type": "00000000",
+  "_row": 76
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "instance_guid": "8BD33EA9-7AEA-478B-AAAB-78532776A54E",
+  "vital": 0,
+  "meat_guid": "9136A45F-182B-4BA6-B2CB-95371154CD89",
+  "link_parts_guid": "E5D87788-118C-432F-81A7-7C424081203C",
+  "highlight_type": "00000000",
+  "_row": 77
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "instance_guid": "3569489B-3D63-468F-96DB-F45CA0356D28",
+  "vital": 0,
+  "meat_guid": "9136A45F-182B-4BA6-B2CB-95371154CD89",
+  "link_parts_guid": "00EF53ED-FEB6-4F63-B45B-7FD61EC1F451",
+  "highlight_type": "00000000",
+  "_row": 78
+ },
+ {
+  "em_id": "EM0164_50_0",
+  "monster": "Zoh Shia",
+  "instance_guid": "0D3DBE95-0FA1-40C3-B470-71F0B3CE1897",
+  "vital": 1,
+  "meat_guid": "FC6A4782-F602-4D95-891F-858BBC459D8A",
+  "link_parts_guid": "769EE2BE-7D04-49C7-968D-CDABBC071C1C",
+  "highlight_type": "00000000",
+  "_row": 79
+ },
+ {
+  "em_id": "EM0164_50_0",
+  "monster": "Zoh Shia",
+  "instance_guid": "0D3DBE95-0FA1-40C3-B470-71F0B3CE1897",
+  "vital": 100,
+  "meat_guid": "FC6A4782-F602-4D95-891F-858BBC459D8A",
+  "link_parts_guid": "769EE2BE-7D04-49C7-968D-CDABBC071C1C",
+  "highlight_type": "00000000",
+  "_row": 80
+ },
+ {
+  "em_id": "EM0164_50_0",
+  "monster": "Zoh Shia",
+  "instance_guid": "0D3DBE95-0FA1-40C3-B470-71F0B3CE1897",
+  "vital": 200,
+  "meat_guid": "FC6A4782-F602-4D95-891F-858BBC459D8A",
+  "link_parts_guid": "769EE2BE-7D04-49C7-968D-CDABBC071C1C",
+  "highlight_type": "00000000",
+  "_row": 81
+ },
+ {
+  "em_id": "EM0164_50_0",
+  "monster": "Zoh Shia",
+  "instance_guid": "24C690B1-E113-4264-A226-D97DC81C55A6",
+  "vital": 0,
+  "meat_guid": "FC6A4782-F602-4D95-891F-858BBC459D8A",
+  "link_parts_guid": "8AA38602-73B1-4DA3-B257-69F65A1B773E",
+  "highlight_type": "00000000",
+  "_row": 82
+ }
+]

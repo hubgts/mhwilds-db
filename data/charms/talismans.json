@@ -1,0 +1,3868 @@
+[
+ {
+  "index": 0,
+  "data_id": "1",
+  "level": 1,
+  "type": "34DACC40",
+  "name": "Marathon Charm I",
+  "description": "A charm that grants the Marathon\nRunner skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "e33f2711-f784-4030-92d8-062905b76265",
+  "description_guid": "e3413820-fe5d-4397-8024-4fe212902582",
+  "_row": 2,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_024",
+    "skill_name": "Marathon Runner",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 1,
+  "data_id": "2",
+  "level": 2,
+  "type": "34DACC40",
+  "name": "Marathon Charm II",
+  "description": "A charm that grants the Marathon\nRunner skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "bc7cbc9c-8288-4b6a-a237-7efc0a7bc013",
+  "description_guid": "c9785786-2d48-4a7b-a184-11761fd32962",
+  "_row": 3,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_024",
+    "skill_name": "Marathon Runner",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 2,
+  "data_id": "3",
+  "level": 3,
+  "type": "34DACC40",
+  "name": "Marathon Charm III",
+  "description": "A charm that grants the Marathon\nRunner skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "b760fced-112e-4028-b9c6-247f73c2bd9a",
+  "description_guid": "e3eb9098-1f35-427b-b848-ad0e3709b5cc",
+  "_row": 4,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_024",
+    "skill_name": "Marathon Runner",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 3,
+  "data_id": "4",
+  "level": 1,
+  "type": "67FAC800",
+  "name": "Fitness Charm I",
+  "description": "A charm that grants the\nConstitution skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "557be166-ff64-4219-aa8f-b5decf7da225",
+  "description_guid": "85560730-3118-4eff-bf09-be2f01728569",
+  "_row": 5,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_025",
+    "skill_name": "Constitution",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 4,
+  "data_id": "5",
+  "level": 2,
+  "type": "67FAC800",
+  "name": "Fitness Charm II",
+  "description": "A charm that grants the\nConstitution skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "3419f639-f057-413f-b0b4-43680aa70ed3",
+  "description_guid": "5b8ed7c2-7b8e-4402-9e95-a00e7a261351",
+  "_row": 6,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_025",
+    "skill_name": "Constitution",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 5,
+  "data_id": "6",
+  "level": 3,
+  "type": "67FAC800",
+  "name": "Fitness Charm III",
+  "description": "A charm that grants the\nConstitution skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "1eb818a0-b1e9-480e-98e5-d561b3698193",
+  "description_guid": "f449d7be-5fbd-4657-855e-4ca9a1387e0e",
+  "_row": 7,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_025",
+    "skill_name": "Constitution",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 6,
+  "data_id": "7",
+  "level": 4,
+  "type": "67FAC800",
+  "name": "Fitness Charm IV",
+  "description": "A charm that grants the\nConstitution skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "0ce7115a-e7a0-4896-890e-22da543a3fa4",
+  "description_guid": "86e3eb92-5d2b-4905-8973-740b7ca645fd",
+  "_row": 8,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_025",
+    "skill_name": "Constitution",
+    "level": 4
+   }
+  ]
+ },
+ {
+  "index": 7,
+  "data_id": "8",
+  "level": 5,
+  "type": "67FAC800",
+  "name": "Fitness Charm V",
+  "description": "A charm that grants the\nConstitution skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "8fa14912-3e2e-404a-9b0f-3521666caf77",
+  "description_guid": "d817ae3f-dffa-4cac-932f-14c9af34d944",
+  "_row": 9,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_025",
+    "skill_name": "Constitution",
+    "level": 5
+   }
+  ]
+ },
+ {
+  "index": 8,
+  "data_id": "9",
+  "level": 1,
+  "type": "DA42AF80",
+  "name": "Sheathe Charm I",
+  "description": "A charm that grants the Quick\nSheathe skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "d062ad4f-092e-4b34-9f6e-6802557fcbfa",
+  "description_guid": "a21726ae-d442-4e93-8c14-433891a89506",
+  "_row": 10,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_031",
+    "skill_name": "Quick Sheathe",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 9,
+  "data_id": "10",
+  "level": 2,
+  "type": "DA42AF80",
+  "name": "Sheathe Charm II",
+  "description": "A charm that grants the Quick\nSheathe skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "6f763523-f1fb-4283-be55-7e65b22e5be3",
+  "description_guid": "3cba435c-6376-4650-b4c1-fb2bce79f8ba",
+  "_row": 11,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_031",
+    "skill_name": "Quick Sheathe",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 10,
+  "data_id": "11",
+  "level": 3,
+  "type": "DA42AF80",
+  "name": "Sheathe Charm III",
+  "description": "A charm that grants the Quick\nSheathe skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "6524d0be-9e95-43c7-8f1d-3cb0ac5418eb",
+  "description_guid": "18195dcf-c4b7-4bbe-812a-90498341dd5c",
+  "_row": 12,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_031",
+    "skill_name": "Quick Sheathe",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 11,
+  "data_id": "12",
+  "level": 1,
+  "type": "A4DED500",
+  "name": "Challenger Charm I",
+  "description": "A charm that grants the Agitator\nskill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "926272a2-3540-4398-a869-57f7a3723f01",
+  "description_guid": "6e4f15c0-9442-4c3e-b767-e071ae61547c",
+  "_row": 13,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_058",
+    "skill_name": "Agitator",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 12,
+  "data_id": "13",
+  "level": 2,
+  "type": "A4DED500",
+  "name": "Challenger Charm II",
+  "description": "A charm that grants the Agitator\nskill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "e8f0c9fc-58d5-4072-a067-f37eebaa4f1b",
+  "description_guid": "944bb0ac-58ab-4b00-b54d-f41c02ee7e18",
+  "_row": 14,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_058",
+    "skill_name": "Agitator",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 13,
+  "data_id": "14",
+  "level": 3,
+  "type": "A4DED500",
+  "name": "Challenger Charm III",
+  "description": "A charm that grants the Agitator\nskill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "1d4bf72b-24b0-40ca-9592-b7167b4f04c3",
+  "description_guid": "37d27162-91cc-4e25-b8dc-523ece987943",
+  "_row": 15,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_058",
+    "skill_name": "Agitator",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 14,
+  "data_id": "15",
+  "level": 1,
+  "type": "9FAA7380",
+  "name": "Unscathed Charm I",
+  "description": "A charm that grants the Peak\nPerformance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "c1f70474-ca08-4a79-87dc-e75b043d5fcd",
+  "description_guid": "ade0ff47-2e5d-492d-9bc1-db6519cae01c",
+  "_row": 16,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_059",
+    "skill_name": "Peak Performance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 15,
+  "data_id": "16",
+  "level": 2,
+  "type": "9FAA7380",
+  "name": "Unscathed Charm II",
+  "description": "A charm that grants the Peak\nPerformance skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "ab7e4f53-901d-4b04-b762-d05b0bb4e33a",
+  "description_guid": "cf9d310b-d315-4a20-b763-d14641d6ea55",
+  "_row": 17,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_059",
+    "skill_name": "Peak Performance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 16,
+  "data_id": "17",
+  "level": 3,
+  "type": "9FAA7380",
+  "name": "Unscathed Charm III",
+  "description": "A charm that grants the Peak\nPerformance skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "ae04dd6c-e202-471a-a0f7-fb891ef24f90",
+  "description_guid": "030df74b-9d4e-472b-beb3-077fbbaf0216",
+  "_row": 18,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_059",
+    "skill_name": "Peak Performance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 17,
+  "data_id": "18",
+  "level": 1,
+  "type": "699F1E00",
+  "name": "Fury Charm I",
+  "description": "A charm that grants the\nResentment skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "2f9724f7-f246-4a39-90b8-53b889c1030f",
+  "description_guid": "8151cd3a-1d0e-4cc4-b89a-d3d5eeb8c52f",
+  "_row": 19,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_060",
+    "skill_name": "Resentment",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 18,
+  "data_id": "19",
+  "level": 2,
+  "type": "699F1E00",
+  "name": "Fury Charm II",
+  "description": "A charm that grants the\nResentment skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "80793aa4-1a5a-43c4-8f9b-f581b4d42ad3",
+  "description_guid": "748ee0f7-8358-41b9-a8a5-07bac1d9e7de",
+  "_row": 20,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_060",
+    "skill_name": "Resentment",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 19,
+  "data_id": "20",
+  "level": 3,
+  "type": "699F1E00",
+  "name": "Fury Charm III",
+  "description": "A charm that grants the\nResentment skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "52e491d1-94e5-4fa8-95cf-2bfa7def6865",
+  "description_guid": "56af3d43-3c93-45bf-be27-767f33d6e55b",
+  "_row": 21,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_060",
+    "skill_name": "Resentment",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 20,
+  "data_id": "21",
+  "level": 1,
+  "type": "77C54D00",
+  "name": "Exploiter Charm I",
+  "description": "A charm that grants the Weakness\nExploit skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "8fca068c-d3e2-4736-98db-6574e11c7878",
+  "description_guid": "10c6f0d5-cb25-4b60-8454-eb7b229703bf",
+  "_row": 22,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_062",
+    "skill_name": "Weakness Exploit",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 21,
+  "data_id": "22",
+  "level": 2,
+  "type": "77C54D00",
+  "name": "Exploiter Charm II",
+  "description": "A charm that grants the Weakness\nExploit skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "ac9c7e11-3098-4a45-9483-ec1d50e79f4b",
+  "description_guid": "6f0e8775-36d5-4d3c-bf91-3009235fd24c",
+  "_row": 23,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_062",
+    "skill_name": "Weakness Exploit",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 23,
+  "data_id": "24",
+  "level": 1,
+  "type": "C90218C0",
+  "name": "Power Charm I",
+  "description": "A charm that grants the Latent\nPower skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "8e7da41e-bc83-45a9-acc7-3386017382bf",
+  "description_guid": "933a7314-a9b5-4a0d-8990-3259783877d9",
+  "_row": 24,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_063",
+    "skill_name": "Latent Power",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 24,
+  "data_id": "25",
+  "level": 2,
+  "type": "C90218C0",
+  "name": "Power Charm II",
+  "description": "A charm that grants the Latent\nPower skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "f51d6fa8-f269-45f8-b255-57a34882009c",
+  "description_guid": "5afe18ac-0b4d-4bf3-9228-5d57721bef6d",
+  "_row": 25,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_063",
+    "skill_name": "Latent Power",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 25,
+  "data_id": "26",
+  "level": 3,
+  "type": "C90218C0",
+  "name": "Power Charm III",
+  "description": "A charm that grants the Latent\nPower skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "fae9475e-4d9d-4eb5-8fae-c600a0417d81",
+  "description_guid": "bf5f6de9-c26d-4960-bb61-28fb52a7561f",
+  "_row": 26,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_063",
+    "skill_name": "Latent Power",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 26,
+  "data_id": "27",
+  "level": 1,
+  "type": "AE361800",
+  "name": "Mighty Charm I",
+  "description": "A charm that grants the\nMaximum Might skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "26225e76-967b-4611-9da1-9d4892f1f726",
+  "description_guid": "9aa6f4f4-bc88-4f11-b62f-6814af335b6e",
+  "_row": 27,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_064",
+    "skill_name": "Maximum Might",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 27,
+  "data_id": "28",
+  "level": 2,
+  "type": "AE361800",
+  "name": "Mighty Charm II",
+  "description": "A charm that grants the\nMaximum Might skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "486d2bd4-115c-4f56-b4c1-56515b6b93b1",
+  "description_guid": "ff0ce8a6-3351-4f14-b6c5-eebb92187eab",
+  "_row": 28,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_064",
+    "skill_name": "Maximum Might",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 28,
+  "data_id": "29",
+  "level": 3,
+  "type": "AE361800",
+  "name": "Mighty Charm III",
+  "description": "A charm that grants the\nMaximum Might skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "c1cd5bb5-5f66-496f-a2c2-9e4d3c3a2908",
+  "description_guid": "5b6d2b1d-009c-42d9-b64f-038bd4e468c8",
+  "_row": 29,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_064",
+    "skill_name": "Maximum Might",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 29,
+  "data_id": "30",
+  "level": 1,
+  "type": "C6EC2E40",
+  "name": "Surge Charm I",
+  "description": "A charm that grants the Stamina\nSurge skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "ee4a91b7-8df3-4c66-8f5d-b2692be169b7",
+  "description_guid": "5c5ad019-d32f-42c4-8258-01f9e6b39cba",
+  "_row": 30,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_065",
+    "skill_name": "Stamina Surge",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 30,
+  "data_id": "31",
+  "level": 2,
+  "type": "C6EC2E40",
+  "name": "Surge Charm II",
+  "description": "A charm that grants the Stamina\nSurge skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "9be582f7-1baf-4046-896d-93441df89339",
+  "description_guid": "ceae6039-b720-456e-b8ec-f92c37709f6b",
+  "_row": 31,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_065",
+    "skill_name": "Stamina Surge",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 31,
+  "data_id": "32",
+  "level": 3,
+  "type": "C6EC2E40",
+  "name": "Surge Charm III",
+  "description": "A charm that grants the Stamina\nSurge skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "83b6dc0e-7eec-480c-80c5-c436bc61d095",
+  "description_guid": "8b3355a3-2d1b-42fa-90c8-b02b8f91faf8",
+  "_row": 32,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_065",
+    "skill_name": "Stamina Surge",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 32,
+  "data_id": "33",
+  "level": 1,
+  "type": "CC7EAFC0",
+  "name": "Defense Charm I",
+  "description": "A charm that grants the Defense\nBoost skill.",
+  "rarity": 2,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "e3c79f36-f382-42dd-a6b1-f5034c734b1f",
+  "description_guid": "7332f038-bb31-4cde-afa4-8771e00fc767",
+  "_row": 33,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_067",
+    "skill_name": "Defense Boost",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 33,
+  "data_id": "34",
+  "level": 2,
+  "type": "CC7EAFC0",
+  "name": "Defense Charm II",
+  "description": "A charm that grants the Defense\nBoost skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "f3a4341b-8371-4fed-a6d2-c51d337adc27",
+  "description_guid": "aa88d677-c14c-4987-84f0-64136c99a605",
+  "_row": 34,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_067",
+    "skill_name": "Defense Boost",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 34,
+  "data_id": "35",
+  "level": 3,
+  "type": "CC7EAFC0",
+  "name": "Defense Charm III",
+  "description": "A charm that grants the Defense\nBoost skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "cb06b57a-edd5-4bd4-8d19-0b9e281e71f7",
+  "description_guid": "850141fc-1871-4d83-92b2-9908280bce50",
+  "_row": 35,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_067",
+    "skill_name": "Defense Boost",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 35,
+  "data_id": "36",
+  "level": 4,
+  "type": "CC7EAFC0",
+  "name": "Defense Charm IV",
+  "description": "A charm that grants the Defense\nBoost skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "181696b2-5c6b-4b3a-99d3-40aaf36491d1",
+  "description_guid": "b62f12a5-008d-402c-ae88-0de2a5a54bce",
+  "_row": 36,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_067",
+    "skill_name": "Defense Boost",
+    "level": 4
+   }
+  ]
+ },
+ {
+  "index": 36,
+  "data_id": "37",
+  "level": 5,
+  "type": "CC7EAFC0",
+  "name": "Defense Charm V",
+  "description": "A charm that grants the Defense\nBoost skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "2426f624-e101-435c-85a3-7929cab3609e",
+  "description_guid": "4fa37bd9-54cd-4dad-97f4-cb572bb6c13f",
+  "_row": 37,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_067",
+    "skill_name": "Defense Boost",
+    "level": 5
+   }
+  ]
+ },
+ {
+  "index": 37,
+  "data_id": "38",
+  "level": 1,
+  "type": "4BA00B00",
+  "name": "Blessing Charm I",
+  "description": "A charm that grants\nthe Divine Blessing skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "4fd9a082-17bb-47f3-83e2-3339c5be1a45",
+  "description_guid": "008cfd61-e308-4304-b07c-c757e4e5c000",
+  "_row": 38,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_068",
+    "skill_name": "Divine Blessing",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 38,
+  "data_id": "39",
+  "level": 2,
+  "type": "4BA00B00",
+  "name": "Blessing Charm II",
+  "description": "A charm that grants\nthe Divine Blessing skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "a8d978ad-64f4-4439-bbfa-0efd6c27c02f",
+  "description_guid": "fc936a14-f733-48a8-8b7d-22e8df98bce2",
+  "_row": 39,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_068",
+    "skill_name": "Divine Blessing",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 39,
+  "data_id": "40",
+  "level": 3,
+  "type": "4BA00B00",
+  "name": "Blessing Charm III",
+  "description": "A charm that grants\nthe Divine Blessing skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "de0aa0ce-6fa1-459f-87df-405d7ca5e13a",
+  "description_guid": "1014ae33-08d2-416b-bf3a-afff87ffc2b5",
+  "_row": 40,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_068",
+    "skill_name": "Divine Blessing",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 40,
+  "data_id": "41",
+  "level": 1,
+  "type": "64DED900",
+  "name": "Recovery Charm I",
+  "description": "A charm that grants the Recovery\nUp skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "4cc5e63f-7baf-47a9-95e1-88a5bd36f02e",
+  "description_guid": "90e3daad-1aab-45f3-a601-305958405580",
+  "_row": 41,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_069",
+    "skill_name": "Recovery Up",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 41,
+  "data_id": "42",
+  "level": 2,
+  "type": "64DED900",
+  "name": "Recovery Charm II",
+  "description": "A charm that grants the Recovery\nUp skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "4fec41bb-6df3-4388-bf79-19939daad20e",
+  "description_guid": "f91eeddd-452a-44b3-90a0-4bf37e8961dd",
+  "_row": 42,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_069",
+    "skill_name": "Recovery Up",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 42,
+  "data_id": "43",
+  "level": 3,
+  "type": "64DED900",
+  "name": "Recovery Charm III",
+  "description": "A charm that grants the Recovery\nUp skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "1bccbf3e-b81a-4fb7-a599-01ec9413b8a0",
+  "description_guid": "73c23b53-760a-4e89-bd4e-c115d727114e",
+  "_row": 43,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_069",
+    "skill_name": "Recovery Up",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 43,
+  "data_id": "44",
+  "level": 1,
+  "type": "64C57E00",
+  "name": "Speed Heal Charm I",
+  "description": "A charm that grants the Recovery\nSpeed skill.",
+  "rarity": 2,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "32c8a81e-c699-45ca-8848-b1da94f33292",
+  "description_guid": "96a4edce-b168-4e13-8ae4-21dc7d79cbd2",
+  "_row": 44,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_070",
+    "skill_name": "Recovery Speed",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 44,
+  "data_id": "45",
+  "level": 2,
+  "type": "64C57E00",
+  "name": "Speed Heal Charm II",
+  "description": "A charm that grants the Recovery\nSpeed skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "33c55511-7d3b-4ca9-b6a2-9c061b36ad11",
+  "description_guid": "b5c31fe2-87b9-4012-a665-15032b6e617e",
+  "_row": 45,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_070",
+    "skill_name": "Recovery Speed",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 45,
+  "data_id": "46",
+  "level": 3,
+  "type": "64C57E00",
+  "name": "Speed Heal Charm III",
+  "description": "A charm that grants the Recovery\nSpeed skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "f767c024-dd69-4c9d-ba8d-1cc605802837",
+  "description_guid": "5539b8c2-2d18-4797-b303-b543c5a55947",
+  "_row": 46,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_070",
+    "skill_name": "Recovery Speed",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 46,
+  "data_id": "47",
+  "level": 1,
+  "type": "A45C6400",
+  "name": "Glutton's Charm I",
+  "description": "A charm that grants the Speed\nEating skill.",
+  "rarity": 2,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "988fe7ac-995d-4297-97d7-1a150b59c5f7",
+  "description_guid": "1bbbb5a9-efa9-404a-8d11-ba03b61cec6f",
+  "_row": 47,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_071",
+    "skill_name": "Speed Eating",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 47,
+  "data_id": "48",
+  "level": 2,
+  "type": "A45C6400",
+  "name": "Glutton's Charm II",
+  "description": "A charm that grants the Speed\nEating skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "634be48a-3440-43c8-ba6d-50be3f97f9ef",
+  "description_guid": "152c01ef-d1a6-400d-9178-0af2967fe5d8",
+  "_row": 48,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_071",
+    "skill_name": "Speed Eating",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 48,
+  "data_id": "49",
+  "level": 3,
+  "type": "A45C6400",
+  "name": "Glutton's Charm III",
+  "description": "A charm that grants the Speed\nEating skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "a1a410a2-5a0f-4833-b008-e85ca03ddd24",
+  "description_guid": "bce508a7-e40b-47fe-a8b3-6dce4bae9169",
+  "_row": 49,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_071",
+    "skill_name": "Speed Eating",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 49,
+  "data_id": "50",
+  "level": 1,
+  "type": "BC338080",
+  "name": "Earplugs Charm I",
+  "description": "A charm that grants the Earplugs\nskill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "f33d5a30-96dc-45f5-b2a8-332cb92a9b5f",
+  "description_guid": "d8302fc0-cf8f-4778-a4b6-5a15767e06b6",
+  "_row": 50,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_072",
+    "skill_name": "Earplugs",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 50,
+  "data_id": "51",
+  "level": 2,
+  "type": "BC338080",
+  "name": "Earplugs Charm II",
+  "description": "A charm that grants the Earplugs\nskill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "43d4be8d-db85-4d25-91a8-362f203bb5a7",
+  "description_guid": "efa65ac1-b5e0-4acf-afa0-b78b132cba2a",
+  "_row": 51,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_072",
+    "skill_name": "Earplugs",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 51,
+  "data_id": "52",
+  "level": 1,
+  "type": "83BE9480",
+  "name": "Windproof Charm I",
+  "description": "A charm that grants the\nWindproof skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "797421e9-2861-4324-875c-3bdfeba05aad",
+  "description_guid": "4e15bcf7-4251-443d-a940-27e52e8ec149",
+  "_row": 52,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_073",
+    "skill_name": "Windproof",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 52,
+  "data_id": "53",
+  "level": 2,
+  "type": "83BE9480",
+  "name": "Windproof Charm II",
+  "description": "A charm that grants the\nWindproof skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "4619fe6d-c0ef-4d6e-9d5a-f6c7fb27ab24",
+  "description_guid": "e8ebfeec-7352-44bb-9d8b-79be71636c32",
+  "_row": 53,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_073",
+    "skill_name": "Windproof",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 53,
+  "data_id": "54",
+  "level": 3,
+  "type": "83BE9480",
+  "name": "Windproof Charm III",
+  "description": "A charm that grants the\nWindproof skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "212f0b00-e330-436d-b4bf-831485bbc84c",
+  "description_guid": "45f0e6f3-dbe0-45c2-acd5-6c72571ea912",
+  "_row": 54,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_073",
+    "skill_name": "Windproof",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 54,
+  "data_id": "55",
+  "level": 1,
+  "type": "35FB7D00",
+  "name": "Tremor Charm I",
+  "description": "A charm that grants the\nTremor Resistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "46b636e6-3729-4e05-9b3e-c50beec110cb",
+  "description_guid": "43b68f4c-f893-40de-8af8-9c13727889be",
+  "_row": 55,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_074",
+    "skill_name": "Tremor Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 55,
+  "data_id": "56",
+  "level": 2,
+  "type": "35FB7D00",
+  "name": "Tremor Charm II",
+  "description": "A charm that grants the\nTremor Resistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "5a5b898d-9ad9-45bb-9010-93dbf8fbdbda",
+  "description_guid": "354d7d02-1ac4-4afb-8884-7454291bc870",
+  "_row": 56,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_074",
+    "skill_name": "Tremor Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 56,
+  "data_id": "57",
+  "level": 3,
+  "type": "35FB7D00",
+  "name": "Tremor Charm III",
+  "description": "A charm that grants the\nTremor Resistance skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "5d126d78-d3dc-4009-88e2-203a30fb5dda",
+  "description_guid": "99236c6e-dd9a-4011-a92f-18377521c22c",
+  "_row": 57,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_074",
+    "skill_name": "Tremor Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 57,
+  "data_id": "58",
+  "level": 1,
+  "type": "A5486880",
+  "name": "Evasion Charm I",
+  "description": "A charm that grants the Evade\nWindow skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "44f4c131-9309-4578-9d81-2e51a47758fe",
+  "description_guid": "fc8a823b-44dc-44cb-bde3-00dfd1dd3aa3",
+  "_row": 58,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_075",
+    "skill_name": "Evade Window",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 58,
+  "data_id": "59",
+  "level": 2,
+  "type": "A5486880",
+  "name": "Evasion Charm II",
+  "description": "A charm that grants the Evade\nWindow skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "4484807a-7430-465f-b312-52a84fafee63",
+  "description_guid": "b86a997f-c8a6-41e1-963b-3e244ad25d9c",
+  "_row": 59,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_075",
+    "skill_name": "Evade Window",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 59,
+  "data_id": "60",
+  "level": 3,
+  "type": "A5486880",
+  "name": "Evasion Charm III",
+  "description": "A charm that grants the Evade\nWindow skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "1d5a8e07-8c5a-4a73-b9fa-d3ca2978a9a2",
+  "description_guid": "c253266f-e36c-4e5a-bf90-7fc2f846868f",
+  "_row": 60,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_075",
+    "skill_name": "Evade Window",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 60,
+  "data_id": "61",
+  "level": 4,
+  "type": "A5486880",
+  "name": "Evasion Charm IV",
+  "description": "A charm that grants the Evade\nWindow skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "cf867772-8b4e-4dc6-8f0e-bb7f32246389",
+  "description_guid": "e149b44b-6eef-4116-baf3-c5573c22e6fc",
+  "_row": 61,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_075",
+    "skill_name": "Evade Window",
+    "level": 4
+   }
+  ]
+ },
+ {
+  "index": 61,
+  "data_id": "62",
+  "level": 1,
+  "type": "9BC0B080",
+  "name": "Leaping Charm I",
+  "description": "A charm that grants the Evade\nExtender skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "532c1185-6766-4bee-86e1-3964de88cc10",
+  "description_guid": "93f322b7-9113-4f5e-bf15-80b7a4d2088f",
+  "_row": 62,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_076",
+    "skill_name": "Evade Extender",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 62,
+  "data_id": "63",
+  "level": 2,
+  "type": "9BC0B080",
+  "name": "Leaping Charm II",
+  "description": "A charm that grants the Evade\nExtender skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "aa78309c-38ee-4806-99f6-f20b9ace084f",
+  "description_guid": "7a834908-2dac-404b-839a-3f762cd96582",
+  "_row": 63,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_076",
+    "skill_name": "Evade Extender",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 63,
+  "data_id": "64",
+  "level": 3,
+  "type": "9BC0B080",
+  "name": "Leaping Charm III",
+  "description": "A charm that grants the Evade\nExtender skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "f12f052d-e1c3-4782-95ee-fe528f2f7338",
+  "description_guid": "7ed93476-8735-44c6-ab4f-de95a8ceeb93",
+  "_row": 64,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_076",
+    "skill_name": "Evade Extender",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 64,
+  "data_id": "65",
+  "level": 1,
+  "type": "93AF7900",
+  "name": "Fire Charm I",
+  "description": "A charm that grants the Fire\nResistance skill.",
+  "rarity": 2,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "350cf5fa-9e35-402a-84f3-236c1cde93f1",
+  "description_guid": "3dd14f1f-929f-4b7a-ab02-13da244dce3d",
+  "_row": 65,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_077",
+    "skill_name": "Fire Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 65,
+  "data_id": "66",
+  "level": 2,
+  "type": "93AF7900",
+  "name": "Fire Charm II",
+  "description": "A charm that grants the Fire\nResistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "db738a72-684b-497b-8fbb-e2a0c64296f2",
+  "description_guid": "53a8adc6-e698-42fe-98e9-b87e3957b2e8",
+  "_row": 66,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_077",
+    "skill_name": "Fire Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 66,
+  "data_id": "67",
+  "level": 3,
+  "type": "93AF7900",
+  "name": "Fire Charm III",
+  "description": "A charm that grants the Fire\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "72fbfd90-1206-4971-a578-ea00b74f7592",
+  "description_guid": "d4ba3a8c-2d7a-4ee8-8df0-0825806668a6",
+  "_row": 67,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_077",
+    "skill_name": "Fire Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 67,
+  "data_id": "68",
+  "level": 1,
+  "type": "DDB0A080",
+  "name": "Water Charm I",
+  "description": "A charm that grants the Water\nResistance skill.",
+  "rarity": 2,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "6c66d7d7-d00c-4da2-8b81-39ac7d745b46",
+  "description_guid": "86b8df87-117a-439a-8dcb-a0cc3842fd21",
+  "_row": 68,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_078",
+    "skill_name": "Water Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 68,
+  "data_id": "69",
+  "level": 2,
+  "type": "DDB0A080",
+  "name": "Water Charm II",
+  "description": "A charm that grants the Water\nResistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "1c47577f-101d-4bd2-80e9-6c87499329fe",
+  "description_guid": "055474fe-b589-41b6-b0a8-151f48d1c259",
+  "_row": 69,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_078",
+    "skill_name": "Water Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 69,
+  "data_id": "70",
+  "level": 3,
+  "type": "DDB0A080",
+  "name": "Water Charm III",
+  "description": "A charm that grants the Water\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "3ab72106-31c0-4fb2-98ab-c473e226dae6",
+  "description_guid": "e0e25391-ef39-4270-a951-cd760413f4a0",
+  "_row": 70,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_078",
+    "skill_name": "Water Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 70,
+  "data_id": "71",
+  "level": 1,
+  "type": "C575E700",
+  "name": "Thunder Charm I",
+  "description": "A charm that grants the Thunder\nResistance skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "c37610fc-3019-4a44-a1df-d9c3b693dc5a",
+  "description_guid": "7b460088-44ec-4bee-a1c7-fd59ee824a03",
+  "_row": 71,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_080",
+    "skill_name": "Thunder Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 71,
+  "data_id": "72",
+  "level": 2,
+  "type": "C575E700",
+  "name": "Thunder Charm II",
+  "description": "A charm that grants the Thunder\nResistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "225b85e2-03e0-429e-bb22-3b7691617509",
+  "description_guid": "13537840-9f15-4762-a12f-3c7f4c0e5c62",
+  "_row": 72,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_080",
+    "skill_name": "Thunder Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 72,
+  "data_id": "73",
+  "level": 3,
+  "type": "C575E700",
+  "name": "Thunder Charm III",
+  "description": "A charm that grants the Thunder\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "e3ec3085-1928-40bf-9381-7655c7d71384",
+  "description_guid": "113e065b-5ea1-43ea-b8f7-1f8d638c57bb",
+  "_row": 73,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_080",
+    "skill_name": "Thunder Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 73,
+  "data_id": "74",
+  "level": 1,
+  "type": "F2B063B0",
+  "name": "Ice Charm I",
+  "description": "A charm that grants the Ice\nResistance skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "a6efb98e-3e81-429d-8fc9-52e3615cc09d",
+  "description_guid": "97fcbb3d-fe62-4094-9fa6-953691c50609",
+  "_row": 74,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_079",
+    "skill_name": "Ice Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 74,
+  "data_id": "75",
+  "level": 2,
+  "type": "F2B063B0",
+  "name": "Ice Charm II",
+  "description": "A charm that grants the Ice\nResistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "9dcf5d51-9431-4f52-aa2b-fd14ebec2dfc",
+  "description_guid": "5894a402-016c-4612-a35f-fb776e2acca1",
+  "_row": 75,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_079",
+    "skill_name": "Ice Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 75,
+  "data_id": "76",
+  "level": 3,
+  "type": "F2B063B0",
+  "name": "Ice Charm III",
+  "description": "A charm that grants the Ice\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "499cab14-a15a-454b-92c6-b07adf06a703",
+  "description_guid": "84e56477-648d-49d3-a084-60c766aec51f",
+  "_row": 76,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_079",
+    "skill_name": "Ice Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 76,
+  "data_id": "77",
+  "level": 1,
+  "type": "7785DF00",
+  "name": "Dragon Charm I",
+  "description": "A charm that grants the Dragon\nResistance skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "039f31dd-715b-40ec-b01b-3c45e1f4aa61",
+  "description_guid": "8d778ce7-2ae4-4a37-b022-152ffce28523",
+  "_row": 77,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_081",
+    "skill_name": "Dragon Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 77,
+  "data_id": "78",
+  "level": 2,
+  "type": "7785DF00",
+  "name": "Dragon Charm II",
+  "description": "A charm that grants the Dragon\nResistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "b0e6a16e-a080-4091-80e9-bb34564bab66",
+  "description_guid": "50f4a9b0-4fa9-4f60-8ec5-088ede7f9312",
+  "_row": 78,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_081",
+    "skill_name": "Dragon Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 78,
+  "data_id": "79",
+  "level": 3,
+  "type": "7785DF00",
+  "name": "Dragon Charm III",
+  "description": "A charm that grants the Dragon\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "0355c863-05c2-42ed-b547-24e879eba71d",
+  "description_guid": "18f14bd5-4ca7-476e-94e9-f1324ea0c7fb",
+  "_row": 79,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_081",
+    "skill_name": "Dragon Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 79,
+  "data_id": "80",
+  "level": 1,
+  "type": "EA456FE0",
+  "name": "Blight Charm I",
+  "description": "A charm that grants the Blight\nResistance skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "d15068af-67e6-44cd-b984-72d35dc7b9ad",
+  "description_guid": "1cc9a807-56ce-4936-94a2-2f207a23a8d6",
+  "_row": 80,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_082",
+    "skill_name": "Blight Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 80,
+  "data_id": "81",
+  "level": 2,
+  "type": "EA456FE0",
+  "name": "Blight Charm II",
+  "description": "A charm that grants the Blight\nResistance skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "e6cd4a5f-15dd-4e4e-af24-26c0080fb554",
+  "description_guid": "ed66a52a-4c4b-4ca1-bc19-8f81c1fc6c2b",
+  "_row": 81,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_082",
+    "skill_name": "Blight Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 81,
+  "data_id": "82",
+  "level": 3,
+  "type": "EA456FE0",
+  "name": "Blight Charm III",
+  "description": "A charm that grants the Blight\nResistance skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "516f3881-f281-4e06-acad-bfee2bcf2ef7",
+  "description_guid": "00ef55f1-f897-4004-987a-331863867889",
+  "_row": 82,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_082",
+    "skill_name": "Blight Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 82,
+  "data_id": "83",
+  "level": 1,
+  "type": "CCFD9980",
+  "name": "Poison Charm I",
+  "description": "A charm that grants the Poison\nResistance skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "f34e2ded-ad75-4656-8fbb-0495e5e956a1",
+  "description_guid": "fcf80eb3-cef2-45c2-a18e-c085316f32a7",
+  "_row": 83,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_083",
+    "skill_name": "Poison Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 83,
+  "data_id": "84",
+  "level": 2,
+  "type": "CCFD9980",
+  "name": "Poison Charm II",
+  "description": "A charm that grants the Poison\nResistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "675a487f-9a58-4ccb-9bbd-3675062f2351",
+  "description_guid": "cf2386fc-d620-44d7-9d27-9ecb35c808b7",
+  "_row": 84,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_083",
+    "skill_name": "Poison Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 84,
+  "data_id": "85",
+  "level": 3,
+  "type": "CCFD9980",
+  "name": "Poison Charm III",
+  "description": "A charm that grants the Poison\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "d322b80d-744a-4d9c-90b8-cb192fe74410",
+  "description_guid": "95a91f7e-af44-4b65-9016-b906e14bf4b3",
+  "_row": 85,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_083",
+    "skill_name": "Poison Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 85,
+  "data_id": "86",
+  "level": 1,
+  "type": "B9DA5500",
+  "name": "Paralysis Charm I",
+  "description": "A charm that grants the\nParalysis Resistance skill.",
+  "rarity": 2,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "4514fbc5-0ea1-4b4e-a832-8b3738d263fd",
+  "description_guid": "a478d070-fb72-47a7-9e85-c0f903821afe",
+  "_row": 86,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_084",
+    "skill_name": "Paralysis Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 86,
+  "data_id": "87",
+  "level": 2,
+  "type": "B9DA5500",
+  "name": "Paralysis Charm II",
+  "description": "A charm that grants the\nParalysis Resistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "0ad3d561-7d0f-40c4-a70f-ae2c4c1ef80b",
+  "description_guid": "4f566653-3222-4ea5-ab52-b97475f015be",
+  "_row": 87,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_084",
+    "skill_name": "Paralysis Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 87,
+  "data_id": "88",
+  "level": 3,
+  "type": "B9DA5500",
+  "name": "Paralysis Charm III",
+  "description": "A charm that grants the\nParalysis Resistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "ad7c995d-019d-4bc5-bfb6-7611ee596652",
+  "description_guid": "b6f2ad9a-1611-4095-a3fb-4d743a1cfa00",
+  "_row": 88,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_084",
+    "skill_name": "Paralysis Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 88,
+  "data_id": "89",
+  "level": 1,
+  "type": "A21F0E00",
+  "name": "Sleep Charm I",
+  "description": "A charm that grants the Sleep\nResistance skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "6b993d7a-2594-4e26-afd0-0c91d80c6b34",
+  "description_guid": "fb317ec9-0463-42d4-b8ea-dcee3beacff6",
+  "_row": 89,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_085",
+    "skill_name": "Sleep Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 89,
+  "data_id": "90",
+  "level": 2,
+  "type": "A21F0E00",
+  "name": "Sleep Charm II",
+  "description": "A charm that grants the Sleep\nResistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "7f0f1b32-eff3-4669-8328-82b82efc6a89",
+  "description_guid": "2f3792d2-5bbf-4cab-8fb7-3c4e65b43034",
+  "_row": 90,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_085",
+    "skill_name": "Sleep Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 90,
+  "data_id": "91",
+  "level": 3,
+  "type": "A21F0E00",
+  "name": "Sleep Charm III",
+  "description": "A charm that grants the Sleep\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "fa00e489-3089-4b8a-8cc2-fcc1a5f97dda",
+  "description_guid": "dc721445-4df5-4841-8fdc-500213321f4a",
+  "_row": 91,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_085",
+    "skill_name": "Sleep Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 91,
+  "data_id": "92",
+  "level": 1,
+  "type": "AE64CD80",
+  "name": "Stun Charm I",
+  "description": "A charm that grants the Stun\nResistance skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "fa8b712e-3edb-47d8-a6a9-af785dde4293",
+  "description_guid": "89a5d5a4-6802-4cb8-98c7-6dbc99a0538c",
+  "_row": 92,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_086",
+    "skill_name": "Stun Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 92,
+  "data_id": "93",
+  "level": 2,
+  "type": "AE64CD80",
+  "name": "Stun Charm II",
+  "description": "A charm that grants the Stun\nResistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "83abbf46-e849-4aa4-9287-b55f643e30ab",
+  "description_guid": "4cd427f3-7b95-4131-9807-b49abb18dd80",
+  "_row": 93,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_086",
+    "skill_name": "Stun Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 93,
+  "data_id": "94",
+  "level": 3,
+  "type": "AE64CD80",
+  "name": "Stun Charm III",
+  "description": "A charm that grants the Stun\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "7bf7930b-8454-4868-af8c-9aca54c27ac6",
+  "description_guid": "f2f42ddc-a704-49c6-afd8-15ba7af962fa",
+  "_row": 94,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_086",
+    "skill_name": "Stun Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 94,
+  "data_id": "95",
+  "level": 1,
+  "type": "A639B280",
+  "name": "Blast Charm I",
+  "description": "A charm that grants the Blast\nResistance skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "b500b662-ce50-4698-90ee-67f11e0e5262",
+  "description_guid": "ab948e14-8227-4b20-80d8-912fd37004e5",
+  "_row": 95,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_087",
+    "skill_name": "Blast Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 95,
+  "data_id": "96",
+  "level": 2,
+  "type": "A639B280",
+  "name": "Blast Charm II",
+  "description": "A charm that grants the Blast\nResistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "e772b3f5-59dd-4c49-8fc6-8170720b7fc8",
+  "description_guid": "ca15030f-0935-4664-a5bd-e0836d8f7f13",
+  "_row": 96,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_087",
+    "skill_name": "Blast Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 96,
+  "data_id": "97",
+  "level": 3,
+  "type": "A639B280",
+  "name": "Blast Charm III",
+  "description": "A charm that grants the Blast\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "e8a3c2b7-2546-4d16-bfc1-11e360496e7b",
+  "description_guid": "12b1ceff-1f18-4665-b51d-ffde446979b8",
+  "_row": 97,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_087",
+    "skill_name": "Blast Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 97,
+  "data_id": "98",
+  "level": 1,
+  "type": "75B62E00",
+  "name": "Botany Charm I",
+  "description": "A charm that grants the Botanist\nskill.",
+  "rarity": 2,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "a6faa485-fe08-48f4-a9c9-d2360c110a96",
+  "description_guid": "f7f475ae-9cf5-427c-8be0-269381659451",
+  "_row": 98,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_089",
+    "skill_name": "Botanist",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 98,
+  "data_id": "99",
+  "level": 2,
+  "type": "75B62E00",
+  "name": "Botany Charm II",
+  "description": "A charm that grants the Botanist\nskill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "c79fe961-cf18-46c4-8ec2-b8e46ffc16e4",
+  "description_guid": "5b98edf4-5807-4135-a0c1-e4c5c5611ce2",
+  "_row": 99,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_089",
+    "skill_name": "Botanist",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 99,
+  "data_id": "100",
+  "level": 3,
+  "type": "75B62E00",
+  "name": "Botany Charm III",
+  "description": "A charm that grants the Botanist\nskill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "4f107cbe-c18a-4134-98f5-2814d354c7bb",
+  "description_guid": "f937627c-df76-4807-a93b-edfc424afad5",
+  "_row": 100,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_089",
+    "skill_name": "Botanist",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 100,
+  "data_id": "101",
+  "level": 4,
+  "type": "75B62E00",
+  "name": "Botany Charm IV",
+  "description": "A charm that grants the Botanist\nskill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "5e828803-67e4-4a21-a6b5-caa5436c54a8",
+  "description_guid": "d1d31722-7542-4ae9-a41d-9ff3903f31b4",
+  "_row": 101,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_089",
+    "skill_name": "Botanist",
+    "level": 4
+   }
+  ]
+ },
+ {
+  "index": 101,
+  "data_id": "102",
+  "level": 1,
+  "type": "7067B000",
+  "name": "Geology Charm I",
+  "description": "A charm that grants the\nGeologist skill.",
+  "rarity": 2,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "e83b93cd-855e-4d51-b114-a8d5f762c76b",
+  "description_guid": "b200bf0f-1fca-46bb-9f59-92754a66bde2",
+  "_row": 102,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_090",
+    "skill_name": "Geologist",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 102,
+  "data_id": "103",
+  "level": 2,
+  "type": "7067B000",
+  "name": "Geology Charm II",
+  "description": "A charm that grants the\nGeologist skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "905e9583-9593-44b8-b48e-b78062e9ecce",
+  "description_guid": "1069d1ae-5155-4172-b4ca-31368d2142c3",
+  "_row": 103,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_090",
+    "skill_name": "Geologist",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 103,
+  "data_id": "104",
+  "level": 3,
+  "type": "7067B000",
+  "name": "Geology Charm III",
+  "description": "A charm that grants the\nGeologist skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "aa3b7b20-9651-4c12-80b1-da005e33c8f7",
+  "description_guid": "4823b04d-e99b-4627-9a58-8849869c556d",
+  "_row": 104,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_090",
+    "skill_name": "Geologist",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 104,
+  "data_id": "105",
+  "level": 1,
+  "type": "003E2F69",
+  "name": "Breaker Charm I",
+  "description": "A charm that grants the\nPartbreaker skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "8e7d0a12-00cd-4d47-bf48-ee1799643fe7",
+  "description_guid": "0fa470d8-0727-49ff-986c-fd4773acd9f2",
+  "_row": 105,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_091",
+    "skill_name": "Partbreaker",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 105,
+  "data_id": "106",
+  "level": 2,
+  "type": "003E2F69",
+  "name": "Breaker Charm II",
+  "description": "A charm that grants the\nPartbreaker skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "17c3fbdd-69c7-4ecb-bde8-7d6a6b227acb",
+  "description_guid": "a1159a8a-4ce7-4f3d-b405-668c0f490491",
+  "_row": 106,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_091",
+    "skill_name": "Partbreaker",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 106,
+  "data_id": "107",
+  "level": 3,
+  "type": "003E2F69",
+  "name": "Breaker Charm III",
+  "description": "A charm that grants the\nPartbreaker skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "008a58e9-2e3d-4d77-9bdb-a273ed94a49b",
+  "description_guid": "b0f7f8c1-2379-4684-8ea5-0457fbf92abf",
+  "_row": 107,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_091",
+    "skill_name": "Partbreaker",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 107,
+  "data_id": "108",
+  "level": 1,
+  "type": "45E09300",
+  "name": "Bombardier Charm I",
+  "description": "A charm that grants the\nBombardier skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "8f84e5da-3fc6-4aae-8928-da5d7124e830",
+  "description_guid": "876de868-db3b-46ce-851b-4f302bdf024c",
+  "_row": 108,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_095",
+    "skill_name": "Bombardier",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 108,
+  "data_id": "109",
+  "level": 2,
+  "type": "45E09300",
+  "name": "Bombardier Charm II",
+  "description": "A charm that grants the\nBombardier skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "643d6a63-13ef-4d1c-b22c-37d1e50cf41e",
+  "description_guid": "bb418b8a-e333-4cc1-81e1-6d11f692b2f1",
+  "_row": 109,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_095",
+    "skill_name": "Bombardier",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 109,
+  "data_id": "110",
+  "level": 3,
+  "type": "45E09300",
+  "name": "Bombardier Charm III",
+  "description": "A charm that grants the\nBombardier skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "bd7834bc-f299-41f0-9b08-ef603cebdbd4",
+  "description_guid": "8d3b9d30-0a17-4611-b1fd-86016f605a5f",
+  "_row": 110,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_095",
+    "skill_name": "Bombardier",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 110,
+  "data_id": "111",
+  "level": 1,
+  "type": "1EB11940",
+  "name": "Mushroom Charm I",
+  "description": "A charm that grants the\nMushroomancer skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "22edaf05-3a50-4d70-bc25-c30d7df1260b",
+  "description_guid": "8e0dad32-5129-4043-b4b7-b82931977ac6",
+  "_row": 111,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_096",
+    "skill_name": "Mushroomancer",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 111,
+  "data_id": "112",
+  "level": 2,
+  "type": "1EB11940",
+  "name": "Mushroom Charm II",
+  "description": "A charm that grants the\nMushroomancer skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "33ee73c9-38b8-47e2-a3d7-e4d8d7a3496e",
+  "description_guid": "e33b4988-f8cc-48a9-84e9-0d5a0dccaede",
+  "_row": 112,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_096",
+    "skill_name": "Mushroomancer",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 112,
+  "data_id": "113",
+  "level": 3,
+  "type": "1EB11940",
+  "name": "Mushroom Charm III",
+  "description": "A charm that grants the\nMushroomancer skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "5f3955f5-9493-41d7-86a4-9f48584db540",
+  "description_guid": "b726b85e-c862-4f8d-b46a-447f23966dcd",
+  "_row": 113,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_096",
+    "skill_name": "Mushroomancer",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 113,
+  "data_id": "114",
+  "level": 1,
+  "type": "EEB175A0",
+  "name": "Extension Charm I",
+  "description": "A charm that grants the Item\nProlonger skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "15b75a40-d5fb-4102-86b3-73e14bc027b3",
+  "description_guid": "2b730b19-e49d-4011-94fa-5c923e9979af",
+  "_row": 114,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_097",
+    "skill_name": "Item Prolonger",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 114,
+  "data_id": "115",
+  "level": 2,
+  "type": "EEB175A0",
+  "name": "Extension Charm II",
+  "description": "A charm that grants the Item\nProlonger skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "31de71cd-aaa5-4d76-bbc4-c26df942fac8",
+  "description_guid": "0d0563b6-95e0-4023-96c2-c7126d2cf38f",
+  "_row": 115,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_097",
+    "skill_name": "Item Prolonger",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 115,
+  "data_id": "116",
+  "level": 3,
+  "type": "EEB175A0",
+  "name": "Extension Charm III",
+  "description": "A charm that grants the Item\nProlonger skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "c5582490-e6fb-4b3c-a2c0-85fddca2a8e9",
+  "description_guid": "114fc095-481b-4e92-8f1c-b8dc4cceb57f",
+  "_row": 116,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_097",
+    "skill_name": "Item Prolonger",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 116,
+  "data_id": "117",
+  "level": 1,
+  "type": "E2503580",
+  "name": "Friendship Charm I",
+  "description": "A charm that grants the Wide-\nRange skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "8f4f4e1f-0319-445c-9b4b-a1af2a051f63",
+  "description_guid": "19d41270-6567-4b3f-93ad-5a0dbdeed618",
+  "_row": 117,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_098",
+    "skill_name": "Wide-Range",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 117,
+  "data_id": "118",
+  "level": 2,
+  "type": "E2503580",
+  "name": "Friendship Charm II",
+  "description": "A charm that grants the Wide-\nRange skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "f611262a-134a-4c0d-8627-30f621f09b05",
+  "description_guid": "bb3069bf-3aeb-4194-8f68-2bc29479833f",
+  "_row": 118,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_098",
+    "skill_name": "Wide-Range",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 118,
+  "data_id": "119",
+  "level": 3,
+  "type": "E2503580",
+  "name": "Friendship Charm III",
+  "description": "A charm that grants the Wide-\nRange skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "d069ebe8-9e26-42f4-bfe5-fefaf164f9b7",
+  "description_guid": "2447e883-68f2-4277-addb-458268c37aa5",
+  "_row": 119,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_098",
+    "skill_name": "Wide-Range",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 119,
+  "data_id": "120",
+  "level": 4,
+  "type": "E2503580",
+  "name": "Friendship Charm IV",
+  "description": "A charm that grants the Wide-\nRange skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "899d1c50-ad17-44d3-9d9e-45e330ae2eab",
+  "description_guid": "f24c5618-b2ad-4c92-af79-01d6c7f12ff3",
+  "_row": 120,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_098",
+    "skill_name": "Wide-Range",
+    "level": 4
+   }
+  ]
+ },
+ {
+  "index": 120,
+  "data_id": "121",
+  "level": 5,
+  "type": "E2503580",
+  "name": "Friendship Charm V",
+  "description": "A charm that grants the Wide-\nRange skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "f80fa215-4a21-4d9e-a916-b414a98679e4",
+  "description_guid": "f81d3383-6f88-4226-a7c0-7d9b184febca",
+  "_row": 121,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_098",
+    "skill_name": "Wide-Range",
+    "level": 5
+   }
+  ]
+ },
+ {
+  "index": 121,
+  "data_id": "122",
+  "level": 1,
+  "type": "9A14C400",
+  "name": "Light Eater's Charm I",
+  "description": "A charm that grants the Free\nMeal skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "c7da0228-ec12-4f5b-a8f6-5aae012617ed",
+  "description_guid": "2277243e-3065-4b35-93cf-eb48ca7a76ea",
+  "_row": 122,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_099",
+    "skill_name": "Free Meal",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 122,
+  "data_id": "123",
+  "level": 2,
+  "type": "9A14C400",
+  "name": "Light Eater's Charm II",
+  "description": "A charm that grants the Free\nMeal skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "8aab7d4b-f1ef-4399-9961-f221b644f2a2",
+  "description_guid": "41ac92ef-94c6-4c61-8bfc-3e7a16ec56e9",
+  "_row": 123,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_099",
+    "skill_name": "Free Meal",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 123,
+  "data_id": "124",
+  "level": 3,
+  "type": "9A14C400",
+  "name": "Light Eater's Charm III",
+  "description": "A charm that grants the Free\nMeal skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "9078b0f2-bcc2-407e-9961-20e2e019db8c",
+  "description_guid": "7372fa18-3e56-4727-a949-39309554e107",
+  "_row": 124,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_099",
+    "skill_name": "Free Meal",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 124,
+  "data_id": "125",
+  "level": 1,
+  "type": "98081380",
+  "name": "Grit Charm I",
+  "description": "A charm that grants the Heroics\nskill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "75078d8b-3958-449c-bbf7-2625da67a80e",
+  "description_guid": "0ff7420f-4931-4fe5-9b08-8ed1e86ed592",
+  "_row": 125,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_100",
+    "skill_name": "Heroics",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 125,
+  "data_id": "126",
+  "level": 2,
+  "type": "98081380",
+  "name": "Grit Charm II",
+  "description": "A charm that grants the Heroics\nskill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "df5e3c7e-772b-4818-b90c-cb61863dc14b",
+  "description_guid": "88557278-e4db-4954-b5a1-8323fa400254",
+  "_row": 126,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_100",
+    "skill_name": "Heroics",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 126,
+  "data_id": "127",
+  "level": 3,
+  "type": "98081380",
+  "name": "Grit Charm III",
+  "description": "A charm that grants the Heroics\nskill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "7edd1ef3-6b9f-4193-ae7c-6f67072f127e",
+  "description_guid": "fd5ba626-0080-4296-8fe4-3b39237626a3",
+  "_row": 127,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_100",
+    "skill_name": "Heroics",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 127,
+  "data_id": "128",
+  "level": 4,
+  "type": "98081380",
+  "name": "Grit Charm IV",
+  "description": "A charm that grants the Heroics\nskill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "023afd3a-6a37-4284-bfb6-1c9021446910",
+  "description_guid": "6a305a2b-454a-42f9-91dd-ecc67a407e96",
+  "_row": 128,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_100",
+    "skill_name": "Heroics",
+    "level": 4
+   }
+  ]
+ },
+ {
+  "index": 128,
+  "data_id": "129",
+  "level": 1,
+  "type": "1E6E1F00",
+  "name": "Impact Charm I",
+  "description": "A charm that grants the Flinch\nFree skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "7fd43c3d-f686-4c28-95c8-a2e3d7c9b4bd",
+  "description_guid": "72cad487-0989-4f88-89f0-03b3d9ccb815",
+  "_row": 129,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_102",
+    "skill_name": "Flinch Free",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 129,
+  "data_id": "130",
+  "level": 2,
+  "type": "1E6E1F00",
+  "name": "Impact Charm II",
+  "description": "A charm that grants the Flinch\nFree skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "dea20e0b-df6f-455b-bc5a-88cdb2494668",
+  "description_guid": "0590d507-7587-4cae-93e7-3977dabdf52a",
+  "_row": 130,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_102",
+    "skill_name": "Flinch Free",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 130,
+  "data_id": "131",
+  "level": 3,
+  "type": "1E6E1F00",
+  "name": "Impact Charm III",
+  "description": "A charm that grants the Flinch\nFree skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "f6d93594-ec34-44d1-8498-12f3bec4dc37",
+  "description_guid": "d71d52ca-9173-4256-86d6-224820b3a3e7",
+  "_row": 131,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_102",
+    "skill_name": "Flinch Free",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 131,
+  "data_id": "132",
+  "level": 1,
+  "type": "93DB8E00",
+  "name": "Hungerless Charm I",
+  "description": "A charm that grants the Hunger\nResistance skill.",
+  "rarity": 2,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "54a1e5b7-1b8b-45c4-a9a3-dad3f5a783ac",
+  "description_guid": "89a92f60-a601-4283-a574-05a0c56ff3da",
+  "_row": 132,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_105",
+    "skill_name": "Hunger Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 132,
+  "data_id": "133",
+  "level": 2,
+  "type": "93DB8E00",
+  "name": "Hungerless Charm II",
+  "description": "A charm that grants the Hunger\nResistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "df5f4d40-4fb7-461a-a54c-5bcca8546478",
+  "description_guid": "cb654748-986b-421f-b828-b2d5b1ea20be",
+  "_row": 133,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_105",
+    "skill_name": "Hunger Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 133,
+  "data_id": "134",
+  "level": 3,
+  "type": "93DB8E00",
+  "name": "Hungerless Charm III",
+  "description": "A charm that grants the Hunger\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "434f03a5-174a-4d61-bf72-a547a61b328e",
+  "description_guid": "cd95cf51-4dff-46d0-8650-02f11becc5f6",
+  "_row": 134,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_105",
+    "skill_name": "Hunger Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 134,
+  "data_id": "135",
+  "level": 1,
+  "type": "D209A9C0",
+  "name": "Counter Charm I",
+  "description": "A charm that grants the\nCounterstrike skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "cc3dfb3c-ca11-4dad-8a76-8cf80e2e1c55",
+  "description_guid": "48057fcb-3977-43a1-a7ee-c168d3d90850",
+  "_row": 135,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_110",
+    "skill_name": "Counterstrike",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 135,
+  "data_id": "136",
+  "level": 2,
+  "type": "D209A9C0",
+  "name": "Counter Charm II",
+  "description": "A charm that grants the\nCounterstrike skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "ce4f5c3c-e5b0-42f6-9703-dcaa9e4f3435",
+  "description_guid": "9b944ec7-f088-4103-ae89-82d91d258686",
+  "_row": 136,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_110",
+    "skill_name": "Counterstrike",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 136,
+  "data_id": "137",
+  "level": 3,
+  "type": "D209A9C0",
+  "name": "Counter Charm III",
+  "description": "A charm that grants the\nCounterstrike skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "9fc076ab-982d-4087-abb4-08da8798c466",
+  "description_guid": "f1069e86-fcd8-4e58-a2ba-e9c3987e621d",
+  "_row": 137,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_110",
+    "skill_name": "Counterstrike",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 137,
+  "data_id": "138",
+  "level": 1,
+  "type": "77E10F00",
+  "name": "Foray Charm I",
+  "description": "A charm that grants the Foray\nskill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "1a1f2727-0e32-403b-9056-7952d73aff7d",
+  "description_guid": "d9c630ba-21cc-4c54-b0d3-e1e402456591",
+  "_row": 138,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_111",
+    "skill_name": "Foray",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 138,
+  "data_id": "139",
+  "level": 2,
+  "type": "77E10F00",
+  "name": "Foray Charm II",
+  "description": "A charm that grants the Foray\nskill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "2e8e8168-ce4d-483e-889e-5ebd820db19a",
+  "description_guid": "a9c92ed5-3c8c-425a-aa8a-e9a4069ecc0c",
+  "_row": 139,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_111",
+    "skill_name": "Foray",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 139,
+  "data_id": "140",
+  "level": 3,
+  "type": "77E10F00",
+  "name": "Foray Charm III",
+  "description": "A charm that grants the Foray\nskill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "80181d40-0210-460e-a060-25e89733591c",
+  "description_guid": "78bbacb0-d020-4d32-aef6-67d803e81504",
+  "_row": 140,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_111",
+    "skill_name": "Foray",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 140,
+  "data_id": "141",
+  "level": 1,
+  "type": "428FA680",
+  "name": "Phoenix Charm I",
+  "description": "A charm that grants the\nCoalescence skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "7d1510c0-edce-4073-a343-ef88f0183db3",
+  "description_guid": "2c73c954-2497-4690-94dd-2af73cf58245",
+  "_row": 141,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_113",
+    "skill_name": "Coalescence",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 141,
+  "data_id": "142",
+  "level": 2,
+  "type": "428FA680",
+  "name": "Phoenix Charm II",
+  "description": "A charm that grants the\nCoalescence skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "0ce671d1-6860-49da-b43c-81a5a3298382",
+  "description_guid": "2f528829-7050-4a01-9f9f-d7de9f357dcf",
+  "_row": 142,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_113",
+    "skill_name": "Coalescence",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 142,
+  "data_id": "143",
+  "level": 3,
+  "type": "428FA680",
+  "name": "Phoenix Charm III",
+  "description": "A charm that grants the\nCoalescence skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "157d1c9d-8fa5-4e3e-920a-b3ccd42bb4d5",
+  "description_guid": "3378de87-40eb-4be5-8cc3-6d96cc8bdef4",
+  "_row": 143,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_113",
+    "skill_name": "Coalescence",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 143,
+  "data_id": "144",
+  "level": 1,
+  "type": "7C8CAF80",
+  "name": "Chain Charm I",
+  "description": "A charm that grants the\nBurst skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "7394a251-7819-4c02-bffa-fea591585871",
+  "description_guid": "a334dc23-145d-4da8-8e4d-37016c9a9171",
+  "_row": 144,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_114",
+    "skill_name": "Burst",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 144,
+  "data_id": "145",
+  "level": 2,
+  "type": "7C8CAF80",
+  "name": "Chain Charm II",
+  "description": "A charm that grants the\nBurst skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "d3432b4f-a8e0-40fb-bcca-8c25fad57a16",
+  "description_guid": "b813966c-320e-44e5-bb4d-4ee1298e0cc6",
+  "_row": 145,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_114",
+    "skill_name": "Burst",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 145,
+  "data_id": "146",
+  "level": 3,
+  "type": "7C8CAF80",
+  "name": "Chain Charm III",
+  "description": "A charm that grants the\nBurst skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "50651f9d-ed9b-49bf-945d-79cd10f5edcd",
+  "description_guid": "090750f3-06b9-4e74-ae00-0eba4ab25a5d",
+  "_row": 146,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_114",
+    "skill_name": "Burst",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 146,
+  "data_id": "147",
+  "level": 1,
+  "type": "2B6F4C00",
+  "name": "Counterattack Charm I",
+  "description": "A charm that grants the Adrenaline\nRush skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "b71c0d5e-45b5-4a52-9c05-b85703dc0f14",
+  "description_guid": "7a5766df-aa92-4287-b4a2-9f39120b7dad",
+  "_row": 147,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_115",
+    "skill_name": "Adrenaline Rush",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 147,
+  "data_id": "148",
+  "level": 2,
+  "type": "2B6F4C00",
+  "name": "Counterattack Charm II",
+  "description": "A charm that grants the Adrenaline\nRush skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "1ce651e2-7381-46bc-ae71-6f4559136a48",
+  "description_guid": "8e360dac-a2b8-44cc-87e4-571b2e493d79",
+  "_row": 148,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_115",
+    "skill_name": "Adrenaline Rush",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 148,
+  "data_id": "149",
+  "level": 3,
+  "type": "2B6F4C00",
+  "name": "Counterattack Charm III",
+  "description": "A charm that grants the Adrenaline\nRush skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "4a1a20b0-3c95-4e69-a9ed-9f57270da2d0",
+  "description_guid": "d0b727af-a7e1-44eb-b9f1-bd696a086b7a",
+  "_row": 149,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_115",
+    "skill_name": "Adrenaline Rush",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 149,
+  "data_id": "150",
+  "level": 1,
+  "type": "4F24B200",
+  "name": "Descent Charm I",
+  "description": "A charm that grants the Ambush\nskill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "e9d99341-7a04-4abc-b5c6-75ba556296a6",
+  "description_guid": "9a6ec329-7b06-4fbf-9e0c-5b9ce0bc3b9a",
+  "_row": 150,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_116",
+    "skill_name": "Ambush",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 150,
+  "data_id": "151",
+  "level": 2,
+  "type": "4F24B200",
+  "name": "Descent Charm II",
+  "description": "A charm that grants the Ambush\nskill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "3e90714b-18b5-4aff-b1a5-de560565ca8b",
+  "description_guid": "f61adf36-fd44-4338-9718-693079d693c8",
+  "_row": 151,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_116",
+    "skill_name": "Ambush",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 151,
+  "data_id": "152",
+  "level": 3,
+  "type": "4F24B200",
+  "name": "Descent Charm III",
+  "description": "A charm that grants the Ambush\nskill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "c04debae-4e27-4489-835a-a33a0b0f3d20",
+  "description_guid": "af8bbcd6-2134-42dd-b04a-4c0e2833b95e",
+  "_row": 152,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_116",
+    "skill_name": "Ambush",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 152,
+  "data_id": "153",
+  "level": 1,
+  "type": "463F0800",
+  "name": "Bleed Charm I",
+  "description": "A charm that grants the Bleeding\nResistance skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "dcbeca7c-48ce-4c0f-bd7d-bf8ac6af00f7",
+  "description_guid": "b62655a2-a43f-4517-ad6e-e46807066133",
+  "_row": 153,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_119",
+    "skill_name": "Bleeding Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 153,
+  "data_id": "154",
+  "level": 2,
+  "type": "463F0800",
+  "name": "Bleed Charm II",
+  "description": "A charm that grants the Bleeding\nResistance skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "f6cae620-66f7-4376-a0e0-bc56d6699ee1",
+  "description_guid": "7a84e597-361e-4ab3-9e98-f16cae79db69",
+  "_row": 154,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_119",
+    "skill_name": "Bleeding Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 154,
+  "data_id": "155",
+  "level": 3,
+  "type": "463F0800",
+  "name": "Bleed Charm III",
+  "description": "A charm that grants the Bleeding\nResistance skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "9f2638d1-5233-4596-9b2f-cf9ad9790231",
+  "description_guid": "87ca0608-9b86-4e74-9fc7-6fc4e4cee851",
+  "_row": 155,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_119",
+    "skill_name": "Bleeding Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 155,
+  "data_id": "156",
+  "level": 1,
+  "type": "4E656080",
+  "name": "Guard Charm I",
+  "description": "A charm that grants the Iron\nSkin skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "b8b0a736-cb7c-4242-9abd-481e7cdddaa2",
+  "description_guid": "9f5e3b9d-046b-4d36-b0c7-68f50ed55039",
+  "_row": 156,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_120",
+    "skill_name": "Iron Skin",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 156,
+  "data_id": "157",
+  "level": 2,
+  "type": "4E656080",
+  "name": "Guard Charm II",
+  "description": "A charm that grants the Iron\nSkin skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "314bef68-8bb2-4061-86bf-830bf8006ad5",
+  "description_guid": "55504601-b6b0-4ef7-855e-d421c44cce00",
+  "_row": 157,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_120",
+    "skill_name": "Iron Skin",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 157,
+  "data_id": "158",
+  "level": 3,
+  "type": "4E656080",
+  "name": "Guard Charm III",
+  "description": "A charm that grants the Iron\nSkin skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "ca776008-8d87-4da0-9306-64d82e973388",
+  "description_guid": "0d746adf-4631-4df8-b2fb-c3b8770425f0",
+  "_row": 158,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_120",
+    "skill_name": "Iron Skin",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 159,
+  "data_id": "160",
+  "level": 1,
+  "type": "BA24B200",
+  "name": "Survival Charm I",
+  "description": "A charm that grants the Survival\nExpert skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "b32ee49e-bca3-4788-9f36-a17063306c0f",
+  "description_guid": "e390ece9-861a-4fbe-b78d-ddccf2ac1bb3",
+  "_row": 159,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_134",
+    "skill_name": "Survival Expert",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 160,
+  "data_id": "161",
+  "level": 2,
+  "type": "BA24B200",
+  "name": "Survival Charm II",
+  "description": "A charm that grants the Survival\nExpert skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "2a7f11b0-7230-43ac-aeda-ba64f235643b",
+  "description_guid": "8e6f46b8-19f3-49f3-a264-4136052340cc",
+  "_row": 160,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_134",
+    "skill_name": "Survival Expert",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 161,
+  "data_id": "162",
+  "level": 3,
+  "type": "BA24B200",
+  "name": "Survival Charm III",
+  "description": "A charm that grants the Survival\nExpert skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "86542b30-c61f-42ec-9233-7b0ce10f37b2",
+  "description_guid": "6fcf22d9-02de-4680-bcf0-029e6564dcd5",
+  "_row": 161,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_134",
+    "skill_name": "Survival Expert",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 162,
+  "data_id": "163",
+  "level": 1,
+  "type": "8ECA0100",
+  "name": "Maintenance Charm I",
+  "description": "A charm that grants the Tool\nSpecialist skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "15c7bf7b-3beb-429a-8453-6dab207ec128",
+  "description_guid": "ae39bc20-04d5-4929-af10-766720750ffc",
+  "_row": 162,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_138",
+    "skill_name": "Tool Specialist",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 163,
+  "data_id": "164",
+  "level": 2,
+  "type": "8ECA0100",
+  "name": "Maintenance Charm II",
+  "description": "A charm that grants the Tool\nSpecialist skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "f09cc008-112e-4524-8c20-4ff2c2b47cf3",
+  "description_guid": "4c6885ae-4c61-4429-9e18-34791b74e13a",
+  "_row": 163,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_138",
+    "skill_name": "Tool Specialist",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 164,
+  "data_id": "165",
+  "level": 3,
+  "type": "8ECA0100",
+  "name": "Maintenance Charm III",
+  "description": "A charm that grants the Tool\nSpecialist skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "3dcdedd3-1551-4a51-94df-9d037b4581a5",
+  "description_guid": "af09a2ac-8fef-46a1-bdb1-e1e061099e04",
+  "_row": 164,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_138",
+    "skill_name": "Tool Specialist",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 166,
+  "data_id": "166",
+  "level": 1,
+  "type": "1C83BA80",
+  "name": "Intimidator Charm I",
+  "description": "A charm that grants the\nIntimidator skill.",
+  "rarity": 3,
+  "price": 500,
+  "is_rng": false,
+  "name_guid": "0b9f93cf-164a-440c-9190-c4528d468e6a",
+  "description_guid": "2513f2a6-f318-456c-b3a7-efbb10f802a1",
+  "_row": 165,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_139",
+    "skill_name": "Intimidator",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 167,
+  "data_id": "167",
+  "level": 2,
+  "type": "1C83BA80",
+  "name": "Intimidator Charm II",
+  "description": "A charm that grants the\nIntimidator skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "aa8390e8-412f-4af7-b0d7-53d6faf800e0",
+  "description_guid": "ba72cfbf-e770-4df9-83ca-bde6b27c1c2f",
+  "_row": 166,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_139",
+    "skill_name": "Intimidator",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 168,
+  "data_id": "168",
+  "level": 3,
+  "type": "1C83BA80",
+  "name": "Intimidator Charm III",
+  "description": "A charm that grants the\nIntimidator skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "1479814b-067c-4293-969b-ac2236a81b7f",
+  "description_guid": "227b6611-3d87-46fd-9f75-93e20582a86b",
+  "_row": 167,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_139",
+    "skill_name": "Intimidator",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 169,
+  "data_id": "169",
+  "level": 1,
+  "type": "61636500",
+  "name": "Escape Charm I",
+  "description": "A charm that grants the\nBind Resistance skill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "c87da8bf-4d68-4758-9255-bc52bda50822",
+  "description_guid": "cb74997f-1c28-4776-9bfa-8a12d769b600",
+  "_row": 168,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_189",
+    "skill_name": "Bind Resistance",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 170,
+  "data_id": "170",
+  "level": 2,
+  "type": "61636500",
+  "name": "Escape Charm II",
+  "description": "A charm that grants the\nBind Resistance skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "7587c86d-7f7b-4845-8b01-df1c410d920f",
+  "description_guid": "4ef87524-2e47-4bfa-afce-7c7f32108f03",
+  "_row": 169,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_189",
+    "skill_name": "Bind Resistance",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 171,
+  "data_id": "171",
+  "level": 3,
+  "type": "61636500",
+  "name": "Escape Charm III",
+  "description": "A charm that grants the\nBind Resistance skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "f7646caa-38ce-4cbc-b9b4-aacede2b1e0f",
+  "description_guid": "cb86a45a-3fc7-40a6-8c64-977b3ba616ae",
+  "_row": 170,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_189",
+    "skill_name": "Bind Resistance",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 172,
+  "data_id": "172",
+  "level": 1,
+  "type": "361B2B00",
+  "name": "Chainblade Charm I",
+  "description": "A charm that grants the Flayer\nskill.",
+  "rarity": 4,
+  "price": 1500,
+  "is_rng": false,
+  "name_guid": "106a9bb1-7657-49d8-860a-0ea4ea8f0e2e",
+  "description_guid": "ba59bf6c-67a6-4fd6-b6a0-bb38d292c4cc",
+  "_row": 171,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_146",
+    "skill_name": "Flayer",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 173,
+  "data_id": "173",
+  "level": 2,
+  "type": "361B2B00",
+  "name": "Chainblade Charm II",
+  "description": "A charm that grants the Flayer\nskill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "d185158c-3ac5-4323-9f7f-876f97ebf994",
+  "description_guid": "2a557428-af1d-42bf-bd50-cd8ee65b2aa7",
+  "_row": 172,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_146",
+    "skill_name": "Flayer",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 176,
+  "data_id": "176",
+  "level": 1,
+  "type": "50CCF100",
+  "name": "Imbibe Charm I",
+  "description": "A charm that grants the Elemental\nAbsorption skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "ada6842c-cb93-4323-9d96-387b52096111",
+  "description_guid": "6b45ac9c-13c8-4dad-9d1d-260493e3ffce",
+  "_row": 173,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_190",
+    "skill_name": "Elemental Absorption",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 177,
+  "data_id": "177",
+  "level": 2,
+  "type": "50CCF100",
+  "name": "Imbibe Charm II",
+  "description": "A charm that grants the Elemental\nAbsorption skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "e0de77db-be2b-4641-846e-30f4b275bdb0",
+  "description_guid": "aacf588f-cc0a-48df-bab1-d7d0591c4e05",
+  "_row": 174,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_190",
+    "skill_name": "Elemental Absorption",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 178,
+  "data_id": "178",
+  "level": 1,
+  "type": "4A53E700",
+  "name": "Convert Charm I",
+  "description": "A charm that grants the Convert\nElement skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "2fba8e2f-737f-4d92-ba4f-f2a574d951ba",
+  "description_guid": "571e986b-48be-4bce-99b8-72bbdaf9e193",
+  "_row": 175,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_191",
+    "skill_name": "Convert Element",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 179,
+  "data_id": "179",
+  "level": 2,
+  "type": "4A53E700",
+  "name": "Convert Charm II",
+  "description": "A charm that grants the Convert\nElement skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "4a695f75-8f22-4e5c-aac0-65b96daca4f9",
+  "description_guid": "bb3d6fcb-77d2-44aa-beb4-82a890049db9",
+  "_row": 176,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_191",
+    "skill_name": "Convert Element",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 180,
+  "data_id": "180",
+  "level": 1,
+  "type": "15E71580",
+  "name": "Sanity Charm I",
+  "description": "A charm that grants the\nAntivirus skill.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": false,
+  "name_guid": "e9e60e27-4d4e-47b4-9d0d-6a805abe3bc1",
+  "description_guid": "cf198646-b016-4e40-924b-6ba1c09be79d",
+  "_row": 177,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_195",
+    "skill_name": "Antivirus",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 181,
+  "data_id": "181",
+  "level": 2,
+  "type": "15E71580",
+  "name": "Sanity Charm II",
+  "description": "A charm that grants the\nAntivirus skill.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": false,
+  "name_guid": "d19cb157-ab57-4251-a4c6-c809ecbd75d1",
+  "description_guid": "f90fe4d1-697f-4d4f-8019-72b261925e3c",
+  "_row": 178,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_195",
+    "skill_name": "Antivirus",
+    "level": 2
+   }
+  ]
+ },
+ {
+  "index": 182,
+  "data_id": "182",
+  "level": 3,
+  "type": "15E71580",
+  "name": "Sanity Charm III",
+  "description": "A charm that grants the\nAntivirus skill.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": false,
+  "name_guid": "54d61435-c3d9-414e-85c3-b03b9f20aaa5",
+  "description_guid": "a27da49c-8644-4f21-be22-01ad2c582951",
+  "_row": 179,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_195",
+    "skill_name": "Antivirus",
+    "level": 3
+   }
+  ]
+ },
+ {
+  "index": 183,
+  "data_id": "200",
+  "level": 1,
+  "type": "B9D32580",
+  "name": "Hope Charm",
+  "description": "A charm that grants the Self-\nImprovement and Recovery Up\nskills.",
+  "rarity": 5,
+  "price": 0,
+  "is_rng": false,
+  "name_guid": "ca57050d-e8e8-4542-a5a7-d8356aa78686",
+  "description_guid": "35e71fdb-2888-49c7-9185-251821594cc9",
+  "_row": 180,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_069",
+    "skill_name": "Recovery Up",
+    "level": 1
+   },
+   {
+    "skill_id": "HunterSkill_145",
+    "skill_name": "Self-Improvement",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 165,
+  "data_id": "207",
+  "level": 4,
+  "type": "8ECA0100",
+  "name": "Maintenance Charm IV",
+  "description": "A charm that grants the Tool\nSpecialist skill.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": false,
+  "name_guid": "5f31e832-532f-43eb-9482-92670adc1fd5",
+  "description_guid": "c566246b-e3ad-43a1-944e-a4bf3e99fa0c",
+  "_row": 181,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_138",
+    "skill_name": "Tool Specialist",
+    "level": 4
+   }
+  ]
+ },
+ {
+  "index": 184,
+  "data_id": "208",
+  "level": 1,
+  "type": "8561E500",
+  "name": "Rice Ball Charm",
+  "description": "A charm that grants the\nRice Ball skill.\n(Arena Quests only.)",
+  "rarity": 6,
+  "price": 0,
+  "is_rng": false,
+  "name_guid": "82094f79-a961-476f-8041-1f357d540903",
+  "description_guid": "1af536ba-b674-4ad4-a95b-ba339df06571",
+  "_row": 182,
+  "skills": [
+   {
+    "skill_id": "HunterSkill_211",
+    "skill_name": "Rice Ball",
+    "level": 1
+   }
+  ]
+ },
+ {
+  "index": 190,
+  "data_id": "209",
+  "level": 1,
+  "type": "A021A980",
+  "name": "Unknown Charm",
+  "description": "A talisman of indeterminable\nage. Said to draw out the\nholder's hidden strengths.",
+  "rarity": 5,
+  "price": 3000,
+  "is_rng": true,
+  "name_guid": "b14043f7-1751-43e5-bcc8-1419d6f3e9a3",
+  "description_guid": "729de003-fea1-4fe7-a332-4bc936513965",
+  "_row": 183,
+  "skills": []
+ },
+ {
+  "index": 191,
+  "data_id": "210",
+  "level": 1,
+  "type": "31E94780",
+  "name": "Historical Charm",
+  "description": "An odd talisman that was written\nabout in historical texts. Its glow\ncontains the depths of the past.",
+  "rarity": 6,
+  "price": 6000,
+  "is_rng": true,
+  "name_guid": "e335a910-7eb7-42e5-874b-8c93af326f6e",
+  "description_guid": "bbc9a12e-452f-4660-bdc5-3c8bf66df6f3",
+  "_row": 184,
+  "skills": []
+ },
+ {
+  "index": 192,
+  "data_id": "211",
+  "level": 1,
+  "type": "AD97C000",
+  "name": "Secret Charm",
+  "description": "A talisman containing untold\nsecrets of history. The holder will\none day see the world's abyss.",
+  "rarity": 7,
+  "price": 9000,
+  "is_rng": true,
+  "name_guid": "5674f3df-9429-4bfb-b4f5-0c42f7302df2",
+  "description_guid": "5e0559a7-37a0-4800-b1e9-492da141c651",
+  "_row": 185,
+  "skills": []
+ },
+ {
+  "index": 193,
+  "data_id": "212",
+  "level": 1,
+  "type": "1513A0A0",
+  "name": "Golden Age Charm",
+  "description": "A talisman inscribed with the\nwisdom of an advanced culture.\nOffers a glimpse into an era\nof legends.",
+  "rarity": 8,
+  "price": 16000,
+  "is_rng": true,
+  "name_guid": "9712d450-9650-44a0-9516-940a339a4017",
+  "description_guid": "a78545e6-270b-489d-94fc-79abdb99b912",
+  "_row": 186,
+  "skills": []
+ }
+]

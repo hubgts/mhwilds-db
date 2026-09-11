@@ -1,0 +1,352 @@
+[
+ {
+  "ID": "00000000",
+  "Name": "INVALID",
+  "_row": 2
+ },
+ {
+  "ID": "00000001",
+  "Name": "RECIPE_000 (Potion)",
+  "_row": 3
+ },
+ {
+  "ID": "00000002",
+  "Name": "RECIPE_001 (Mega Potion)",
+  "_row": 4
+ },
+ {
+  "ID": "00000003",
+  "Name": "RECIPE_002 (Antidote)",
+  "_row": 5
+ },
+ {
+  "ID": "00000004",
+  "Name": "RECIPE_003 (Lifepowder)",
+  "_row": 6
+ },
+ {
+  "ID": "00000005",
+  "Name": "RECIPE_004 (Dung Pod (Dung))",
+  "_row": 7
+ },
+ {
+  "ID": "00000006",
+  "Name": "RECIPE_005 (Dung Pod (Rolled-up Dung))",
+  "_row": 8
+ },
+ {
+  "ID": "00000007",
+  "Name": "RECIPE_006",
+  "_row": 9
+ },
+ {
+  "ID": "00000008",
+  "Name": "RECIPE_007",
+  "_row": 10
+ },
+ {
+  "ID": "00000009",
+  "Name": "RECIPE_008 (Flash Pod)",
+  "_row": 11
+ },
+ {
+  "ID": "0000000A",
+  "Name": "RECIPE_009 (Sticky Ammo (Blastnut))",
+  "_row": 12
+ },
+ {
+  "ID": "0000000B",
+  "Name": "RECIPE_010 (Slicing Ammo (Slashberry))",
+  "_row": 13
+ },
+ {
+  "ID": "0000000C",
+  "Name": "RECIPE_011 (Flaming Ammo)",
+  "_row": 14
+ },
+ {
+  "ID": "0000000D",
+  "Name": "RECIPE_012 (Water Ammo)",
+  "_row": 15
+ },
+ {
+  "ID": "0000000E",
+  "Name": "RECIPE_013 (Thunder Ammo)",
+  "_row": 16
+ },
+ {
+  "ID": "0000000F",
+  "Name": "RECIPE_014 (Freeze Ammo)",
+  "_row": 17
+ },
+ {
+  "ID": "00000010",
+  "Name": "RECIPE_015 (Dragon Ammo)",
+  "_row": 18
+ },
+ {
+  "ID": "00000011",
+  "Name": "RECIPE_016 (Poison Ammo)",
+  "_row": 19
+ },
+ {
+  "ID": "00000012",
+  "Name": "RECIPE_017 (Paralysis Ammo)",
+  "_row": 20
+ },
+ {
+  "ID": "00000013",
+  "Name": "RECIPE_018 (Sleep Ammo)",
+  "_row": 21
+ },
+ {
+  "ID": "00000014",
+  "Name": "RECIPE_019 (Herbal Medicine)",
+  "_row": 22
+ },
+ {
+  "ID": "00000015",
+  "Name": "RECIPE_020 (Deodorant)",
+  "_row": 23
+ },
+ {
+  "ID": "00000016",
+  "Name": "RECIPE_021 (Cleanser)",
+  "_row": 24
+ },
+ {
+  "ID": "00000017",
+  "Name": "RECIPE_022 (Max Potion)",
+  "_row": 25
+ },
+ {
+  "ID": "00000018",
+  "Name": "RECIPE_023 (Catalyst)",
+  "_row": 26
+ },
+ {
+  "ID": "00000019",
+  "Name": "RECIPE_024 (Immunizer)",
+  "_row": 27
+ },
+ {
+  "ID": "0000001A",
+  "Name": "RECIPE_025 (Ancient Potion)",
+  "_row": 28
+ },
+ {
+  "ID": "0000001B",
+  "Name": "RECIPE_026 (Dust of Life)",
+  "_row": 29
+ },
+ {
+  "ID": "0000001C",
+  "Name": "RECIPE_027 (Herbal Powder)",
+  "_row": 30
+ },
+ {
+  "ID": "0000001D",
+  "Name": "RECIPE_028 (Energy Drink)",
+  "_row": 31
+ },
+ {
+  "ID": "0000001E",
+  "Name": "RECIPE_029 (Hot Drink)",
+  "_row": 32
+ },
+ {
+  "ID": "0000001F",
+  "Name": "RECIPE_030 (Cool Drink)",
+  "_row": 33
+ },
+ {
+  "ID": "00000020",
+  "Name": "RECIPE_031 (Dash Juice)",
+  "_row": 34
+ },
+ {
+  "ID": "00000021",
+  "Name": "RECIPE_032 (Demondrug)",
+  "_row": 35
+ },
+ {
+  "ID": "00000022",
+  "Name": "RECIPE_033 (Mega Demondrug)",
+  "_row": 36
+ },
+ {
+  "ID": "00000023",
+  "Name": "RECIPE_034 (Demon Powder)",
+  "_row": 37
+ },
+ {
+  "ID": "00000024",
+  "Name": "RECIPE_035 (Might Pill)",
+  "_row": 38
+ },
+ {
+  "ID": "00000025",
+  "Name": "RECIPE_036 (Armorskin)",
+  "_row": 39
+ },
+ {
+  "ID": "00000026",
+  "Name": "RECIPE_037 (Mega Armorskin)",
+  "_row": 40
+ },
+ {
+  "ID": "00000027",
+  "Name": "RECIPE_038 (Hardshell Powder)",
+  "_row": 41
+ },
+ {
+  "ID": "00000028",
+  "Name": "RECIPE_039 (Adamant Pill)",
+  "_row": 42
+ },
+ {
+  "ID": "00000029",
+  "Name": "RECIPE_040 (Farcaster)",
+  "_row": 43
+ },
+ {
+  "ID": "0000002A",
+  "Name": "RECIPE_041 (Gunpowder)",
+  "_row": 44
+ },
+ {
+  "ID": "0000002B",
+  "Name": "RECIPE_042 (Barrel Bomb)",
+  "_row": 45
+ },
+ {
+  "ID": "0000002C",
+  "Name": "RECIPE_043 (Large Barrel Bomb)",
+  "_row": 46
+ },
+ {
+  "ID": "0000002D",
+  "Name": "RECIPE_044 (Mega Barrel Bomb (Devil's Blight))",
+  "_row": 47
+ },
+ {
+  "ID": "0000002E",
+  "Name": "RECIPE_045 (Mega Barrel Bomb (Gunpowderfish Scale))",
+  "_row": 48
+ },
+ {
+  "ID": "0000002F",
+  "Name": "RECIPE_046 (Smoke Bomb)",
+  "_row": 49
+ },
+ {
+  "ID": "00000030",
+  "Name": "RECIPE_047 (Poison Smoke Bomb)",
+  "_row": 50
+ },
+ {
+  "ID": "00000031",
+  "Name": "RECIPE_048 (Large Dung Pod)",
+  "_row": 51
+ },
+ {
+  "ID": "00000032",
+  "Name": "RECIPE_049 (Luring Pod)",
+  "_row": 52
+ },
+ {
+  "ID": "00000033",
+  "Name": "RECIPE_050 (Poisoned Meat)",
+  "_row": 53
+ },
+ {
+  "ID": "00000034",
+  "Name": "RECIPE_051 (Tinged Meat)",
+  "_row": 54
+ },
+ {
+  "ID": "00000035",
+  "Name": "RECIPE_052 (Drugged Meat)",
+  "_row": 55
+ },
+ {
+  "ID": "00000036",
+  "Name": "RECIPE_053 (Net)",
+  "_row": 56
+ },
+ {
+  "ID": "00000037",
+  "Name": "RECIPE_054 (Pitfall Trap)",
+  "_row": 57
+ },
+ {
+  "ID": "00000038",
+  "Name": "RECIPE_055 (Shock Trap)",
+  "_row": 58
+ },
+ {
+  "ID": "00000039",
+  "Name": "RECIPE_056 (Tranq Bomb)",
+  "_row": 59
+ },
+ {
+  "ID": "0000003A",
+  "Name": "RECIPE_057 (Tranq Ammo)",
+  "_row": 60
+ },
+ {
+  "ID": "0000003B",
+  "Name": "RECIPE_058 (Tranq Blade)",
+  "_row": 61
+ },
+ {
+  "ID": "0000003C",
+  "Name": "RECIPE_059 (Sticky Ammo (Bomb Arowana Scale))",
+  "_row": 62
+ },
+ {
+  "ID": "0000003D",
+  "Name": "RECIPE_060 (Cluster Bomb)",
+  "_row": 63
+ },
+ {
+  "ID": "0000003E",
+  "Name": "RECIPE_061 (Slicing Ammo (Burst Arowana Scale))",
+  "_row": 64
+ },
+ {
+  "ID": "0000003F",
+  "Name": "RECIPE_062 (Exhaust Ammo)",
+  "_row": 65
+ },
+ {
+  "ID": "00000040",
+  "Name": "RECIPE_063 (Recover Ammo)",
+  "_row": 66
+ },
+ {
+  "ID": "00000041",
+  "Name": "RECIPE_064 (Demon Ammo)",
+  "_row": 67
+ },
+ {
+  "ID": "00000042",
+  "Name": "RECIPE_065 (Armor Ammo)",
+  "_row": 68
+ },
+ {
+  "ID": "00000043",
+  "Name": "RECIPE_066 (Wyvern Ammo)",
+  "_row": 69
+ },
+ {
+  "ID": "00000044",
+  "Name": "RECIPE_067 (First-aid Med+)",
+  "_row": 70
+ },
+ {
+  "ID": "00000045",
+  "Name": "MAX",
+  "_row": 71
+ }
+]

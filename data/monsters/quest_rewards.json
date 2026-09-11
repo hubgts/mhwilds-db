@@ -1,0 +1,3110 @@
+[
+ {
+  "em_id": "EM0001_00_0",
+  "monster": "Rathian",
+  "guild_points": [
+   770,
+   1680,
+   1680
+  ],
+  "hr_points": [
+   700,
+   1510,
+   1510
+  ],
+  "palico_xp": 300,
+  "zenny": [
+   15840,
+   21600,
+   21600
+  ],
+  "_row": 3
+ },
+ {
+  "em_id": "EM0002_00_0",
+  "monster": "Rathalos",
+  "guild_points": [
+   935,
+   1720,
+   1720
+  ],
+  "hr_points": [
+   850,
+   1520,
+   1520
+  ],
+  "palico_xp": 450,
+  "zenny": [
+   19080,
+   21960,
+   21960
+  ],
+  "_row": 4
+ },
+ {
+  "em_id": "EM0002_50_0",
+  "monster": "Guardian Rathalos",
+  "guild_points": [
+   880,
+   1720,
+   1720
+  ],
+  "hr_points": [
+   800,
+   1520,
+   1520
+  ],
+  "palico_xp": 400,
+  "zenny": [
+   16920,
+   21960,
+   21960
+  ],
+  "_row": 5
+ },
+ {
+  "em_id": "EM0005_00_0",
+  "monster": "Gravios",
+  "guild_points": [
+   935,
+   1720,
+   1720
+  ],
+  "hr_points": [
+   850,
+   1520,
+   1520
+  ],
+  "palico_xp": 450,
+  "zenny": [
+   19080,
+   21960,
+   21960
+  ],
+  "_row": 6
+ },
+ {
+  "em_id": "EM0008_00_0",
+  "monster": "Yian Kut-Ku",
+  "guild_points": [
+   605,
+   1720,
+   1720
+  ],
+  "hr_points": [
+   550,
+   1520,
+   1520
+  ],
+  "palico_xp": 150,
+  "zenny": [
+   12960,
+   21960,
+   21960
+  ],
+  "_row": 7
+ },
+ {
+  "em_id": "EM0009_00_0",
+  "monster": "Gypceros",
+  "guild_points": [
+   605,
+   1680,
+   1680
+  ],
+  "hr_points": [
+   550,
+   1510,
+   1510
+  ],
+  "palico_xp": 150,
+  "zenny": [
+   12960,
+   21600,
+   21600
+  ],
+  "_row": 8
+ },
+ {
+  "em_id": "EM0021_00_0",
+  "monster": "Congalala",
+  "guild_points": [
+   605,
+   1650,
+   1650
+  ],
+  "hr_points": [
+   550,
+   1500,
+   1500
+  ],
+  "palico_xp": 150,
+  "zenny": [
+   13320,
+   21240,
+   21240
+  ],
+  "_row": 9
+ },
+ {
+  "em_id": "EM0022_00_0",
+  "monster": "Blangonga",
+  "guild_points": [
+   825,
+   1720,
+   1720
+  ],
+  "hr_points": [
+   750,
+   1520,
+   1520
+  ],
+  "palico_xp": 350,
+  "zenny": [
+   16560,
+   21960,
+   21960
+  ],
+  "_row": 10
+ },
+ {
+  "em_id": "EM0046_00_0",
+  "monster": "Lagiacrus",
+  "guild_points": [
+   990,
+   1760,
+   1760
+  ],
+  "hr_points": [
+   900,
+   1550,
+   1550
+  ],
+  "palico_xp": 500,
+  "zenny": [
+   19800,
+   22680,
+   22680
+  ],
+  "_row": 11
+ },
+ {
+  "em_id": "EM0070_00_0",
+  "monster": "Nerscylla",
+  "guild_points": [
+   715,
+   1680,
+   1680
+  ],
+  "hr_points": [
+   650,
+   1510,
+   1510
+  ],
+  "palico_xp": 250,
+  "zenny": [
+   14760,
+   21600,
+   21600
+  ],
+  "_row": 12
+ },
+ {
+  "em_id": "EM0071_00_0",
+  "monster": "Gore Magala",
+  "guild_points": [
+   1045,
+   1780,
+   1780
+  ],
+  "hr_points": [
+   950,
+   1570,
+   1570
+  ],
+  "palico_xp": 550,
+  "zenny": [
+   21600,
+   23040,
+   23040
+  ],
+  "_row": 13
+ },
+ {
+  "em_id": "EM0077_00_0",
+  "monster": "Seregios",
+  "guild_points": [
+   990,
+   1760,
+   1760
+  ],
+  "hr_points": [
+   900,
+   1550,
+   1550
+  ],
+  "palico_xp": 500,
+  "zenny": [
+   19800,
+   22680,
+   22680
+  ],
+  "_row": 14
+ },
+ {
+  "em_id": "EM0078_00_0",
+  "monster": "Gogmazios",
+  "guild_points": [
+   1700,
+   1900,
+   1900
+  ],
+  "hr_points": [
+   1550,
+   1700,
+   1700
+  ],
+  "palico_xp": 1000,
+  "zenny": [
+   25200,
+   33120,
+   33120
+  ],
+  "_row": 15
+ },
+ {
+  "em_id": "EM0082_00_0",
+  "monster": "Mizutsune",
+  "guild_points": [
+   935,
+   1740,
+   1740
+  ],
+  "hr_points": [
+   850,
+   1530,
+   1530
+  ],
+  "palico_xp": 450,
+  "zenny": [
+   19080,
+   22320,
+   22320
+  ],
+  "_row": 16
+ },
+ {
+  "em_id": "EM0100_51_0",
+  "monster": "Guardian Fulgur Anjanath",
+  "guild_points": [
+   880,
+   1740,
+   1740
+  ],
+  "hr_points": [
+   800,
+   1530,
+   1530
+  ],
+  "palico_xp": 400,
+  "zenny": [
+   16920,
+   22320,
+   22320
+  ],
+  "_row": 17
+ },
+ {
+  "em_id": "EM0113_51_0",
+  "monster": "Guardian Ebony Odogaron",
+  "guild_points": [
+   880,
+   1740,
+   1740
+  ],
+  "hr_points": [
+   800,
+   1530,
+   1530
+  ],
+  "palico_xp": 400,
+  "zenny": [
+   16920,
+   22320,
+   22320
+  ],
+  "_row": 18
+ },
+ {
+  "em_id": "EM0150_00_0",
+  "monster": "Doshaguma",
+  "guild_points": [
+   770,
+   1720,
+   1720
+  ],
+  "hr_points": [
+   700,
+   1520,
+   1520
+  ],
+  "palico_xp": 300,
+  "zenny": [
+   15840,
+   21960,
+   21960
+  ],
+  "_row": 19
+ },
+ {
+  "em_id": "EM0150_50_0",
+  "monster": "Guardian Doshaguma",
+  "guild_points": [
+   825,
+   1720,
+   1720
+  ],
+  "hr_points": [
+   750,
+   1520,
+   1520
+  ],
+  "palico_xp": 350,
+  "zenny": [
+   18000,
+   21960,
+   21960
+  ],
+  "_row": 20
+ },
+ {
+  "em_id": "EM0151_00_0",
+  "monster": "Balahara",
+  "guild_points": [
+   660,
+   1650,
+   1650
+  ],
+  "hr_points": [
+   600,
+   1500,
+   1500
+  ],
+  "palico_xp": 200,
+  "zenny": [
+   14040,
+   21240,
+   21240
+  ],
+  "_row": 21
+ },
+ {
+  "em_id": "EM0152_00_0",
+  "monster": "Chatacabra",
+  "guild_points": [
+   550,
+   1650,
+   1650
+  ],
+  "hr_points": [
+   500,
+   1500,
+   1500
+  ],
+  "palico_xp": 100,
+  "zenny": [
+   12240,
+   21240,
+   21240
+  ],
+  "_row": 22
+ },
+ {
+  "em_id": "EM0153_00_0",
+  "monster": "Quematrice",
+  "guild_points": [
+   550,
+   1650,
+   1650
+  ],
+  "hr_points": [
+   500,
+   1500,
+   1500
+  ],
+  "palico_xp": 100,
+  "zenny": [
+   12240,
+   21240,
+   21240
+  ],
+  "_row": 23
+ },
+ {
+  "em_id": "EM0154_00_0",
+  "monster": "Lala Barina",
+  "guild_points": [
+   550,
+   1680,
+   1680
+  ],
+  "hr_points": [
+   500,
+   1510,
+   1510
+  ],
+  "palico_xp": 100,
+  "zenny": [
+   12600,
+   21600,
+   21600
+  ],
+  "_row": 24
+ },
+ {
+  "em_id": "EM0155_00_0",
+  "monster": "Rompopolo",
+  "guild_points": [
+   605,
+   1680,
+   1680
+  ],
+  "hr_points": [
+   550,
+   1510,
+   1510
+  ],
+  "palico_xp": 150,
+  "zenny": [
+   13680,
+   21600,
+   21600
+  ],
+  "_row": 25
+ },
+ {
+  "em_id": "EM0156_00_0",
+  "monster": "Rey Dau",
+  "guild_points": [
+   990,
+   1780,
+   1780
+  ],
+  "hr_points": [
+   900,
+   1570,
+   1570
+  ],
+  "palico_xp": 500,
+  "zenny": [
+   20520,
+   23040,
+   20520
+  ],
+  "_row": 26
+ },
+ {
+  "em_id": "EM0157_00_0",
+  "monster": "Uth Duna",
+  "guild_points": [
+   990,
+   1780,
+   1780
+  ],
+  "hr_points": [
+   900,
+   1570,
+   1570
+  ],
+  "palico_xp": 500,
+  "zenny": [
+   20160,
+   23040,
+   20520
+  ],
+  "_row": 27
+ },
+ {
+  "em_id": "EM0158_00_0",
+  "monster": "Nu Udra",
+  "guild_points": [
+   990,
+   1780,
+   1780
+  ],
+  "hr_points": [
+   900,
+   1570,
+   1570
+  ],
+  "palico_xp": 500,
+  "zenny": [
+   20160,
+   23040,
+   20520
+  ],
+  "_row": 28
+ },
+ {
+  "em_id": "EM0159_00_0",
+  "monster": "Ajarakan",
+  "guild_points": [
+   825,
+   1760,
+   1760
+  ],
+  "hr_points": [
+   750,
+   1550,
+   1550
+  ],
+  "palico_xp": 350,
+  "zenny": [
+   16200,
+   22680,
+   22680
+  ],
+  "_row": 29
+ },
+ {
+  "em_id": "EM0160_00_0",
+  "monster": "Arkveld",
+  "guild_points": [
+   1375,
+   1780,
+   1780
+  ],
+  "hr_points": [
+   1250,
+   1570,
+   1570
+  ],
+  "palico_xp": 850,
+  "zenny": [
+   22320,
+   23040,
+   20520
+  ],
+  "_row": 30
+ },
+ {
+  "em_id": "EM0160_50_0",
+  "monster": "Guardian Arkveld",
+  "guild_points": [
+   1100,
+   1780,
+   1780
+  ],
+  "hr_points": [
+   1000,
+   1570,
+   1570
+  ],
+  "palico_xp": 600,
+  "zenny": [
+   21960,
+   23040,
+   20520
+  ],
+  "_row": 31
+ },
+ {
+  "em_id": "EM0161_00_0",
+  "monster": "Hirabami",
+  "guild_points": [
+   770,
+   1680,
+   1680
+  ],
+  "hr_points": [
+   700,
+   1510,
+   1510
+  ],
+  "palico_xp": 300,
+  "zenny": [
+   15840,
+   21600,
+   21600
+  ],
+  "_row": 32
+ },
+ {
+  "em_id": "EM0162_00_0",
+  "monster": "Jin Dahaad",
+  "guild_points": [
+   1100,
+   1850,
+   1850
+  ],
+  "hr_points": [
+   1000,
+   1650,
+   1650
+  ],
+  "palico_xp": 600,
+  "zenny": [
+   21960,
+   23400,
+   21500
+  ],
+  "_row": 33
+ },
+ {
+  "em_id": "EM0163_00_0",
+  "monster": "Xu Wu",
+  "guild_points": [
+   935,
+   1760,
+   1760
+  ],
+  "hr_points": [
+   850,
+   1550,
+   1550
+  ],
+  "palico_xp": 450,
+  "zenny": [
+   19080,
+   22680,
+   22680
+  ],
+  "_row": 34
+ },
+ {
+  "em_id": "EM0164_50_0",
+  "monster": "Zoh Shia",
+  "guild_points": [
+   1650,
+   1900,
+   1900
+  ],
+  "hr_points": [
+   1500,
+   1700,
+   1700
+  ],
+  "palico_xp": 1000,
+  "zenny": [
+   22680,
+   25200,
+   25200
+  ],
+  "_row": 35
+ },
+ {
+  "em_id": "EM0165_00_0",
+  "monster": "High Purrformance Barrel Puncher",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 36
+ },
+ {
+  "em_id": "EM0166_00_0",
+  "monster": "Omega Planetes",
+  "guild_points": [
+   1650,
+   1800,
+   1800
+  ],
+  "hr_points": [
+   1500,
+   1600,
+   1600
+  ],
+  "palico_xp": 1000,
+  "zenny": [
+   27360,
+   24120,
+   24120
+  ],
+  "_row": 37
+ },
+ {
+  "em_id": "EM1006_00_0",
+  "monster": "Vespoid",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 38
+ },
+ {
+  "em_id": "EM1022_00_0",
+  "monster": "Conga",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 39
+ },
+ {
+  "em_id": "EM1023_00_0",
+  "monster": "Blango",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 40
+ },
+ {
+  "em_id": "EM1150_00_0",
+  "monster": "Ceratonoth (Male)",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 41
+ },
+ {
+  "em_id": "EM1150_00_1",
+  "monster": "Ceratonoth (Female)",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 42
+ },
+ {
+  "em_id": "EM1151_00_0",
+  "monster": "Dalthydon",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 43
+ },
+ {
+  "em_id": "EM1151_00_1",
+  "monster": "Dalthydon (Livestock)",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 44
+ },
+ {
+  "em_id": "EM1152_00_0",
+  "monster": "Bulaqchi",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 45
+ },
+ {
+  "em_id": "EM1153_00_0",
+  "monster": "Talioth",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 46
+ },
+ {
+  "em_id": "EM1154_00_0",
+  "monster": "Baunos",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 47
+ },
+ {
+  "em_id": "EM1155_00_0",
+  "monster": "Gajios",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 48
+ },
+ {
+  "em_id": "EM1156_00_0",
+  "monster": "Piragill",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 49
+ },
+ {
+  "em_id": "EM1157_00_0",
+  "monster": "Harpios",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 50
+ },
+ {
+  "em_id": "EM1158_00_0",
+  "monster": "Kranodath",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 51
+ },
+ {
+  "em_id": "EM1159_00_0",
+  "monster": "Comaqchi",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 52
+ },
+ {
+  "em_id": "EM1160_00_0",
+  "monster": "Gelidron",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 53
+ },
+ {
+  "em_id": "EM1161_00_0",
+  "monster": "Rafma",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 54
+ },
+ {
+  "em_id": "EM1162_00_0",
+  "monster": "Porkeplume",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 55
+ },
+ {
+  "em_id": "EM1163_00_0",
+  "monster": "Nerscylla Hatchling",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 56
+ },
+ {
+  "em_id": "EM1164_50_0",
+  "monster": "Guardian Seikret",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 57
+ },
+ {
+  "em_id": "EM1165_00_0",
+  "monster": "Omega Micros",
+  "guild_points": [
+   0,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 10,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 58
+ },
+ {
+  "em_id": "EM5001_00_0",
+  "monster": "Paratoad",
+  "guild_points": [
+   10,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 59
+ },
+ {
+  "em_id": "EM5001_10_0",
+  "monster": "Nitrotoad",
+  "guild_points": [
+   10,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 60
+ },
+ {
+  "em_id": "EM5001_20_0",
+  "monster": "Sleeptoad",
+  "guild_points": [
+   10,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 61
+ },
+ {
+  "em_id": "EM5002_00_0",
+  "monster": "Vigorwasp",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 62
+ },
+ {
+  "em_id": "EM5002_01_0",
+  "monster": "Giant Vigorwasp",
+  "guild_points": [
+   10,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 63
+ },
+ {
+  "em_id": "EM5002_10_0",
+  "monster": "Purewasp",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 64
+ },
+ {
+  "em_id": "EM5003_00_0",
+  "monster": "Flashflies",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 65
+ },
+ {
+  "em_id": "EM5004_00_0",
+  "monster": "Dung Beetle",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 66
+ },
+ {
+  "em_id": "EM5004_10_0",
+  "monster": "Bomb Beetle",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 67
+ },
+ {
+  "em_id": "EM5004_20_0",
+  "monster": "Rime Beetle",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 68
+ },
+ {
+  "em_id": "EM5005_00_0",
+  "monster": "Vigormantle Bug",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 69
+ },
+ {
+  "em_id": "EM5005_10_0",
+  "monster": "Chillmantle Bug",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 70
+ },
+ {
+  "em_id": "EM5005_20_0",
+  "monster": "Heatmantle Bug",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 71
+ },
+ {
+  "em_id": "EM5006_00_0",
+  "monster": "Wiggly Litchi",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 72
+ },
+ {
+  "em_id": "EM5007_00_0",
+  "monster": "Dark Hornet",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 73
+ },
+ {
+  "em_id": "EM5008_00_0",
+  "monster": "Great Thunderbugs",
+  "guild_points": [
+   10,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 74
+ },
+ {
+  "em_id": "EM5009_00_0",
+  "monster": "Wedge Beetle",
+  "guild_points": [
+   1,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 75
+ },
+ {
+  "em_id": "EM5010_00_0",
+  "monster": "Cactuar",
+  "guild_points": [
+   20,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 76
+ },
+ {
+  "em_id": "EM5011_00_0",
+  "monster": "Morbol Seedling",
+  "guild_points": [
+   20,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 77
+ },
+ {
+  "em_id": "EM5100_00_0",
+  "monster": "Thunderbug",
+  "guild_points": [
+   2,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 78
+ },
+ {
+  "em_id": "EM5101_00_0",
+  "monster": "Flashbug",
+  "guild_points": [
+   2,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 79
+ },
+ {
+  "em_id": "EM5101_10_0",
+  "monster": "Godbug",
+  "guild_points": [
+   2,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 80
+ },
+ {
+  "em_id": "EM5101_20_0",
+  "monster": "Bitterbug",
+  "guild_points": [
+   2,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 81
+ },
+ {
+  "em_id": "EM5102_00_0",
+  "monster": "Leaflugger Ant",
+  "guild_points": [
+   1,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 82
+ },
+ {
+  "em_id": "EM5200_00_0",
+  "monster": "Windrustler",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 83
+ },
+ {
+  "em_id": "EM5200_09_0",
+  "monster": "Black Windrustler",
+  "guild_points": [
+   20,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 84
+ },
+ {
+  "em_id": "EM5201_00_0",
+  "monster": "Nothpecker",
+  "guild_points": [
+   1,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 85
+ },
+ {
+  "em_id": "EM5202_00_0",
+  "monster": "Landlight Shrimp",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 86
+ },
+ {
+  "em_id": "EM5202_10_0",
+  "monster": "Pink Landlight Shrimp",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 87
+ },
+ {
+  "em_id": "EM5203_00_0",
+  "monster": "Amstrigian",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 88
+ },
+ {
+  "em_id": "EM5203_09_0",
+  "monster": "Hymstrigian",
+  "guild_points": [
+   20,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 89
+ },
+ {
+  "em_id": "EM5204_00_0",
+  "monster": "Rufflizard",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 90
+ },
+ {
+  "em_id": "EM5204_10_0",
+  "monster": "Ember Rufflizard",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 91
+ },
+ {
+  "em_id": "EM5204_19_0",
+  "monster": "Azure Rufflizard",
+  "guild_points": [
+   20,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 92
+ },
+ {
+  "em_id": "EM5205_00_0",
+  "monster": "Pallbug",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 93
+ },
+ {
+  "em_id": "EM5206_00_0",
+  "monster": "Tracktail Lizard",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 94
+ },
+ {
+  "em_id": "EM5207_00_0",
+  "monster": "Emperor Hopper",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 95
+ },
+ {
+  "em_id": "EM5207_10_0",
+  "monster": "Tyrant Hopper",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 96
+ },
+ {
+  "em_id": "EM5208_00_0",
+  "monster": "Hercudrome",
+  "guild_points": [
+   20,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 97
+ },
+ {
+  "em_id": "EM5208_10_0",
+  "monster": "Gold Hercudrome",
+  "guild_points": [
+   50,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 98
+ },
+ {
+  "em_id": "EM5208_20_0",
+  "monster": "Prism Hercudrome",
+  "guild_points": [
+   100,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 99
+ },
+ {
+  "em_id": "EM5209_00_0",
+  "monster": "Quatreflies",
+  "guild_points": [
+   1,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 100
+ },
+ {
+  "em_id": "EM5210_00_0",
+  "monster": "Myriads",
+  "guild_points": [
+   1,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 101
+ },
+ {
+  "em_id": "EM5210_10_0",
+  "monster": "Myriads",
+  "guild_points": [
+   1,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 102
+ },
+ {
+  "em_id": "EM5211_00_0",
+  "monster": "Jewel Scarab",
+  "guild_points": [
+   20,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 103
+ },
+ {
+  "em_id": "EM5211_09_0",
+  "monster": "Regal Jewel Scarab",
+  "guild_points": [
+   50,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 104
+ },
+ {
+  "em_id": "EM5212_00_0",
+  "monster": "Vaporonid",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 105
+ },
+ {
+  "em_id": "EM5213_00_0",
+  "monster": "Omenfly",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 106
+ },
+ {
+  "em_id": "EM5214_00_0",
+  "monster": "Mimiphyta",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 107
+ },
+ {
+  "em_id": "EM5214_10_0",
+  "monster": "Gawkie",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 108
+ },
+ {
+  "em_id": "EM5215_00_0",
+  "monster": "Scarlet Joyperch",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 109
+ },
+ {
+  "em_id": "EM5215_10_0",
+  "monster": "Blink Angler",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 110
+ },
+ {
+  "em_id": "EM5216_00_0",
+  "monster": "Florashell Crab",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 111
+ },
+ {
+  "em_id": "EM5216_10_0",
+  "monster": "Crudeshell Crab",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 112
+ },
+ {
+  "em_id": "EM5216_09_0",
+  "monster": "Curioshell Crab",
+  "guild_points": [
+   20,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 113
+ },
+ {
+  "em_id": "EM5217_00_0",
+  "monster": "Smokeshroud Gekko",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 114
+ },
+ {
+  "em_id": "EM5217_10_0",
+  "monster": "Gloom Gekko",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 115
+ },
+ {
+  "em_id": "EM5218_00_0",
+  "monster": "Dapperwing",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 116
+ },
+ {
+  "em_id": "EM5218_09_0",
+  "monster": "Dazzlewing",
+  "guild_points": [
+   20,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 117
+ },
+ {
+  "em_id": "EM5219_00_0",
+  "monster": "Sandstar",
+  "guild_points": [
+   100,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 118
+ },
+ {
+  "em_id": "EM5220_00_0",
+  "monster": "Scalebat",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 119
+ },
+ {
+  "em_id": "EM5221_00_0",
+  "monster": "Sparklerjelly",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 120
+ },
+ {
+  "em_id": "EM5221_09_0",
+  "monster": "Peony Sparklerjelly",
+  "guild_points": [
+   50,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 121
+ },
+ {
+  "em_id": "EM5222_00_0",
+  "monster": "Nu Yaya",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 122
+ },
+ {
+  "em_id": "EM5222_10_0",
+  "monster": "Xu Yo",
+  "guild_points": [
+   1,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 123
+ },
+ {
+  "em_id": "EM5223_00_0",
+  "monster": "Solanaria",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 124
+ },
+ {
+  "em_id": "EM5224_00_0",
+  "monster": "Pillopod",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 125
+ },
+ {
+  "em_id": "EM5224_09_0",
+  "monster": "Gillopod",
+  "guild_points": [
+   50,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 126
+ },
+ {
+  "em_id": "EM5225_00_0",
+  "monster": "Petalfly",
+  "guild_points": [
+   1,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 127
+ },
+ {
+  "em_id": "EM5226_00_0",
+  "monster": "Downy Crake",
+  "guild_points": [
+   50,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 128
+ },
+ {
+  "em_id": "EM5300_00_0",
+  "monster": "Starduster",
+  "guild_points": [
+   1,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 129
+ },
+ {
+  "em_id": "EM5300_10_0",
+  "monster": "Starduster",
+  "guild_points": [
+   1,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 130
+ },
+ {
+  "em_id": "EM5301_00_0",
+  "monster": "Virid Bowfin",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 131
+ },
+ {
+  "em_id": "EM5302_00_0",
+  "monster": "Whetfish",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 132
+ },
+ {
+  "em_id": "EM5303_00_0",
+  "monster": "Sushifish",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 133
+ },
+ {
+  "em_id": "EM5304_00_0",
+  "monster": "Gastronome Tuna",
+  "guild_points": [
+   200,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 134
+ },
+ {
+  "em_id": "EM5305_00_0",
+  "monster": "Gajau",
+  "guild_points": [
+   100,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 135
+ },
+ {
+  "em_id": "EM5306_00_0",
+  "monster": "Goldenfry",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 136
+ },
+ {
+  "em_id": "EM5307_00_0",
+  "monster": "Goldenfish",
+  "guild_points": [
+   10,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 137
+ },
+ {
+  "em_id": "EM5308_00_0",
+  "monster": "Platinumfish",
+  "guild_points": [
+   20,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 138
+ },
+ {
+  "em_id": "EM5309_00_0",
+  "monster": "Burst Arowana",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 139
+ },
+ {
+  "em_id": "EM5310_00_0",
+  "monster": "Bomb Arowana",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 140
+ },
+ {
+  "em_id": "EM5311_00_0",
+  "monster": "Gunpowderfish",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 141
+ },
+ {
+  "em_id": "EM5312_00_0",
+  "monster": "Speartuna",
+  "guild_points": [
+   200,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 142
+ },
+ {
+  "em_id": "EM5313_00_0",
+  "monster": "Petricanths",
+  "guild_points": [
+   100,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 143
+ },
+ {
+  "em_id": "EM5314_00_0",
+  "monster": "Glass Parexus",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 144
+ },
+ {
+  "em_id": "EM5315_00_0",
+  "monster": "Goliath Squid",
+  "guild_points": [
+   100,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 145
+ },
+ {
+  "em_id": "EM5316_00_0",
+  "monster": "Great Trevally",
+  "guild_points": [
+   50,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 146
+ },
+ {
+  "em_id": "EM5317_00_0",
+  "monster": "Escunite",
+  "guild_points": [
+   50,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 147
+ },
+ {
+  "em_id": "EM5317_09_0",
+  "monster": "Grand Escunite",
+  "guild_points": [
+   100,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 148
+ },
+ {
+  "em_id": "EM5318_00_0",
+  "monster": "Gravid Bowfin",
+  "guild_points": [
+   50,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 149
+ },
+ {
+  "em_id": "EM5319_00_0",
+  "monster": "Blind Perch",
+  "guild_points": [
+   5,
+   0,
+   0
+  ],
+  "hr_points": [
+   0,
+   0,
+   0
+  ],
+  "palico_xp": 0,
+  "zenny": [
+   0,
+   0,
+   0
+  ],
+  "_row": 150
+ }
+]

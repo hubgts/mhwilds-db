@@ -1,0 +1,462 @@
+[
+ {
+  "attacker": "Rathian",
+  "attacker_em_id": "EM0001_00_0",
+  "receiver": "Quematrice",
+  "receiver_em_id": "EM0153_00_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 3.0,
+  "type": "NORMAL",
+  "_row": 2
+ },
+ {
+  "attacker": "Rathian",
+  "attacker_em_id": "EM0001_00_0",
+  "receiver": "Rompopolo",
+  "receiver_em_id": "EM0155_00_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 3.0,
+  "type": "NORMAL",
+  "_row": 3
+ },
+ {
+  "attacker": "Rathalos",
+  "attacker_em_id": "EM0002_00_0",
+  "receiver": "Quematrice",
+  "receiver_em_id": "EM0153_00_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 4.5,
+  "type": "NORMAL",
+  "_row": 4
+ },
+ {
+  "attacker": "Rathalos",
+  "attacker_em_id": "EM0002_00_0",
+  "receiver": "Rompopolo",
+  "receiver_em_id": "EM0155_00_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 4.5,
+  "type": "NORMAL",
+  "_row": 5
+ },
+ {
+  "attacker": "Guardian Rathalos",
+  "attacker_em_id": "EM0002_50_0",
+  "receiver": "Quematrice",
+  "receiver_em_id": "EM0153_00_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 4.5,
+  "type": "NORMAL",
+  "_row": 6
+ },
+ {
+  "attacker": "Guardian Rathalos",
+  "attacker_em_id": "EM0002_50_0",
+  "receiver": "Guardian Fulgur Anjanath",
+  "receiver_em_id": "EM0100_51_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 3.0,
+  "type": "NORMAL",
+  "_row": 7
+ },
+ {
+  "attacker": "Ajarakan",
+  "attacker_em_id": "EM0159_00_0",
+  "receiver": "Rompopolo",
+  "receiver_em_id": "EM0155_00_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 4.5,
+  "type": "NORMAL",
+  "_row": 8
+ },
+ {
+  "attacker": "Lagiacrus",
+  "attacker_em_id": "EM0046_00_0",
+  "receiver": "Rathalos",
+  "receiver_em_id": "EM0002_00_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 3.0,
+  "type": "NORMAL",
+  "_row": 9
+ },
+ {
+  "attacker": "Nerscylla",
+  "attacker_em_id": "EM0070_00_0",
+  "receiver": "Gypceros",
+  "receiver_em_id": "EM0009_00_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 3.0,
+  "type": "NORMAL",
+  "_row": 10
+ },
+ {
+  "attacker": "Blangonga",
+  "attacker_em_id": "EM0022_00_0",
+  "receiver": "Hirabami",
+  "receiver_em_id": "EM0161_00_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 2.25,
+  "type": "NORMAL",
+  "_row": 11
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Rey Dau",
+  "receiver_em_id": "EM0156_00_0",
+  "attacker_damage_pct": 4.0,
+  "receiver_damage_pct": 6.0,
+  "type": "NORMAL",
+  "_row": 12
+ },
+ {
+  "attacker": "Uth Duna",
+  "attacker_em_id": "EM0157_00_0",
+  "receiver": "Rathalos",
+  "receiver_em_id": "EM0002_00_0",
+  "attacker_damage_pct": 4.0,
+  "receiver_damage_pct": 6.0,
+  "type": "NORMAL",
+  "_row": 13
+ },
+ {
+  "attacker": "Uth Duna",
+  "attacker_em_id": "EM0157_00_0",
+  "receiver": "Mizutsune",
+  "receiver_em_id": "EM0082_00_0",
+  "attacker_damage_pct": 4.0,
+  "receiver_damage_pct": 6.0,
+  "type": "NORMAL",
+  "_row": 14
+ },
+ {
+  "attacker": "Uth Duna",
+  "attacker_em_id": "EM0157_00_0",
+  "receiver": "Lagiacrus",
+  "receiver_em_id": "EM0046_00_0",
+  "attacker_damage_pct": 4.0,
+  "receiver_damage_pct": 6.0,
+  "type": "NORMAL",
+  "_row": 15
+ },
+ {
+  "attacker": "Guardian Fulgur Anjanath",
+  "attacker_em_id": "EM0100_51_0",
+  "receiver": "Guardian Doshaguma",
+  "receiver_em_id": "EM0150_50_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 3.0,
+  "type": "NORMAL",
+  "_row": 16
+ },
+ {
+  "attacker": "Doshaguma",
+  "attacker_em_id": "EM0150_00_0",
+  "receiver": "Lala Barina",
+  "receiver_em_id": "EM0154_00_0",
+  "attacker_damage_pct": 1.0,
+  "receiver_damage_pct": 4.5,
+  "type": "NORMAL",
+  "_row": 17
+ },
+ {
+  "attacker": "Doshaguma",
+  "attacker_em_id": "EM0150_00_0",
+  "receiver": "Balahara",
+  "receiver_em_id": "EM0151_00_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 4.5,
+  "type": "NORMAL",
+  "_row": 18
+ },
+ {
+  "attacker": "Nu Udra",
+  "attacker_em_id": "EM0158_00_0",
+  "receiver": "Ajarakan",
+  "receiver_em_id": "EM0159_00_0",
+  "attacker_damage_pct": 4.0,
+  "receiver_damage_pct": 6.0,
+  "type": "NORMAL",
+  "_row": 19
+ },
+ {
+  "attacker": "Xu Wu",
+  "attacker_em_id": "EM0163_00_0",
+  "receiver": "Guardian Ebony Odogaron",
+  "receiver_em_id": "EM0113_51_0",
+  "attacker_damage_pct": 3.0,
+  "receiver_damage_pct": 1.5,
+  "type": "NORMAL",
+  "_row": 20
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Rathian",
+  "receiver_em_id": "EM0001_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 21
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Rathalos",
+  "receiver_em_id": "EM0002_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 22
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Guardian Rathalos",
+  "receiver_em_id": "EM0002_50_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 23
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Gravios",
+  "receiver_em_id": "EM0005_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 24
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Yian Kut-Ku",
+  "receiver_em_id": "EM0008_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 25
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Blangonga",
+  "receiver_em_id": "EM0022_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 26
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Gore Magala",
+  "receiver_em_id": "EM0071_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 27
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Guardian Fulgur Anjanath",
+  "receiver_em_id": "EM0100_51_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 28
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Guardian Ebony Odogaron",
+  "receiver_em_id": "EM0113_51_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 29
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Doshaguma",
+  "receiver_em_id": "EM0150_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 30
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Guardian Doshaguma",
+  "receiver_em_id": "EM0150_50_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 31
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Balahara",
+  "receiver_em_id": "EM0151_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 32
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Quematrice",
+  "receiver_em_id": "EM0153_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 33
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Uth Duna",
+  "receiver_em_id": "EM0157_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 34
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Nu Udra",
+  "receiver_em_id": "EM0158_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 35
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Ajarakan",
+  "receiver_em_id": "EM0159_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 36
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Hirabami",
+  "receiver_em_id": "EM0161_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 37
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Guardian Fulgur Anjanath",
+  "receiver_em_id": "EM0100_51_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 38
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Gore Magala",
+  "receiver_em_id": "EM0071_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 39
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Guardian Ebony Odogaron",
+  "receiver_em_id": "EM0113_51_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 40
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Blangonga",
+  "receiver_em_id": "EM0022_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 41
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Mizutsune",
+  "receiver_em_id": "EM0082_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 42
+ },
+ {
+  "attacker": "Arkveld",
+  "attacker_em_id": "EM0160_00_0",
+  "receiver": "Lagiacrus",
+  "receiver_em_id": "EM0046_00_0",
+  "attacker_damage_pct": 0.6000000238,
+  "receiver_damage_pct": 0.6000000238,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 43
+ },
+ {
+  "attacker": "Xu Wu",
+  "attacker_em_id": "EM0163_00_0",
+  "receiver": "Guardian Doshaguma",
+  "receiver_em_id": "EM0150_50_0",
+  "attacker_damage_pct": 0.5,
+  "receiver_damage_pct": 0.5,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 44
+ },
+ {
+  "attacker": "Xu Wu",
+  "attacker_em_id": "EM0163_00_0",
+  "receiver": "Guardian Fulgur Anjanath",
+  "receiver_em_id": "EM0100_51_0",
+  "attacker_damage_pct": 0.5,
+  "receiver_damage_pct": 0.5,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 45
+ },
+ {
+  "attacker": "Xu Wu",
+  "attacker_em_id": "EM0163_00_0",
+  "receiver": "Guardian Ebony Odogaron",
+  "receiver_em_id": "EM0113_51_0",
+  "attacker_damage_pct": 0.5,
+  "receiver_damage_pct": 0.5,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 46
+ },
+ {
+  "attacker": "Xu Wu",
+  "attacker_em_id": "EM0163_00_0",
+  "receiver": "Guardian Rathalos",
+  "receiver_em_id": "EM0002_50_0",
+  "attacker_damage_pct": 0.5,
+  "receiver_damage_pct": 0.5,
+  "type": "ACCEPT_ON_DAMAGE",
+  "_row": 47
+ }
+]

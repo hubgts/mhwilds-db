@@ -1,0 +1,42 @@
+[
+ {
+  "ID": "00000000",
+  "Name": "INVALID",
+  "_row": 2
+ },
+ {
+  "ID": "00000001",
+  "Name": "CATEGORY_00",
+  "_row": 3
+ },
+ {
+  "ID": "00000002",
+  "Name": "CATEGORY_01",
+  "_row": 4
+ },
+ {
+  "ID": "00000003",
+  "Name": "CATEGORY_02",
+  "_row": 5
+ },
+ {
+  "ID": "00000004",
+  "Name": "CATEGORY_03",
+  "_row": 6
+ },
+ {
+  "ID": "00000005",
+  "Name": "CATEGORY_04",
+  "_row": 7
+ },
+ {
+  "ID": "00000006",
+  "Name": "CATEGORY_05",
+  "_row": 8
+ },
+ {
+  "ID": "00000007",
+  "Name": "MAX",
+  "_row": 9
+ }
+]

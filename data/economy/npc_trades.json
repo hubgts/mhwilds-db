@@ -1,0 +1,2597 @@
+[
+ {
+  "index": 0,
+  "data_id": 1,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 231,
+   "item_id": "ITEM_0257",
+   "item_name": "Windward Aloe",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 213,
+    "item_id": "ITEM_0239",
+    "item_name": "Kunafa Cheese",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "data_id": 2,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 232,
+   "item_id": "ITEM_0258",
+   "item_name": "Fine Windward Aloe",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 213,
+    "item_id": "ITEM_0239",
+    "item_name": "Kunafa Cheese",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "data_id": 3,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 232,
+   "item_id": "ITEM_0258",
+   "item_name": "Fine Windward Aloe",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 610,
+    "item_id": "ITEM_0636",
+    "item_name": "Dalthydon Wool",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 487,
+    "item_id": "ITEM_0513",
+    "item_name": "Herbivore Carapace",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "data_id": 4,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 233,
+   "item_id": "ITEM_0259",
+   "item_name": "Great Windward Aloe",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 214,
+    "item_id": "ITEM_0240",
+    "item_name": "Sharp Kunafa Cheese",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 3,
+  "special": false,
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "data_id": 5,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 234,
+   "item_id": "ITEM_0260",
+   "item_name": "Sandpepper",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 116,
+    "item_id": "ITEM_0142",
+    "item_name": "Fire Herb",
+    "quantity": 12,
+    "bonus": 3
+   },
+   {
+    "item_data_id": 93,
+    "item_id": "ITEM_0116",
+    "item_name": "Herbivore Shell",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "data_id": 6,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 235,
+   "item_id": "ITEM_0261",
+   "item_name": "Fiery Sandpepper",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 119,
+    "item_id": "ITEM_0145",
+    "item_name": "Dragonfell Berry",
+    "quantity": 7,
+    "bonus": 2
+   },
+   {
+    "item_data_id": 97,
+    "item_id": "ITEM_0120",
+    "item_name": "Wingdrake Hide",
+    "quantity": 2,
+    "bonus": 1
+   }
+  ],
+  "max_count": 4,
+  "special": false,
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "data_id": 7,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 235,
+   "item_id": "ITEM_0261",
+   "item_name": "Fiery Sandpepper",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 225,
+    "item_id": "ITEM_0251",
+    "item_name": "Monster Chili",
+    "quantity": 3,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 578,
+    "item_id": "ITEM_0604",
+    "item_name": "Lightcrystal",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "data_id": 8,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 236,
+   "item_id": "ITEM_0262",
+   "item_name": "Fulgurite Shard",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 13,
+    "item_id": "ITEM_0011",
+    "item_name": "Raw Meat",
+    "quantity": 2,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 94,
+    "item_id": "ITEM_0117",
+    "item_name": "Bulaqchi Shell",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "data_id": 9,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 237,
+   "item_id": "ITEM_0263",
+   "item_name": "Pure Fulgurite",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 57,
+    "item_id": "ITEM_0078",
+    "item_name": "Earth Crystal",
+    "quantity": 7,
+    "bonus": 2
+   },
+   {
+    "item_data_id": 489,
+    "item_id": "ITEM_0515",
+    "item_name": "Monster Fluid",
+    "quantity": 2,
+    "bonus": 1
+   }
+  ],
+  "max_count": 4,
+  "special": false,
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "data_id": 10,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 237,
+   "item_id": "ITEM_0263",
+   "item_name": "Pure Fulgurite",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 610,
+    "item_id": "ITEM_0636",
+    "item_name": "Dalthydon Wool",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 488,
+    "item_id": "ITEM_0514",
+    "item_name": "Bulaqchi Carapace",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "data_id": 11,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 238,
+   "item_id": "ITEM_0264",
+   "item_name": "Thundering Fulgurite",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 214,
+    "item_id": "ITEM_0240",
+    "item_name": "Sharp Kunafa Cheese",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 610,
+    "item_id": "ITEM_0636",
+    "item_name": "Dalthydon Wool",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 3,
+  "special": false,
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "data_id": 12,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "RUIN",
+  "requested": {
+   "item_data_id": 233,
+   "item_id": "ITEM_0259",
+   "item_name": "Great Windward Aloe",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 320,
+    "item_id": "ITEM_0346",
+    "item_name": "Doshaguma Fang+",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 350,
+    "item_id": "ITEM_0376",
+    "item_name": "Rey Dau Fulgurtalon",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 229,
+    "item_id": "ITEM_0255",
+    "item_name": "Sinister Cloth",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "data_id": 13,
+  "npc": "NPC112_11_044",
+  "locale": "Windward Plains",
+  "season": "FERTILITY",
+  "requested": {
+   "item_data_id": 238,
+   "item_id": "ITEM_0264",
+   "item_name": "Thundering Fulgurite",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 296,
+    "item_id": "ITEM_0322",
+    "item_name": "Chatacabra Carapace",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 303,
+    "item_id": "ITEM_0329",
+    "item_name": "Quematrice Igniter+",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 144,
+    "item_id": "ITEM_0170",
+    "item_name": "Rey Dau Plate",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "data_id": 14,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 239,
+   "item_id": "ITEM_0265",
+   "item_name": "Scarlet Amber Shard",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 117,
+    "item_id": "ITEM_0143",
+    "item_name": "Flowfern",
+    "quantity": 12,
+    "bonus": 3
+   },
+   {
+    "item_data_id": 113,
+    "item_id": "ITEM_0139",
+    "item_name": "Toadstool",
+    "quantity": 9,
+    "bonus": 3
+   },
+   {
+    "item_data_id": 59,
+    "item_id": "ITEM_0080",
+    "item_name": "Sturdy Bone",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "data_id": 15,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 240,
+   "item_id": "ITEM_0266",
+   "item_name": "Fine Scarlet Amber",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 127,
+    "item_id": "ITEM_0153",
+    "item_name": "Adamant Seed",
+    "quantity": 7,
+    "bonus": 2
+   }
+  ],
+  "max_count": 4,
+  "special": false,
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "data_id": 16,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 240,
+   "item_id": "ITEM_0266",
+   "item_name": "Fine Scarlet Amber",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 230,
+    "item_id": "ITEM_0256",
+    "item_name": "Great Hornfly",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 572,
+    "item_id": "ITEM_0598",
+    "item_name": "Conga Pelt+",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "data_id": 17,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 241,
+   "item_id": "ITEM_0267",
+   "item_name": "Eternal Scarlet Amber",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 216,
+    "item_id": "ITEM_0242",
+    "item_name": "Delishroom",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 230,
+    "item_id": "ITEM_0256",
+    "item_name": "Great Hornfly",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "data_id": 18,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 243,
+   "item_id": "ITEM_0269",
+   "item_name": "Shiny Treasure",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 215,
+    "item_id": "ITEM_0241",
+    "item_name": "Droolshroom",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "data_id": 19,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 244,
+   "item_id": "ITEM_0270",
+   "item_name": "Sparkly Treasure",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 215,
+    "item_id": "ITEM_0241",
+    "item_name": "Droolshroom",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "data_id": 20,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 244,
+   "item_id": "ITEM_0270",
+   "item_name": "Sparkly Treasure",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 230,
+    "item_id": "ITEM_0256",
+    "item_name": "Great Hornfly",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 494,
+    "item_id": "ITEM_0520",
+    "item_name": "Piragill Fin+",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "data_id": 21,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 245,
+   "item_id": "ITEM_0271",
+   "item_name": "Bulky Treasure",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 216,
+    "item_id": "ITEM_0242",
+    "item_name": "Delishroom",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "data_id": 22,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 242,
+   "item_id": "ITEM_0268",
+   "item_name": "Queensbloom Pollen",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 271,
+    "item_id": "ITEM_0297",
+    "item_name": "Whetfish Fin",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 272,
+    "item_id": "ITEM_0298",
+    "item_name": "Sushifish Scale",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 595,
+    "item_id": "ITEM_0621",
+    "item_name": "Aqua Sac",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 4,
+  "special": false,
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "data_id": 23,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 242,
+   "item_id": "ITEM_0268",
+   "item_name": "Queensbloom Pollen",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 226,
+    "item_id": "ITEM_0252",
+    "item_name": "Jeweled Mullet Roe",
+    "quantity": 3,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 223,
+    "item_id": "ITEM_0249",
+    "item_name": "Wild Herb",
+    "quantity": 3,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "data_id": 24,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "RUIN",
+  "requested": {
+   "item_data_id": 245,
+   "item_id": "ITEM_0271",
+   "item_name": "Bulky Treasure",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 604,
+    "item_id": "ITEM_0630",
+    "item_name": "Lala Barina Mucus+",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 331,
+    "item_id": "ITEM_0357",
+    "item_name": "Uth Duna Cilia+",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 230,
+    "item_id": "ITEM_0256",
+    "item_name": "Great Hornfly",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "data_id": 25,
+  "npc": "NPC320_12_018",
+  "locale": "Scarlet Forest",
+  "season": "FERTILITY",
+  "requested": {
+   "item_data_id": 241,
+   "item_id": "ITEM_0267",
+   "item_name": "Eternal Scarlet Amber",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 511,
+    "item_id": "ITEM_0537",
+    "item_name": "Congalala Fang+",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 327,
+    "item_id": "ITEM_0353",
+    "item_name": "Uth Duna Plate",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 230,
+    "item_id": "ITEM_0256",
+    "item_name": "Great Hornfly",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "data_id": 26,
+  "npc": "NPC320_12_005",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 474,
+   "item_id": "ITEM_0500",
+   "item_name": "Ancient Wyvern Coin",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 623,
+    "item_id": "ITEM_0649",
+    "item_name": "Armor Sphere+",
+    "quantity": 3,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "data_id": 27,
+  "npc": "NPC320_12_005",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 474,
+   "item_id": "ITEM_0500",
+   "item_name": "Ancient Wyvern Coin",
+   "quantity": 5
+  },
+  "rewards": [
+   {
+    "item_data_id": 624,
+    "item_id": "ITEM_0650",
+    "item_name": "Advanced Armor Sphere",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "data_id": 28,
+  "npc": "NPC320_12_005",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 474,
+   "item_id": "ITEM_0500",
+   "item_name": "Ancient Wyvern Coin",
+   "quantity": 10
+  },
+  "rewards": [
+   {
+    "item_data_id": 610,
+    "item_id": "ITEM_0636",
+    "item_name": "Dalthydon Wool",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 229,
+    "item_id": "ITEM_0255",
+    "item_name": "Sinister Cloth",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 223,
+    "item_id": "ITEM_0249",
+    "item_name": "Wild Herb",
+    "quantity": 5,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 29
+ },
+ {
+  "index": 28,
+  "data_id": 29,
+  "npc": "NPC320_12_005",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 474,
+   "item_id": "ITEM_0500",
+   "item_name": "Ancient Wyvern Coin",
+   "quantity": 10
+  },
+  "rewards": [
+   {
+    "item_data_id": 230,
+    "item_id": "ITEM_0256",
+    "item_name": "Great Hornfly",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 226,
+    "item_id": "ITEM_0252",
+    "item_name": "Jeweled Mullet Roe",
+    "quantity": 5,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 30
+ },
+ {
+  "index": 29,
+  "data_id": 30,
+  "npc": "NPC320_12_005",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 474,
+   "item_id": "ITEM_0500",
+   "item_name": "Ancient Wyvern Coin",
+   "quantity": 10
+  },
+  "rewards": [
+   {
+    "item_data_id": 611,
+    "item_id": "ITEM_0637",
+    "item_name": "Azuz Tanned Leather",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 472,
+    "item_id": "ITEM_0498",
+    "item_name": "Drearisite Scraps",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 227,
+    "item_id": "ITEM_0253",
+    "item_name": "Wild Seed Oil",
+    "quantity": 5,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 31
+ },
+ {
+  "index": 30,
+  "data_id": 31,
+  "npc": "NPC320_12_005",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 474,
+   "item_id": "ITEM_0500",
+   "item_name": "Ancient Wyvern Coin",
+   "quantity": 10
+  },
+  "rewards": [
+   {
+    "item_data_id": 612,
+    "item_id": "ITEM_0638",
+    "item_name": "Suja Textiles",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 473,
+    "item_id": "ITEM_0499",
+    "item_name": "Scarred Scale",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 225,
+    "item_id": "ITEM_0251",
+    "item_name": "Monster Chili",
+    "quantity": 5,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 32
+ },
+ {
+  "index": 31,
+  "data_id": 32,
+  "npc": "NPC320_12_005",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 474,
+   "item_id": "ITEM_0500",
+   "item_name": "Ancient Wyvern Coin",
+   "quantity": 10
+  },
+  "rewards": [
+   {
+    "item_data_id": 613,
+    "item_id": "ITEM_0639",
+    "item_name": "Sild Cotton",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 609,
+    "item_id": "ITEM_0635",
+    "item_name": "Great Hibiscus",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 224,
+    "item_id": "ITEM_0250",
+    "item_name": "Eastern Honey",
+    "quantity": 5,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 33
+ },
+ {
+  "index": 32,
+  "data_id": 33,
+  "npc": "NPC320_12_005",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 474,
+   "item_id": "ITEM_0500",
+   "item_name": "Ancient Wyvern Coin",
+   "quantity": 10
+  },
+  "rewards": [
+   {
+    "item_data_id": 625,
+    "item_id": "ITEM_0651",
+    "item_name": "Hard Armor Sphere",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 669,
+    "item_id": "ITEM_0695",
+    "item_name": "Oricalcite",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 34
+ },
+ {
+  "index": 33,
+  "data_id": 34,
+  "npc": "NPC320_12_005",
+  "locale": "Scarlet Forest",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 474,
+   "item_id": "ITEM_0500",
+   "item_name": "Ancient Wyvern Coin",
+   "quantity": 30
+  },
+  "rewards": [
+   {
+    "item_data_id": 662,
+    "item_id": "ITEM_0688",
+    "item_name": "Gold Melding Ticket",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 663,
+    "item_id": "ITEM_0689",
+    "item_name": "Gold Relic Ticket",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 35
+ },
+ {
+  "index": 34,
+  "data_id": 35,
+  "npc": "NPC102_13_013",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 261,
+   "item_id": "ITEM_0287",
+   "item_name": "Ancient Fossil",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 131,
+    "item_id": "ITEM_0157",
+    "item_name": "Slashberry",
+    "quantity": 12,
+    "bonus": 3
+   },
+   {
+    "item_data_id": 128,
+    "item_id": "ITEM_0154",
+    "item_name": "Nitroshroom",
+    "quantity": 4,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 54,
+    "item_id": "ITEM_0075",
+    "item_name": "Machalite Ore",
+    "quantity": 2,
+    "bonus": 1
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 36
+ },
+ {
+  "index": 35,
+  "data_id": 36,
+  "npc": "NPC102_13_013",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 262,
+   "item_id": "ITEM_0288",
+   "item_name": "Drifting Sea Pot",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 30,
+    "item_id": "ITEM_0029",
+    "item_name": "Flashbug Phosphor",
+    "quantity": 6,
+    "bonus": 2
+   },
+   {
+    "item_data_id": 217,
+    "item_id": "ITEM_0243",
+    "item_name": "Mud Shrimp",
+    "quantity": 4,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 37
+ },
+ {
+  "index": 36,
+  "data_id": 37,
+  "npc": "NPC102_13_013",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 263,
+   "item_id": "ITEM_0289",
+   "item_name": "Royal Sea Pot",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 225,
+    "item_id": "ITEM_0251",
+    "item_name": "Monster Chili",
+    "quantity": 6,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 217,
+    "item_id": "ITEM_0243",
+    "item_name": "Mud Shrimp",
+    "quantity": 4,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 38
+ },
+ {
+  "index": 37,
+  "data_id": 38,
+  "npc": "NPC102_13_013",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 263,
+   "item_id": "ITEM_0289",
+   "item_name": "Royal Sea Pot",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 535,
+    "item_id": "ITEM_0561",
+    "item_name": "Dash Extract",
+    "quantity": 3,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 581,
+    "item_id": "ITEM_0607",
+    "item_name": "Firecell Stone",
+    "quantity": 1,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 602,
+    "item_id": "ITEM_0628",
+    "item_name": "Toxin Sac",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 39
+ },
+ {
+  "index": 38,
+  "data_id": 39,
+  "npc": "NPC102_13_013",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 58,
+   "item_id": "ITEM_0079",
+   "item_name": "Mystery Bone",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 130,
+    "item_id": "ITEM_0156",
+    "item_name": "Blastnut",
+    "quantity": 12,
+    "bonus": 3
+   },
+   {
+    "item_data_id": 128,
+    "item_id": "ITEM_0154",
+    "item_name": "Nitroshroom",
+    "quantity": 5,
+    "bonus": 2
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 40
+ },
+ {
+  "index": 39,
+  "data_id": 40,
+  "npc": "NPC102_13_013",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 59,
+   "item_id": "ITEM_0080",
+   "item_name": "Sturdy Bone",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 291,
+    "item_id": "ITEM_0317",
+    "item_name": "Bomberry",
+    "quantity": 10,
+    "bonus": 2
+   },
+   {
+    "item_data_id": 129,
+    "item_id": "ITEM_0155",
+    "item_name": "Devil's Blight",
+    "quantity": 2,
+    "bonus": 1
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 41
+ },
+ {
+  "index": 40,
+  "data_id": 41,
+  "npc": "NPC102_13_013",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 589,
+   "item_id": "ITEM_0615",
+   "item_name": "Quality Bone",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 130,
+    "item_id": "ITEM_0156",
+    "item_name": "Blastnut",
+    "quantity": 15,
+    "bonus": 3
+   },
+   {
+    "item_data_id": 291,
+    "item_id": "ITEM_0317",
+    "item_name": "Bomberry",
+    "quantity": 15,
+    "bonus": 3
+   },
+   {
+    "item_data_id": 129,
+    "item_id": "ITEM_0155",
+    "item_name": "Devil's Blight",
+    "quantity": 5,
+    "bonus": 1
+   }
+  ],
+  "max_count": 4,
+  "special": false,
+  "_row": 42
+ },
+ {
+  "index": 41,
+  "data_id": 42,
+  "npc": "NPC102_13_013",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 60,
+   "item_id": "ITEM_0081",
+   "item_name": "Brute Bone",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 290,
+    "item_id": "ITEM_0316",
+    "item_name": "Dragonstrike Nut",
+    "quantity": 7,
+    "bonus": 2
+   },
+   {
+    "item_data_id": 126,
+    "item_id": "ITEM_0152",
+    "item_name": "Might Seed",
+    "quantity": 5,
+    "bonus": 1
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 43
+ },
+ {
+  "index": 42,
+  "data_id": 43,
+  "npc": "NPC102_13_013",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 61,
+   "item_id": "ITEM_0082",
+   "item_name": "Colossal Bone",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 290,
+    "item_id": "ITEM_0316",
+    "item_name": "Dragonstrike Nut",
+    "quantity": 12,
+    "bonus": 3
+   },
+   {
+    "item_data_id": 129,
+    "item_id": "ITEM_0155",
+    "item_name": "Devil's Blight",
+    "quantity": 5,
+    "bonus": 1
+   }
+  ],
+  "max_count": 4,
+  "special": false,
+  "_row": 44
+ },
+ {
+  "index": 43,
+  "data_id": 44,
+  "npc": "NPC101_13_012",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 247,
+   "item_id": "ITEM_0273",
+   "item_name": "Antimite",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 217,
+    "item_id": "ITEM_0243",
+    "item_name": "Mud Shrimp",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 45
+ },
+ {
+  "index": 44,
+  "data_id": 45,
+  "npc": "NPC101_13_012",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 248,
+   "item_id": "ITEM_0274",
+   "item_name": "Fine Antimite",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 217,
+    "item_id": "ITEM_0243",
+    "item_name": "Mud Shrimp",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 46
+ },
+ {
+  "index": 45,
+  "data_id": 46,
+  "npc": "NPC101_13_012",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 248,
+   "item_id": "ITEM_0274",
+   "item_name": "Fine Antimite",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 611,
+    "item_id": "ITEM_0637",
+    "item_name": "Azuz Tanned Leather",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 497,
+    "item_id": "ITEM_0523",
+    "item_name": "Kranodath Skull+",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 47
+ },
+ {
+  "index": 46,
+  "data_id": 47,
+  "npc": "NPC101_13_012",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 249,
+   "item_id": "ITEM_0275",
+   "item_name": "Antimite Mass",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 218,
+    "item_id": "ITEM_0244",
+    "item_name": "Turbid Shrimp",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 48
+ },
+ {
+  "index": 47,
+  "data_id": 48,
+  "npc": "NPC101_13_012",
+  "locale": "Oilwell Basin",
+  "season": "FERTILITY",
+  "requested": {
+   "item_data_id": 249,
+   "item_id": "ITEM_0275",
+   "item_name": "Antimite Mass",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 381,
+    "item_id": "ITEM_0407",
+    "item_name": "Nu Udra Cerebrospinal Fluid",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 368,
+    "item_id": "ITEM_0394",
+    "item_name": "Ajarakan Marrow",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 472,
+    "item_id": "ITEM_0498",
+    "item_name": "Drearisite Scraps",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 49
+ },
+ {
+  "index": 48,
+  "data_id": 49,
+  "npc": "NPC101_13_011",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 246,
+   "item_id": "ITEM_0272",
+   "item_name": "Auric Oil",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 217,
+    "item_id": "ITEM_0243",
+    "item_name": "Mud Shrimp",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 50
+ },
+ {
+  "index": 49,
+  "data_id": 50,
+  "npc": "NPC101_13_011",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 258,
+   "item_id": "ITEM_0284",
+   "item_name": "Wylk Pebble",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 126,
+    "item_id": "ITEM_0152",
+    "item_name": "Might Seed",
+    "quantity": 4,
+    "bonus": 2
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 51
+ },
+ {
+  "index": 50,
+  "data_id": 51,
+  "npc": "NPC101_13_011",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 259,
+   "item_id": "ITEM_0285",
+   "item_name": "Wylk Gem",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 601,
+    "item_id": "ITEM_0627",
+    "item_name": "Poison Sac",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 580,
+    "item_id": "ITEM_0606",
+    "item_name": "Firestone",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 4,
+  "special": false,
+  "_row": 52
+ },
+ {
+  "index": 51,
+  "data_id": 52,
+  "npc": "NPC101_13_011",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 259,
+   "item_id": "ITEM_0285",
+   "item_name": "Wylk Gem",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 611,
+    "item_id": "ITEM_0637",
+    "item_name": "Azuz Tanned Leather",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 227,
+    "item_id": "ITEM_0253",
+    "item_name": "Wild Seed Oil",
+    "quantity": 3,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 53
+ },
+ {
+  "index": 52,
+  "data_id": 53,
+  "npc": "NPC101_13_011",
+  "locale": "Oilwell Basin",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 260,
+   "item_id": "ITEM_0286",
+   "item_name": "Time-honed Wylk Gem",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 218,
+    "item_id": "ITEM_0244",
+    "item_name": "Turbid Shrimp",
+    "quantity": 2,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 611,
+    "item_id": "ITEM_0637",
+    "item_name": "Azuz Tanned Leather",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 54
+ },
+ {
+  "index": 53,
+  "data_id": 54,
+  "npc": "NPC101_13_011",
+  "locale": "Oilwell Basin",
+  "season": "FERTILITY",
+  "requested": {
+   "item_data_id": 246,
+   "item_id": "ITEM_0272",
+   "item_name": "Auric Oil",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 55,
+    "item_id": "ITEM_0076",
+    "item_name": "Dragonite Ore",
+    "quantity": 2,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 30,
+    "item_id": "ITEM_0029",
+    "item_name": "Flashbug Phosphor",
+    "quantity": 7,
+    "bonus": 2
+   },
+   {
+    "item_data_id": 496,
+    "item_id": "ITEM_0522",
+    "item_name": "Kranodath Skull",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 3,
+  "special": true,
+  "_row": 55
+ },
+ {
+  "index": 54,
+  "data_id": 55,
+  "npc": "NPC101_13_011",
+  "locale": "Oilwell Basin",
+  "season": "RUIN",
+  "requested": {
+   "item_data_id": 260,
+   "item_id": "ITEM_0286",
+   "item_name": "Time-honed Wylk Gem",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 343,
+    "item_id": "ITEM_0369",
+    "item_name": "Spotted Poison Hide+",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 373,
+    "item_id": "ITEM_0399",
+    "item_name": "Ajarakan Jewel+",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 387,
+    "item_id": "ITEM_0413",
+    "item_name": "Nu Udra Oilmucus+",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 56
+ },
+ {
+  "index": 55,
+  "data_id": 56,
+  "npc": "NPC300_14_001",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 264,
+   "item_id": "ITEM_0290",
+   "item_name": "Gobletweed",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 638,
+    "item_id": "ITEM_0664",
+    "item_name": "Spider Web",
+    "quantity": 5,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 474,
+    "item_id": "ITEM_0500",
+    "item_name": "Ancient Wyvern Coin",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 498,
+    "item_id": "ITEM_0524",
+    "item_name": "Comaqchi Shell",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 4,
+  "special": false,
+  "_row": 57
+ },
+ {
+  "index": 56,
+  "data_id": 57,
+  "npc": "NPC300_14_001",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 265,
+   "item_id": "ITEM_0291",
+   "item_name": "Chaliceweed",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 228,
+    "item_id": "ITEM_0254",
+    "item_name": "Truffle Du Conga",
+    "quantity": 3,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 474,
+    "item_id": "ITEM_0500",
+    "item_name": "Ancient Wyvern Coin",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 271,
+    "item_id": "ITEM_0297",
+    "item_name": "Whetfish Fin",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 58
+ },
+ {
+  "index": 57,
+  "data_id": 58,
+  "npc": "NPC300_14_001",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 265,
+   "item_id": "ITEM_0291",
+   "item_name": "Chaliceweed",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 490,
+    "item_id": "ITEM_0516",
+    "item_name": "Monster Broth",
+    "quantity": 2,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 577,
+    "item_id": "ITEM_0603",
+    "item_name": "Blango Pelt+",
+    "quantity": 2,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 499,
+    "item_id": "ITEM_0525",
+    "item_name": "Comaqchi Carapace",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 59
+ },
+ {
+  "index": 58,
+  "data_id": 59,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 254,
+   "item_id": "ITEM_0280",
+   "item_name": "Wyveria Lantern",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 221,
+    "item_id": "ITEM_0247",
+    "item_name": "Sild Garlic",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 60
+ },
+ {
+  "index": 59,
+  "data_id": 60,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 255,
+   "item_id": "ITEM_0281",
+   "item_name": "Mature Wyveria Lantern",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 221,
+    "item_id": "ITEM_0247",
+    "item_name": "Sild Garlic",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 61
+ },
+ {
+  "index": 60,
+  "data_id": 61,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 255,
+   "item_id": "ITEM_0281",
+   "item_name": "Mature Wyveria Lantern",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 613,
+    "item_id": "ITEM_0639",
+    "item_name": "Sild Cotton",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 503,
+    "item_id": "ITEM_0529",
+    "item_name": "Guardian Seikret Feather+",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 62
+ },
+ {
+  "index": 61,
+  "data_id": 62,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 257,
+   "item_id": "ITEM_0283",
+   "item_name": "Milky Cocoon Web",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 125,
+    "item_id": "ITEM_0151",
+    "item_name": "Gloamgrass Bud",
+    "quantity": 5,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 502,
+    "item_id": "ITEM_0528",
+    "item_name": "Guardian Seikret Feather",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 4,
+  "special": false,
+  "_row": 63
+ },
+ {
+  "index": 62,
+  "data_id": 63,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 256,
+   "item_id": "ITEM_0282",
+   "item_name": "Origin Wylk Gem",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 31,
+    "item_id": "ITEM_0030",
+    "item_name": "Godbug Essence",
+    "quantity": 6,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 575,
+    "item_id": "ITEM_0601",
+    "item_name": "Vespoid Wing",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 64
+ },
+ {
+  "index": 63,
+  "data_id": 64,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 267,
+   "item_id": "ITEM_0293",
+   "item_name": "Fossilized Opal",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 7,
+    "item_id": "ITEM_0005",
+    "item_name": "Nulberry",
+    "quantity": 12,
+    "bonus": 3
+   },
+   {
+    "item_data_id": 573,
+    "item_id": "ITEM_0599",
+    "item_name": "Vespoid Shell",
+    "quantity": 2,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 115,
+    "item_id": "ITEM_0141",
+    "item_name": "Sleep Herb",
+    "quantity": 8,
+    "bonus": 3
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 65
+ },
+ {
+  "index": 64,
+  "data_id": 65,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 268,
+   "item_id": "ITEM_0294",
+   "item_name": "Fossilized Fire Opal",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 114,
+    "item_id": "ITEM_0140",
+    "item_name": "Parashroom",
+    "quantity": 5,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 224,
+    "item_id": "ITEM_0250",
+    "item_name": "Eastern Honey",
+    "quantity": 3,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 66
+ },
+ {
+  "index": 65,
+  "data_id": 66,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 268,
+   "item_id": "ITEM_0294",
+   "item_name": "Fossilized Fire Opal",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 613,
+    "item_id": "ITEM_0639",
+    "item_name": "Sild Cotton",
+    "quantity": 1,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 574,
+    "item_id": "ITEM_0600",
+    "item_name": "Vespoid Carapace",
+    "quantity": 5,
+    "bonus": 2
+   },
+   {
+    "item_data_id": 609,
+    "item_id": "ITEM_0635",
+    "item_name": "Great Hibiscus",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 67
+ },
+ {
+  "index": 66,
+  "data_id": 67,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 269,
+   "item_id": "ITEM_0295",
+   "item_name": "Genesis Opal",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 222,
+    "item_id": "ITEM_0248",
+    "item_name": "Specialty Sild Garlic",
+    "quantity": 2,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 613,
+    "item_id": "ITEM_0639",
+    "item_name": "Sild Cotton",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": false,
+  "_row": 68
+ },
+ {
+  "index": 67,
+  "data_id": 68,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "RUIN",
+  "requested": {
+   "item_data_id": 255,
+   "item_id": "ITEM_0281",
+   "item_name": "Mature Wyveria Lantern",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 664,
+    "item_id": "ITEM_0690",
+    "item_name": "Guardian Pelt",
+    "quantity": 3,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 454,
+    "item_id": "ITEM_0480",
+    "item_name": "Guardian Scale",
+    "quantity": 2,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 607,
+    "item_id": "ITEM_0633",
+    "item_name": "Guardian Blood",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 69
+ },
+ {
+  "index": 68,
+  "data_id": 69,
+  "npc": "NPC111_15_003",
+  "locale": "Ruins of Wyveria",
+  "season": "FERTILITY",
+  "requested": {
+   "item_data_id": 269,
+   "item_id": "ITEM_0295",
+   "item_name": "Genesis Opal",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 445,
+    "item_id": "ITEM_0471",
+    "item_name": "Xu Wu Cerebrospinal Fluid",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 706,
+    "item_id": "ITEM_0732",
+    "item_name": "Guardian Rathalos Plate",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 431,
+    "item_id": "ITEM_0457",
+    "item_name": "Guardian Ebony Plate",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 70
+ },
+ {
+  "index": 69,
+  "data_id": 70,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 250,
+   "item_id": "ITEM_0276",
+   "item_name": "Hirabami Molting",
+   "quantity": 2
+  },
+  "rewards": [
+   {
+    "item_data_id": 66,
+    "item_id": "ITEM_0087",
+    "item_name": "Mandragora",
+    "quantity": 5,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 118,
+    "item_id": "ITEM_0144",
+    "item_name": "Snow Herb",
+    "quantity": 15,
+    "bonus": 3
+   }
+  ],
+  "max_count": 5,
+  "special": false,
+  "_row": 71
+ },
+ {
+  "index": 70,
+  "data_id": 71,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 266,
+   "item_id": "ITEM_0292",
+   "item_name": "Nightflower Pollen",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 625,
+    "item_id": "ITEM_0651",
+    "item_name": "Hard Armor Sphere",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 1,
+  "special": false,
+  "_row": 72
+ },
+ {
+  "index": 71,
+  "data_id": 72,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 270,
+   "item_id": "ITEM_0296",
+   "item_name": "Wyvernsprout",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 5,
+    "item_id": "ITEM_0003",
+    "item_name": "Max Potion",
+    "quantity": 5,
+    "bonus": 1
+   },
+   {
+    "item_data_id": 439,
+    "item_id": "ITEM_0465",
+    "item_name": "Nourishing Extract",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 73
+ },
+ {
+  "index": 72,
+  "data_id": 73,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 251,
+   "item_id": "ITEM_0277",
+   "item_name": "Wyvernscale Vase",
+   "quantity": 3
+  },
+  "rewards": [
+   {
+    "item_data_id": 219,
+    "item_id": "ITEM_0245",
+    "item_name": "Fluffy Egg",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 74
+ },
+ {
+  "index": 73,
+  "data_id": 74,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 252,
+   "item_id": "ITEM_0278",
+   "item_name": "Dragonscale Vase",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 219,
+    "item_id": "ITEM_0245",
+    "item_name": "Fluffy Egg",
+    "quantity": 3,
+    "bonus": 1
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 75
+ },
+ {
+  "index": 74,
+  "data_id": 75,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 252,
+   "item_id": "ITEM_0278",
+   "item_name": "Dragonscale Vase",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 612,
+    "item_id": "ITEM_0638",
+    "item_name": "Suja Textiles",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 520,
+    "item_id": "ITEM_0546",
+    "item_name": "Nerscylla Spike+",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": false,
+  "_row": 76
+ },
+ {
+  "index": 75,
+  "data_id": 76,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 253,
+   "item_id": "ITEM_0279",
+   "item_name": "Large Goldenscale Vase",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 220,
+    "item_id": "ITEM_0246",
+    "item_name": "Airy Egg",
+    "quantity": 2,
+    "bonus": 0
+   }
+  ],
+  "max_count": 2,
+  "special": false,
+  "_row": 77
+ },
+ {
+  "index": 76,
+  "data_id": 77,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "MAX",
+  "requested": {
+   "item_data_id": 266,
+   "item_id": "ITEM_0292",
+   "item_name": "Nightflower Pollen",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 662,
+    "item_id": "ITEM_0688",
+    "item_name": "Gold Melding Ticket",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 663,
+    "item_id": "ITEM_0689",
+    "item_name": "Gold Relic Ticket",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": false,
+  "_row": 78
+ },
+ {
+  "index": 77,
+  "data_id": 78,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "RUIN",
+  "requested": {
+   "item_data_id": 270,
+   "item_id": "ITEM_0296",
+   "item_name": "Wyvernsprout",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 605,
+    "item_id": "ITEM_0631",
+    "item_name": "Sleep Sac",
+    "quantity": 4,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 606,
+    "item_id": "ITEM_0632",
+    "item_name": "Coma Sac",
+    "quantity": 2,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 37,
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 79
+ },
+ {
+  "index": 78,
+  "data_id": 79,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "FERTILITY",
+  "requested": {
+   "item_data_id": 270,
+   "item_id": "ITEM_0296",
+   "item_name": "Wyvernsprout",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 220,
+    "item_id": "ITEM_0246",
+    "item_name": "Airy Egg",
+    "quantity": 2,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 92,
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 80
+ },
+ {
+  "index": 79,
+  "data_id": 80,
+  "npc": "NPC212_14_015",
+  "locale": "Iceshard Cliffs",
+  "season": "FERTILITY",
+  "requested": {
+   "item_data_id": 253,
+   "item_id": "ITEM_0279",
+   "item_name": "Large Goldenscale Vase",
+   "quantity": 1
+  },
+  "rewards": [
+   {
+    "item_data_id": 422,
+    "item_id": "ITEM_0448",
+    "item_name": "Jin Dahaad Claw+",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 360,
+    "item_id": "ITEM_0386",
+    "item_name": "Hirabami Webbing+",
+    "quantity": 1,
+    "bonus": 0
+   },
+   {
+    "item_data_id": 473,
+    "item_id": "ITEM_0499",
+    "item_name": "Scarred Scale",
+    "quantity": 1,
+    "bonus": 0
+   }
+  ],
+  "max_count": 1,
+  "special": true,
+  "_row": 81
+ }
+]

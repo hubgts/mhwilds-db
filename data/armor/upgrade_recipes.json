@@ -1,0 +1,3324 @@
+[
+ {
+  "index": 0,
+  "series": "ID_037 (Hope α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0614",
+    "item_name": "Tough Guardian Bone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "series": "ID_039 (Leather α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0612",
+    "item_name": "Charred Oilbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "series": "ID_041 (Chainmail α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0613",
+    "item_name": "Frozen Icebone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "series": "ID_061 (Bone α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0615",
+    "item_name": "Quality Bone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "series": "ID_063 (Alloy α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "series": "ID_043 (Bulaqchi α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0514",
+    "item_name": "Bulaqchi Carapace",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "series": "ID_044 (Bulaqchi β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0514",
+    "item_name": "Bulaqchi Carapace",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "series": "ID_045 (Talioth α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0517",
+    "item_name": "Talioth Scale+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "series": "ID_046 (Talioth β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0517",
+    "item_name": "Talioth Scale+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "series": "ID_047 (Piragill α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0520",
+    "item_name": "Piragill Fin+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "series": "ID_048 (Piragill β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0520",
+    "item_name": "Piragill Fin+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "series": "ID_049 (Vespoid α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0600",
+    "item_name": "Vespoid Carapace",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "series": "ID_050 (Vespoid β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0602",
+    "item_name": "Vespoid Innerwing",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "series": "ID_051 (Kranodath α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0523",
+    "item_name": "Kranodath Skull+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "series": "ID_052 (Kranodath β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0523",
+    "item_name": "Kranodath Skull+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "series": "ID_053 (Comaqchi α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0525",
+    "item_name": "Comaqchi Carapace",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "series": "ID_054 (Comaqchi β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0525",
+    "item_name": "Comaqchi Carapace",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "series": "ID_055 (Kut-Ku α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0553",
+    "item_name": "Yian Kut-Ku Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "series": "ID_056 (Kut-Ku β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0553",
+    "item_name": "Yian Kut-Ku Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "series": "ID_057 (Chatacabra α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0323",
+    "item_name": "Chatacabra Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "series": "ID_058 (Chatacabra β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0323",
+    "item_name": "Chatacabra Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "series": "ID_065 (Quematrice α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0331",
+    "item_name": "Quematrice Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "series": "ID_066 (Quematrice β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0331",
+    "item_name": "Quematrice Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "series": "ID_067 (Lala Barina α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0336",
+    "item_name": "Lala Barina Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "series": "ID_068 (Lala Barina β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0336",
+    "item_name": "Lala Barina Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "series": "ID_071 (Conga α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0611",
+    "item_name": "Congalala Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "series": "ID_072 (Conga β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0611",
+    "item_name": "Congalala Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "series": "ID_069 (Rompopolo α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0371",
+    "item_name": "Rompopolo Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 29
+ },
+ {
+  "index": 28,
+  "series": "ID_070 (Rompopolo β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0371",
+    "item_name": "Rompopolo Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 30
+ },
+ {
+  "index": 29,
+  "series": "ID_059 (Gypceros α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0559",
+    "item_name": "Gypceros Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 31
+ },
+ {
+  "index": 30,
+  "series": "ID_060 (Gypceros β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0559",
+    "item_name": "Gypceros Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 32
+ },
+ {
+  "index": 31,
+  "series": "ID_077 (Nerscylla α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0547",
+    "item_name": "Nerscylla Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 33
+ },
+ {
+  "index": 32,
+  "series": "ID_078 (Nerscylla β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0547",
+    "item_name": "Nerscylla Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0560",
+    "item_name": "Bird Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 34
+ },
+ {
+  "index": 33,
+  "series": "ID_073 (Balahara α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0341",
+    "item_name": "Balahara Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 35
+ },
+ {
+  "index": 34,
+  "series": "ID_074 (Balahara β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0341",
+    "item_name": "Balahara Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 36
+ },
+ {
+  "index": 35,
+  "series": "ID_081 (Hirabami α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0388",
+    "item_name": "Hirabami Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 37
+ },
+ {
+  "index": 36,
+  "series": "ID_082 (Hirabami β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0388",
+    "item_name": "Hirabami Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 38
+ },
+ {
+  "index": 37,
+  "series": "ID_075 (Rathian α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0562",
+    "item_name": "Rathian Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0129",
+    "item_name": "Rathian Ruby",
+    "quantity": null
+   }
+  ],
+  "_row": 39
+ },
+ {
+  "index": 38,
+  "series": "ID_076 (Rathian β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0562",
+    "item_name": "Rathian Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0129",
+    "item_name": "Rathian Ruby",
+    "quantity": null
+   }
+  ],
+  "_row": 40
+ },
+ {
+  "index": 39,
+  "series": "ID_085 (Ingot α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 41
+ },
+ {
+  "index": 40,
+  "series": "ID_087 (Guardian Seikret α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0529",
+    "item_name": "Guardian Seikret Feather+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 42
+ },
+ {
+  "index": 41,
+  "series": "ID_088 (Guardian Seikret β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0529",
+    "item_name": "Guardian Seikret Feather+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 43
+ },
+ {
+  "index": 42,
+  "series": "ID_134 (Gajau α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0640",
+    "item_name": "Gajau Hide",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 44
+ },
+ {
+  "index": 43,
+  "series": "ID_083 (Guardian Fulgur α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0610",
+    "item_name": "Guardian Fulgur Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0512",
+    "item_name": "Guardian Fulgur Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 45
+ },
+ {
+  "index": 44,
+  "series": "ID_084 (Guardian Fulgur β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0610",
+    "item_name": "Guardian Fulgur Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0512",
+    "item_name": "Guardian Fulgur Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 46
+ },
+ {
+  "index": 45,
+  "series": "ID_079 (Doshaguma α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0347",
+    "item_name": "Doshaguma Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 47
+ },
+ {
+  "index": 46,
+  "series": "ID_080 (Doshaguma β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0347",
+    "item_name": "Doshaguma Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 48
+ },
+ {
+  "index": 47,
+  "series": "ID_093 (Guardian Doshaguma α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0425",
+    "item_name": "G. Doshaguma Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 49
+ },
+ {
+  "index": 48,
+  "series": "ID_094 (Guardian Doshaguma β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0425",
+    "item_name": "G. Doshaguma Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 50
+ },
+ {
+  "index": 49,
+  "series": "ID_089 (Ajarakan α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0401",
+    "item_name": "Ajarakan Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0400",
+    "item_name": "Ajarakan Medulla",
+    "quantity": null
+   }
+  ],
+  "_row": 51
+ },
+ {
+  "index": 50,
+  "series": "ID_090 (Ajarakan β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0401",
+    "item_name": "Ajarakan Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0400",
+    "item_name": "Ajarakan Medulla",
+    "quantity": null
+   }
+  ],
+  "_row": 52
+ },
+ {
+  "index": 51,
+  "series": "ID_099 (Guardian Ebony α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0464",
+    "item_name": "G. Ebony Odogaron Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0463",
+    "item_name": "Guardian Ebony Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 53
+ },
+ {
+  "index": 52,
+  "series": "ID_100 (Guardian Ebony β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0464",
+    "item_name": "G. Ebony Odogaron Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0463",
+    "item_name": "Guardian Ebony Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 54
+ },
+ {
+  "index": 53,
+  "series": "ID_105 (Xu Wu α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0324",
+    "item_name": "Xu Wu Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0478",
+    "item_name": "Xu Wu Umbragem",
+    "quantity": null
+   }
+  ],
+  "_row": 55
+ },
+ {
+  "index": 54,
+  "series": "ID_106 (Xu Wu β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0324",
+    "item_name": "Xu Wu Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0478",
+    "item_name": "Xu Wu Umbragem",
+    "quantity": null
+   }
+  ],
+  "_row": 56
+ },
+ {
+  "index": 55,
+  "series": "ID_103 (Rathalos α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0587",
+    "item_name": "Rathalos Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0586",
+    "item_name": "Rathalos Ruby",
+    "quantity": null
+   }
+  ],
+  "_row": 57
+ },
+ {
+  "index": 56,
+  "series": "ID_104 (Rathalos β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0587",
+    "item_name": "Rathalos Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0586",
+    "item_name": "Rathalos Ruby",
+    "quantity": null
+   }
+  ],
+  "_row": 58
+ },
+ {
+  "index": 57,
+  "series": "ID_095 (Guardian Rathalos α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0436",
+    "item_name": "G. Rathalos Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0731",
+    "item_name": "Guardian Rathalos Ruby",
+    "quantity": null
+   }
+  ],
+  "_row": 59
+ },
+ {
+  "index": 58,
+  "series": "ID_096 (Guardian Rathalos β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0436",
+    "item_name": "G. Rathalos Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0731",
+    "item_name": "Guardian Rathalos Ruby",
+    "quantity": null
+   }
+  ],
+  "_row": 60
+ },
+ {
+  "index": 59,
+  "series": "ID_097 (Gravios α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0573",
+    "item_name": "Gravios Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0571",
+    "item_name": "Gravios Medulla",
+    "quantity": null
+   }
+  ],
+  "_row": 61
+ },
+ {
+  "index": 60,
+  "series": "ID_098 (Gravios β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0573",
+    "item_name": "Gravios Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0571",
+    "item_name": "Gravios Medulla",
+    "quantity": null
+   }
+  ],
+  "_row": 62
+ },
+ {
+  "index": 61,
+  "series": "ID_091 (Blango α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0567",
+    "item_name": "Blangonga Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 63
+ },
+ {
+  "index": 62,
+  "series": "ID_092 (Blango β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0567",
+    "item_name": "Blangonga Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 64
+ },
+ {
+  "index": 63,
+  "series": "ID_135 (Commission α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0642",
+    "item_name": "Commission Ticket",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 65
+ },
+ {
+  "index": 64,
+  "series": "ID_123 (Kunafa α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0636",
+    "item_name": "Dalthydon Wool",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 66
+ },
+ {
+  "index": 65,
+  "series": "ID_124 (Azuz α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0637",
+    "item_name": "Azuz Tanned Leather",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 67
+ },
+ {
+  "index": 66,
+  "series": "ID_125 (Suja α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0638",
+    "item_name": "Suja Textiles",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 68
+ },
+ {
+  "index": 67,
+  "series": "ID_126 (Sild α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0639",
+    "item_name": "Sild Cotton",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 69
+ },
+ {
+  "index": 68,
+  "series": "ID_127 (Death Stench α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0255",
+    "item_name": "Sinister Cloth",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 70
+ },
+ {
+  "index": 69,
+  "series": "ID_128 (Butterfly α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0256",
+    "item_name": "Great Hornfly",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 71
+ },
+ {
+  "index": 70,
+  "series": "ID_129 (King Beetle α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0256",
+    "item_name": "Great Hornfly",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 72
+ },
+ {
+  "index": 71,
+  "series": "ID_130 (High Metal α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0498",
+    "item_name": "Drearisite Scraps",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 73
+ },
+ {
+  "index": 72,
+  "series": "ID_131 (Battle α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0499",
+    "item_name": "Scarred Scale",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 74
+ },
+ {
+  "index": 73,
+  "series": "ID_132 (Melahoa α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0635",
+    "item_name": "Great Hibiscus",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 75
+ },
+ {
+  "index": 74,
+  "series": "ID_133 (Artian α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0724",
+    "item_name": "Gracium",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 76
+ },
+ {
+  "index": 75,
+  "series": "ID_109 (Dober α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0682",
+    "item_name": "Monster Hardbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 77
+ },
+ {
+  "index": 76,
+  "series": "ID_111 (Damascus α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 78
+ },
+ {
+  "index": 77,
+  "series": "ID_113 (Dahaad α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0451",
+    "item_name": "Jin Dahaad Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0450",
+    "item_name": "Jin Dahaad Icegem",
+    "quantity": null
+   }
+  ],
+  "_row": 79
+ },
+ {
+  "index": 78,
+  "series": "ID_114 (Dahaad β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0451",
+    "item_name": "Jin Dahaad Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0450",
+    "item_name": "Jin Dahaad Icegem",
+    "quantity": null
+   }
+  ],
+  "_row": 80
+ },
+ {
+  "index": 79,
+  "series": "ID_117 (Uth Duna α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0361",
+    "item_name": "Uth Duna Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0360",
+    "item_name": "Uth Duna Watergem",
+    "quantity": null
+   }
+  ],
+  "_row": 81
+ },
+ {
+  "index": 80,
+  "series": "ID_118 (Uth Duna β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0361",
+    "item_name": "Uth Duna Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0360",
+    "item_name": "Uth Duna Watergem",
+    "quantity": null
+   }
+  ],
+  "_row": 82
+ },
+ {
+  "index": 81,
+  "series": "ID_115 (Rey Dau α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0378",
+    "item_name": "Rey Dau Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0377",
+    "item_name": "Rey Dau Boltgem",
+    "quantity": null
+   }
+  ],
+  "_row": 83
+ },
+ {
+  "index": 82,
+  "series": "ID_116 (Rey Dau β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0378",
+    "item_name": "Rey Dau Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0377",
+    "item_name": "Rey Dau Boltgem",
+    "quantity": null
+   }
+  ],
+  "_row": 84
+ },
+ {
+  "index": 83,
+  "series": "ID_119 (Nu Udra α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0415",
+    "item_name": "Nu Udra Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0414",
+    "item_name": "Nu Udra Flamegem",
+    "quantity": null
+   }
+  ],
+  "_row": 85
+ },
+ {
+  "index": 84,
+  "series": "ID_120 (Nu Udra β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0415",
+    "item_name": "Nu Udra Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0414",
+    "item_name": "Nu Udra Flamegem",
+    "quantity": null
+   }
+  ],
+  "_row": 86
+ },
+ {
+  "index": 85,
+  "series": "ID_107 (Gore α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0595",
+    "item_name": "Gore Magala Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0594",
+    "item_name": "Gore Magala Nyctgem",
+    "quantity": null
+   }
+  ],
+  "_row": 87
+ },
+ {
+  "index": 86,
+  "series": "ID_108 (Gore β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0595",
+    "item_name": "Gore Magala Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0594",
+    "item_name": "Gore Magala Nyctgem",
+    "quantity": null
+   }
+  ],
+  "_row": 88
+ },
+ {
+  "index": 87,
+  "series": "ID_121 (Arkveld α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0492",
+    "item_name": "Arkveld Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 89
+ },
+ {
+  "index": 88,
+  "series": "ID_122 (Arkveld β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0492",
+    "item_name": "Arkveld Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 90
+ },
+ {
+  "index": 89,
+  "series": "ID_031 (Guardian Arkveld α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0492",
+    "item_name": "Arkveld Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 91
+ },
+ {
+  "index": 90,
+  "series": "ID_036 (Guardian Arkveld β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0492",
+    "item_name": "Arkveld Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 92
+ },
+ {
+  "index": 91,
+  "series": "ID_138 (Guild Ace α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 93
+ },
+ {
+  "index": 92,
+  "series": "ID_140 (Dragonking α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0634",
+    "item_name": "Guardian Blood+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 94
+ },
+ {
+  "index": 93,
+  "series": "ID_203 (Guild Cross α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0803",
+    "item_name": "Chata Coin",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 95
+ },
+ {
+  "index": 94,
+  "series": "ID_204 (Clerk α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0804",
+    "item_name": "Rathian Coin",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 96
+ },
+ {
+  "index": 95,
+  "series": "ID_205 (Gourmand's Earring α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0832",
+    "item_name": "Pinnacle Coin",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 97
+ },
+ {
+  "index": 96,
+  "series": "ID_206 (Earrings of Dedication α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0832",
+    "item_name": "Pinnacle Coin",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 98
+ },
+ {
+  "index": 97,
+  "series": "ID_164 (Mizutsune α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0746",
+    "item_name": "Mizutsune Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0753",
+    "item_name": "Mizutsune Water Orb",
+    "quantity": null
+   }
+  ],
+  "_row": 99
+ },
+ {
+  "index": 98,
+  "series": "ID_165 (Mizutsune β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0746",
+    "item_name": "Mizutsune Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0753",
+    "item_name": "Mizutsune Water Orb",
+    "quantity": null
+   }
+  ],
+  "_row": 100
+ },
+ {
+  "index": 99,
+  "series": "ID_162 (Numinous α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0736",
+    "item_name": "Zoh Shia Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0743",
+    "item_name": "Faux Whitegleam Orb",
+    "quantity": null
+   }
+  ],
+  "_row": 101
+ },
+ {
+  "index": 100,
+  "series": "ID_163 (Numinous β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0736",
+    "item_name": "Zoh Shia Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0743",
+    "item_name": "Faux Whitegleam Orb",
+    "quantity": null
+   }
+  ],
+  "_row": 102
+ },
+ {
+  "index": 101,
+  "series": "ID_166 (Lagiacrus α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0754",
+    "item_name": "Lagiacrus Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0761",
+    "item_name": "Lagiacrus Sapphire",
+    "quantity": null
+   }
+  ],
+  "_row": 103
+ },
+ {
+  "index": 102,
+  "series": "ID_167 (Lagiacrus β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0754",
+    "item_name": "Lagiacrus Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0761",
+    "item_name": "Lagiacrus Sapphire",
+    "quantity": null
+   }
+  ],
+  "_row": 104
+ },
+ {
+  "index": 103,
+  "series": "ID_101 (Seregios α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0581",
+    "item_name": "Seregios Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0580",
+    "item_name": "Seregios Dissenter",
+    "quantity": null
+   }
+  ],
+  "_row": 105
+ },
+ {
+  "index": 104,
+  "series": "ID_102 (Seregios β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0581",
+    "item_name": "Seregios Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0580",
+    "item_name": "Seregios Dissenter",
+    "quantity": null
+   }
+  ],
+  "_row": 106
+ },
+ {
+  "index": 105,
+  "series": "ID_168 (Gogmazios α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0772",
+    "item_name": "Gogmazios Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0779",
+    "item_name": "Wartorn Dragongem",
+    "quantity": null
+   }
+  ],
+  "_row": 107
+ },
+ {
+  "index": 106,
+  "series": "ID_169 (Gogmazios β)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0772",
+    "item_name": "Gogmazios Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0779",
+    "item_name": "Wartorn Dragongem",
+    "quantity": null
+   }
+  ],
+  "_row": 108
+ },
+ {
+  "index": 107,
+  "series": "ID_194 (Rey Dau γ)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0783",
+    "item_name": "Rey Dau Certificate γ",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0377",
+    "item_name": "Rey Dau Boltgem",
+    "quantity": null
+   }
+  ],
+  "_row": 109
+ },
+ {
+  "index": 108,
+  "series": "ID_195 (Uth Duna γ)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0784",
+    "item_name": "Uth Duna Certificate γ",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0360",
+    "item_name": "Uth Duna Watergem",
+    "quantity": null
+   }
+  ],
+  "_row": 110
+ },
+ {
+  "index": 109,
+  "series": "ID_196 (Nu Udra γ)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0785",
+    "item_name": "Nu Udra Certificate γ",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0414",
+    "item_name": "Nu Udra Flamegem",
+    "quantity": null
+   }
+  ],
+  "_row": 111
+ },
+ {
+  "index": 110,
+  "series": "ID_197 (Dahaad γ)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0786",
+    "item_name": "Jin Dahaad Certificate γ",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0450",
+    "item_name": "Jin Dahaad Icegem",
+    "quantity": null
+   }
+  ],
+  "_row": 112
+ },
+ {
+  "index": 111,
+  "series": "ID_198 (Arkveld γ)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0787",
+    "item_name": "Arkveld Certificate γ",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0491",
+    "item_name": "Arkveld Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 113
+ },
+ {
+  "index": 112,
+  "series": "ID_173 (Sakuratide α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0681",
+    "item_name": "Monster Keenbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 114
+ },
+ {
+  "index": 113,
+  "series": "ID_175 (Blossom α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0683",
+    "item_name": "Stoutbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 115
+ },
+ {
+  "index": 114,
+  "series": "ID_177 (Afi α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0681",
+    "item_name": "Monster Keenbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 116
+ },
+ {
+  "index": 115,
+  "series": "ID_179 (Diver α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0683",
+    "item_name": "Stoutbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 117
+ },
+ {
+  "index": 116,
+  "series": "ID_181 (Dreamwalker α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0681",
+    "item_name": "Monster Keenbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 118
+ },
+ {
+  "index": 117,
+  "series": "ID_183 (Harvest α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0683",
+    "item_name": "Stoutbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 119
+ },
+ {
+  "index": 118,
+  "series": "ID_187 (Orion α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0563",
+    "item_name": "Blangonga Pelt+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 120
+ },
+ {
+  "index": 119,
+  "series": "ID_189 (Ceremonial α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0681",
+    "item_name": "Monster Keenbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 121
+ },
+ {
+  "index": 120,
+  "series": "ID_191 (Gala Suit α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0683",
+    "item_name": "Stoutbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 122
+ },
+ {
+  "index": 121,
+  "series": "ID_207 (Akuma α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0806",
+    "item_name": "SF6 Ticket",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0400",
+    "item_name": "Ajarakan Medulla",
+    "quantity": null
+   }
+  ],
+  "_row": 123
+ },
+ {
+  "index": 122,
+  "series": "ID_171 (Bale Armor α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0762",
+    "item_name": "Omega Data 1.0",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0769",
+    "item_name": "Omega Nodule",
+    "quantity": null
+   }
+  ],
+  "_row": 124
+ },
+ {
+  "index": 123,
+  "series": "ID_170 (Omega Attire α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0770",
+    "item_name": "Omega Data 2.0",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0769",
+    "item_name": "Omega Nodule",
+    "quantity": null
+   }
+  ],
+  "_row": 125
+ },
+ {
+  "index": 124,
+  "series": "ID_137 (Mimiphyta α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0535",
+    "item_name": "Congalala Pelt+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 126
+ },
+ {
+  "index": 125,
+  "series": "ID_161 (Expedition Headgear α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0125",
+    "item_name": "Rathian Scale+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 127
+ },
+ {
+  "index": 126,
+  "series": "ID_210 (Amstrigian α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0327",
+    "item_name": "Quematrice Scale+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 128
+ },
+ {
+  "index": 127,
+  "series": "ID_212 (Sealed Dragon Cloth α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0508",
+    "item_name": "Guardian Fulgur Pelt+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 129
+ },
+ {
+  "index": 128,
+  "series": "ID_200 (Strategist Spectacles α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0607",
+    "item_name": "Firecell Stone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 130
+ },
+ {
+  "index": 129,
+  "series": "ID_186 (Square Glasses α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0724",
+    "item_name": "Gracium",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 131
+ },
+ {
+  "index": 130,
+  "series": "ID_193 (Sealed Eyepatch α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0255",
+    "item_name": "Sinister Cloth",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 132
+ },
+ {
+  "index": 131,
+  "series": "ID_213 (Shadow Shades α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 133
+ },
+ {
+  "index": 132,
+  "series": "ID_184 (Round Glasses α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 134
+ },
+ {
+  "index": 133,
+  "series": "ID_209 (Faux Felyne α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0685",
+    "item_name": "Hunter Symbol I",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0328",
+    "item_name": "Quematrice Hide+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 135
+ },
+ {
+  "index": 134,
+  "series": "ID_214 (Pinion Necklace α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0409",
+    "item_name": "Nu Udra Hide+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 136
+ },
+ {
+  "index": 135,
+  "series": "ID_215 (Hawkheart Jacket α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0804",
+    "item_name": "Rathian Coin",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 137
+ },
+ {
+  "index": 136,
+  "series": "ID_188 (Half Rim Glasses α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 138
+ },
+ {
+  "index": 137,
+  "series": "ID_190 (Lovely Shades α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0077",
+    "item_name": "Carbalite Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 139
+ },
+ {
+  "index": 138,
+  "series": "ID_202 (Doshagumask α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0686",
+    "item_name": "Hunter Symbol II",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0343",
+    "item_name": "Doshaguma Fur+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0036",
+    "item_name": "Beast Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 140
+ },
+ {
+  "index": 139,
+  "series": "ID_220 (Toe Bean Mittens α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0691",
+    "item_name": "Guardian Pelt+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 141
+ },
+ {
+  "index": 140,
+  "series": "ID_219 (Gelidron α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0681",
+    "item_name": "Monster Keenbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 142
+ },
+ {
+  "index": 141,
+  "series": "ID_192 (Aviator Shades α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 143
+ },
+ {
+  "index": 142,
+  "series": "ID_199 (Kitten Frames α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 144
+ },
+ {
+  "index": 143,
+  "series": "ID_211 (Skull Mask α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0544",
+    "item_name": "Nerscylla Carapace",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 145
+ },
+ {
+  "index": 144,
+  "series": "ID_225 (Eager Wudwud α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0748",
+    "item_name": "Mizutsune Purplefur+",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 146
+ },
+ {
+  "index": 145,
+  "series": "ID_201 (Analytic E.Y.E. α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 147
+ },
+ {
+  "index": 146,
+  "series": "ID_208 (Mirror Visor α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0608",
+    "item_name": "Fucium Ore",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 148
+ },
+ {
+  "index": 147,
+  "series": "ID_224 (Blessed Waistchain α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0615",
+    "item_name": "Quality Bone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 149
+ },
+ {
+  "index": 148,
+  "series": "ID_226 (Azure Age α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0682",
+    "item_name": "Monster Hardbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0605",
+    "item_name": "Novacrystal",
+    "quantity": null
+   }
+  ],
+  "_row": 150
+ },
+ {
+  "index": 149,
+  "series": "ID_227 (Sororal α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0682",
+    "item_name": "Monster Hardbone",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0083",
+    "item_name": "Dragonbone Relic",
+    "quantity": null
+   }
+  ],
+  "_row": 151
+ },
+ {
+  "index": 150,
+  "series": "ID_216 (Rompomask α)",
+  "materials": [
+   {
+    "item_id": "ITEM_0687",
+    "item_name": "Hunter Symbol III",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0371",
+    "item_name": "Rompopolo Certificate S",
+    "quantity": null
+   },
+   {
+    "item_id": "ITEM_0115",
+    "item_name": "Wyvern Gem",
+    "quantity": null
+   }
+  ],
+  "_row": 152
+ }
+]

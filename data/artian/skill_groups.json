@@ -1,0 +1,2648 @@
+[
+ {
+  "index": 0,
+  "data_id": 1,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "data_id": 2,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "data_id": 3,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "data_id": 4,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "data_id": 5,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "data_id": 7,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "data_id": 8,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "data_id": 9,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "data_id": 10,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "data_id": 11,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "data_id": 12,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "data_id": 13,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "data_id": 14,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "data_id": 16,
+  "series_skill_id": "HunterSkill_175",
+  "series_skill_name": "Doshaguma's Might",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "data_id": 17,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "data_id": 18,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "data_id": 19,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "data_id": 20,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "data_id": 21,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "data_id": 22,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "data_id": 23,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "data_id": 24,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "data_id": 25,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "data_id": 26,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "data_id": 27,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "data_id": 28,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "data_id": 29,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "data_id": 31,
+  "series_skill_id": "HunterSkill_180",
+  "series_skill_name": "Rathalos's Flare",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 29
+ },
+ {
+  "index": 28,
+  "data_id": 32,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 30
+ },
+ {
+  "index": 29,
+  "data_id": 33,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 31
+ },
+ {
+  "index": 30,
+  "data_id": 34,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 32
+ },
+ {
+  "index": 31,
+  "data_id": 35,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 33
+ },
+ {
+  "index": 32,
+  "data_id": 36,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 34
+ },
+ {
+  "index": 33,
+  "data_id": 37,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 35
+ },
+ {
+  "index": 34,
+  "data_id": 38,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 36
+ },
+ {
+  "index": 35,
+  "data_id": 39,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 37
+ },
+ {
+  "index": 36,
+  "data_id": 40,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 38
+ },
+ {
+  "index": 37,
+  "data_id": 41,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 39
+ },
+ {
+  "index": 38,
+  "data_id": 42,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 40
+ },
+ {
+  "index": 39,
+  "data_id": 43,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 41
+ },
+ {
+  "index": 40,
+  "data_id": 44,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 42
+ },
+ {
+  "index": 41,
+  "data_id": 46,
+  "series_skill_id": "HunterSkill_188",
+  "series_skill_name": "Xu Wu's Vigor",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 43
+ },
+ {
+  "index": 42,
+  "data_id": 47,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 44
+ },
+ {
+  "index": 43,
+  "data_id": 48,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 45
+ },
+ {
+  "index": 44,
+  "data_id": 49,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 46
+ },
+ {
+  "index": 45,
+  "data_id": 50,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 47
+ },
+ {
+  "index": 46,
+  "data_id": 51,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 48
+ },
+ {
+  "index": 47,
+  "data_id": 52,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 49
+ },
+ {
+  "index": 48,
+  "data_id": 53,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 50
+ },
+ {
+  "index": 49,
+  "data_id": 54,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 51
+ },
+ {
+  "index": 50,
+  "data_id": 55,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 52
+ },
+ {
+  "index": 51,
+  "data_id": 56,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 53
+ },
+ {
+  "index": 52,
+  "data_id": 57,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 54
+ },
+ {
+  "index": 53,
+  "data_id": 58,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 55
+ },
+ {
+  "index": 54,
+  "data_id": 59,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 56
+ },
+ {
+  "index": 55,
+  "data_id": 61,
+  "series_skill_id": "HunterSkill_181",
+  "series_skill_name": "Gravios's Protection",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 57
+ },
+ {
+  "index": 56,
+  "data_id": 62,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 58
+ },
+ {
+  "index": 57,
+  "data_id": 63,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 59
+ },
+ {
+  "index": 58,
+  "data_id": 64,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 60
+ },
+ {
+  "index": 59,
+  "data_id": 65,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 61
+ },
+ {
+  "index": 60,
+  "data_id": 66,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 62
+ },
+ {
+  "index": 61,
+  "data_id": 67,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 63
+ },
+ {
+  "index": 62,
+  "data_id": 68,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 64
+ },
+ {
+  "index": 63,
+  "data_id": 69,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 65
+ },
+ {
+  "index": 64,
+  "data_id": 70,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 66
+ },
+ {
+  "index": 65,
+  "data_id": 71,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 67
+ },
+ {
+  "index": 66,
+  "data_id": 72,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 68
+ },
+ {
+  "index": 67,
+  "data_id": 73,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 69
+ },
+ {
+  "index": 68,
+  "data_id": 74,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 70
+ },
+ {
+  "index": 69,
+  "data_id": 76,
+  "series_skill_id": "HunterSkill_182",
+  "series_skill_name": "Blangonga's Spirit",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 71
+ },
+ {
+  "index": 70,
+  "data_id": 77,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 72
+ },
+ {
+  "index": 71,
+  "data_id": 78,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 73
+ },
+ {
+  "index": 72,
+  "data_id": 79,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 74
+ },
+ {
+  "index": 73,
+  "data_id": 80,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 75
+ },
+ {
+  "index": 74,
+  "data_id": 81,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 76
+ },
+ {
+  "index": 75,
+  "data_id": 82,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 77
+ },
+ {
+  "index": 76,
+  "data_id": 83,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 78
+ },
+ {
+  "index": 77,
+  "data_id": 84,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 79
+ },
+ {
+  "index": 78,
+  "data_id": 85,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 80
+ },
+ {
+  "index": 79,
+  "data_id": 86,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 81
+ },
+ {
+  "index": 80,
+  "data_id": 87,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 82
+ },
+ {
+  "index": 81,
+  "data_id": 88,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 83
+ },
+ {
+  "index": 82,
+  "data_id": 89,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 84
+ },
+ {
+  "index": 83,
+  "data_id": 91,
+  "series_skill_id": "HunterSkill_186",
+  "series_skill_name": "Ebony Odogaron's Power",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 85
+ },
+ {
+  "index": 84,
+  "data_id": 92,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 86
+ },
+ {
+  "index": 85,
+  "data_id": 93,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 87
+ },
+ {
+  "index": 86,
+  "data_id": 94,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 88
+ },
+ {
+  "index": 87,
+  "data_id": 95,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 89
+ },
+ {
+  "index": 88,
+  "data_id": 96,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 90
+ },
+ {
+  "index": 89,
+  "data_id": 97,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 91
+ },
+ {
+  "index": 90,
+  "data_id": 98,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 92
+ },
+ {
+  "index": 91,
+  "data_id": 99,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 93
+ },
+ {
+  "index": 92,
+  "data_id": 100,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 94
+ },
+ {
+  "index": 93,
+  "data_id": 101,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 95
+ },
+ {
+  "index": 94,
+  "data_id": 102,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 96
+ },
+ {
+  "index": 95,
+  "data_id": 103,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 97
+ },
+ {
+  "index": 96,
+  "data_id": 104,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 98
+ },
+ {
+  "index": 97,
+  "data_id": 106,
+  "series_skill_id": "HunterSkill_187",
+  "series_skill_name": "Fulgur Anjanath's Will",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 99
+ },
+ {
+  "index": 98,
+  "data_id": 107,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 100
+ },
+ {
+  "index": 99,
+  "data_id": 108,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 101
+ },
+ {
+  "index": 100,
+  "data_id": 109,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 102
+ },
+ {
+  "index": 101,
+  "data_id": 110,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 103
+ },
+ {
+  "index": 102,
+  "data_id": 111,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 104
+ },
+ {
+  "index": 103,
+  "data_id": 112,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 105
+ },
+ {
+  "index": 104,
+  "data_id": 113,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 106
+ },
+ {
+  "index": 105,
+  "data_id": 114,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 107
+ },
+ {
+  "index": 106,
+  "data_id": 115,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 108
+ },
+ {
+  "index": 107,
+  "data_id": 116,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 109
+ },
+ {
+  "index": 108,
+  "data_id": 117,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 110
+ },
+ {
+  "index": 109,
+  "data_id": 118,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 111
+ },
+ {
+  "index": 110,
+  "data_id": 119,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 112
+ },
+ {
+  "index": 111,
+  "data_id": 121,
+  "series_skill_id": "HunterSkill_177",
+  "series_skill_name": "Uth Duna's Cover",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 113
+ },
+ {
+  "index": 112,
+  "data_id": 122,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 114
+ },
+ {
+  "index": 113,
+  "data_id": 123,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 115
+ },
+ {
+  "index": 114,
+  "data_id": 124,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 116
+ },
+ {
+  "index": 115,
+  "data_id": 125,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 117
+ },
+ {
+  "index": 116,
+  "data_id": 126,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 118
+ },
+ {
+  "index": 117,
+  "data_id": 127,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 119
+ },
+ {
+  "index": 118,
+  "data_id": 128,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 120
+ },
+ {
+  "index": 119,
+  "data_id": 129,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 121
+ },
+ {
+  "index": 120,
+  "data_id": 130,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 122
+ },
+ {
+  "index": 121,
+  "data_id": 131,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 123
+ },
+ {
+  "index": 122,
+  "data_id": 132,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 124
+ },
+ {
+  "index": 123,
+  "data_id": 133,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 125
+ },
+ {
+  "index": 124,
+  "data_id": 134,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 126
+ },
+ {
+  "index": 125,
+  "data_id": 136,
+  "series_skill_id": "HunterSkill_176",
+  "series_skill_name": "Rey Dau's Voltage",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 127
+ },
+ {
+  "index": 126,
+  "data_id": 137,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 128
+ },
+ {
+  "index": 127,
+  "data_id": 138,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 129
+ },
+ {
+  "index": 128,
+  "data_id": 139,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 130
+ },
+ {
+  "index": 129,
+  "data_id": 140,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 131
+ },
+ {
+  "index": 130,
+  "data_id": 141,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 132
+ },
+ {
+  "index": 131,
+  "data_id": 142,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 133
+ },
+ {
+  "index": 132,
+  "data_id": 143,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 134
+ },
+ {
+  "index": 133,
+  "data_id": 144,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 135
+ },
+ {
+  "index": 134,
+  "data_id": 145,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 136
+ },
+ {
+  "index": 135,
+  "data_id": 146,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 137
+ },
+ {
+  "index": 136,
+  "data_id": 147,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 138
+ },
+ {
+  "index": 137,
+  "data_id": 148,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 139
+ },
+ {
+  "index": 138,
+  "data_id": 149,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 140
+ },
+ {
+  "index": 139,
+  "data_id": 151,
+  "series_skill_id": "HunterSkill_178",
+  "series_skill_name": "Nu Udra's Mutiny",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 141
+ },
+ {
+  "index": 140,
+  "data_id": 152,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 142
+ },
+ {
+  "index": 141,
+  "data_id": 153,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 143
+ },
+ {
+  "index": 142,
+  "data_id": 154,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 144
+ },
+ {
+  "index": 143,
+  "data_id": 155,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 145
+ },
+ {
+  "index": 144,
+  "data_id": 156,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 146
+ },
+ {
+  "index": 145,
+  "data_id": 157,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 147
+ },
+ {
+  "index": 146,
+  "data_id": 158,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 148
+ },
+ {
+  "index": 147,
+  "data_id": 159,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 149
+ },
+ {
+  "index": 148,
+  "data_id": 160,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 150
+ },
+ {
+  "index": 149,
+  "data_id": 161,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 151
+ },
+ {
+  "index": 150,
+  "data_id": 162,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 152
+ },
+ {
+  "index": 151,
+  "data_id": 163,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 153
+ },
+ {
+  "index": 152,
+  "data_id": 164,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 154
+ },
+ {
+  "index": 153,
+  "data_id": 166,
+  "series_skill_id": "HunterSkill_179",
+  "series_skill_name": "Jin Dahaad's Revolt",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 155
+ },
+ {
+  "index": 154,
+  "data_id": 167,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 156
+ },
+ {
+  "index": 155,
+  "data_id": 168,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 157
+ },
+ {
+  "index": 156,
+  "data_id": 169,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 158
+ },
+ {
+  "index": 157,
+  "data_id": 170,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 159
+ },
+ {
+  "index": 158,
+  "data_id": 171,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 160
+ },
+ {
+  "index": 159,
+  "data_id": 172,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 161
+ },
+ {
+  "index": 160,
+  "data_id": 173,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 162
+ },
+ {
+  "index": 161,
+  "data_id": 174,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 163
+ },
+ {
+  "index": 162,
+  "data_id": 175,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 164
+ },
+ {
+  "index": 163,
+  "data_id": 176,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 165
+ },
+ {
+  "index": 164,
+  "data_id": 177,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 166
+ },
+ {
+  "index": 165,
+  "data_id": 178,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 167
+ },
+ {
+  "index": 166,
+  "data_id": 179,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 168
+ },
+ {
+  "index": 167,
+  "data_id": 181,
+  "series_skill_id": "HunterSkill_183",
+  "series_skill_name": "Gore Magala's Tyranny",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 169
+ },
+ {
+  "index": 168,
+  "data_id": 182,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 170
+ },
+ {
+  "index": 169,
+  "data_id": 183,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 171
+ },
+ {
+  "index": 170,
+  "data_id": 184,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 172
+ },
+ {
+  "index": 171,
+  "data_id": 185,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 173
+ },
+ {
+  "index": 172,
+  "data_id": 186,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 174
+ },
+ {
+  "index": 173,
+  "data_id": 187,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 175
+ },
+ {
+  "index": 174,
+  "data_id": 188,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 176
+ },
+ {
+  "index": 175,
+  "data_id": 189,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 177
+ },
+ {
+  "index": 176,
+  "data_id": 190,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 178
+ },
+ {
+  "index": 177,
+  "data_id": 191,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 179
+ },
+ {
+  "index": 178,
+  "data_id": 192,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 180
+ },
+ {
+  "index": 179,
+  "data_id": 193,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 181
+ },
+ {
+  "index": 180,
+  "data_id": 194,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 182
+ },
+ {
+  "index": 181,
+  "data_id": 196,
+  "series_skill_id": "HunterSkill_185",
+  "series_skill_name": "Arkveld's Hunger",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 183
+ },
+ {
+  "index": 182,
+  "data_id": 197,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 184
+ },
+ {
+  "index": 183,
+  "data_id": 198,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 185
+ },
+ {
+  "index": 184,
+  "data_id": 199,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 186
+ },
+ {
+  "index": 185,
+  "data_id": 200,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 187
+ },
+ {
+  "index": 186,
+  "data_id": 201,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 188
+ },
+ {
+  "index": 187,
+  "data_id": 202,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 189
+ },
+ {
+  "index": 188,
+  "data_id": 203,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 190
+ },
+ {
+  "index": 189,
+  "data_id": 204,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 191
+ },
+ {
+  "index": 190,
+  "data_id": 205,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 192
+ },
+ {
+  "index": 191,
+  "data_id": 206,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 193
+ },
+ {
+  "index": 192,
+  "data_id": 207,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 194
+ },
+ {
+  "index": 193,
+  "data_id": 208,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 195
+ },
+ {
+  "index": 194,
+  "data_id": 209,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 196
+ },
+ {
+  "index": 195,
+  "data_id": 211,
+  "series_skill_id": "HunterSkill_184",
+  "series_skill_name": "Guardian Arkveld's Vitality",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 197
+ },
+ {
+  "index": 196,
+  "data_id": 212,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 198
+ },
+ {
+  "index": 197,
+  "data_id": 213,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 199
+ },
+ {
+  "index": 198,
+  "data_id": 214,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 200
+ },
+ {
+  "index": 199,
+  "data_id": 215,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 201
+ },
+ {
+  "index": 200,
+  "data_id": 216,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 202
+ },
+ {
+  "index": 201,
+  "data_id": 217,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 203
+ },
+ {
+  "index": 202,
+  "data_id": 218,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 204
+ },
+ {
+  "index": 203,
+  "data_id": 219,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 205
+ },
+ {
+  "index": 204,
+  "data_id": 220,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 206
+ },
+ {
+  "index": 205,
+  "data_id": 221,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 207
+ },
+ {
+  "index": 206,
+  "data_id": 222,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 208
+ },
+ {
+  "index": 207,
+  "data_id": 223,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 209
+ },
+ {
+  "index": 208,
+  "data_id": 224,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 210
+ },
+ {
+  "index": 209,
+  "data_id": 226,
+  "series_skill_id": "HunterSkill_200",
+  "series_skill_name": "Mizutsune's Prowess",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 211
+ },
+ {
+  "index": 210,
+  "data_id": 227,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 212
+ },
+ {
+  "index": 211,
+  "data_id": 228,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 213
+ },
+ {
+  "index": 212,
+  "data_id": 229,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 214
+ },
+ {
+  "index": 213,
+  "data_id": 230,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 215
+ },
+ {
+  "index": 214,
+  "data_id": 231,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 216
+ },
+ {
+  "index": 215,
+  "data_id": 232,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 217
+ },
+ {
+  "index": 216,
+  "data_id": 233,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 218
+ },
+ {
+  "index": 217,
+  "data_id": 234,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 219
+ },
+ {
+  "index": 218,
+  "data_id": 235,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 220
+ },
+ {
+  "index": 219,
+  "data_id": 236,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 221
+ },
+ {
+  "index": 220,
+  "data_id": 237,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 222
+ },
+ {
+  "index": 221,
+  "data_id": 238,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 223
+ },
+ {
+  "index": 222,
+  "data_id": 239,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 224
+ },
+ {
+  "index": 223,
+  "data_id": 241,
+  "series_skill_id": "HunterSkill_203",
+  "series_skill_name": "Zoh Shia's Pulse",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 225
+ },
+ {
+  "index": 224,
+  "data_id": 242,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 226
+ },
+ {
+  "index": 225,
+  "data_id": 243,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 227
+ },
+ {
+  "index": 226,
+  "data_id": 244,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 228
+ },
+ {
+  "index": 227,
+  "data_id": 245,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 229
+ },
+ {
+  "index": 228,
+  "data_id": 246,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 230
+ },
+ {
+  "index": 229,
+  "data_id": 247,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 231
+ },
+ {
+  "index": 230,
+  "data_id": 248,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 232
+ },
+ {
+  "index": 231,
+  "data_id": 249,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 233
+ },
+ {
+  "index": 232,
+  "data_id": 250,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 234
+ },
+ {
+  "index": 233,
+  "data_id": 251,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 235
+ },
+ {
+  "index": 234,
+  "data_id": 252,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 236
+ },
+ {
+  "index": 235,
+  "data_id": 253,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 237
+ },
+ {
+  "index": 236,
+  "data_id": 254,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 238
+ },
+ {
+  "index": 237,
+  "data_id": 256,
+  "series_skill_id": "HunterSkill_212",
+  "series_skill_name": "Leviathan's Fury",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 239
+ },
+ {
+  "index": 238,
+  "data_id": 257,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 240
+ },
+ {
+  "index": 239,
+  "data_id": 258,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 241
+ },
+ {
+  "index": 240,
+  "data_id": 259,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 242
+ },
+ {
+  "index": 241,
+  "data_id": 260,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 243
+ },
+ {
+  "index": 242,
+  "data_id": 261,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 244
+ },
+ {
+  "index": 243,
+  "data_id": 262,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 245
+ },
+ {
+  "index": 244,
+  "data_id": 263,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 246
+ },
+ {
+  "index": 245,
+  "data_id": 264,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 247
+ },
+ {
+  "index": 246,
+  "data_id": 265,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 248
+ },
+ {
+  "index": 247,
+  "data_id": 266,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 249
+ },
+ {
+  "index": 248,
+  "data_id": 267,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 250
+ },
+ {
+  "index": 249,
+  "data_id": 268,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 251
+ },
+ {
+  "index": 250,
+  "data_id": 269,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 252
+ },
+ {
+  "index": 251,
+  "data_id": 271,
+  "series_skill_id": "HunterSkill_215",
+  "series_skill_name": "Seregios's Tenacity",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 253
+ },
+ {
+  "index": 252,
+  "data_id": 272,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 254
+ },
+ {
+  "index": 253,
+  "data_id": 273,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 255
+ },
+ {
+  "index": 254,
+  "data_id": 274,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 256
+ },
+ {
+  "index": 255,
+  "data_id": 275,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 257
+ },
+ {
+  "index": 256,
+  "data_id": 276,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 258
+ },
+ {
+  "index": 257,
+  "data_id": 277,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 259
+ },
+ {
+  "index": 258,
+  "data_id": 278,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 260
+ },
+ {
+  "index": 259,
+  "data_id": 279,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 261
+ },
+ {
+  "index": 260,
+  "data_id": 280,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 262
+ },
+ {
+  "index": 261,
+  "data_id": 281,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 263
+ },
+ {
+  "index": 262,
+  "data_id": 282,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 264
+ },
+ {
+  "index": 263,
+  "data_id": 283,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 265
+ },
+ {
+  "index": 264,
+  "data_id": 284,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 266
+ },
+ {
+  "index": 265,
+  "data_id": 286,
+  "series_skill_id": "HunterSkill_239",
+  "series_skill_name": "Gogmapocalypse",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 267
+ },
+ {
+  "index": 266,
+  "data_id": 287,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 268
+ },
+ {
+  "index": 267,
+  "data_id": 288,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 269
+ },
+ {
+  "index": 268,
+  "data_id": 289,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 270
+ },
+ {
+  "index": 269,
+  "data_id": 290,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 271
+ },
+ {
+  "index": 270,
+  "data_id": 291,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 272
+ },
+ {
+  "index": 271,
+  "data_id": 292,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 273
+ },
+ {
+  "index": 272,
+  "data_id": 293,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 274
+ },
+ {
+  "index": 273,
+  "data_id": 294,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 275
+ },
+ {
+  "index": 274,
+  "data_id": 295,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 276
+ },
+ {
+  "index": 275,
+  "data_id": 296,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 277
+ },
+ {
+  "index": 276,
+  "data_id": 297,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 278
+ },
+ {
+  "index": 277,
+  "data_id": 298,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 279
+ },
+ {
+  "index": 278,
+  "data_id": 299,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 280
+ },
+ {
+  "index": 279,
+  "data_id": 301,
+  "series_skill_id": "HunterSkill_236",
+  "series_skill_name": "Soul of the Dark Knight",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 281
+ },
+ {
+  "index": 280,
+  "data_id": 302,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_162",
+  "group_skill_name": "Neopteron Alert",
+  "_row": 282
+ },
+ {
+  "index": 281,
+  "data_id": 303,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_163",
+  "group_skill_name": "Neopteron Camouflage",
+  "_row": 283
+ },
+ {
+  "index": 282,
+  "data_id": 304,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_164",
+  "group_skill_name": "Flexible Leathercraft",
+  "_row": 284
+ },
+ {
+  "index": 283,
+  "data_id": 305,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_165",
+  "group_skill_name": "Buttery Leathercraft",
+  "_row": 285
+ },
+ {
+  "index": 284,
+  "data_id": 306,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_166",
+  "group_skill_name": "Scaling Prowess",
+  "_row": 286
+ },
+ {
+  "index": 285,
+  "data_id": 307,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_167",
+  "group_skill_name": "Scale Layering",
+  "_row": 287
+ },
+ {
+  "index": 286,
+  "data_id": 308,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_168",
+  "group_skill_name": "Fortifying Pelt",
+  "_row": 288
+ },
+ {
+  "index": 287,
+  "data_id": 309,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_169",
+  "group_skill_name": "Alluring Pelt",
+  "_row": 289
+ },
+ {
+  "index": 288,
+  "data_id": 310,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_170",
+  "group_skill_name": "Lord's Favor",
+  "_row": 290
+ },
+ {
+  "index": 289,
+  "data_id": 311,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_171",
+  "group_skill_name": "Lord's Fury",
+  "_row": 291
+ },
+ {
+  "index": 290,
+  "data_id": 312,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_172",
+  "group_skill_name": "Guardian's Pulse",
+  "_row": 292
+ },
+ {
+  "index": 291,
+  "data_id": 313,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_173",
+  "group_skill_name": "Guardian's Protection",
+  "_row": 293
+ },
+ {
+  "index": 292,
+  "data_id": 314,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_174",
+  "group_skill_name": "Imparted Wisdom",
+  "_row": 294
+ },
+ {
+  "index": 293,
+  "data_id": 316,
+  "series_skill_id": "HunterSkill_237",
+  "series_skill_name": "Omega Resonance",
+  "group_skill_id": "HunterSkill_205",
+  "group_skill_name": "Lord's Soul",
+  "_row": 295
+ }
+]

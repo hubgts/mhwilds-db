@@ -1,0 +1,1658 @@
+[
+ {
+  "index": 0,
+  "data_value": 1,
+  "series": "Felyne Hope α",
+  "part": "Head",
+  "name": "Felyne Hope Helm α",
+  "name_guid": "163135ab-fadb-4b2e-8f96-fc44f2ca0bb5",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "data_value": 2,
+  "series": "Felyne Hope α",
+  "part": "Body",
+  "name": "Felyne Hope Suit α",
+  "name_guid": "eb08343e-26dc-497d-aff5-e0441d1762fe",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "data_value": 3,
+  "series": "Felyne Bone α",
+  "part": "Head",
+  "name": "Felyne Bone Helm α",
+  "name_guid": "85a6d668-588b-4571-98b1-371582ca7a11",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "data_value": 4,
+  "series": "Felyne Bone α",
+  "part": "Body",
+  "name": "Felyne Bone Mail α",
+  "name_guid": "172a8279-589c-4de9-aa7e-e8c30fae14b3",
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "data_value": 5,
+  "series": "Felyne Alloy α",
+  "part": "Head",
+  "name": "Felyne Alloy Helm α",
+  "name_guid": "47d1954b-0ea5-4efc-acb5-f47db6961945",
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "data_value": 6,
+  "series": "Felyne Alloy α",
+  "part": "Body",
+  "name": "Felyne Alloy Mail α",
+  "name_guid": "41f74b9d-e453-45f0-a2ee-67019b55821e",
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "data_value": 7,
+  "series": "Felyne Chatacabra α",
+  "part": "Head",
+  "name": "F Cabra Hood α",
+  "name_guid": "ecf7cc63-ff5c-48c4-a923-525181a10e0e",
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "data_value": 8,
+  "series": "Felyne Chatacabra α",
+  "part": "Body",
+  "name": "F Cabra Jumpsuit α",
+  "name_guid": "e016e913-7d56-43e1-a22b-dc2fa3af92d7",
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "data_value": 9,
+  "series": "Felyne Quematrice α",
+  "part": "Head",
+  "name": "Felyne Quema Helm α",
+  "name_guid": "bb78fab2-8144-4dfe-b148-3f58e99eafd5",
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "data_value": 10,
+  "series": "Felyne Quematrice α",
+  "part": "Body",
+  "name": "Felyne Quema Mail α",
+  "name_guid": "14ae54b1-aae9-4949-b4ea-2e99b41223ef",
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "data_value": 11,
+  "series": "Felyne Lala Barina α",
+  "part": "Head",
+  "name": "Felyne Barina Wig α",
+  "name_guid": "9cf2969b-ea01-435a-b892-29d97c8f223b",
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "data_value": 12,
+  "series": "Felyne Lala Barina α",
+  "part": "Body",
+  "name": "Felyne Barina Dress α",
+  "name_guid": "8a6fecbc-179a-4bec-9e8c-63d3615ff2cc",
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "data_value": 13,
+  "series": "Felyne Conga α",
+  "part": "Head",
+  "name": "Felyne Conga Head α",
+  "name_guid": "44310438-910b-468f-a77c-507c46d4474f",
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "data_value": 14,
+  "series": "Felyne Conga α",
+  "part": "Body",
+  "name": "Felyne Conga Fete α",
+  "name_guid": "def490bb-6928-47f4-bcee-364ded8379cf",
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "data_value": 15,
+  "series": "Felyne Kut-Ku α",
+  "part": "Head",
+  "name": "Felyne Kut-Ku Mask α",
+  "name_guid": "ef3284d7-a263-4d59-a663-9cdbe726e0e2",
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "data_value": 16,
+  "series": "Felyne Kut-Ku α",
+  "part": "Body",
+  "name": "Felyne Kut-Ku Wear α",
+  "name_guid": "6883172d-47e4-46e7-8f8c-8423188a91de",
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "data_value": 17,
+  "series": "Felyne Gypceros α",
+  "part": "Head",
+  "name": "Felyne Gypceros Crest α",
+  "name_guid": "dfddf7bb-cb9c-4f2d-8cd2-e502a07b56e7",
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "data_value": 18,
+  "series": "Felyne Gypceros α",
+  "part": "Body",
+  "name": "Felyne Gypceros Tunic α",
+  "name_guid": "a65ee0a6-ed28-4a0e-a7b8-cee100ee39a1",
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "data_value": 19,
+  "series": "Felyne Rompopolo α",
+  "part": "Head",
+  "name": "F Rompopolo Brain α",
+  "name_guid": "64f6ac99-078a-435d-a103-1158a82af212",
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "data_value": 20,
+  "series": "Felyne Rompopolo α",
+  "part": "Body",
+  "name": "F Rompopolo Suit α",
+  "name_guid": "d5cab1ec-bceb-4f52-b59a-47b4424161d5",
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "data_value": 21,
+  "series": "Felyne Balahara α",
+  "part": "Head",
+  "name": "Felyne Balahara Helm α",
+  "name_guid": "6b84c6bc-c809-4446-b66f-e1acadbe48b5",
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "data_value": 22,
+  "series": "Felyne Balahara α",
+  "part": "Body",
+  "name": "Felyne Balahara Mech α",
+  "name_guid": "39ca2110-5acd-49b1-963b-21d14b88c147",
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "data_value": 23,
+  "series": "Felyne Nerscylla α",
+  "part": "Head",
+  "name": "Felyne Scylla Mask α",
+  "name_guid": "2ad8978e-5942-4b45-acee-39a0325110e2",
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "data_value": 24,
+  "series": "Felyne Nerscylla α",
+  "part": "Body",
+  "name": "Felyne Scylla Mail α",
+  "name_guid": "42ff2dce-61e3-4e05-9897-ea2d2d8028bb",
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "data_value": 25,
+  "series": "Felyne Hirabami α",
+  "part": "Head",
+  "name": "Felyne Hirabami Cap α",
+  "name_guid": "6b3771b6-c79e-48e9-84dc-f64ef3863f19",
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "data_value": 26,
+  "series": "Felyne Hirabami α",
+  "part": "Body",
+  "name": "Felyne Hirabami Robe α",
+  "name_guid": "09f8d482-d7fb-4195-9fca-0ffc24b4fcd4",
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "data_value": 27,
+  "series": "Felyne Rathian α",
+  "part": "Head",
+  "name": "Felyne Rathian Tiara α",
+  "name_guid": "ff909bec-6381-41e2-a72a-eb377c605654",
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "data_value": 28,
+  "series": "Felyne Rathian α",
+  "part": "Body",
+  "name": "Felyne Rathian Mail α",
+  "name_guid": "1f9bc37f-6a68-4e6d-903d-82293e49d36c",
+  "_row": 29
+ },
+ {
+  "index": 28,
+  "data_value": 29,
+  "series": "Felyne G. Fulgur α",
+  "part": "Head",
+  "name": "F Guardian Fulgur Helm α",
+  "name_guid": "b375fe02-b7dc-4298-ac37-8039263bb2cd",
+  "_row": 30
+ },
+ {
+  "index": 29,
+  "data_value": 30,
+  "series": "Felyne G. Fulgur α",
+  "part": "Body",
+  "name": "F Guardian Fulgur Mail α",
+  "name_guid": "8435008f-9284-4f73-8cf3-7b56810a29a4",
+  "_row": 31
+ },
+ {
+  "index": 30,
+  "data_value": 31,
+  "series": "Felyne Doshaguma α",
+  "part": "Head",
+  "name": "F Doshaguma Helm α",
+  "name_guid": "f52d3fec-ebb0-4788-8215-3552e6fc2ffe",
+  "_row": 32
+ },
+ {
+  "index": 31,
+  "data_value": 32,
+  "series": "Felyne Doshaguma α",
+  "part": "Body",
+  "name": "F Doshaguma Mail α",
+  "name_guid": "a0d1de9f-e768-4f66-ab4e-a50ab9c5969f",
+  "_row": 33
+ },
+ {
+  "index": 32,
+  "data_value": 33,
+  "series": "Felyne Ajarakan α",
+  "part": "Head",
+  "name": "F Ajarakan Helm α",
+  "name_guid": "61b24d08-ac6e-45a6-8b70-8abded8b1baa",
+  "_row": 34
+ },
+ {
+  "index": 33,
+  "data_value": 34,
+  "series": "Felyne Ajarakan α",
+  "part": "Body",
+  "name": "F Ajarakan Mail α",
+  "name_guid": "db139903-55b8-42b7-9ac2-bedfe7be0dbc",
+  "_row": 35
+ },
+ {
+  "index": 34,
+  "data_value": 35,
+  "series": "Felyne G. Doshaguma α",
+  "part": "Head",
+  "name": "F Guardian Dosha Helm α",
+  "name_guid": "8ff40b45-5ed6-4c55-a161-3e2ea3d77706",
+  "_row": 36
+ },
+ {
+  "index": 35,
+  "data_value": 36,
+  "series": "Felyne G. Doshaguma α",
+  "part": "Body",
+  "name": "F Guardian Dosha Mail α",
+  "name_guid": "224e37f8-e455-4160-9bf9-6315dacdff86",
+  "_row": 37
+ },
+ {
+  "index": 36,
+  "data_value": 37,
+  "series": "Felyne G. Rathalos α",
+  "part": "Head",
+  "name": "F Guardian Rath Helm α",
+  "name_guid": "9347af82-4387-45d9-bf3f-a1a64ef45cef",
+  "_row": 38
+ },
+ {
+  "index": 37,
+  "data_value": 38,
+  "series": "Felyne G. Rathalos α",
+  "part": "Body",
+  "name": "F Guardian Rath Mail α",
+  "name_guid": "23ae98b8-b0f4-4ed9-9d19-59b713943644",
+  "_row": 39
+ },
+ {
+  "index": 38,
+  "data_value": 39,
+  "series": "Felyne G. Ebony α",
+  "part": "Head",
+  "name": "F Guardian Ebony Helm α",
+  "name_guid": "fcdd20ea-c163-4123-9024-89e77a5ef979",
+  "_row": 40
+ },
+ {
+  "index": 39,
+  "data_value": 40,
+  "series": "Felyne G. Ebony α",
+  "part": "Body",
+  "name": "F Guardian Ebony Mail α",
+  "name_guid": "e490ebf8-8262-43ee-92b3-ff3fe7b9e384",
+  "_row": 41
+ },
+ {
+  "index": 40,
+  "data_value": 41,
+  "series": "Felyne Xu Wu α",
+  "part": "Head",
+  "name": "Felyne Xu Wu Veil α",
+  "name_guid": "e8ca1233-3c28-4430-931f-6d2ac3ec222a",
+  "_row": 42
+ },
+ {
+  "index": 41,
+  "data_value": 42,
+  "series": "Felyne Xu Wu α",
+  "part": "Body",
+  "name": "Felyne Xu Wu Suit α",
+  "name_guid": "5ef59d0c-6e89-41a7-be76-53dbccaf68c9",
+  "_row": 43
+ },
+ {
+  "index": 42,
+  "data_value": 43,
+  "series": "Felyne Blango α",
+  "part": "Head",
+  "name": "Felyne Blango Head α",
+  "name_guid": "ce018d97-1a85-48f9-a4b2-ac5434820c31",
+  "_row": 44
+ },
+ {
+  "index": 43,
+  "data_value": 44,
+  "series": "Felyne Blango α",
+  "part": "Body",
+  "name": "Felyne Blango Body α",
+  "name_guid": "32fc1366-cbda-40b6-9a94-082a975965f0",
+  "_row": 45
+ },
+ {
+  "index": 44,
+  "data_value": 45,
+  "series": "Felyne Rathalos α",
+  "part": "Head",
+  "name": "Felyne Rathalos Helm α",
+  "name_guid": "3fcbd7db-1697-4fb5-81a4-3d7993191776",
+  "_row": 46
+ },
+ {
+  "index": 45,
+  "data_value": 46,
+  "series": "Felyne Rathalos α",
+  "part": "Body",
+  "name": "Felyne Rathalos Mail α",
+  "name_guid": "467fd91a-118d-4456-afa9-e3ae9ba99f0a",
+  "_row": 47
+ },
+ {
+  "index": 46,
+  "data_value": 47,
+  "series": "Felyne Gravios α",
+  "part": "Head",
+  "name": "Felyne Grav Mask α",
+  "name_guid": "f0ce5297-52f0-435b-87be-d3a49eb7186c",
+  "_row": 48
+ },
+ {
+  "index": 47,
+  "data_value": 48,
+  "series": "Felyne Gravios α",
+  "part": "Body",
+  "name": "Felyne Grav Armor α",
+  "name_guid": "69b3644a-7f90-43ee-b429-ad7df1bad2fa",
+  "_row": 49
+ },
+ {
+  "index": 48,
+  "data_value": 49,
+  "series": "Felyne Dahaad α",
+  "part": "Head",
+  "name": "Felyne Dahaad Corona α",
+  "name_guid": "dca67275-8fd1-4ff0-a5bf-e8fe97a2b5a3",
+  "_row": 50
+ },
+ {
+  "index": 49,
+  "data_value": 50,
+  "series": "Felyne Dahaad α",
+  "part": "Body",
+  "name": "Felyne Dahaad Gown α",
+  "name_guid": "55df3e5e-3da9-4286-8d79-8cad2201fdf4",
+  "_row": 51
+ },
+ {
+  "index": 50,
+  "data_value": 51,
+  "series": "Felyne Rey Dau α",
+  "part": "Head",
+  "name": "Felyne Dau Helm α",
+  "name_guid": "ebf86de7-4d55-4f21-8dba-91fe64acf1b4",
+  "_row": 52
+ },
+ {
+  "index": 51,
+  "data_value": 52,
+  "series": "Felyne Rey Dau α",
+  "part": "Body",
+  "name": "Felyne Dau Armor α",
+  "name_guid": "5cd56362-f1f2-4d16-809a-27849145743b",
+  "_row": 53
+ },
+ {
+  "index": 52,
+  "data_value": 53,
+  "series": "Felyne Uth Duna α",
+  "part": "Head",
+  "name": "Felyne Duna Mask α",
+  "name_guid": "8dda458f-73fd-48f2-9bcb-41eb12ddba85",
+  "_row": 54
+ },
+ {
+  "index": 53,
+  "data_value": 54,
+  "series": "Felyne Uth Duna α",
+  "part": "Body",
+  "name": "Felyne Duna Cape α",
+  "name_guid": "30c2ddf3-6366-451c-97cf-10a0bd624f21",
+  "_row": 55
+ },
+ {
+  "index": 54,
+  "data_value": 55,
+  "series": "Felyne Nu Udra α",
+  "part": "Head",
+  "name": "Felyne Udra Head α",
+  "name_guid": "27a6d056-5dbc-4092-9c68-f105ba180577",
+  "_row": 56
+ },
+ {
+  "index": 55,
+  "data_value": 56,
+  "series": "Felyne Nu Udra α",
+  "part": "Body",
+  "name": "Felyne Udra Tentacles α",
+  "name_guid": "3ec53cf9-9382-4626-8fb2-0c2c2a82a1be",
+  "_row": 57
+ },
+ {
+  "index": 56,
+  "data_value": 57,
+  "series": "Felyne Gore α",
+  "part": "Head",
+  "name": "Felyne Gore Horror α",
+  "name_guid": "08119c0d-8095-4988-8616-f4ac822eac16",
+  "_row": 58
+ },
+ {
+  "index": 57,
+  "data_value": 58,
+  "series": "Felyne Gore α",
+  "part": "Body",
+  "name": "Felyne Gore Ghost α",
+  "name_guid": "39f6db57-2f65-4c9b-89fe-e41f4b1918e5",
+  "_row": 59
+ },
+ {
+  "index": 58,
+  "data_value": 59,
+  "series": "Felyne G. Ark α",
+  "part": "Head",
+  "name": "F Guardian Ark Helm α",
+  "name_guid": "f706591c-1803-4f51-88bc-a95ab53041b5",
+  "_row": 60
+ },
+ {
+  "index": 59,
+  "data_value": 60,
+  "series": "Felyne G. Ark α",
+  "part": "Body",
+  "name": "F Guardian Ark Mail α",
+  "name_guid": "67c73b6f-7a05-469c-a502-eba715503478",
+  "_row": 61
+ },
+ {
+  "index": 60,
+  "data_value": 61,
+  "series": "Felyne Arkveld α",
+  "part": "Head",
+  "name": "Felyne Arkveld Helm α",
+  "name_guid": "fa4f9da2-d75f-49ea-897b-63af5c1c963a",
+  "_row": 62
+ },
+ {
+  "index": 61,
+  "data_value": 62,
+  "series": "Felyne Arkveld α",
+  "part": "Body",
+  "name": "Felyne Arkveld Mail α",
+  "name_guid": "c6c48f52-c101-46f5-812a-178c4c244919",
+  "_row": 63
+ },
+ {
+  "index": 62,
+  "data_value": 63,
+  "series": "Felyne Death Stench α",
+  "part": "Head",
+  "name": "Felyne Deathgear Hood α",
+  "name_guid": "d3bfbfc7-a5e6-422b-9db5-88cb76de1536",
+  "_row": 64
+ },
+ {
+  "index": 63,
+  "data_value": 64,
+  "series": "Felyne Death Stench α",
+  "part": "Body",
+  "name": "Felyne Deathgear Cowl α",
+  "name_guid": "992b7fdc-ea99-4847-b19d-8bc05c912281",
+  "_row": 65
+ },
+ {
+  "index": 64,
+  "data_value": 65,
+  "series": "Felyne Hymstrigian α",
+  "part": "Head",
+  "name": "Felyne Hymstrigian Hood α",
+  "name_guid": "4593f904-77b8-46b2-bca2-0e87cf76716c",
+  "_row": 66
+ },
+ {
+  "index": 65,
+  "data_value": 66,
+  "series": "Felyne Hymstrigian α",
+  "part": "Body",
+  "name": "Felyne Hymstrigian Coat α",
+  "name_guid": "055c4436-5e37-4f75-a96b-002dd3c5389c",
+  "_row": 67
+ },
+ {
+  "index": 66,
+  "data_value": 67,
+  "series": "Felyne Kunafa α",
+  "part": "Head",
+  "name": "Felyne Kunafa Hood α",
+  "name_guid": "d1e89539-029f-481b-9d83-5ff480f1f365",
+  "_row": 68
+ },
+ {
+  "index": 67,
+  "data_value": 68,
+  "series": "Felyne Kunafa α",
+  "part": "Body",
+  "name": "Felyne Kunafa Suit α",
+  "name_guid": "83cb2cfc-4a06-4856-b811-32ba42b80d93",
+  "_row": 69
+ },
+ {
+  "index": 68,
+  "data_value": 69,
+  "series": "Wudwud Guise α",
+  "part": "Head",
+  "name": "Wudwud Mask α",
+  "name_guid": "72e4acbf-69be-4851-9c9b-af4035fe9305",
+  "_row": 70
+ },
+ {
+  "index": 69,
+  "data_value": 70,
+  "series": "Wudwud Guise α",
+  "part": "Body",
+  "name": "Wudwud Body α",
+  "name_guid": "0d0a5ef9-212a-446c-9c5c-1c82c2c923c9",
+  "_row": 71
+ },
+ {
+  "index": 70,
+  "data_value": 71,
+  "series": "Felyne Azuz α",
+  "part": "Head",
+  "name": "Felyne Azuz Head α",
+  "name_guid": "51a631bb-b273-4089-b36f-0ef00c87014c",
+  "_row": 72
+ },
+ {
+  "index": 71,
+  "data_value": 72,
+  "series": "Felyne Azuz α",
+  "part": "Body",
+  "name": "Felyne Azuz Body α",
+  "name_guid": "c31c95b3-ab93-4658-bb72-e8730a68390c",
+  "_row": 73
+ },
+ {
+  "index": 72,
+  "data_value": 73,
+  "series": "Felyne Suja α",
+  "part": "Head",
+  "name": "Felyne Suja Frog α",
+  "name_guid": "a7e7b7b8-a9fe-42a2-9d5f-9f293bcbb4a7",
+  "_row": 74
+ },
+ {
+  "index": 73,
+  "data_value": 74,
+  "series": "Felyne Suja α",
+  "part": "Body",
+  "name": "Felyne Suja Vest α",
+  "name_guid": "a06d7ada-5896-44c9-bb26-43933fe5015c",
+  "_row": 75
+ },
+ {
+  "index": 74,
+  "data_value": 75,
+  "series": "Felyne Sild α",
+  "part": "Head",
+  "name": "Felyne Sild Hood α",
+  "name_guid": "af8f2495-2023-4360-bdc5-fb54ca9a0220",
+  "_row": 76
+ },
+ {
+  "index": 75,
+  "data_value": 76,
+  "series": "Felyne Sild α",
+  "part": "Body",
+  "name": "Felyne Sild Suit α",
+  "name_guid": "e9dadbdd-853c-43ff-9fe8-8e9f7eafda26",
+  "_row": 77
+ },
+ {
+  "index": 76,
+  "data_value": 77,
+  "series": "Felyne Artian α",
+  "part": "Head",
+  "name": "Felyne Artian Core α",
+  "name_guid": "89ee79db-3c7c-41bd-b166-6a173d1e49fa",
+  "_row": 78
+ },
+ {
+  "index": 77,
+  "data_value": 78,
+  "series": "Felyne Artian α",
+  "part": "Body",
+  "name": "Felyne Artian Gear α",
+  "name_guid": "72c5421f-4121-48c4-8842-4e9fb4a18a47",
+  "_row": 79
+ },
+ {
+  "index": 78,
+  "data_value": 79,
+  "series": "Athos α",
+  "part": "Head",
+  "name": "Athos's Scar α",
+  "name_guid": "33e0fe8c-1565-4b52-841b-46a70e44115b",
+  "_row": 80
+ },
+ {
+  "index": 79,
+  "data_value": 80,
+  "series": "Athos α",
+  "part": "Body",
+  "name": "Athos's Armor α",
+  "name_guid": "c767f97c-c051-4b68-a6bf-c9b50b923aad",
+  "_row": 81
+ },
+ {
+  "index": 80,
+  "data_value": 81,
+  "series": "Felyne Leather",
+  "part": "Head",
+  "name": "Felyne Leather Cap",
+  "name_guid": "18bdd683-c4e7-4d83-9e80-c612e1d5943e",
+  "_row": 82
+ },
+ {
+  "index": 81,
+  "data_value": 82,
+  "series": "Felyne Leather",
+  "part": "Body",
+  "name": "Felyne Leather Vest",
+  "name_guid": "832629c1-5702-4856-90b5-3266d864f0cb",
+  "_row": 83
+ },
+ {
+  "index": 82,
+  "data_value": 83,
+  "series": "Felyne Duffel",
+  "part": "Head",
+  "name": "Felyne Duffel Hood",
+  "name_guid": "f2ac650c-e063-492e-a842-47692459e3c6",
+  "_row": 84
+ },
+ {
+  "index": 83,
+  "data_value": 84,
+  "series": "Felyne Duffel",
+  "part": "Body",
+  "name": "Felyne Duffel Coat",
+  "name_guid": "a43ada8d-81a7-4a4f-9cc5-972970c839b9",
+  "_row": 85
+ },
+ {
+  "index": 84,
+  "data_value": 85,
+  "series": "Felyne Ashigaru",
+  "part": "Head",
+  "name": "Ashigaru Helm",
+  "name_guid": "d84dc9a2-1e96-44a1-85f3-ef55251c659a",
+  "_row": 86
+ },
+ {
+  "index": 85,
+  "data_value": 86,
+  "series": "Felyne Ashigaru",
+  "part": "Body",
+  "name": "Ashigaru Guard",
+  "name_guid": "615ab7a9-d457-4aec-a482-ebec9c059c01",
+  "_row": 87
+ },
+ {
+  "index": 86,
+  "data_value": 87,
+  "series": "Felyne Mizutsune α",
+  "part": "Head",
+  "name": "F Mizutsune Kasa α",
+  "name_guid": "103dbf16-6db7-4e51-a040-a17d91289715",
+  "_row": 88
+ },
+ {
+  "index": 87,
+  "data_value": 88,
+  "series": "Felyne Mizutsune α",
+  "part": "Body",
+  "name": "F Mizutsune Suit α",
+  "name_guid": "0979b7d2-0480-4090-be52-45d171a791a6",
+  "_row": 89
+ },
+ {
+  "index": 88,
+  "data_value": 89,
+  "series": "Felyne Numinous α",
+  "part": "Head",
+  "name": "F Numinous Crown α",
+  "name_guid": "d2b8078f-680d-41e7-ba1e-c47cc6112c1c",
+  "_row": 90
+ },
+ {
+  "index": 89,
+  "data_value": 90,
+  "series": "Felyne Numinous α",
+  "part": "Body",
+  "name": "F Numinous Robe α",
+  "name_guid": "5f8fa0b7-7032-424f-bbd1-f04659d20a19",
+  "_row": 91
+ },
+ {
+  "index": 90,
+  "data_value": 91,
+  "series": "Felyne Lagiacrus α",
+  "part": "Head",
+  "name": "Felyne Lagia Tricorne α",
+  "name_guid": "707ba85f-a2a5-49de-8cbf-84942fb4c5a9",
+  "_row": 92
+ },
+ {
+  "index": 91,
+  "data_value": 92,
+  "series": "Felyne Lagiacrus α",
+  "part": "Body",
+  "name": "Felyne Lagia Mail α",
+  "name_guid": "6f834c21-0e35-4b80-a13a-09fb6c085dd2",
+  "_row": 93
+ },
+ {
+  "index": 92,
+  "data_value": 93,
+  "series": "Felyne Seregios α",
+  "part": "Head",
+  "name": "Felyne Seregios Helm α",
+  "name_guid": "bcf924b9-5559-4558-b00d-45ebc7c8bf78",
+  "_row": 94
+ },
+ {
+  "index": 93,
+  "data_value": 94,
+  "series": "Felyne Seregios α",
+  "part": "Body",
+  "name": "Felyne Seregios Mail α",
+  "name_guid": "38123210-fbed-4c8b-8cf1-f2a5f7432c66",
+  "_row": 95
+ },
+ {
+  "index": 94,
+  "data_value": 95,
+  "series": "Felyne Gog α",
+  "part": "Head",
+  "name": "Felyne Gog Burden α",
+  "name_guid": "9c2eeb77-becd-4bd2-ad7c-49cc9fa6cda7",
+  "_row": 96
+ },
+ {
+  "index": 95,
+  "data_value": 96,
+  "series": "Felyne Gog α",
+  "part": "Body",
+  "name": "Felyne Gog Prison α",
+  "name_guid": "33451cdc-eab5-456c-94c4-bc7c5c5c4537",
+  "_row": 97
+ },
+ {
+  "index": 96,
+  "data_value": 97,
+  "series": "Felyne Rey Dau γ",
+  "part": "Head",
+  "name": "Felyne Dau Helm γ",
+  "name_guid": "9f9cf3cc-8772-4ad4-80f6-c6341dd614a5",
+  "_row": 98
+ },
+ {
+  "index": 97,
+  "data_value": 98,
+  "series": "Felyne Rey Dau γ",
+  "part": "Body",
+  "name": "Felyne Dau Armor γ",
+  "name_guid": "bf8e6d0d-c8ad-4f74-809e-dbdba1a28ae9",
+  "_row": 99
+ },
+ {
+  "index": 98,
+  "data_value": 99,
+  "series": "Felyne Uth Duna γ",
+  "part": "Head",
+  "name": "Felyne Duna Mask γ",
+  "name_guid": "5b272edd-caae-4419-bb38-573ee47bc19b",
+  "_row": 100
+ },
+ {
+  "index": 99,
+  "data_value": 100,
+  "series": "Felyne Uth Duna γ",
+  "part": "Body",
+  "name": "Felyne Duna Cape γ",
+  "name_guid": "75688e0c-93e7-4d31-bc4b-92507c53997b",
+  "_row": 101
+ },
+ {
+  "index": 100,
+  "data_value": 101,
+  "series": "Felyne Udra γ",
+  "part": "Head",
+  "name": "Felyne Udra Head γ",
+  "name_guid": "53f043aa-1852-4b22-a8ae-8b2da8137b20",
+  "_row": 102
+ },
+ {
+  "index": 101,
+  "data_value": 102,
+  "series": "Felyne Udra γ",
+  "part": "Body",
+  "name": "Felyne Udra Tentacles γ",
+  "name_guid": "bfb09134-59be-491b-9abf-b7dc29adc9d2",
+  "_row": 103
+ },
+ {
+  "index": 102,
+  "data_value": 103,
+  "series": "Felyne Dahaad γ",
+  "part": "Head",
+  "name": "Felyne Dahaad Corona γ",
+  "name_guid": "89af8e16-5de2-45ae-8fb4-730e29b95f89",
+  "_row": 104
+ },
+ {
+  "index": 103,
+  "data_value": 104,
+  "series": "Felyne Dahaad γ",
+  "part": "Body",
+  "name": "Felyne Dahaad Gown γ",
+  "name_guid": "2bd8ca72-ec9c-44d7-ac03-7274e1021870",
+  "_row": 105
+ },
+ {
+  "index": 106,
+  "data_value": 107,
+  "series": "Felyne Papier-Mâché α",
+  "part": "Head",
+  "name": "F Papier-Mâché Head α",
+  "name_guid": "b26816bf-69a7-4f44-b6d7-4d41226ecac7",
+  "_row": 106
+ },
+ {
+  "index": 107,
+  "data_value": 108,
+  "series": "Felyne Papier-Mâché α",
+  "part": "Body",
+  "name": "F Papier-Mâché Body α",
+  "name_guid": "89528488-cc0f-4205-af91-d26b21718e91",
+  "_row": 107
+ },
+ {
+  "index": 108,
+  "data_value": 109,
+  "series": "Felyne Butterfly α",
+  "part": "Head",
+  "name": "F Butterfly Hat α",
+  "name_guid": "1e09d9f2-80b2-4dc9-8e3e-2f5148e29a08",
+  "_row": 108
+ },
+ {
+  "index": 109,
+  "data_value": 110,
+  "series": "Felyne Butterfly α",
+  "part": "Body",
+  "name": "F Butterfly Vest α",
+  "name_guid": "d8f423df-0758-4739-9603-fa4af8083be0",
+  "_row": 109
+ },
+ {
+  "index": 110,
+  "data_value": 111,
+  "series": "Felyne Afi α",
+  "part": "Head",
+  "name": "Felyne Afi Firemane α",
+  "name_guid": "8b889661-3db6-4db3-898e-4bc6f61ef940",
+  "_row": 110
+ },
+ {
+  "index": 111,
+  "data_value": 112,
+  "series": "Felyne Afi α",
+  "part": "Body",
+  "name": "Felyne Afi Firepelt α",
+  "name_guid": "bb4be0e5-9959-4f0c-8bae-244e733b3cbc",
+  "_row": 111
+ },
+ {
+  "index": 112,
+  "data_value": 113,
+  "series": "Felyne Aloha Set α",
+  "part": "Head",
+  "name": "Felyne Aloha Straw Hat α",
+  "name_guid": "f094cc6b-e3b0-407c-a6f7-462716b0bbd1",
+  "_row": 112
+ },
+ {
+  "index": 113,
+  "data_value": 114,
+  "series": "Felyne Aloha Set α",
+  "part": "Body",
+  "name": "Felyne Aloha Shirt α",
+  "name_guid": "bcd5ee75-1c01-48ae-8ea2-f54919e677a8",
+  "_row": 113
+ },
+ {
+  "index": 114,
+  "data_value": 115,
+  "series": "Meowrionette α",
+  "part": "Head",
+  "name": "Meowrionette Head α",
+  "name_guid": "503cf53b-ce7a-47c6-bf01-de8af79b19dd",
+  "_row": 114
+ },
+ {
+  "index": 115,
+  "data_value": 116,
+  "series": "Meowrionette α",
+  "part": "Body",
+  "name": "Meowrionette Body α",
+  "name_guid": "c81e48d2-568b-42dd-a11b-7e899064ec02",
+  "_row": 115
+ },
+ {
+  "index": 116,
+  "data_value": 117,
+  "series": "Felyne Ghost α",
+  "part": "Head",
+  "name": "Felyne Meowloween Mask α",
+  "name_guid": "c0235976-438d-4e68-97e4-201c178c49a0",
+  "_row": 116
+ },
+ {
+  "index": 117,
+  "data_value": 118,
+  "series": "Felyne Ghost α",
+  "part": "Body",
+  "name": "Felyne Ghost Garb α",
+  "name_guid": "e08d7e62-131c-48b1-9468-b8224e32b29a",
+  "_row": 117
+ },
+ {
+  "index": 118,
+  "data_value": 119,
+  "series": "Felyne Snowcat α",
+  "part": "Head",
+  "name": "Felyne Snowcat Head α",
+  "name_guid": "98215b20-323f-4d8e-9ae9-0d5e7aefca1d",
+  "_row": 118
+ },
+ {
+  "index": 119,
+  "data_value": 120,
+  "series": "Felyne Snowcat α",
+  "part": "Body",
+  "name": "Felyne Snowcat Suit α",
+  "name_guid": "762e5358-2721-4ce2-8add-f44806666150",
+  "_row": 119
+ },
+ {
+  "index": 120,
+  "data_value": 121,
+  "series": "Our Lil' Seikret α",
+  "part": "Head",
+  "name": "Our Lil' Seikret Head α",
+  "name_guid": "b38b5457-199f-4314-a124-f68ea59b1652",
+  "_row": 120
+ },
+ {
+  "index": 121,
+  "data_value": 122,
+  "series": "Our Lil' Seikret α",
+  "part": "Body",
+  "name": "Our Lil' Seikret Body α",
+  "name_guid": "b9a18115-7918-42a8-833b-d869b4ee424e",
+  "_row": 121
+ },
+ {
+  "index": 124,
+  "data_value": 125,
+  "series": "Blanka-Chan α",
+  "part": "Head",
+  "name": "Blanka-Chan Head α",
+  "name_guid": "de8552a0-1ec2-4add-a204-7deb51af0afb",
+  "_row": 122
+ },
+ {
+  "index": 125,
+  "data_value": 126,
+  "series": "Blanka-Chan α",
+  "part": "Body",
+  "name": "Blanka-Chan Body α",
+  "name_guid": "ba30b557-7c94-4fd4-9798-ae1a1e32203b",
+  "_row": 123
+ },
+ {
+  "index": 126,
+  "data_value": 127,
+  "series": "Morbol Seedling α",
+  "part": "Head",
+  "name": "Morbol Seedling Head α",
+  "name_guid": "2ac287cc-882a-4bb3-b33c-d242be6159b9",
+  "_row": 124
+ },
+ {
+  "index": 127,
+  "data_value": 128,
+  "series": "Morbol Seedling α",
+  "part": "Body",
+  "name": "Morbol Seedling Body α",
+  "name_guid": "76bc1926-da28-4893-985c-414b74cd97c6",
+  "_row": 125
+ },
+ {
+  "index": 128,
+  "data_value": 129,
+  "series": "Felyne Gawkie",
+  "part": "Head",
+  "name": "Felyne Gawkie Hood",
+  "name_guid": "823edbf1-56ad-46d4-b0cf-088610a4d806",
+  "_row": 126
+ },
+ {
+  "index": 129,
+  "data_value": 130,
+  "series": "Felyne Gawkie",
+  "part": "Body",
+  "name": "Felyne Gawkie Coat",
+  "name_guid": "ca35bbdc-d3c7-45c6-aae4-190ce071278b",
+  "_row": 127
+ },
+ {
+  "index": 130,
+  "data_value": 131,
+  "series": "Wacky Wudwud α",
+  "part": "Head",
+  "name": "Wacky Wudwud Mask α",
+  "name_guid": "665117b4-80d6-4c2d-bd9f-afb31ce2eb3e",
+  "_row": 128
+ },
+ {
+  "index": 131,
+  "data_value": 132,
+  "series": "Wacky Wudwud α",
+  "part": "Body",
+  "name": "Wacky Wudwud Body α",
+  "name_guid": "e415b30b-b4f2-4e44-a375-8fe21939b499",
+  "_row": 129
+ },
+ {
+  "index": 132,
+  "data_value": 134,
+  "series": "Felyne Bell Collar α",
+  "part": "Body",
+  "name": "Felyne Bell Collar α",
+  "name_guid": "4dc70954-fd73-4383-8f20-7a14151b4237",
+  "_row": 130
+ },
+ {
+  "index": 133,
+  "data_value": 188,
+  "series": "Azure Fantasy Wudwud",
+  "part": "Head",
+  "name": "Azure Fantasy Head",
+  "name_guid": "88f5dd6e-0a8c-4116-9b9a-72657a95ff69",
+  "_row": 131
+ },
+ {
+  "index": 134,
+  "data_value": 189,
+  "series": "Azure Fantasy Wudwud",
+  "part": "Body",
+  "name": "Azure Fantasy Body",
+  "name_guid": "cf0aaa8f-c9cf-442b-b5c1-47c2d5de3ac7",
+  "_row": 132
+ },
+ {
+  "index": 135,
+  "data_value": 190,
+  "series": "Thief α",
+  "part": "Head",
+  "name": "Thief's Thievin' Scarf α",
+  "name_guid": "dc6bd6ee-cd96-4648-a3c2-8a5bcf45f4c1",
+  "_row": 133
+ },
+ {
+  "index": 136,
+  "data_value": 191,
+  "series": "Thief α",
+  "part": "Body",
+  "name": "Thief's Secret Pouch α",
+  "name_guid": "48280f2e-b666-4279-9c1e-fcc76272e257",
+  "_row": 134
+ },
+ {
+  "index": 141,
+  "data_value": 135,
+  "series": "Felyne Hope α",
+  "part": "Weapon",
+  "name": "F Hope Hammer α",
+  "name_guid": "93aadf65-1b78-4750-8944-a6c587b9c8f9",
+  "_row": 135
+ },
+ {
+  "index": 142,
+  "data_value": 136,
+  "series": "Felyne Bone α",
+  "part": "Weapon",
+  "name": "Felyne Bone Hammer α",
+  "name_guid": "9154a92c-c705-41ec-ae21-6fdc5d52627e",
+  "_row": 136
+ },
+ {
+  "index": 143,
+  "data_value": 137,
+  "series": "Felyne Alloy α",
+  "part": "Weapon",
+  "name": "Felyne Iron Sword α",
+  "name_guid": "42755387-3c56-41e7-865a-7ded589c2296",
+  "_row": 137
+ },
+ {
+  "index": 144,
+  "data_value": 138,
+  "series": "Felyne Chatacabra α",
+  "part": "Weapon",
+  "name": "Felyne Chata Clobberer α",
+  "name_guid": "51992d33-a24f-4be8-86da-084d9d0d21b0",
+  "_row": 138
+ },
+ {
+  "index": 145,
+  "data_value": 139,
+  "series": "Felyne Quematrice α",
+  "part": "Weapon",
+  "name": "Felyne Matrice Spear α",
+  "name_guid": "750fc8a0-be2c-4c53-889c-e3fc3f77ef1f",
+  "_row": 139
+ },
+ {
+  "index": 146,
+  "data_value": 140,
+  "series": "Felyne Lala Barina α",
+  "part": "Weapon",
+  "name": "Felyne Barina Needle α",
+  "name_guid": "51f3a208-294f-4218-bc1a-178f9d860197",
+  "_row": 140
+ },
+ {
+  "index": 147,
+  "data_value": 141,
+  "series": "Felyne Conga α",
+  "part": "Weapon",
+  "name": "Felyne Conga Tambourine α",
+  "name_guid": "a700a76f-ab1d-4d06-ac8a-a5c3e61bd656",
+  "_row": 141
+ },
+ {
+  "index": 148,
+  "data_value": 142,
+  "series": "Felyne Kut-Ku α",
+  "part": "Weapon",
+  "name": "Felyne Kut-Ku Cutter α",
+  "name_guid": "db968448-50c1-4a2f-9ef6-e002b2286113",
+  "_row": 142
+ },
+ {
+  "index": 149,
+  "data_value": 143,
+  "series": "Felyne Gypceros α",
+  "part": "Weapon",
+  "name": "Felyne Gypceros Glare α",
+  "name_guid": "4408cd50-7bda-47b0-8306-a85fb974e6a3",
+  "_row": 143
+ },
+ {
+  "index": 150,
+  "data_value": 144,
+  "series": "Felyne Rompopolo α",
+  "part": "Weapon",
+  "name": "F Rompopolo Blaster α",
+  "name_guid": "9ad999b8-365b-41f7-98bb-8f7c51554055",
+  "_row": 144
+ },
+ {
+  "index": 151,
+  "data_value": 145,
+  "series": "Felyne Balahara α",
+  "part": "Weapon",
+  "name": "Felyne Balahara Drill α",
+  "name_guid": "1c9b029a-d778-4fb1-9dda-65b5d6d84d34",
+  "_row": 145
+ },
+ {
+  "index": 152,
+  "data_value": 146,
+  "series": "Felyne Nerscylla α",
+  "part": "Weapon",
+  "name": "Felyne Nerscylla Wedge α",
+  "name_guid": "2908005c-1379-4e42-bd1e-81f2fad18f9a",
+  "_row": 146
+ },
+ {
+  "index": 153,
+  "data_value": 147,
+  "series": "Felyne Hirabami α",
+  "part": "Weapon",
+  "name": "Felyne Hirabami Fan α",
+  "name_guid": "37cb3a60-887e-42bb-a09e-a31077fb4884",
+  "_row": 147
+ },
+ {
+  "index": 154,
+  "data_value": 148,
+  "series": "Felyne Rathian α",
+  "part": "Weapon",
+  "name": "Felyne Rathian Rapier α",
+  "name_guid": "d383ccd0-beb6-4d7a-b180-cc2729885836",
+  "_row": 148
+ },
+ {
+  "index": 155,
+  "data_value": 149,
+  "series": "Felyne G. Fulgur α",
+  "part": "Weapon",
+  "name": "F Guardian Fulgur Maul α",
+  "name_guid": "d7df73b6-1099-4f8c-b549-f1e56def17dd",
+  "_row": 149
+ },
+ {
+  "index": 156,
+  "data_value": 150,
+  "series": "Felyne Doshaguma α",
+  "part": "Weapon",
+  "name": "F Doshaguma Knuckle α",
+  "name_guid": "69e13da8-c3ae-4093-85fa-049a00d742f9",
+  "_row": 150
+ },
+ {
+  "index": 157,
+  "data_value": 151,
+  "series": "Felyne Ajarakan α",
+  "part": "Weapon",
+  "name": "F Ajarakan Staff α",
+  "name_guid": "a4d6ca77-96d4-4b07-ba0a-96f0ad1bdae8",
+  "_row": 151
+ },
+ {
+  "index": 158,
+  "data_value": 152,
+  "series": "Felyne G. Doshaguma α",
+  "part": "Weapon",
+  "name": "F Guardian Dosha Knuckle α",
+  "name_guid": "4684effe-0289-4e28-ab7c-0a2afa5819af",
+  "_row": 152
+ },
+ {
+  "index": 159,
+  "data_value": 153,
+  "series": "Felyne G. Rathalos α",
+  "part": "Weapon",
+  "name": "F Guardian Rath Blade α",
+  "name_guid": "60495f12-bad3-40a2-9462-dce98ac53519",
+  "_row": 153
+ },
+ {
+  "index": 160,
+  "data_value": 154,
+  "series": "Felyne G. Ebony α",
+  "part": "Weapon",
+  "name": "F Guardian Ebony Sickle α",
+  "name_guid": "c7130a6d-375f-48f9-a1e2-a97a8c159feb",
+  "_row": 154
+ },
+ {
+  "index": 161,
+  "data_value": 155,
+  "series": "Felyne Xu Wu α",
+  "part": "Weapon",
+  "name": "Felyne Xu Wu Orb α",
+  "name_guid": "d0a006cd-8433-44e5-aeb0-c56279552e9b",
+  "_row": 155
+ },
+ {
+  "index": 162,
+  "data_value": 156,
+  "series": "Felyne Blango α",
+  "part": "Weapon",
+  "name": "Felyne Blango Banana α",
+  "name_guid": "34a184e9-6a3e-4317-88fc-2c1b1d6f5fc7",
+  "_row": 156
+ },
+ {
+  "index": 163,
+  "data_value": 157,
+  "series": "Felyne Rathalos α",
+  "part": "Weapon",
+  "name": "Felyne Rathalos Blade α",
+  "name_guid": "c5b61862-18a7-4085-a8bf-74e0ca641a46",
+  "_row": 157
+ },
+ {
+  "index": 164,
+  "data_value": 158,
+  "series": "Felyne Gravios α",
+  "part": "Weapon",
+  "name": "Felyne Grav Bazooka α",
+  "name_guid": "652b0392-45db-4004-a8db-db3bdab98af1",
+  "_row": 158
+ },
+ {
+  "index": 165,
+  "data_value": 159,
+  "series": "Felyne Dahaad α",
+  "part": "Weapon",
+  "name": "Felyne Dahaad Mace α",
+  "name_guid": "21ecf8f2-2ad2-493c-bd19-457919633961",
+  "_row": 159
+ },
+ {
+  "index": 166,
+  "data_value": 160,
+  "series": "Felyne Rey Dau α",
+  "part": "Weapon",
+  "name": "Felyne Dau Naginata α",
+  "name_guid": "5870cc30-3673-4fee-8295-b807f5462180",
+  "_row": 160
+ },
+ {
+  "index": 167,
+  "data_value": 161,
+  "series": "Felyne Uth Duna α",
+  "part": "Weapon",
+  "name": "Felyne Duna Spear α",
+  "name_guid": "8aeaa455-333b-438b-a80f-b85e3714a67b",
+  "_row": 161
+ },
+ {
+  "index": 168,
+  "data_value": 162,
+  "series": "Felyne Nu Udra α",
+  "part": "Weapon",
+  "name": "Felyne Udra Vessel α",
+  "name_guid": "7914d2e3-5a09-4226-b15a-b5431d48bb1c",
+  "_row": 162
+ },
+ {
+  "index": 169,
+  "data_value": 163,
+  "series": "Felyne Gore α",
+  "part": "Weapon",
+  "name": "Felyne Katzenfunzel α",
+  "name_guid": "caf9091d-4b03-46ad-81e3-6a511f2deb77",
+  "_row": 163
+ },
+ {
+  "index": 170,
+  "data_value": 164,
+  "series": "Felyne G. Ark α",
+  "part": "Weapon",
+  "name": "F Guardian Ark Sword α",
+  "name_guid": "47c2dbb9-d8c4-40d0-ae3c-071aaeb66075",
+  "_row": 164
+ },
+ {
+  "index": 171,
+  "data_value": 165,
+  "series": "Felyne Arkveld α",
+  "part": "Weapon",
+  "name": "Felyne Arkveld Sword α",
+  "name_guid": "fdaa5b29-5b30-46a5-b072-b6a8bbd4363b",
+  "_row": 165
+ },
+ {
+  "index": 172,
+  "data_value": 166,
+  "series": "Felyne Death Stench α",
+  "part": "Weapon",
+  "name": "Felyne Deathgear Scythe α",
+  "name_guid": "601c876d-0700-46e1-84e4-e8e93db63cf9",
+  "_row": 166
+ },
+ {
+  "index": 173,
+  "data_value": 167,
+  "series": "Felyne Artian α",
+  "part": "Weapon",
+  "name": "Felyne Artian Disc α",
+  "name_guid": "e0b3510e-d8df-42af-a344-7242a8736dc7",
+  "_row": 167
+ },
+ {
+  "index": 174,
+  "data_value": 168,
+  "series": "Athos α",
+  "part": "Weapon",
+  "name": "Athos's Hinge Blade α",
+  "name_guid": "5e07b214-0122-46ec-8284-62124f67733b",
+  "_row": 168
+ },
+ {
+  "index": 175,
+  "data_value": 169,
+  "series": "Felyne Mizutsune α",
+  "part": "Weapon",
+  "name": "F Mizutsune Parasol α",
+  "name_guid": "c21a3180-5e45-4b84-97ba-bbefe7d5cf86",
+  "_row": 169
+ },
+ {
+  "index": 176,
+  "data_value": 170,
+  "series": "Felyne Numinous α",
+  "part": "Weapon",
+  "name": "F Blazing Spear α",
+  "name_guid": "0a18d38d-b9c7-4705-9667-13e1ad6cc542",
+  "_row": 170
+ },
+ {
+  "index": 177,
+  "data_value": 171,
+  "series": "Felyne Lagiacrus α",
+  "part": "Weapon",
+  "name": "Felyne Lagia Anchor α",
+  "name_guid": "7d548431-07f2-429b-a780-4de89f87286e",
+  "_row": 171
+ },
+ {
+  "index": 178,
+  "data_value": 172,
+  "series": "Felyne Seregios α",
+  "part": "Weapon",
+  "name": "Felyne Seregios Edge α",
+  "name_guid": "bcaa3c1b-b3b7-49f0-808c-96d8ab1fef61",
+  "_row": 172
+ },
+ {
+  "index": 179,
+  "data_value": 173,
+  "series": "Felyne Gog α",
+  "part": "Weapon",
+  "name": "Fiendlyne Fetter α",
+  "name_guid": "2e1b678f-6080-4cbc-8083-412aad7ed29c",
+  "_row": 173
+ },
+ {
+  "index": 180,
+  "data_value": 174,
+  "series": "Felyne Rey Dau γ",
+  "part": "Weapon",
+  "name": "Felyne Dau Naginata γ",
+  "name_guid": "e8cd3092-7c5a-4cc2-933c-0cf99be78580",
+  "_row": 174
+ },
+ {
+  "index": 181,
+  "data_value": 175,
+  "series": "Felyne Uth Duna γ",
+  "part": "Weapon",
+  "name": "Felyne Duna Spear γ",
+  "name_guid": "a5264338-769e-471e-9495-9a854bf22de7",
+  "_row": 175
+ },
+ {
+  "index": 182,
+  "data_value": 176,
+  "series": "Felyne Udra γ",
+  "part": "Weapon",
+  "name": "Felyne Udra Vessel γ",
+  "name_guid": "a869b7e4-1c0a-4c38-9b69-c58b70d3df8e",
+  "_row": 176
+ },
+ {
+  "index": 183,
+  "data_value": 177,
+  "series": "Felyne Dahaad γ",
+  "part": "Weapon",
+  "name": "Felyne Dahaad Mace γ",
+  "name_guid": "39d12e5a-b32c-4fcd-a0b6-0aa4acf44dcf",
+  "_row": 177
+ },
+ {
+  "index": 185,
+  "data_value": 179,
+  "series": "Felyne Butterfly α",
+  "part": "Weapon",
+  "name": "F Butterfly Wand α",
+  "name_guid": "0ea65ca7-9819-48f8-9d16-b53d8b3c5d58",
+  "_row": 178
+ },
+ {
+  "index": 186,
+  "data_value": 180,
+  "series": "Felyne Aloha Set α",
+  "part": "Weapon",
+  "name": "Felyne Aloha Ukulele α",
+  "name_guid": "f980ceb8-3084-45f5-b451-71d31248bc07",
+  "_row": 179
+ },
+ {
+  "index": 187,
+  "data_value": 181,
+  "series": "Felyne Ghost α",
+  "part": "Weapon",
+  "name": "Felyne Jack-o'-Lantern α",
+  "name_guid": "ab9d1215-f25c-495c-beb0-64b42137705e",
+  "_row": 180
+ },
+ {
+  "index": 188,
+  "data_value": 182,
+  "series": "Felyne Snowcat α",
+  "part": "Weapon",
+  "name": "Felyne Snowcat Bell α",
+  "name_guid": "f05925e3-caca-4711-80b0-58ecc344ee8f",
+  "_row": 181
+ },
+ {
+  "index": 190,
+  "data_value": 185,
+  "series": "Wudwud Guise α",
+  "part": "Weapon",
+  "name": "Wudwud Spiky-Pokey α",
+  "name_guid": "17bd09ec-481c-4a22-89d3-d56bcdf9d598",
+  "_row": 182
+ },
+ {
+  "index": 191,
+  "data_value": 186,
+  "series": "Morbol Seedling α",
+  "part": "Weapon",
+  "name": "Twinflight Butterflies α",
+  "name_guid": "f0df354a-dfb2-43fd-90d3-b68b8e97724f",
+  "_row": 183
+ },
+ {
+  "index": 192,
+  "data_value": 187,
+  "series": "Felyne Gawkie",
+  "part": "Weapon",
+  "name": "Felyne Gawkie Pompoms",
+  "name_guid": "029a439e-33a7-490e-ae07-3394f7380f23",
+  "_row": 184
+ },
+ {
+  "index": 193,
+  "data_value": 192,
+  "series": "Thief α",
+  "part": "Weapon",
+  "name": "Felyne Paw Punch α",
+  "name_guid": "25dfe217-067e-4050-9883-d47d8d826762",
+  "_row": 185
+ }
+]

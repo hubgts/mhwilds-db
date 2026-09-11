@@ -1,0 +1,4763 @@
+[
+ {
+  "index": 87,
+  "gimmick_id": "GM000_152_00",
+  "name": "Queen Rafflesia",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "32e1d63e-3059-4095-9b34-215a2d282fb0",
+  "description_guid": "6e8100b1-8e1b-419d-a07c-73f12f6313df",
+  "_row": 2
+ },
+ {
+  "index": 44,
+  "gimmick_id": "GM000_112_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_7>",
+  "name_guid": "eeed65c0-60b1-43d7-86c2-bc4d17d318f2",
+  "description_guid": "b45c401c-123e-40da-b038-8f803aa51d55",
+  "_row": 3
+ },
+ {
+  "index": 464,
+  "gimmick_id": "GM504_000_00",
+  "name": "Unstable Rubble",
+  "description": "Rubble that can be knocked down with an\nimpact. If it hits a monster in the waterway\nbelow, the shock will cause it to surface.",
+  "name_guid": "dfdd6573-26a9-4743-83b4-5847f9f1f5dc",
+  "description_guid": "c5b14c97-e398-4aa7-b5f3-59df43384131",
+  "_row": 4
+ },
+ {
+  "index": 340,
+  "gimmick_id": "GM036_010_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m2101300352",
+  "name_guid": "065e6fde-8518-4d20-9ded-1df1e5d4a4fc",
+  "description_guid": "c449fa0c-d3ef-4bc4-8e2e-4477a43a4ece",
+  "_row": 5
+ },
+ {
+  "index": 197,
+  "gimmick_id": "GM030_079_00",
+  "name": "Scratch Marks",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m2085464832",
+  "name_guid": "e85fde93-d9ca-4581-9265-5004ef742431",
+  "description_guid": "4534893c-aeba-44e7-a6ba-fe9b76781ba2",
+  "_row": 6
+ },
+ {
+  "index": 108,
+  "gimmick_id": "GM000_175_00",
+  "name": "Mysterious Fruit",
+  "description": "A place for gathering special items.",
+  "name_guid": "49669143-97bc-4204-8d3f-29684a7f213e",
+  "description_guid": "863f84a2-9c0e-4b12-9451-91369e7a87fb",
+  "_row": 7
+ },
+ {
+  "index": 233,
+  "gimmick_id": "GM034_002_00",
+  "name": "Sticky Rock",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m2057965696",
+  "name_guid": "278fb872-a7e9-4cdc-9e4e-1365fef891ad",
+  "description_guid": "bd8836be-7343-4e22-86da-1918d6d2b467",
+  "_row": 8
+ },
+ {
+  "index": 120,
+  "gimmick_id": "GM001_013_00",
+  "name": "Brush",
+  "description": "An area covered in tall grass that can conceal\na crouching hunter from sight.",
+  "name_guid": "61062e3f-8b42-4c55-aeb8-e9d77f6acdf1",
+  "description_guid": "7d90696c-a882-415e-bf7a-29fc7c55f609",
+  "_row": 9
+ },
+ {
+  "index": 431,
+  "gimmick_id": "GM205_002_00",
+  "name": null,
+  "description": "A trap that attracts carnivores. They'll\nbe paralyzed if they eat the bait.",
+  "name_guid": "f63e7874-350d-4272-8699-738cb5082545",
+  "description_guid": "a8164bb4-34a8-4fd9-aa7e-676459f3a72d",
+  "_row": 10
+ },
+ {
+  "index": 427,
+  "gimmick_id": "GM202_000_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_20>",
+  "name_guid": "ae7b73d9-ae84-4297-b237-bd34e2cfdd0d",
+  "description_guid": "d27c1ec7-c3c4-4655-99ff-d34f9fe017ad",
+  "_row": 11
+ },
+ {
+  "index": 563,
+  "gimmick_id": "GM800_004_51",
+  "name": "Area 9: Entangled Canopy",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "50507d1b-9cda-4db7-8e07-c8ac3d7c4ce7",
+  "description_guid": "b4aa7af1-6237-403a-b8d5-6660ea283f05",
+  "_row": 12
+ },
+ {
+  "index": 362,
+  "gimmick_id": "GM103_002_00",
+  "name": "Campfire",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m2015506176",
+  "name_guid": "917f24a6-8d25-4a4d-8b1b-17709518ddb2",
+  "description_guid": "8b080140-8886-4327-b713-153981193134",
+  "_row": 13
+ },
+ {
+  "index": 54,
+  "gimmick_id": "GM000_117_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_128>",
+  "name_guid": "ba33580d-7c55-495d-b862-4b7a33db3719",
+  "description_guid": "e8d54c29-9c1b-4780-a41e-1c8a216592ae",
+  "_row": 14
+ },
+ {
+  "index": 128,
+  "gimmick_id": "GM002_002_00",
+  "name": "Quicksand",
+  "description": "A trap laid by a <REF EnemyText_NAME_EM0151_00_0> to snare prey.\nThe shifting sand hinders the movement of those\ncaught inside.",
+  "name_guid": "54407131-ba3a-4668-bc5c-73ec0b68e1b6",
+  "description_guid": "8e663b1e-a7df-4897-ba22-2762104b5b65",
+  "_row": 15
+ },
+ {
+  "index": 153,
+  "gimmick_id": "GM030_014_00",
+  "name": "Pink Hairs",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1956773120",
+  "name_guid": "e805bf93-cd21-4180-bab1-45717c749966",
+  "description_guid": "2e3dd270-20d3-4b8c-8b62-fb753e2cd853",
+  "_row": 16
+ },
+ {
+  "index": 109,
+  "gimmick_id": "GM000_176_00",
+  "name": "Whitegleam Gemstone",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "a225fece-6052-4727-8f7f-3e51f88b19db",
+  "description_guid": "c6c9b84b-35c9-4e5e-ac8d-46dce094ada4",
+  "_row": 17
+ },
+ {
+  "index": 169,
+  "gimmick_id": "GM030_030_00",
+  "name": "Crystallized Poison Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1952307072",
+  "name_guid": "e35c83e2-b6f7-4a07-91d6-a8a2cfe3795c",
+  "description_guid": "0d18cd09-c09c-4dd1-832a-9dc3a33c071b",
+  "_row": 18
+ },
+ {
+  "index": 240,
+  "gimmick_id": "GM034_009_00",
+  "name": "Glowing Chainblade Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1939305088",
+  "name_guid": "8197efbc-f8fb-4612-a3c2-013219c0dcca",
+  "description_guid": "e7c20c59-0c79-4391-8306-38f780c9b308",
+  "_row": 19
+ },
+ {
+  "index": 103,
+  "gimmick_id": "GM000_170_00",
+  "name": "Remarkable Relic",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "cfa2ae05-1310-4d28-8981-38f6e8b29d54",
+  "description_guid": "0ac7ad99-fd08-4853-a6b0-1285c368f72e",
+  "_row": 20
+ },
+ {
+  "index": 95,
+  "gimmick_id": "GM000_160_00",
+  "name": "Colossal Amber",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "a5dfc163-06f9-46e2-b969-0b61d564ed36",
+  "description_guid": "d1f9256b-b992-42f1-be26-3a394abac842",
+  "_row": 21
+ },
+ {
+  "index": 220,
+  "gimmick_id": "GM031_005_00",
+  "name": "Deep Gouges",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1910104448",
+  "name_guid": "03948538-adf7-4fe1-a94e-10c4ff47414f",
+  "description_guid": "4b71d106-4e27-4620-a71c-2b69fbe48b9c",
+  "_row": 22
+ },
+ {
+  "index": 408,
+  "gimmick_id": "GM200_000_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_15>",
+  "name_guid": "f88992e9-ec7c-4f12-9331-112339a92770",
+  "description_guid": "3484a0a0-f04a-4d3d-91cc-a062f8860d64",
+  "_row": 23
+ },
+ {
+  "index": 230,
+  "gimmick_id": "GM032_002_00",
+  "name": "Bonepile",
+  "description": "A place for gathering\nbone materials.",
+  "name_guid": "c1313154-2c8f-4899-b0e7-d7761d939def",
+  "description_guid": "cf76e07f-4fe6-423d-ac23-98c5244af063",
+  "_row": 24
+ },
+ {
+  "index": 541,
+  "gimmick_id": "GM800_002_00",
+  "name": null,
+  "description": "The expedition team's base of operations,\noffering a host of useful support facilities.",
+  "name_guid": "0bd20f07-46f6-43db-b60c-d323dd25a748",
+  "description_guid": "8187da63-58ff-4ec5-8f2d-e0ee6c839a9d",
+  "_row": 25
+ },
+ {
+  "index": 134,
+  "gimmick_id": "GM016_000_00",
+  "name": "Unstable Fulgurite Outcrop",
+  "description": "A brittle outcropping of fulgurite. A strong\nimpact will bring it down, revealing sharp\ncrystalline thorns in its place.",
+  "name_guid": "8fa232f2-f650-4610-b723-4ad09e9eedac",
+  "description_guid": "71c24872-a1c1-4dcf-b03f-00a57fa98c39",
+  "_row": 26
+ },
+ {
+  "index": 133,
+  "gimmick_id": "GM015_000_00",
+  "name": "Ancient Wyvern Coin",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1849648768",
+  "name_guid": "5c93e108-5441-4f1b-8ece-d8f057cff9dc",
+  "description_guid": "98d61d81-f0ea-48ee-8f05-91a45bb85cb3",
+  "_row": 27
+ },
+ {
+  "index": 576,
+  "gimmick_id": "GM800_010_00",
+  "name": "Makeshift Camp",
+  "description": "A temporary camp with all the necessities for\na hunt. Change your equipment and organize your\nitems here. Accessible by fast travel with <ICON UI_DECIDE>.",
+  "name_guid": "950ed608-cfa2-4dec-baea-08a72331e10f",
+  "description_guid": "4b1c5074-6462-4f96-a636-184518c01277",
+  "_row": 28
+ },
+ {
+  "index": 199,
+  "gimmick_id": "GM030_084_00",
+  "name": "Scratch Marks",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1818504960",
+  "name_guid": "f538c89d-82eb-4b49-8894-15a7734e4d33",
+  "description_guid": "102fef38-06a4-4085-806c-5bb11812879c",
+  "_row": 29
+ },
+ {
+  "index": 86,
+  "gimmick_id": "GM000_151_00",
+  "name": "Fulgurite Vein",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "2aaa5dea-0b02-45ec-afa7-d0572fd3eb03",
+  "description_guid": "42a29b27-ffc7-45b5-8afe-708ed068943f",
+  "_row": 30
+ },
+ {
+  "index": 517,
+  "gimmick_id": "GM800_000_54",
+  "name": "Area 4: West",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "6dc9413f-bc8f-45dd-b13e-7890f816816b",
+  "description_guid": "f7832b39-ca68-453b-95b0-3b64aaba118b",
+  "_row": 31
+ },
+ {
+  "index": 132,
+  "gimmick_id": "GM009_002_00",
+  "name": "Grounding Pillar",
+  "description": "A large rock pillar that intercepts lightning strikes,\naffording protection to the surrounding area.",
+  "name_guid": "3a33a784-508e-48c4-af50-8d20858c6446",
+  "description_guid": "42893f6f-65e4-498f-8684-389c589e1a2d",
+  "_row": 32
+ },
+ {
+  "index": 204,
+  "gimmick_id": "GM030_100_00",
+  "name": "Carapace Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1772103808",
+  "name_guid": "953e36d0-c834-4219-843f-d85f42d78d42",
+  "description_guid": "9e5b33c4-d1ef-4878-9e9e-88ee0613cf5c",
+  "_row": 33
+ },
+ {
+  "index": 553,
+  "gimmick_id": "GM800_003_50",
+  "name": "Area 1: Icy Shore",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "49656e4b-15b2-4a2f-a53d-bdc7e38f058b",
+  "description_guid": "5b5bf0c0-67f6-4877-9bd3-1f6eec714854",
+  "_row": 34
+ },
+ {
+  "index": 163,
+  "gimmick_id": "GM030_024_00",
+  "name": "Mineral Shards",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1756591744",
+  "name_guid": "48cce2b6-621b-45df-a15d-7b16cd5097f8",
+  "description_guid": "3df34bc8-4e48-4a3f-a312-ffbef471734d",
+  "_row": 35
+ },
+ {
+  "index": 416,
+  "gimmick_id": "GM200_001_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_197>",
+  "name_guid": "03ed0719-86c9-454c-857e-6f7e41f1a113",
+  "description_guid": "0a8145e6-76eb-473f-ad6d-e463ec241290",
+  "_row": 36
+ },
+ {
+  "index": 46,
+  "gimmick_id": "GM000_113_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_67>",
+  "name_guid": "2b2ecef8-1306-4c68-89b8-d3a9f6f2a3c0",
+  "description_guid": "48016bb5-e269-4391-93de-e67450b575f7",
+  "_row": 37
+ },
+ {
+  "index": 552,
+  "gimmick_id": "GM800_003_00",
+  "name": null,
+  "description": "The expedition team's base of operations,\noffering a host of useful support facilities.",
+  "name_guid": "2e642528-9665-4cc1-b334-10c8b6116f23",
+  "description_guid": "93fb74ff-8c04-421d-8460-773e9b155d94",
+  "_row": 38
+ },
+ {
+  "index": 146,
+  "gimmick_id": "GM030_007_00",
+  "name": "Shed Scales",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1707387264",
+  "name_guid": "5a095570-d03f-4896-8eb1-a7080a99c470",
+  "description_guid": "fda2daf4-e364-4857-80d5-affba35674fa",
+  "_row": 39
+ },
+ {
+  "index": 107,
+  "gimmick_id": "GM000_174_00",
+  "name": "Auric Oil",
+  "description": "A place for gathering special items.",
+  "name_guid": "6c708bf3-727e-4d01-9662-48d6a0e389b3",
+  "description_guid": "225e5d4b-41c8-41ff-a245-6b01d086c4e4",
+  "_row": 40
+ },
+ {
+  "index": 341,
+  "gimmick_id": "GM036_011_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1694170368",
+  "name_guid": "b2404bcf-be02-4e3c-8509-a189a8d3a81b",
+  "description_guid": "6fd62e6d-f3f6-4b84-ac51-86aa22f75769",
+  "_row": 41
+ },
+ {
+  "index": 15,
+  "gimmick_id": "GM000_009_00",
+  "name": "Thundercryst",
+  "description": "<REF Item_IT_EXP_285>",
+  "name_guid": "a997e922-bd6c-4f09-bc6f-0522fdd23c90",
+  "description_guid": "444c4e8b-b02b-4d5d-b3f1-c855f91b42dd",
+  "_row": 42
+ },
+ {
+  "index": 581,
+  "gimmick_id": "GM810_001_00",
+  "name": "Underground Road to the Basin",
+  "description": "An underground passage following the Landspine\nfrom the Iceshard Cliffs to the Oilwell Basin.",
+  "name_guid": "8734a024-363a-49e2-beff-8fb43867f4e6",
+  "description_guid": "ac4bf8c9-d8b7-4def-8742-28512066ec50",
+  "_row": 43
+ },
+ {
+  "index": 194,
+  "gimmick_id": "GM030_069_00",
+  "name": "Black Scratch Marks",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1666304640",
+  "name_guid": "86bec08c-0c8a-47c5-bce0-bec9defbe39a",
+  "description_guid": "79fe056b-1a2a-46e6-8c8f-0c7da1b39b89",
+  "_row": 44
+ },
+ {
+  "index": 21,
+  "gimmick_id": "GM000_100_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_26>",
+  "name_guid": "67a6ce8a-be0a-4fca-80b4-b5682f2a0dd8",
+  "description_guid": "3bdb3455-905e-4ec4-bad8-797b8e367431",
+  "_row": 45
+ },
+ {
+  "index": 147,
+  "gimmick_id": "GM030_008_00",
+  "name": "Spewed Mucus",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1657121024",
+  "name_guid": "536d1ca4-b23a-47f2-b260-a630cd0f8890",
+  "description_guid": "ac0ec51c-4c68-441a-a004-5fb96d4509ab",
+  "_row": 46
+ },
+ {
+  "index": 349,
+  "gimmick_id": "GM036_019_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1637759232",
+  "name_guid": "cca488ef-01e9-4c88-bd44-d14f272a21d5",
+  "description_guid": "6d60d50d-b3f9-481d-bb53-060d56da1252",
+  "_row": 47
+ },
+ {
+  "index": 434,
+  "gimmick_id": "GM207_000_00",
+  "name": null,
+  "description": "A cage of Flashflies set by your Palico.\nAn impact will cause it to emit a flash that\nblinds monsters.",
+  "name_guid": "841d0059-10f9-476b-9c9f-5434b369ca10",
+  "description_guid": "d12fc30a-58a2-4c8f-9362-b3e8ce7eb691",
+  "_row": 48
+ },
+ {
+  "index": 560,
+  "gimmick_id": "GM800_004_00",
+  "name": null,
+  "description": "The expedition team's base of operations,\noffering a host of useful support facilities.",
+  "name_guid": "1baeff58-2ab8-4c6c-abdc-42eecc4ce45f",
+  "description_guid": "2f4850b2-ae5d-4906-9052-2f95a21a4101",
+  "_row": 49
+ },
+ {
+  "index": 165,
+  "gimmick_id": "GM030_026_00",
+  "name": "Scratch Marks",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1590773120",
+  "name_guid": "0c5dcdd6-1b7e-4629-b651-92b9a9b413c4",
+  "description_guid": "760bdbbc-e3fc-42b8-af8d-82c6f1d983cc",
+  "_row": 50
+ },
+ {
+  "index": 191,
+  "gimmick_id": "GM030_059_00",
+  "name": "Frosty Scratch Marks",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1583822976",
+  "name_guid": "2c299a42-a216-4f98-ab6b-1af047e59a6f",
+  "description_guid": "7db25e75-7b0b-470a-a5bb-5dd534f80de5",
+  "_row": 51
+ },
+ {
+  "index": 101,
+  "gimmick_id": "GM000_167_00",
+  "name": "Giant Hopper Crystal",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "6f434517-0b37-44cb-a964-d88d8107bf96",
+  "description_guid": "3a576b7b-4e51-4419-966f-2c8c629a136c",
+  "_row": 52
+ },
+ {
+  "index": 56,
+  "gimmick_id": "GM000_118_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_129>",
+  "name_guid": "62e750ec-243a-4e8c-9761-920e9df20667",
+  "description_guid": "42bf32fc-dd1a-4e07-b277-863056cf90cb",
+  "_row": 53
+ },
+ {
+  "index": 252,
+  "gimmick_id": "GM034_022_00",
+  "name": "Sharp Wing Claw Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1552967296",
+  "name_guid": "faa52886-e22a-4db4-8619-78f1a303356b",
+  "description_guid": "fea89c13-d22d-42a9-a16d-42185b0ff1ea",
+  "_row": 54
+ },
+ {
+  "index": 570,
+  "gimmick_id": "GM800_007_00",
+  "name": "Grand Hub Entrance",
+  "description": "A place near the Squad Information Counter\nand the Expedition Record Board.\nPress <ICON UI_DECIDE> to fast travel there.",
+  "name_guid": "ea457ed7-a202-4e54-930d-ac0be5041c1c",
+  "description_guid": "f2e304b7-b816-4815-b57a-46bb45a6fc0e",
+  "_row": 55
+ },
+ {
+  "index": 429,
+  "gimmick_id": "GM205_000_00",
+  "name": null,
+  "description": "A trap that attracts carnivores. Snared\nmonsters can be used for crafting or cooking.",
+  "name_guid": "3402e2c0-4627-434d-ba12-b412b90a81b2",
+  "description_guid": "a52ac1fb-0fde-4ea0-bee6-346d72029b5b",
+  "_row": 56
+ },
+ {
+  "index": 550,
+  "gimmick_id": "GM800_002_56",
+  "name": "Area 8: Middle Strata North",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "06064a15-23cb-443e-bc83-0b85a6811bc4",
+  "description_guid": "9e0a8881-36d3-4e86-835e-34a85feed913",
+  "_row": 57
+ },
+ {
+  "index": 184,
+  "gimmick_id": "GM030_052_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1512792448",
+  "name_guid": "4e498804-980a-4c52-8b2b-574a447caf59",
+  "description_guid": "93f17c79-732f-4dc8-ab83-b30f900b6917",
+  "_row": 58
+ },
+ {
+  "index": 339,
+  "gimmick_id": "GM036_009_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1507148544",
+  "name_guid": "42cdd5a6-43c8-4a01-bb0f-e42874f81f0c",
+  "description_guid": "d5627834-9eaf-4d32-80ff-1265b839cbee",
+  "_row": 59
+ },
+ {
+  "index": 161,
+  "gimmick_id": "GM030_022_00",
+  "name": "Incinerated Ground",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1507139840",
+  "name_guid": "267a0a7c-0b64-4c34-a237-3ab9683ff4fa",
+  "description_guid": "f4498159-a301-48db-9579-8220066ae1fc",
+  "_row": 60
+ },
+ {
+  "index": 331,
+  "gimmick_id": "GM036_001_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1482235264",
+  "name_guid": "2105f6fd-8de1-4f89-a5e7-6c559717f735",
+  "description_guid": "70d2b093-03e6-4d83-8bbc-bcace2243673",
+  "_row": 61
+ },
+ {
+  "index": 29,
+  "gimmick_id": "GM000_104_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_115>",
+  "name_guid": "1e941279-c945-44a0-8f19-171134d29d97",
+  "description_guid": "002925cf-31b5-4e7d-9130-d8766715c544",
+  "_row": 62
+ },
+ {
+  "index": 88,
+  "gimmick_id": "GM000_153_00",
+  "name": "Ephemeral Blossom",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "cd0495d1-07c0-4ba5-952f-789728e6e87b",
+  "description_guid": "082737b3-1f36-45af-8b6c-7a9b665ff35f",
+  "_row": 63
+ },
+ {
+  "index": 359,
+  "gimmick_id": "GM100_000_00",
+  "name": "{0} Tent",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1412776978",
+  "name_guid": "852de39d-f4c4-42c0-a5c2-94a4d6d161c1",
+  "description_guid": "589fb987-1e06-4283-83c0-6efff517a3ff",
+  "_row": 64
+ },
+ {
+  "index": 235,
+  "gimmick_id": "GM034_004_00",
+  "name": "Blue Thunder Crystal Fragment",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1396205184",
+  "name_guid": "2c7cd09c-74c1-4283-bba2-d3a14aceecbb",
+  "description_guid": "8758329e-abb3-4236-bc75-3bae4010deb6",
+  "_row": 65
+ },
+ {
+  "index": 136,
+  "gimmick_id": "GM017_000_00",
+  "name": "Sharp Crystal Pillar",
+  "description": "A jagged pillar of keen fulgurite crystal.\nCrumbles on impact, collapsing atop anything\ncaught beneath.",
+  "name_guid": "5db7cde5-cb4b-4a99-968f-04d419ff9bf6",
+  "description_guid": "1bf1e64b-7bb1-475c-9c9a-b2bc421f2f61",
+  "_row": 66
+ },
+ {
+  "index": 483,
+  "gimmick_id": "GM552_001_00",
+  "name": "Lump of Wyrmsbane",
+  "description": "A huge lump of Wyrmsbane. Lift it to activate\nthe energy inside, roll it, and then attack\nit to trigger an explosion.",
+  "name_guid": "efec886a-8d8b-4771-ab73-39f73cd3ae2f",
+  "description_guid": "9e252157-05d8-4dca-b902-79aefad506eb",
+  "_row": 67
+ },
+ {
+  "index": 242,
+  "gimmick_id": "GM034_011_00",
+  "name": "Unearthed Truffle Fragment",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1364299264",
+  "name_guid": "252ac5fa-3373-4feb-ad9a-47995e75addd",
+  "description_guid": "575a3d9a-8ced-45ba-a5dc-63d0dee06610",
+  "_row": 68
+ },
+ {
+  "index": 131,
+  "gimmick_id": "GM009_001_00",
+  "name": "Grounding Pillar",
+  "description": "A large rock pillar that intercepts lightning strikes,\naffording protection to the surrounding area.",
+  "name_guid": "a91ba878-6352-4707-b76e-6cb1d7103616",
+  "description_guid": "6d13627c-8ff3-4d8d-a718-596918437656",
+  "_row": 69
+ },
+ {
+  "index": 145,
+  "gimmick_id": "GM030_006_00",
+  "name": "Splattered Oil",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1342584576",
+  "name_guid": "6822d969-0fc5-440c-959e-a9d3c98d3936",
+  "description_guid": "f5060833-d5cf-4b91-bbc7-6a7d24f2e695",
+  "_row": 70
+ },
+ {
+  "index": 198,
+  "gimmick_id": "GM030_080_00",
+  "name": "Scale Fragments",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1329551232",
+  "name_guid": "6c440b53-ac20-4e3a-94e3-8215121c6d56",
+  "description_guid": "b7db763f-5a41-4425-9a3d-e510159caf83",
+  "_row": 71
+ },
+ {
+  "index": 137,
+  "gimmick_id": "GM019_001_00",
+  "name": "Falling Grounding Pillar",
+  "description": "A grounding rock protrusion; easily felled when\nstruck. The fallen fragments repel electricity,\nand can be used as Slinger ammunition.",
+  "name_guid": "78f8f1e5-4763-4ee8-98ff-70c5d2179b7c",
+  "description_guid": "e6a44aa5-73ee-47d1-b9f1-779ec79f96b0",
+  "_row": 72
+ },
+ {
+  "index": 392,
+  "gimmick_id": "GM156_000_00",
+  "name": "Wyverian Flower",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1296434816",
+  "name_guid": "85c51a89-b565-46bc-8f0a-c2ef9e76db6f",
+  "description_guid": "442c733c-6b22-4f36-8934-d50d74ea0268",
+  "_row": 73
+ },
+ {
+  "index": 12,
+  "gimmick_id": "GM000_007_00",
+  "name": "Thorngrass Pod",
+  "description": "<REF Item_IT_EXP_52>",
+  "name_guid": "11edca4d-9dc1-4fce-9da5-62d2d52d6a43",
+  "description_guid": "85c78907-f5b5-4200-a9a1-76248519b6a3",
+  "_row": 74
+ },
+ {
+  "index": 548,
+  "gimmick_id": "GM800_002_54",
+  "name": "Area 15: Lower Strata North",
+  "description": "<REF RefEnvironment_TentTips_Caution>",
+  "name_guid": "2505b169-e2bd-4dd5-ae00-1d0a2c95dcc2",
+  "description_guid": "e58b23d6-e82b-4fc0-b0da-7b4ad3326fbb",
+  "_row": 75
+ },
+ {
+  "index": 580,
+  "gimmick_id": "GM810_000_00",
+  "name": "Road to the Iceshard Cliffs",
+  "description": "An underground passage following the Landspine\nfrom the Oilwell Basin to the Iceshard Cliffs.",
+  "name_guid": "4021441a-1ae5-4582-963a-71648a77222c",
+  "description_guid": "d2e9b0b7-2c35-41be-a1fd-dac0da375d82",
+  "_row": 76
+ },
+ {
+  "index": 567,
+  "gimmick_id": "GM800_004_55",
+  "name": "Area 6: Southeast",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "29d8b7ad-da26-42cc-a808-a918f5e52a22",
+  "description_guid": "67234065-ea62-4b33-9b41-fedb252e0c48",
+  "_row": 77
+ },
+ {
+  "index": 106,
+  "gimmick_id": "GM000_173_00",
+  "name": "Hirabami Molting",
+  "description": "A place for gathering special items.",
+  "name_guid": "01c33312-5750-45eb-b0d4-40be27371680",
+  "description_guid": "18eeb124-ab53-4ead-9058-946ec3af2e48",
+  "_row": 78
+ },
+ {
+  "index": 521,
+  "gimmick_id": "GM800_000_58",
+  "name": "Area 13: West",
+  "description": "<REF RefEnvironment_TentTips_Caution>",
+  "name_guid": "baa3ac6d-15da-4835-bba0-0d43c1bf3295",
+  "description_guid": "efe89cef-fe95-421b-9abf-3e4155ade115",
+  "_row": 79
+ },
+ {
+  "index": 152,
+  "gimmick_id": "GM030_013_00",
+  "name": "White Hairs",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1194324096",
+  "name_guid": "a1ed94af-b618-4b9a-963b-01a1a1692ed7",
+  "description_guid": "5c44deaa-a973-4138-8502-92b9ace1c5d1",
+  "_row": 80
+ },
+ {
+  "index": 104,
+  "gimmick_id": "GM000_171_00",
+  "name": "Beautiful Aquatica",
+  "description": "A place for gathering special items.",
+  "name_guid": "f766f2b6-5e41-491f-9798-28e614124abd",
+  "description_guid": "fcb1e454-957a-4619-83a0-8c39a4e78592",
+  "_row": 81
+ },
+ {
+  "index": 35,
+  "gimmick_id": "GM000_107_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_125>",
+  "name_guid": "2c103c58-224b-4a65-92a3-5d2bd242a100",
+  "description_guid": "132313aa-4681-4cfa-8425-0d5748c3186d",
+  "_row": 82
+ },
+ {
+  "index": 459,
+  "gimmick_id": "GM452_000_00",
+  "name": "Crumbling Pillar",
+  "description": "A crumbling, weathered pillar. Mounting a\nmonster's head may cause it to ram into the\nstructure. Multiple impacts will destroy it.",
+  "name_guid": "c4f59110-f78a-402a-b52d-4c937d5a0cb7",
+  "description_guid": "c2e53f82-3002-4f82-b48b-52ce2202963f",
+  "_row": 83
+ },
+ {
+  "index": 529,
+  "gimmick_id": "GM800_001_50",
+  "name": "Area 16: Ruin Interior",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "771618a2-c00b-4ea9-be69-ce3295be339e",
+  "description_guid": "5d514478-1b20-4b3c-a56d-8db32739129e",
+  "_row": 84
+ },
+ {
+  "index": 329,
+  "gimmick_id": "GM035_000_00",
+  "name": "Carrion Mushroom",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "e0571f59-368c-4094-8a95-90de55b2480b",
+  "description_guid": "d6e8c432-0dfd-41f6-8f72-7710be7fe116",
+  "_row": 85
+ },
+ {
+  "index": 33,
+  "gimmick_id": "GM000_106_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_117>",
+  "name_guid": "41322801-0d28-4713-80d3-e0e93b7fd593",
+  "description_guid": "1384a5f7-efde-4ee1-97dc-3e1565172f64",
+  "_row": 86
+ },
+ {
+  "index": 454,
+  "gimmick_id": "GM410_000_00",
+  "name": "Lynian's Parting Gift",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1101535360",
+  "name_guid": "4235c636-8352-46ce-b923-1ea31c31f398",
+  "description_guid": "3973b2f8-f04f-42fc-9ed8-442cfaaccd48",
+  "_row": 87
+ },
+ {
+  "index": 175,
+  "gimmick_id": "GM030_043_00",
+  "name": "Chewed Mushroom Crumbs",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1096031232",
+  "name_guid": "71ec7c6c-8774-49a3-90ed-5a4001c50448",
+  "description_guid": "dcb0d8fa-7fb1-45f7-a4aa-8e00160fed00",
+  "_row": 88
+ },
+ {
+  "index": 551,
+  "gimmick_id": "GM800_002_57",
+  "name": "Area 4: Dilapidated Roadway",
+  "description": "<REF RefEnvironment_TentTips_Caution>",
+  "name_guid": "edccaf25-99ba-4cb0-8c1f-62099868519b",
+  "description_guid": "685d1d89-9e3c-4459-a3e0-d2056ab467f2",
+  "_row": 89
+ },
+ {
+  "index": 211,
+  "gimmick_id": "GM030_119_00",
+  "name": "Beak-Shaped Hole",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1078270720",
+  "name_guid": "5be7f722-6cbc-4ae4-8304-ff6b116f1eb6",
+  "description_guid": "27ee11c8-40ed-481e-8c7b-0c2be3e0c3bd",
+  "_row": 90
+ },
+ {
+  "index": 507,
+  "gimmick_id": "GM701_000_00",
+  "name": "Gemma's Proto Snare",
+  "description": "A prototype snare custom-designed by Gemma.\nWhen triggered, the contraption briefly\nimmobilizes large monsters caught in its net.",
+  "name_guid": "ceeb9afc-3c13-40f1-a6f4-5dcd54f7c7e9",
+  "description_guid": "0f703efd-5779-4488-bf68-2ffba23c6e8c",
+  "_row": 91
+ },
+ {
+  "index": 342,
+  "gimmick_id": "GM036_012_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1066643648",
+  "name_guid": "c749ec79-b14c-43d2-b944-c83218c0d1d8",
+  "description_guid": "279d21f5-a6a1-478f-ac7c-82eb86f49598",
+  "_row": 92
+ },
+ {
+  "index": 140,
+  "gimmick_id": "GM030_001_00",
+  "name": "Shed Fur",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1052851072",
+  "name_guid": "d3e3ebdc-5adc-4bfe-8da8-9726d7dd4585",
+  "description_guid": "c952102a-73e8-4621-8757-ed1fa687a1f1",
+  "_row": 93
+ },
+ {
+  "index": 499,
+  "gimmick_id": "GM606_000_00",
+  "name": "Crumbling Ice Wall",
+  "description": "The run-down remains of a large building.\nPulling it with your Hook Slinger will cause\nit to collapse.",
+  "name_guid": "09b8047a-1c5a-4a23-8533-c9b02f09c45e",
+  "description_guid": "78da9c41-64e9-477b-92b5-c70c0b4d5083",
+  "_row": 94
+ },
+ {
+  "index": 135,
+  "gimmick_id": "GM016_001_00",
+  "name": "Unstable Fulgurite Ground",
+  "description": "A brittle cliffside made of fulgurite. A strong\nimpact will bring it down, revealing sharp\ncrystalline thorns in its place.",
+  "name_guid": "40467db6-c3c2-4054-98fe-7eced3d6c99d",
+  "description_guid": "d6f548a2-f2b0-4a77-a1fe-fa0ee363e4f3",
+  "_row": 95
+ },
+ {
+  "index": 574,
+  "gimmick_id": "GM800_008_00",
+  "name": "Makeshift Camp",
+  "description": "A temporary camp with all the necessities for\na hunt. Change your equipment and organize your\nitems here. Accessible by fast travel with <ICON UI_DECIDE>.",
+  "name_guid": "408f9612-d533-45ea-a40c-920dae0d595d",
+  "description_guid": "694ecd96-2425-466c-b27d-d38447654162",
+  "_row": 96
+ },
+ {
+  "index": 582,
+  "gimmick_id": "GM810_002_00",
+  "name": "Keepers' Byroad",
+  "description": "An underground passage following the Landspine\nextending from the Iceshard Cliffs toward the\nKeepers' Vigil.",
+  "name_guid": "d4cee5a7-09b4-4939-bc75-0d70b19c3f70",
+  "description_guid": "7d4b9d22-7c6a-4722-ad7c-760e9e124c55",
+  "_row": 97
+ },
+ {
+  "index": 496,
+  "gimmick_id": "GM601_000_00",
+  "name": "Floating Rubble",
+  "description": "A mass of rubble suspended in midair.\nUse your Hook Slinger to pull it closer to you.",
+  "name_guid": "3fdac096-e31c-4eeb-a433-ec5972d63013",
+  "description_guid": "d8868428-fd0b-4971-9948-4d0eb1da7878",
+  "_row": 98
+ },
+ {
+  "index": 171,
+  "gimmick_id": "GM030_035_00",
+  "name": "Scratch Marks",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m1003991616",
+  "name_guid": "508b233a-73c1-4c25-959c-c351eebf64c5",
+  "description_guid": "e40a937a-9a5a-483a-ba7b-17187b42df16",
+  "_row": 99
+ },
+ {
+  "index": 430,
+  "gimmick_id": "GM205_001_00",
+  "name": null,
+  "description": "A trap that attracts carnivores. They'll\nbe poisoned if they eat the bait.",
+  "name_guid": "8829775b-e71c-4c0c-9bbc-be945f1d891e",
+  "description_guid": "63140081-f477-4426-bc76-34ce6ab5553e",
+  "_row": 100
+ },
+ {
+  "index": 98,
+  "gimmick_id": "GM000_164_00",
+  "name": "Blackened Fossil",
+  "description": "A place for gathering special items.",
+  "name_guid": "3df18d62-5948-44bd-afb4-a193a95ffa23",
+  "description_guid": "9776578e-6f84-4b4d-a3fc-d7a6271aa82f",
+  "_row": 101
+ },
+ {
+  "index": 536,
+  "gimmick_id": "GM800_001_57",
+  "name": "Area 8: South",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "58ac3fbe-c33b-4110-8eb7-20887fb1f344",
+  "description_guid": "5306a72d-d008-48ec-bfaa-06d3fa86aa78",
+  "_row": 102
+ },
+ {
+  "index": 510,
+  "gimmick_id": "GM800_000_00",
+  "name": null,
+  "description": "The expedition team's base of operations,\noffering a host of useful support facilities.",
+  "name_guid": "db74a9e7-83ac-4c32-97f0-27b210914ba0",
+  "description_guid": "bcfb698f-ca56-40d6-ac56-8f828fa61f82",
+  "_row": 103
+ },
+ {
+  "index": 162,
+  "gimmick_id": "GM030_023_00",
+  "name": "Mucus",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m946654528",
+  "name_guid": "b915d982-753a-4e93-9a40-6993c817cb62",
+  "description_guid": "326be0e9-adb5-47ed-8779-e087522b9907",
+  "_row": 104
+ },
+ {
+  "index": 253,
+  "gimmick_id": "GM034_023_00",
+  "name": "Tough Carapace Fragment",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m939662656",
+  "name_guid": "f1a56265-8bd7-4fad-a919-788dc8138cbb",
+  "description_guid": "aea94c48-4d71-494b-bde9-f57614c2c124",
+  "_row": 105
+ },
+ {
+  "index": 338,
+  "gimmick_id": "GM036_008_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m937035136",
+  "name_guid": "146626c3-8bf1-4cab-8b0f-583619dc2d28",
+  "description_guid": "2c26f4ac-c70a-4583-aede-d64e3255398a",
+  "_row": 106
+ },
+ {
+  "index": 202,
+  "gimmick_id": "GM030_095_00",
+  "name": "Chainblade Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m933299392",
+  "name_guid": "2af95d11-7838-44ec-921e-eba13c92998f",
+  "description_guid": "371949f5-63c2-4f8a-bdd4-bef1994b04dc",
+  "_row": 107
+ },
+ {
+  "index": 527,
+  "gimmick_id": "GM800_001_01",
+  "name": null,
+  "description": "Ruins situated in the Scarlet Forest that\nserve as home to the Wudwuds and are\nthe site of seasonal nighttime feasts.",
+  "name_guid": "23b668dd-4689-40d6-a710-3af5a1919669",
+  "description_guid": "5cdb79d8-b797-4ac8-836d-13875dea2fd4",
+  "_row": 108
+ },
+ {
+  "index": 555,
+  "gimmick_id": "GM800_003_52",
+  "name": "Area 20: Ancient Room",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "dda8a6d8-24f4-4743-8da6-1c7becd8112f",
+  "description_guid": "bd83aaf3-e282-4a40-9414-bfae77c627e9",
+  "_row": 109
+ },
+ {
+  "index": 176,
+  "gimmick_id": "GM030_044_00",
+  "name": "Chewed Mushroom Crumbs",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m916720832",
+  "name_guid": "54a30ae2-8e63-47f3-9828-f6a1889d1c9a",
+  "description_guid": "3dc054f2-cd02-460d-a383-2cca3355fa79",
+  "_row": 110
+ },
+ {
+  "index": 144,
+  "gimmick_id": "GM030_005_00",
+  "name": "Scraps of Cloth",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m899080384",
+  "name_guid": "9b91f87e-78a4-4b88-99ce-f2d92c0284b2",
+  "description_guid": "50e7d724-6ac3-4eb0-9419-d5d342977000",
+  "_row": 111
+ },
+ {
+  "index": 482,
+  "gimmick_id": "GM552_000_00",
+  "name": "Lump of Blastcoal",
+  "description": "A large formation of highly flammable stone. Hold\nit aloft to spark an internal combustion reaction,\nroll it, then strike it for an explosion.",
+  "name_guid": "f72a2db6-f417-4b8f-8d7d-62b9f2344f00",
+  "description_guid": "8bab7fed-700a-400f-ad2d-3c10d746af7f",
+  "_row": 112
+ },
+ {
+  "index": 432,
+  "gimmick_id": "GM205_003_00",
+  "name": null,
+  "description": "A trap that attracts carnivores. They'll\nbe put to sleep if they eat the bait.",
+  "name_guid": "ec594ced-69c7-4cfa-a5a3-cd7c77ac897f",
+  "description_guid": "af793058-372a-4dec-99ce-827365fbe7ed",
+  "_row": 113
+ },
+ {
+  "index": 200,
+  "gimmick_id": "GM030_089_00",
+  "name": "Excavation Traces",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m863018560",
+  "name_guid": "38187d0e-1779-4101-9608-aeeb21d7508a",
+  "description_guid": "d8f8a4e6-4870-420a-b3b4-a34b0e0c9616",
+  "_row": 114
+ },
+ {
+  "index": 68,
+  "gimmick_id": "GM000_129_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_130>",
+  "name_guid": "360084c1-48e9-4a51-9009-84d859a64b40",
+  "description_guid": "bfb38b7c-fc66-4b2f-95ae-c8c16ec8163c",
+  "_row": 115
+ },
+ {
+  "index": 542,
+  "gimmick_id": "GM800_002_01",
+  "name": null,
+  "description": "A village in the Oilwell Basin where the three\nartisan tribes dwell. When the Inclemency\ncomes, they hold a festival known as the Firespring.",
+  "name_guid": "9c32ae76-553c-483e-8a76-2f6d798a0624",
+  "description_guid": "39ee3d5b-2864-4f84-8865-fd1ff4d15f3a",
+  "_row": 116
+ },
+ {
+  "index": 70,
+  "gimmick_id": "GM000_130_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_131>",
+  "name_guid": "4cd2a6ea-c6cf-4f21-8f1b-f6582ea4a4e8",
+  "description_guid": "459c1a39-3468-44f6-a682-88a79f86ebd6",
+  "_row": 117
+ },
+ {
+  "index": 7,
+  "gimmick_id": "GM000_004_00",
+  "name": "Sparkflint",
+  "description": "<REF Item_IT_EXP_189>",
+  "name_guid": "c5a8e70e-2588-4973-b097-8381be138a91",
+  "description_guid": "9252f6f1-be2e-4fee-ab07-5af1dcf4cf53",
+  "_row": 118
+ },
+ {
+  "index": 77,
+  "gimmick_id": "GM000_143_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_638>",
+  "name_guid": "6e3049be-a2bc-47e8-898d-9b254bc48428",
+  "description_guid": "8a472938-bfdd-4a78-92a9-26fb0b36cc39",
+  "_row": 119
+ },
+ {
+  "index": 508,
+  "gimmick_id": "GM750_000_00",
+  "name": null,
+  "description": "It seems Werner is eager to conduct a new\nexperiment. Lure a large monster into the area\nand he'll rig up his new multi-stage explosive.",
+  "name_guid": "759e9d56-db74-4d71-8e10-4902ced74598",
+  "description_guid": "7f8d4cbf-b584-4701-8915-34a1c1cf4241",
+  "_row": 120
+ },
+ {
+  "index": 93,
+  "gimmick_id": "GM000_157_00",
+  "name": "Sandpepper",
+  "description": "A place for gathering special items.",
+  "name_guid": "8f15bca1-15a6-449f-8fdf-21c5c1d324c1",
+  "description_guid": "a0a5722a-5c64-4138-8827-98c9cfb50b4d",
+  "_row": 121
+ },
+ {
+  "index": 535,
+  "gimmick_id": "GM800_001_56",
+  "name": "Area 12: Northeast",
+  "description": "<REF RefEnvironment_TentTips_Caution>",
+  "name_guid": "13fc63d2-5d34-4c08-9f54-ecaaa102d767",
+  "description_guid": "8eb90fa9-274a-417b-a06f-9419fcddd7c2",
+  "_row": 122
+ },
+ {
+  "index": 40,
+  "gimmick_id": "GM000_110_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_127>",
+  "name_guid": "919547b0-49c9-4a01-aa46-31b234cd2bfd",
+  "description_guid": "0f104161-34fd-4a0e-9438-cb53a97917b8",
+  "_row": 123
+ },
+ {
+  "index": 60,
+  "gimmick_id": "GM000_120_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_477>",
+  "name_guid": "5bd1cda0-c09a-4077-94fe-5202d4c5c4da",
+  "description_guid": "9cec395e-8cae-42ac-b147-4510b1519a55",
+  "_row": 124
+ },
+ {
+  "index": 337,
+  "gimmick_id": "GM036_007_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m757125760",
+  "name_guid": "495dab6a-4b49-48e4-9de9-f0904d8d0ea1",
+  "description_guid": "21610b76-f225-4ce3-a12b-fb5760b38a25",
+  "_row": 125
+ },
+ {
+  "index": 500,
+  "gimmick_id": "GM607_000_00",
+  "name": "Giant Ice Chunk",
+  "description": "A chunk of ice attached to some floating rubble.\nHitting it with your Slinger will cause it to fall,\nallowing you to use it as cover.",
+  "name_guid": "35f646fa-0d73-4c38-8ae8-753b608818fa",
+  "description_guid": "eaed7942-9846-4eee-8f04-126fa7b2c370",
+  "_row": 126
+ },
+ {
+  "index": 48,
+  "gimmick_id": "GM000_114_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_113>",
+  "name_guid": "6edac721-348e-4269-82a0-22fcd5be8286",
+  "description_guid": "8c807350-9a82-4792-93c5-86e927af4c31",
+  "_row": 127
+ },
+ {
+  "index": 254,
+  "gimmick_id": "GM034_024_00",
+  "name": "Ominous Horn Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m739139456",
+  "name_guid": "68e1c0f5-8150-403c-8d8b-71c90e0ae9fb",
+  "description_guid": "12840584-5bba-43d6-9067-71db33c8831a",
+  "_row": 128
+ },
+ {
+  "index": 255,
+  "gimmick_id": "GM034_025_00",
+  "name": "Crushing Chainblade Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m737804544",
+  "name_guid": "ec75efbf-990c-4665-bde9-db2c7699b7bc",
+  "description_guid": "0cc0ad0c-67ad-4008-8e36-03d502e2cff2",
+  "_row": 129
+ },
+ {
+  "index": 112,
+  "gimmick_id": "GM000_179_00",
+  "name": "Wylky Crystal Outcrop",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "790c0eb5-1763-490d-9d79-9857b4eaff23",
+  "description_guid": "a2fb2d44-a91d-4ca7-9224-5b4b35f9e2b5",
+  "_row": 130
+ },
+ {
+  "index": 333,
+  "gimmick_id": "GM036_003_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m727499456",
+  "name_guid": "50e4fe1e-8870-4c78-9f45-b4c5bb4ab114",
+  "description_guid": "316b4376-3ae9-48cf-be60-7a2c22c91b43",
+  "_row": 131
+ },
+ {
+  "index": 556,
+  "gimmick_id": "GM800_003_53",
+  "name": "Area 19: Floating Rock Wall",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "69f2ff0d-d0cd-4d41-801c-cd5b0bffe5a2",
+  "description_guid": "02917c7c-9e76-4a8e-a958-b867277d5b2d",
+  "_row": 132
+ },
+ {
+  "index": 360,
+  "gimmick_id": "GM100_002_00",
+  "name": "Tent",
+  "description": "The Avis Unit's tent. Enter to manage\nitems, change equipment, and more.",
+  "name_guid": "bc5a9043-7d32-40d4-b455-52e7897b985f",
+  "description_guid": "213d1a35-f25f-44c4-a254-4f618e818c33",
+  "_row": 133
+ },
+ {
+  "index": 13,
+  "gimmick_id": "GM000_008_00",
+  "name": "Frostlantern",
+  "description": "<REF Item_IT_EXP_286>",
+  "name_guid": "dbb74e28-7417-4bcc-ba47-9372617c8865",
+  "description_guid": "2b67fc6f-1889-417d-8260-13613ff59c12",
+  "_row": 134
+ },
+ {
+  "index": 61,
+  "gimmick_id": "GM000_121_00",
+  "name": "Mining Outcrop",
+  "description": "A place for mining ore.",
+  "name_guid": "5cda58c2-1749-4c56-a5c2-a25b7038ef01",
+  "description_guid": "5cfd9fdf-0f7e-4725-93c6-5e109751a652",
+  "_row": 135
+ },
+ {
+  "index": 485,
+  "gimmick_id": "GM555_000_00",
+  "name": "Falling Stalactite",
+  "description": "A mineral formation of dripping limestone.\nFragile at its base, a strong impact will\ncause the bulk of it to fall.",
+  "name_guid": "fcc42ea7-02e7-431a-8107-d6e16443bc94",
+  "description_guid": "5eb5196b-e6f5-4ab9-931c-5cb74da274f7",
+  "_row": 136
+ },
+ {
+  "index": 588,
+  "gimmick_id": "GM810_008_00",
+  "name": "Peaks Back Gate",
+  "description": "A path that leads to other areas neighboring\nSuja, Peaks of Accord.",
+  "name_guid": "58ca4eb8-b7d0-4bc5-be79-f008996373b7",
+  "description_guid": "4de8d851-cdb2-49cf-b283-210e0cb2dd13",
+  "_row": 137
+ },
+ {
+  "index": 143,
+  "gimmick_id": "GM030_004_00",
+  "name": "Saliva Traces",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m682331840",
+  "name_guid": "4e776bd4-57f3-4c1a-aee7-a357b700034b",
+  "description_guid": "6a9c6142-eda8-40d3-9473-c47acc2e8873",
+  "_row": 138
+ },
+ {
+  "index": 504,
+  "gimmick_id": "GM655_000_00",
+  "name": "Shrine Fragment",
+  "description": "A fragment of an unstable Dragontorch Shrine.\nA strong impact will cause it to fall.",
+  "name_guid": "51a3a47e-f98d-43e6-a796-79435efc4d58",
+  "description_guid": "2edfa427-b9f9-4a7d-a053-adf22608e318",
+  "_row": 139
+ },
+ {
+  "index": 123,
+  "gimmick_id": "GM001_015_01",
+  "name": "Vitalily",
+  "description": "A plant that releases a healing nectar into\nthe air when struck.",
+  "name_guid": "e57808d6-f179-4353-9682-90d1c92fb486",
+  "description_guid": "d46478d8-7d5c-4595-8c3a-2e844153eb2a",
+  "_row": 140
+ },
+ {
+  "index": 227,
+  "gimmick_id": "GM032_000_00",
+  "name": "Bonepile",
+  "description": "A place for gathering\nbone materials.",
+  "name_guid": "15861ce5-1457-4e1d-9606-3bb1b5d72981",
+  "description_guid": "0ac9e570-9ba3-477a-851e-30c7cee389a8",
+  "_row": 141
+ },
+ {
+  "index": 190,
+  "gimmick_id": "GM030_058_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m655525760",
+  "name_guid": "75b74b8c-ecd0-4625-9779-d057c0810d2a",
+  "description_guid": "59d75ab4-d95c-4a0d-a25d-7c7ed8bec325",
+  "_row": 142
+ },
+ {
+  "index": 201,
+  "gimmick_id": "GM030_094_00",
+  "name": "Sharp Feathers",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m654606400",
+  "name_guid": "9dd4b59d-831c-47c2-ab00-98df8574974e",
+  "description_guid": "f7741fd3-3b5c-4135-94f6-a935f8431c75",
+  "_row": 143
+ },
+ {
+  "index": 100,
+  "gimmick_id": "GM000_165_00",
+  "name": "Hopper Crystal Ore",
+  "description": "A place for gathering special items.",
+  "name_guid": "0a27a053-2b25-4906-beaf-15eb12d2eca4",
+  "description_guid": "e96d1698-cd6d-4c92-b759-7143315101fc",
+  "_row": 144
+ },
+ {
+  "index": 330,
+  "gimmick_id": "GM036_000_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m643610368",
+  "name_guid": "04e8b9c6-9858-41d4-9786-c0adf08cf734",
+  "description_guid": "f124994f-c599-4965-8e89-0cd5307d5494",
+  "_row": 145
+ },
+ {
+  "index": 187,
+  "gimmick_id": "GM030_055_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m629493440",
+  "name_guid": "45e97370-b676-42b5-aaf0-7b55752a15ee",
+  "description_guid": "090fcf82-1107-4a63-bc90-0fe20d91203c",
+  "_row": 146
+ },
+ {
+  "index": 565,
+  "gimmick_id": "GM800_004_53",
+  "name": "Area 13: Hidden Cave",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "a1e0ff87-eb6c-40f8-8ec4-4004bffb42d6",
+  "description_guid": "a9d9fc06-e654-48e4-89d7-c1c785ed6a9f",
+  "_row": 147
+ },
+ {
+  "index": 457,
+  "gimmick_id": "GM411_001_00",
+  "name": "Pit Elevator",
+  "description": "An elevator in the Oilwell Basin.\nCan be used while riding a Seikret.",
+  "name_guid": "396e33f3-b676-448b-8dd9-340de9213201",
+  "description_guid": "e1fe41ef-ef3f-4677-b2c0-a531e52b0f52",
+  "_row": 148
+ },
+ {
+  "index": 10,
+  "gimmick_id": "GM000_006_00",
+  "name": "Watermoss",
+  "description": "<REF Item_IT_EXP_190>",
+  "name_guid": "ad90bfee-e94c-4fc0-ae0f-f132713bb3cc",
+  "description_guid": "0de0c69f-a0a1-44d2-bcb3-02ec7df28063",
+  "_row": 149
+ },
+ {
+  "index": 547,
+  "gimmick_id": "GM800_002_53",
+  "name": "Area 13: Limestone Cavern",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "99a6faa6-9eaf-482c-8d5a-a8685f1d3a5c",
+  "description_guid": "59535042-7c27-49c5-9799-4bfccd47cb03",
+  "_row": 150
+ },
+ {
+  "index": 513,
+  "gimmick_id": "GM800_000_50",
+  "name": "Area 4: Mineral Cave",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "641d615a-8b2d-4100-8c20-e60e4531554e",
+  "description_guid": "6bed6649-74c9-46fc-a7eb-996ad6a493bc",
+  "_row": 151
+ },
+ {
+  "index": 540,
+  "gimmick_id": "GM800_001_62",
+  "name": "Area 17: Great Lake Shore",
+  "description": "<REF RefEnvironment_TentTips_Caution>",
+  "name_guid": "9bb12c9b-a6e3-4259-9dfd-389e8a143bc6",
+  "description_guid": "45beae23-32f1-48fd-bf22-f9a6c8ed8311",
+  "_row": 152
+ },
+ {
+  "index": 549,
+  "gimmick_id": "GM800_002_55",
+  "name": "Area 9: Middle Strata South",
+  "description": "<REF RefEnvironment_TentTips_Caution>",
+  "name_guid": "5d50e9aa-c52a-47d6-971e-4987f6136d87",
+  "description_guid": "656590ae-5810-4082-a525-5174c4350222",
+  "_row": 153
+ },
+ {
+  "index": 456,
+  "gimmick_id": "GM411_000_00",
+  "name": "Pit Elevator",
+  "description": "An elevator in the Oilwell Basin.\nCan be used while riding a Seikret.",
+  "name_guid": "7085a409-24ef-463c-8487-5656840bdab4",
+  "description_guid": "9a78e7d1-a0ee-4d3a-bc50-e071ac79fdc2",
+  "_row": 154
+ },
+ {
+  "index": 245,
+  "gimmick_id": "GM034_014_00",
+  "name": "Yellow Ore Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m500850880",
+  "name_guid": "0a0fe403-52b8-4835-b849-5da38df819cb",
+  "description_guid": "239482c1-0e99-4dbf-9e93-f0d324f5aec7",
+  "_row": 155
+ },
+ {
+  "index": 559,
+  "gimmick_id": "GM800_003_56",
+  "name": "Area 7: Watchtower",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "0501546e-110b-4854-ac1c-5fef4cc08bc7",
+  "description_guid": "01a4f302-4764-4fd5-a9ba-eac4009db3f6",
+  "_row": 156
+ },
+ {
+  "index": 363,
+  "gimmick_id": "GM104_002_00",
+  "name": "Camp Chairs",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m471764416",
+  "name_guid": "2c8f25a9-444a-4aa3-936f-f91b074ea743",
+  "description_guid": "7ced8cac-39d5-4650-9188-65ed47072564",
+  "_row": 157
+ },
+ {
+  "index": 172,
+  "gimmick_id": "GM030_036_00",
+  "name": "Oilsilt-drenched Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m470842304",
+  "name_guid": "0ba0e584-f0b0-4c9c-b2b2-32f1515165e5",
+  "description_guid": "b2848411-6395-4cdb-aba0-5760867abca7",
+  "_row": 158
+ },
+ {
+  "index": 160,
+  "gimmick_id": "GM030_021_00",
+  "name": "Scuffed Metal",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m465390496",
+  "name_guid": "5a762c7b-ae9d-4106-b972-bca267b10b2d",
+  "description_guid": "904cefc3-4153-433d-ac39-e6bb670b74af",
+  "_row": 159
+ },
+ {
+  "index": 182,
+  "gimmick_id": "GM030_050_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m438751488",
+  "name_guid": "51e210a0-fd8e-4dae-aeb7-ea2c493f939b",
+  "description_guid": "34959fe4-3024-481d-995c-54d0efdafe58",
+  "_row": 160
+ },
+ {
+  "index": 376,
+  "gimmick_id": "GM150_000_00",
+  "name": "Lantern",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m409968640",
+  "name_guid": "b205207a-b64a-4a6b-ac24-5f1c813d0bf6",
+  "description_guid": "236641be-b242-439f-b539-a48d7d0a664b",
+  "_row": 161
+ },
+ {
+  "index": 526,
+  "gimmick_id": "GM800_001_00",
+  "name": null,
+  "description": "The expedition team's base of operations,\noffering a host of useful support facilities.",
+  "name_guid": "fa67c4f2-acf5-4800-9225-2226ee34f345",
+  "description_guid": "49665492-2bed-4f39-8033-46b3b8ccefad",
+  "_row": 162
+ },
+ {
+  "index": 6,
+  "gimmick_id": "GM000_003_00",
+  "name": "Grounding Stone",
+  "description": "<REF Item_IT_EXP_155>",
+  "name_guid": "78f05127-f39e-4cc0-9e02-b596813975df",
+  "description_guid": "43b9237b-497a-4373-955d-3731c86b95c5",
+  "_row": 163
+ },
+ {
+  "index": 84,
+  "gimmick_id": "GM000_148_00",
+  "name": "Giant Windward Succulent",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "a5b88cf8-8d20-4588-a399-39d1478b5c6d",
+  "description_guid": "05e4d413-2e6e-4770-8c20-2b6fe1a221e8",
+  "_row": 164
+ },
+ {
+  "index": 83,
+  "gimmick_id": "GM000_146_00",
+  "name": "Windward Succulent",
+  "description": "A place for gathering special items.",
+  "name_guid": "11d49fad-d162-40bf-a05e-93063da4dc21",
+  "description_guid": "7924cb37-97ed-4925-8e49-36f3e0d3e842",
+  "_row": 165
+ },
+ {
+  "index": 19,
+  "gimmick_id": "GM000_011_00",
+  "name": "Crystallized Venom",
+  "description": "<REF Item_IT_EXP_183>",
+  "name_guid": "6f36afd0-baa1-4f37-8757-07f2950925a4",
+  "description_guid": "d8b85da4-85e7-487d-bd29-b165591d9454",
+  "_row": 166
+ },
+ {
+  "index": 501,
+  "gimmick_id": "GM611_000_00",
+  "name": "Brittle Ice Floor",
+  "description": "A brittle sheet of ice formed over the broken\nparts of the bridge. A strong impact will send\nanything on top tumbling into the valley below.",
+  "name_guid": "3590025c-0518-46a3-a69d-ebbc0e61625d",
+  "description_guid": "5f3a2d02-5abe-48e0-bc2c-1a66cdbff7ba",
+  "_row": 167
+ },
+ {
+  "index": 387,
+  "gimmick_id": "GM151_000_00",
+  "name": "Squad Flag: Avis Unit",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m330874688",
+  "name_guid": "341643f9-d3a4-4522-b2cb-9e4b8f086889",
+  "description_guid": "78717130-e1ba-472c-9939-e3bf98affbef",
+  "_row": 168
+ },
+ {
+  "index": 336,
+  "gimmick_id": "GM036_006_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m323327136",
+  "name_guid": "024b0281-3244-4667-b54c-c04e1a560589",
+  "description_guid": "fed5be85-a197-417f-89a5-fac6399dc8e6",
+  "_row": 169
+ },
+ {
+  "index": 433,
+  "gimmick_id": "GM206_000_00",
+  "name": null,
+  "description": "Has your Palico create a scent that\nattracts Vigorwasps. After a certain\namount of time, the scent will fade.",
+  "name_guid": "72b7d192-11bf-46e5-be7a-e223c6c138cf",
+  "description_guid": "631e9046-ddc4-4b39-860c-1184be8712b8",
+  "_row": 170
+ },
+ {
+  "index": 125,
+  "gimmick_id": "GM001_016_01",
+  "name": "Poisoncup",
+  "description": "A poisonous pitcher plant poised to spill its\nnoxious contents when disturbed.",
+  "name_guid": "8b7e7eb8-7fd3-42aa-ab94-7e77e7d54b02",
+  "description_guid": "e38903ba-7567-46b9-b371-453da7a15af5",
+  "_row": 171
+ },
+ {
+  "index": 38,
+  "gimmick_id": "GM000_109_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_126>",
+  "name_guid": "bf2fb009-2701-4049-b4e7-b86932ed9f71",
+  "description_guid": "4eb06c5f-793d-4001-a1b3-88f78e158729",
+  "_row": 172
+ },
+ {
+  "index": 332,
+  "gimmick_id": "GM036_002_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m290621728",
+  "name_guid": "c91776d8-d645-4ba8-8ebd-89b7a306db02",
+  "description_guid": "064d0f1e-5028-49eb-9056-8f42486fd9c8",
+  "_row": 173
+ },
+ {
+  "index": 151,
+  "gimmick_id": "GM030_012_00",
+  "name": "Lala Floret",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m281470080",
+  "name_guid": "da84edaf-60bf-4fc0-9388-a9aebfdd303a",
+  "description_guid": "72657d5c-19cc-46aa-b7a4-cd2aa8737d93",
+  "_row": 174
+ },
+ {
+  "index": 358,
+  "gimmick_id": "GM050_000_00",
+  "name": "Sit",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m275377312",
+  "name_guid": "621c34d0-1172-4479-9c8c-d4ca9e6a05fa",
+  "description_guid": "f49da040-970f-4a91-b771-910f851d5a02",
+  "_row": 175
+ },
+ {
+  "index": 177,
+  "gimmick_id": "GM030_045_00",
+  "name": "Chewed Mushroom Crumbs",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m273031584",
+  "name_guid": "a1d63746-0bd8-4d1d-8f94-b0fcd8196936",
+  "description_guid": "9eb2bb51-89d6-4f84-b69a-86263dbb2e76",
+  "_row": 176
+ },
+ {
+  "index": 89,
+  "gimmick_id": "GM000_154_00",
+  "name": "Exquisite Fossil",
+  "description": "A place for gathering special items.",
+  "name_guid": "9b3a0803-ac92-4e29-872a-9d607212f4f9",
+  "description_guid": "1395a9bc-dfd4-4974-a22b-94e6780f4311",
+  "_row": 177
+ },
+ {
+  "index": 481,
+  "gimmick_id": "GM551_001_00",
+  "name": "Lump of Wyrmsbane",
+  "description": "A huge lump of Wyrmsbane. Lift it to activate\nthe energy inside, roll it, and then attack\nit to trigger an explosion.",
+  "name_guid": "036a8214-6f11-47f6-b59f-d5a73faa94c8",
+  "description_guid": "fd63fa47-26e1-4e92-818e-de6b95a2366d",
+  "_row": 178
+ },
+ {
+  "index": 558,
+  "gimmick_id": "GM800_003_55",
+  "name": "Area 15: Upper Corridor",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "c3fe8798-dc21-4ba4-872b-620e14153d37",
+  "description_guid": "d43d2cf9-40f4-4841-a904-8bfbebb5bbda",
+  "_row": 179
+ },
+ {
+  "index": 463,
+  "gimmick_id": "GM503_000_01",
+  "name": "Loch Ruins",
+  "description": "The unstable remains of some aged structure.\nA sharp tug from the Hook Slinger could bring\nit down on unsuspecting foes.",
+  "name_guid": "4ec9ac56-a04f-4027-a3e3-cfacf122111e",
+  "description_guid": "c0cbb865-b12b-4ce3-80e8-dda05ce7cc42",
+  "_row": 180
+ },
+ {
+  "index": 466,
+  "gimmick_id": "GM506_001_00",
+  "name": "Sporepuff",
+  "description": "A plant laden with spores. Strike it to release\na dense cloud that can be used to hide a hunter\nfrom sight.",
+  "name_guid": "c6c2ebf7-062f-49d7-8eb8-a6aacb8a7888",
+  "description_guid": "c869c81c-2c76-400c-bfb8-eebf08fe498f",
+  "_row": 181
+ },
+ {
+  "index": 583,
+  "gimmick_id": "GM810_003_00",
+  "name": "Byroad to the Cliffs",
+  "description": "An underground passage following the Landspine\nfrom the Ruins of Wyveria to the Iceshard Cliffs.",
+  "name_guid": "a34d8504-874a-4cea-b82a-4d4263188f3d",
+  "description_guid": "27f49379-fca9-47e3-81ed-270c709308c3",
+  "_row": 182
+ },
+ {
+  "index": 180,
+  "gimmick_id": "GM030_048_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m138713168",
+  "name_guid": "657ffd32-99ec-418b-911c-1ac8d8a013b7",
+  "description_guid": "11b5bc98-d9e6-49c2-8b81-a8aaae4fc12e",
+  "_row": 183
+ },
+ {
+  "index": 206,
+  "gimmick_id": "GM030_105_00",
+  "name": "Scale Fragments",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m131130752",
+  "name_guid": "f9ae9bcf-394e-4e86-93c2-bf98b9b5b978",
+  "description_guid": "767debc7-1dba-4d13-bbb3-d9edf81cd100",
+  "_row": 184
+ },
+ {
+  "index": 348,
+  "gimmick_id": "GM036_018_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m129555080",
+  "name_guid": "b5e3eb8b-2457-4418-97f9-dcdb5264388a",
+  "description_guid": "ef76a8e0-2261-4a5c-ba94-6aa17b12ea5e",
+  "_row": 185
+ },
+ {
+  "index": 181,
+  "gimmick_id": "GM030_049_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m117950224",
+  "name_guid": "916b290d-deeb-4928-9331-3599ffee7e0d",
+  "description_guid": "b2e9a75b-9598-43ea-ae8a-6c83de6fc0fa",
+  "_row": 186
+ },
+ {
+  "index": 460,
+  "gimmick_id": "GM500_000_00",
+  "name": "Dam Rubble",
+  "description": "A mass of rubble and driftwood accumulated atop\nthe dam. A sharp tug from the Hook Slinger\nshould send it cascading over the falls.",
+  "name_guid": "0da7cb6b-b98c-4658-b685-5c673de8aacd",
+  "description_guid": "fb43f3fe-4545-43b3-9b2f-95283615efbd",
+  "_row": 187
+ },
+ {
+  "index": 231,
+  "gimmick_id": "GM032_003_00",
+  "name": "Bonepile",
+  "description": "A place for gathering\nbone materials.",
+  "name_guid": "ff711c1a-d670-4772-858d-2502f489746a",
+  "description_guid": "354e8825-3ffa-4eda-88e0-943fe158932d",
+  "_row": 188
+ },
+ {
+  "index": 4,
+  "gimmick_id": "GM000_002_00",
+  "name": "Rockburst",
+  "description": "<REF Item_IT_EXP_69>",
+  "name_guid": "b7048cdc-76e1-4b34-a8f1-1fe2a2e38173",
+  "description_guid": "65f82e7f-6acf-451c-b785-aa0875551e7d",
+  "_row": 189
+ },
+ {
+  "index": 453,
+  "gimmick_id": "GM408_000_00",
+  "name": "Bound Lynian",
+  "description": "A Lynian captured by a Nerscylla. Despite his\npredicament, his tongue knows no fear and\nis occasionally heard muttering to himself.",
+  "name_guid": "07e95c2f-8878-413c-a7f7-f3a32388f1c8",
+  "description_guid": "0a615b5b-301d-4766-a0d2-ed1a1357b413",
+  "_row": 190
+ },
+ {
+  "index": 173,
+  "gimmick_id": "GM030_040_00",
+  "name": "Red Hot Embers",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m82489752",
+  "name_guid": "17fd0cd9-1ceb-4949-b750-e0a815994fbe",
+  "description_guid": "462f7b7f-14bb-4bfa-a97d-69a409d796ac",
+  "_row": 191
+ },
+ {
+  "index": 124,
+  "gimmick_id": "GM001_016_00",
+  "name": "Poisoncup",
+  "description": "A poisonous pitcher plant poised to spill its\nnoxious contents when disturbed.",
+  "name_guid": "2f494409-c2e9-4a7a-b31d-4c3a8778bddf",
+  "description_guid": "93f64ef0-47f8-4118-bca6-c8470e778357",
+  "_row": 192
+ },
+ {
+  "index": 23,
+  "gimmick_id": "GM000_101_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_27>",
+  "name_guid": "47ed78e1-3f30-4ada-a3ac-ade837901395",
+  "description_guid": "629a8cda-b105-42ab-b0f4-eccfb128f60f",
+  "_row": 193
+ },
+ {
+  "index": 335,
+  "gimmick_id": "GM036_005_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m57483460",
+  "name_guid": "d7f13ec1-aa49-4590-97f2-d3e980e98a46",
+  "description_guid": "f8b4bcea-0c0d-4f25-a5fb-c419f8ffbf71",
+  "_row": 194
+ },
+ {
+  "index": 159,
+  "gimmick_id": "GM030_020_00",
+  "name": "Damp Scale Fragments",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m55927184",
+  "name_guid": "a10cbd3e-6920-46b2-bb87-82013dc6e2bc",
+  "description_guid": "c151f848-694d-4b03-a0a2-e4bd8f94918c",
+  "_row": 195
+ },
+ {
+  "index": 237,
+  "gimmick_id": "GM034_006_00",
+  "name": "Red Hot Ore Fragment",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m55908880",
+  "name_guid": "3e934633-da8f-4d35-9305-fc999a4cbd86",
+  "description_guid": "6e2391d7-3283-4ec7-8e78-852be646ba8b",
+  "_row": 196
+ },
+ {
+  "index": 377,
+  "gimmick_id": "GM150_002_00",
+  "name": "Lantern (Scoutflies)",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m48108096",
+  "name_guid": "1ff8a862-5ab4-4742-92d8-53bbe835bc73",
+  "description_guid": "0ba84cf4-5d1b-4c57-bddb-c82134da8de8",
+  "_row": 197
+ },
+ {
+  "index": 178,
+  "gimmick_id": "GM030_046_00",
+  "name": "Chewed Mushroom Crumbs",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m41152772",
+  "name_guid": "c992d2b0-d6d8-440f-a48d-123c0cabd6ff",
+  "description_guid": "7d5b639a-817d-410f-bfe5-cd8deafac29d",
+  "_row": 198
+ },
+ {
+  "index": 114,
+  "gimmick_id": "GM000_181_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_289>",
+  "name_guid": "78b45d20-418b-452d-9059-abddb9d34e91",
+  "description_guid": "59488054-4343-4e39-9d02-c6391d9c0d6a",
+  "_row": 199
+ },
+ {
+  "index": 27,
+  "gimmick_id": "GM000_103_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_116>",
+  "name_guid": "5e018fd9-2485-44f7-b7e6-4b9f9adfb6fc",
+  "description_guid": "b3dae9ff-d05d-4c00-87dc-dc84b87aa4cc",
+  "_row": 200
+ },
+ {
+  "index": 512,
+  "gimmick_id": "GM800_000_02",
+  "name": "Makeshift Camp",
+  "description": "A temporary camp with all the necessities for\na hunt. Change your equipment and organize your\nitems here. Accessible by fast travel with <ICON UI_DECIDE>.",
+  "name_guid": "9aee1c9f-4273-486e-9a46-cd8045e37f1f",
+  "description_guid": "1b83cd5b-7ea4-47ec-8800-62c2850dd265",
+  "_row": 201
+ },
+ {
+  "index": 238,
+  "gimmick_id": "GM034_007_00",
+  "name": "Oil Glob",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_m18600516",
+  "name_guid": "34302efc-e5f3-4d0d-81f2-cdb53979a41b",
+  "description_guid": "c8bd74d6-c700-4a24-b97f-9e83cda0c911",
+  "_row": 202
+ },
+ {
+  "index": 0,
+  "gimmick_id": "INVALID",
+  "name": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_NAME_0",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_0",
+  "name_guid": "467addab-65a3-4775-9b3c-d2c6c627e7f4",
+  "description_guid": "af3444e7-0edd-45af-913a-a31be5811239",
+  "_row": 203
+ },
+ {
+  "index": 1,
+  "gimmick_id": "GM000_000_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_17>",
+  "name_guid": "24cf4887-1167-4659-9d68-061f25b0e2be",
+  "description_guid": "f72d1cda-c1b5-4b9b-863c-119275dd1551",
+  "_row": 204
+ },
+ {
+  "index": 127,
+  "gimmick_id": "GM002_000_00",
+  "name": "Giant Sand Pit",
+  "description": "A trap laid by a Balahara to snare prey.\nLarge monsters that draw too close are caught\nin its flow and dragged underground.",
+  "name_guid": "f7a82d49-18b4-4278-bb91-bbff5c190ceb",
+  "description_guid": "aaede7a1-b081-4646-aaf4-c983828d31c2",
+  "_row": 205
+ },
+ {
+  "index": 116,
+  "gimmick_id": "GM001_001_00",
+  "name": "Giant Falling Boulder",
+  "description": "Large boulders that could fall at any moment.\nHit them with your Slinger to make them\ndrop and hit whatever lurks underneath.",
+  "name_guid": "69029671-8628-4434-9c2e-dc1e1f6697a1",
+  "description_guid": "d74dc156-64d6-4000-abe5-beb32f9e1f3a",
+  "_row": 206
+ },
+ {
+  "index": 115,
+  "gimmick_id": "GM001_000_00",
+  "name": "Falling Boulders",
+  "description": "Boulders that could fall at any moment.\nUse your Slinger to drop them onto\nunsuspecting targets.",
+  "name_guid": "0a248d7f-d36d-4ee4-b233-900c618e783c",
+  "description_guid": "f5af2405-667e-4c7a-880d-db30d339dc68",
+  "_row": 207
+ },
+ {
+  "index": 117,
+  "gimmick_id": "GM001_002_00",
+  "name": "Livestock Fence",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_33",
+  "name_guid": "c9daa94b-a922-42ab-9bea-5c610101fa10",
+  "description_guid": "935568d3-0d8b-4a90-af3d-535bf6103403",
+  "_row": 208
+ },
+ {
+  "index": 129,
+  "gimmick_id": "GM003_000_00",
+  "name": "Lightning Prone Area",
+  "description": "A place with frequent lightning strikes\ndue to the influence of the Sandtide.",
+  "name_guid": "a8df2bec-d184-49a2-a1d2-9c90e1d3f2a2",
+  "description_guid": "76911afc-026f-42d3-81f8-2fb611e6bcf8",
+  "_row": 209
+ },
+ {
+  "index": 306,
+  "gimmick_id": "GM034_076_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_150",
+  "name_guid": "57111f92-cc21-4711-910a-b0569ace064a",
+  "description_guid": "0ce626d7-39a8-4e5a-bc81-7e4ad521ec02",
+  "_row": 210
+ },
+ {
+  "index": 321,
+  "gimmick_id": "GM034_091_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_595",
+  "name_guid": "2c1fb794-54b3-4fc1-b831-d1d9569a0d3e",
+  "description_guid": "3bda0f9d-ebe9-4a46-b119-66646a3b1002",
+  "_row": 212
+ },
+ {
+  "index": 294,
+  "gimmick_id": "GM034_064_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_993",
+  "name_guid": "9abe37da-383f-412a-9eec-e84aab520a33",
+  "description_guid": "dbe73ad3-c720-4855-b3b8-43751de8aa54",
+  "_row": 215
+ },
+ {
+  "index": 290,
+  "gimmick_id": "GM034_060_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1219",
+  "name_guid": "7a28820a-29f7-413b-a1d9-31fd905bc662",
+  "description_guid": "6c96431f-f5f2-483a-8f41-b79229ae7884",
+  "_row": 216
+ },
+ {
+  "index": 447,
+  "gimmick_id": "GM258_000_00",
+  "name": "Expedition Record Board",
+  "description": "View information related to\nExpedition Records, Bounties, and rankings.",
+  "name_guid": "9fd46ae1-9d34-432c-b3db-5d8e21d54d74",
+  "description_guid": "85c5bb54-d8e4-4b28-bd48-97e5d2e9f779",
+  "_row": 220
+ },
+ {
+  "index": 212,
+  "gimmick_id": "GM030_122_00",
+  "name": "Sharp Claw Marks",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1828",
+  "name_guid": "bb7cec0a-99cc-4038-a618-69d1a78bcb37",
+  "description_guid": "d69bd039-42a6-40da-94cf-5e1d10d479ae",
+  "_row": 222
+ },
+ {
+  "index": 276,
+  "gimmick_id": "GM034_046_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1930",
+  "name_guid": "03a6c9d0-ebe9-4109-8d4d-da2b189cb8b5",
+  "description_guid": "dccd574f-509a-432d-84c4-a57586df6a41",
+  "_row": 223
+ },
+ {
+  "index": 32,
+  "gimmick_id": "GM000_105_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_118>",
+  "name_guid": "386ea228-6928-497b-ac7c-6a84eea425bd",
+  "description_guid": "e2bd1411-3b7d-4ec0-b448-ac2a0c6592eb",
+  "_row": 225
+ },
+ {
+  "index": 315,
+  "gimmick_id": "GM034_085_000",
+  "name": "Crystal Fragments",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2487",
+  "name_guid": "5a3cf366-37b6-4163-b96d-806278260cae",
+  "description_guid": "2fc8f02a-6e0a-48cc-9827-f220943f6a23",
+  "_row": 226
+ },
+ {
+  "index": 601,
+  "gimmick_id": "GM854_008_00",
+  "name": "To the Ruins of Wyveria",
+  "description": "A Lost Path to Wyveria exit that leads\nto the Ruins of Wyveria.",
+  "name_guid": "9b17ba46-9052-4817-84ac-2677e745342e",
+  "description_guid": "3b8c0903-3d23-4163-880e-5d59c8365b86",
+  "_row": 228
+ },
+ {
+  "index": 256,
+  "gimmick_id": "GM034_026_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_3292",
+  "name_guid": "2085c1b9-9c9b-4bed-b170-e5828dfcb625",
+  "description_guid": "3c3a0666-5037-43b5-a1f4-fdb28845d47c",
+  "_row": 229
+ },
+ {
+  "index": 298,
+  "gimmick_id": "GM034_068_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_3353",
+  "name_guid": "7b211eec-66bb-4c49-8f63-22e1e3be97b7",
+  "description_guid": "65018638-fc10-43ba-9ad5-a12070f09403",
+  "_row": 230
+ },
+ {
+  "index": 600,
+  "gimmick_id": "GM854_007_00",
+  "name": "To the Iceshard Cliffs",
+  "description": "A Lost Path to Wyveria exit that leads\nto the Iceshard Cliffs.",
+  "name_guid": "3ddb31bc-1c2a-4353-9252-11c2695ae34c",
+  "description_guid": "9f126aa9-f327-4089-afd2-1c1a2df6dc97",
+  "_row": 233
+ },
+ {
+  "index": 92,
+  "gimmick_id": "GM000_156_01",
+  "name": "Magnificent Fossil",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "ddb6585f-3fcd-4fbd-92eb-ec508a001520",
+  "description_guid": "3e69127b-099c-4dc4-ac65-d7393e7a90ad",
+  "_row": 234
+ },
+ {
+  "index": 283,
+  "gimmick_id": "GM034_053_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_3812",
+  "name_guid": "445ae60e-d339-4682-a850-d8d3f1f5503c",
+  "description_guid": "56efcf2e-28ed-416b-903a-5ff9a27acb0f",
+  "_row": 235
+ },
+ {
+  "index": 2,
+  "gimmick_id": "GM000_000_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_17>",
+  "name_guid": "14a7f1d0-206d-4037-841e-e0d8835389c7",
+  "description_guid": "4cbb4562-f5f6-4ed3-8d8f-4c5279fa166e",
+  "_row": 236
+ },
+ {
+  "index": 287,
+  "gimmick_id": "GM034_057_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_4120",
+  "name_guid": "9ee2138d-d165-4999-a506-d66daab66073",
+  "description_guid": "3eedf790-09ae-4444-8098-f75c09dfb2e2",
+  "_row": 238
+ },
+ {
+  "index": 293,
+  "gimmick_id": "GM034_063_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_4244",
+  "name_guid": "4927fb8d-5a53-45d1-a2d4-3a2a4bdd50bd",
+  "description_guid": "22af5c30-4c4e-446b-902a-5aa152b2cdf6",
+  "_row": 240
+ },
+ {
+  "index": 409,
+  "gimmick_id": "GM200_000_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_803>",
+  "name_guid": "99d9af3e-c60e-400d-a61a-b051308fca81",
+  "description_guid": "f8aca5d7-6e71-442d-8067-89621f3938e3",
+  "_row": 241
+ },
+ {
+  "index": 22,
+  "gimmick_id": "GM000_100_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_26>",
+  "name_guid": "afbad557-b71b-4a5b-9058-c924488fc9bf",
+  "description_guid": "e9054e51-5587-4b7f-9996-b788b0115828",
+  "_row": 243
+ },
+ {
+  "index": 20,
+  "gimmick_id": "GM000_012_00",
+  "name": "Sharp Barnacle Cluster",
+  "description": "<REF Item_IT_EXP_813>",
+  "name_guid": "e9a324cb-d82f-4834-b4f5-a605ba466371",
+  "description_guid": "b23f8764-de12-4dbc-bd95-751516acf864",
+  "_row": 245
+ },
+ {
+  "index": 308,
+  "gimmick_id": "GM034_078_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_4924",
+  "name_guid": "dc38a2c8-881e-414c-9d9c-b3a93d43a584",
+  "description_guid": "1cbf1706-986c-46fa-8c3b-0c3dc5419295",
+  "_row": 246
+ },
+ {
+  "index": 76,
+  "gimmick_id": "GM000_142_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_28>",
+  "name_guid": "49ef126a-2ab4-4cfa-8a82-3158d8f1a195",
+  "description_guid": "11a9ebe9-0f8a-4078-9b79-ce062eafba9e",
+  "_row": 247
+ },
+ {
+  "index": 323,
+  "gimmick_id": "GM034_093_00",
+  "name": "Embedded Bladescale",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_5133",
+  "name_guid": "3333222b-b865-4e4e-8748-84cd088bcbeb",
+  "description_guid": "7f0fed0a-d3f7-4f99-a08c-58f3cebcdc4e",
+  "_row": 249
+ },
+ {
+  "index": 9,
+  "gimmick_id": "GM000_005_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_188>",
+  "name_guid": "79501b79-ee9d-46a5-b7ab-0814ac03b1cf",
+  "description_guid": "31e2ade4-dbd2-4622-ba1f-63e2d0bc1b72",
+  "_row": 251
+ },
+ {
+  "index": 316,
+  "gimmick_id": "GM034_086_000",
+  "name": "Crystal Fragments",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_5883",
+  "name_guid": "a77704ba-73ff-4ace-97bc-79900603a922",
+  "description_guid": "9ef56f75-37d0-4313-bafe-56fe04509f72",
+  "_row": 252
+ },
+ {
+  "index": 444,
+  "gimmick_id": "GM256_001_00",
+  "name": "Sit",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_5985",
+  "name_guid": "6acccbce-4741-4a7b-964a-9a59c7b4b70d",
+  "description_guid": "753a4df8-ddd2-4e3b-8fa3-f591982470bd",
+  "_row": 253
+ },
+ {
+  "index": 446,
+  "gimmick_id": "GM257_000_00",
+  "name": "Arm Wrestling Barrel",
+  "description": "A barrel in the Grand Hub where you\ncan arm wrestle other hunters.",
+  "name_guid": "aa8a674a-c8ed-43b6-9816-7a4f3f47f6fe",
+  "description_guid": "d028c0ae-7f77-49a3-a363-50cd59713660",
+  "_row": 255
+ },
+ {
+  "index": 595,
+  "gimmick_id": "GM854_002_00",
+  "name": "To the Scarlet Forest",
+  "description": "A Riverside Trail exit that leads\nto the Scarlet Forest.",
+  "name_guid": "cf9ab63b-8259-45a2-af84-a465b86bc872",
+  "description_guid": "16acee3f-ae6d-40bf-a16b-3181e05ace68",
+  "_row": 257
+ },
+ {
+  "index": 436,
+  "gimmick_id": "GM251_000_01",
+  "name": "Blossom Bowling Bomb",
+  "description": "Bombs used exclusively for Barrel Bowling.\nSend them rolling towards the target from\nany location.",
+  "name_guid": "31284cb4-e571-44bd-8ae2-c4c993434c1e",
+  "description_guid": "89d2bbf3-3cb5-41d4-aca4-47276bb31bc6",
+  "_row": 258
+ },
+ {
+  "index": 41,
+  "gimmick_id": "GM000_110_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_127>",
+  "name_guid": "eacd7c5d-aefa-446e-900b-19951bf5ba15",
+  "description_guid": "c09a01f9-f980-4630-a681-259c79c4ee2c",
+  "_row": 259
+ },
+ {
+  "index": 80,
+  "gimmick_id": "GM000_144_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_291>",
+  "name_guid": "cac68bfc-fdf0-4f04-b966-f24c50005247",
+  "description_guid": "320563a2-922b-4f67-8a68-c2c21f7cf8c8",
+  "_row": 260
+ },
+ {
+  "index": 301,
+  "gimmick_id": "GM034_071_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_7261",
+  "name_guid": "9fe8d04c-674e-4bc0-9ec9-0e1010ebc1db",
+  "description_guid": "7eca41a1-3dce-4380-82ee-4919bd9a450a",
+  "_row": 264
+ },
+ {
+  "index": 378,
+  "gimmick_id": "GM150_004_00",
+  "name": "Colorful Ball Lantern",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_7501",
+  "name_guid": "785f4c2f-395d-4f74-8b4b-89a9a60cc8f5",
+  "description_guid": "5541adcb-4586-4012-88cd-956ff4704b56",
+  "_row": 265
+ },
+ {
+  "index": 284,
+  "gimmick_id": "GM034_054_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_7983",
+  "name_guid": "d6223980-7d3c-41dd-a60c-5dfd6dd5f365",
+  "description_guid": "e28691df-f7cc-4953-85d3-9f82e36aa5ba",
+  "_row": 269
+ },
+ {
+  "index": 449,
+  "gimmick_id": "GM261_000_00",
+  "name": "Canteen",
+  "description": "Spend meal vouchers to enjoy cuisine delivered\nfrom all the settlements, as well as special\nmeals depending on the situation.",
+  "name_guid": "8e5618ba-2b14-46fe-9e7d-3ab77dcfce14",
+  "description_guid": "e14a3191-bc33-48f3-8f93-f40b5c711a9e",
+  "_row": 270
+ },
+ {
+  "index": 599,
+  "gimmick_id": "GM854_006_00",
+  "name": "To the Lost Path to Wyveria",
+  "description": "A ruined road of the formerly prosperous\ncapital. Allows passage to adjacent regions.",
+  "name_guid": "cf4d4bc9-8677-4b1f-8031-7f0f51b91382",
+  "description_guid": "c7dbeb9a-7151-4194-9d5d-be03afc6f5a3",
+  "_row": 271
+ },
+ {
+  "index": 455,
+  "gimmick_id": "GM410_001_00",
+  "name": "Lynian's Parting Gift",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_8194",
+  "name_guid": "46b1c160-3adf-4e48-a67b-7a3cff79948a",
+  "description_guid": "d1f83189-9e84-4230-ac54-3c5258a1bd36",
+  "_row": 272
+ },
+ {
+  "index": 213,
+  "gimmick_id": "GM030_123_00",
+  "name": "Foam Traces",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_8205",
+  "name_guid": "e9f60d88-53a4-4b96-a970-2e35e68e8c4a",
+  "description_guid": "0065e3bb-9bd0-4ad8-b871-a615a015acdc",
+  "_row": 273
+ },
+ {
+  "index": 272,
+  "gimmick_id": "GM034_042_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_8951",
+  "name_guid": "52482697-25c6-409c-a18f-9b028f743e99",
+  "description_guid": "23531d82-48f2-4d9c-b235-f49d348ec8bf",
+  "_row": 275
+ },
+ {
+  "index": 380,
+  "gimmick_id": "GM150_008_00",
+  "name": "Hanging Paper Lantern",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_9045",
+  "name_guid": "e8b3d6fb-92bf-4d6c-8909-c1fb22d0d360",
+  "description_guid": "23baa177-0109-4bf1-b0c1-945795be3667",
+  "_row": 276
+ },
+ {
+  "index": 228,
+  "gimmick_id": "GM032_000_01",
+  "name": "Bonepile",
+  "description": "A place for gathering\nbone materials.",
+  "name_guid": "96f91d6b-b5b7-4b58-b7b5-5b1ec854d2dc",
+  "description_guid": "ce9c9739-afaf-4505-8c56-21ef3be6e020",
+  "_row": 277
+ },
+ {
+  "index": 302,
+  "gimmick_id": "GM034_072_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_9691",
+  "name_guid": "a9ada75b-e92a-4b77-968c-76ca2a981835",
+  "description_guid": "f896fe89-659b-4a5b-9de3-106a03114c2b",
+  "_row": 280
+ },
+ {
+  "index": 281,
+  "gimmick_id": "GM034_051_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_10237",
+  "name_guid": "2b6ca015-8c6a-41b7-be06-bea7b38d455c",
+  "description_guid": "7278cc67-10a2-43f7-840a-a41d27b0610a",
+  "_row": 284
+ },
+ {
+  "index": 325,
+  "gimmick_id": "GM034_095_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_10390",
+  "name_guid": "24f2fb70-f259-4852-bf8f-3ebf98a8a02c",
+  "description_guid": "b74334f2-f412-47a3-8f67-ce903574c63f",
+  "_row": 285
+ },
+ {
+  "index": 62,
+  "gimmick_id": "GM000_121_01",
+  "name": "Mining Outcrop",
+  "description": "A place for mining ore.",
+  "name_guid": "20bad9b5-202d-487d-9145-7392792584e7",
+  "description_guid": "459c4636-0ca3-420f-ac26-d34015ec61b6",
+  "_row": 286
+ },
+ {
+  "index": 322,
+  "gimmick_id": "GM034_092_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_10451",
+  "name_guid": "6d4b67a4-c65c-4297-85a5-9a98fdc47920",
+  "description_guid": "228784c2-bdf2-410d-93a4-73f2fc3ee9c6",
+  "_row": 288
+ },
+ {
+  "index": 64,
+  "gimmick_id": "GM000_122_01",
+  "name": "Bonepile",
+  "description": "A place for gathering\nbone materials.",
+  "name_guid": "4dbe9aa6-0975-45a9-8e8e-eda7445bd859",
+  "description_guid": "c1113c98-c4b6-4406-bca1-84e6c2aba9b7",
+  "_row": 290
+ },
+ {
+  "index": 273,
+  "gimmick_id": "GM034_043_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_11181",
+  "name_guid": "d1bb88f1-4a8c-496e-8470-bc8351929b24",
+  "description_guid": "6008f30d-c1bd-4ce5-bc1f-e2e032e4b35c",
+  "_row": 291
+ },
+ {
+  "index": 311,
+  "gimmick_id": "GM034_081_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_11479",
+  "name_guid": "8a7ea6f1-35ab-429a-a2d1-333c7f104e39",
+  "description_guid": "a7811ec9-2870-4e7b-b701-756117579b76",
+  "_row": 292
+ },
+ {
+  "index": 258,
+  "gimmick_id": "GM034_028_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_11602",
+  "name_guid": "251419d7-2606-414d-89c0-20a2b4ffe955",
+  "description_guid": "cc069b64-8a36-46a0-973e-a480658de02d",
+  "_row": 293
+ },
+ {
+  "index": 16,
+  "gimmick_id": "GM000_009_01",
+  "name": "Thundercryst",
+  "description": "<REF Item_IT_EXP_285>",
+  "name_guid": "6acbe5e3-788f-4573-871b-c8668de05553",
+  "description_guid": "a636da92-cfe0-40ce-bd3b-50e3be500dee",
+  "_row": 294
+ },
+ {
+  "index": 528,
+  "gimmick_id": "GM800_001_02",
+  "name": "Makeshift Camp",
+  "description": "A temporary camp with all the necessities for\na hunt. Change your equipment and organize your\nitems here. Accessible by fast travel with <ICON UI_DECIDE>.",
+  "name_guid": "4c7014cd-9740-40f2-896c-d6af6441b644",
+  "description_guid": "52b369e0-4c34-4f17-9c23-1652ed994684",
+  "_row": 295
+ },
+ {
+  "index": 26,
+  "gimmick_id": "GM000_102_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_76>",
+  "name_guid": "261132a5-a742-4a1d-8df5-6bc0c69e07ba",
+  "description_guid": "e59e08ac-86bf-4483-b61e-4248388a2daf",
+  "_row": 296
+ },
+ {
+  "index": 468,
+  "gimmick_id": "GM507_000_01",
+  "name": null,
+  "description": "A hive built by fiercely territorial\n<REF EnemyText_NAME_EM5007_00_0>s.",
+  "name_guid": "680d6593-2cbb-459a-a671-5d7bff55bcbf",
+  "description_guid": "d3cc510b-5b8a-4768-95f5-22a16e468036",
+  "_row": 297
+ },
+ {
+  "index": 502,
+  "gimmick_id": "GM612_000_00",
+  "name": "Shattered Ice Floor",
+  "description": "A shattered ice floor that can no longer\nbe stepped on. Allows you to go down.",
+  "name_guid": "e13cd87d-796e-47b4-8057-f4390c416514",
+  "description_guid": "f40ef9df-9215-452d-b4a5-44ecb3556b8e",
+  "_row": 298
+ },
+ {
+  "index": 291,
+  "gimmick_id": "GM034_061_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_12958",
+  "name_guid": "9706b05a-c113-4361-802d-fc1e8416b327",
+  "description_guid": "e90f7adb-8f47-40e0-bdea-2d0abe0b4304",
+  "_row": 299
+ },
+ {
+  "index": 259,
+  "gimmick_id": "GM034_029_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_12964",
+  "name_guid": "4a505654-c859-459f-8353-a8bb536c69ab",
+  "description_guid": "6f8af655-4a48-4046-87f6-90d1ef861745",
+  "_row": 300
+ },
+ {
+  "index": 66,
+  "gimmick_id": "GM000_123_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_28>",
+  "name_guid": "02ecc841-ca6b-4902-aa67-87f59e0d817d",
+  "description_guid": "6806122b-8694-4d2e-8ce8-d758f725e2ee",
+  "_row": 301
+ },
+ {
+  "index": 24,
+  "gimmick_id": "GM000_101_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_27>",
+  "name_guid": "b5d46154-bb01-41ee-ae94-1c5b513ee38e",
+  "description_guid": "33708196-0af6-4102-aeec-49fd13a02b9d",
+  "_row": 302
+ },
+ {
+  "index": 300,
+  "gimmick_id": "GM034_070_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_13233",
+  "name_guid": "eb339b9d-9b22-409a-850b-11df2145a4c2",
+  "description_guid": "ba48c725-47a4-457b-a5e7-c1a51cd963a1",
+  "_row": 303
+ },
+ {
+  "index": 445,
+  "gimmick_id": "GM256_002_00",
+  "name": "Sit",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_13274",
+  "name_guid": "1bd8cb30-3551-4bb7-bf6e-8d8792870d82",
+  "description_guid": "f6d9739b-b072-4c29-bfd1-3e611d027740",
+  "_row": 304
+ },
+ {
+  "index": 279,
+  "gimmick_id": "GM034_049_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_13889",
+  "name_guid": "bd718684-b899-4529-9d09-fee31f9db8f7",
+  "description_guid": "d7ea8eee-8c26-4619-bc69-33803f958330",
+  "_row": 306
+ },
+ {
+  "index": 394,
+  "gimmick_id": "GM158_000_00",
+  "name": "Alma's Special Collection",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_13920",
+  "name_guid": "3258bfa4-9be5-46c9-b531-1bce4c805770",
+  "description_guid": "90495738-9449-4a3c-8da7-d5cdf4424466",
+  "_row": 307
+ },
+ {
+  "index": 271,
+  "gimmick_id": "GM034_041_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_14108",
+  "name_guid": "d6a51d52-1d0d-4af0-b902-7127d4a99a59",
+  "description_guid": "f832c112-edda-4ec2-8932-512185df8489",
+  "_row": 309
+ },
+ {
+  "index": 59,
+  "gimmick_id": "GM000_119_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_66>",
+  "name_guid": "0864f9ec-921e-49c5-bd3d-1964dcd6d478",
+  "description_guid": "bd6dc36a-0538-4609-92e4-7eb66f470b53",
+  "_row": 310
+ },
+ {
+  "index": 139,
+  "gimmick_id": "GM021_001_00",
+  "name": "Vine Trap",
+  "description": "An enormous mass of overgrown vines. They'll\nfall when struck, and monsters caught underneath\nwill temporarily be unable to move.",
+  "name_guid": "a344e828-5d17-4538-ac65-57f4da0bc5d3",
+  "description_guid": "42e7a3c4-2dd2-4352-95aa-1cd1c2de0ea6",
+  "_row": 311
+ },
+ {
+  "index": 28,
+  "gimmick_id": "GM000_103_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_116>",
+  "name_guid": "4f959059-022a-4898-b466-8a1fe5b69962",
+  "description_guid": "6927dd90-011f-4e7b-a005-081857632ca1",
+  "_row": 312
+ },
+ {
+  "index": 195,
+  "gimmick_id": "GM030_070_00",
+  "name": "Dark Scales",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_14613",
+  "name_guid": "d90cbf72-3266-4115-a34f-8cf500ed19c4",
+  "description_guid": "48a11af0-08d6-4361-a99b-8c011a9b2ea3",
+  "_row": 314
+ },
+ {
+  "index": 309,
+  "gimmick_id": "GM034_079_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_14972",
+  "name_guid": "089334bb-5049-4ee9-b75b-ebd99938a25d",
+  "description_guid": "aa76450d-4cb2-493b-804c-603c004a9a20",
+  "_row": 316
+ },
+ {
+  "index": 367,
+  "gimmick_id": "GM108_002_00",
+  "name": "Campfire Roast",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_15038",
+  "name_guid": "7baf1c87-a0ae-4b22-a7db-0e74b6d42634",
+  "description_guid": "0635ce62-2442-4911-b5d8-37be9ae3f928",
+  "_row": 317
+ },
+ {
+  "index": 448,
+  "gimmick_id": "GM260_000_00",
+  "name": "Barrel Bowling Bombs",
+  "description": "Where Barrel Bowling bombs are stored.\nThe bombs are constantly replenished,\nso you can practice as much as you want.",
+  "name_guid": "c6241a73-4fa7-44e9-b41c-d7777951beb4",
+  "description_guid": "fed4e5f7-6168-4fea-bd0c-84b1af5d6ff3",
+  "_row": 318
+ },
+ {
+  "index": 324,
+  "gimmick_id": "GM034_094_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_15422",
+  "name_guid": "4b178c6d-bbc1-464d-b790-23659974ca57",
+  "description_guid": "d916d8d8-f74e-418f-bb3b-19e3ca5f341b",
+  "_row": 321
+ },
+ {
+  "index": 90,
+  "gimmick_id": "GM000_154_01",
+  "name": "Exquisite Fossil",
+  "description": "A place for gathering special items.",
+  "name_guid": "eac03e23-089f-408b-8784-193690c2bedd",
+  "description_guid": "964b0ae8-9ba3-48e6-8eb1-ff6c702dfaa8",
+  "_row": 322
+ },
+ {
+  "index": 443,
+  "gimmick_id": "GM256_000_00",
+  "name": "Have a Meal",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_16007",
+  "name_guid": "19a8fc32-c59e-44f9-bd13-0d39e0239be7",
+  "description_guid": "58023ed8-5503-4ddc-9978-11b527f246ab",
+  "_row": 324
+ },
+ {
+  "index": 262,
+  "gimmick_id": "GM034_032_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_16715",
+  "name_guid": "2e0dad46-f711-4049-92de-447fe083a923",
+  "description_guid": "8d7593af-6d70-48f7-aedd-c946c0b4e478",
+  "_row": 326
+ },
+ {
+  "index": 51,
+  "gimmick_id": "GM000_115_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_114>",
+  "name_guid": "f04fd460-e5d6-4e09-a0b0-45fcadd41a14",
+  "description_guid": "d9bdf46b-759a-49e8-b8f5-b0ea52c3c427",
+  "_row": 328
+ },
+ {
+  "index": 36,
+  "gimmick_id": "GM000_107_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_125>",
+  "name_guid": "baa01ff8-2ce6-415f-879e-f40297946d61",
+  "description_guid": "a986bdc1-c666-464d-81c3-6ce0472b38e5",
+  "_row": 329
+ },
+ {
+  "index": 597,
+  "gimmick_id": "GM854_004_00",
+  "name": "To the Scarlet Forest",
+  "description": "A Cavern Tunnel exit that leads\nto the Scarlet Forest.",
+  "name_guid": "6da06236-9b8d-4632-8402-c5e6938217c9",
+  "description_guid": "8f1bf49f-0f02-4463-8cdf-fb3da019d8ca",
+  "_row": 331
+ },
+ {
+  "index": 602,
+  "gimmick_id": "GM854_009_00",
+  "name": "To the Keepers' Approach",
+  "description": "A road used by the Keepers coming and going\nfrom Suja. Allows passage to adjacent regions.",
+  "name_guid": "d023ee93-e127-43e0-a54d-68e0bcef2e7b",
+  "description_guid": "685f50ec-1366-4674-9247-df1342838e17",
+  "_row": 332
+ },
+ {
+  "index": 594,
+  "gimmick_id": "GM854_001_00",
+  "name": "To the Windward Plains",
+  "description": "A Riverside Trail exit that leads to the\nWindward Plains.",
+  "name_guid": "154f7660-ef80-49a7-90b9-3adcedb6f011",
+  "description_guid": "7e36d35c-a57d-434f-842e-ec21c35c921b",
+  "_row": 333
+ },
+ {
+  "index": 267,
+  "gimmick_id": "GM034_037_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_18118",
+  "name_guid": "59b190c2-07ab-46fc-901c-60cd278b1f06",
+  "description_guid": "4d71cbbf-1b0a-4c32-afcf-ad3d6f6ffafe",
+  "_row": 334
+ },
+ {
+  "index": 351,
+  "gimmick_id": "GM036_021_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_18177",
+  "name_guid": "253476f6-0f04-41c1-95d9-0dd62b131a7b",
+  "description_guid": "96f30014-c895-459e-9b88-2b3cf978a117",
+  "_row": 335
+ },
+ {
+  "index": 82,
+  "gimmick_id": "GM000_145_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_290>",
+  "name_guid": "6cea9248-400d-49b8-8bea-63d9ebba3df8",
+  "description_guid": "18adbfd8-9eff-43ec-8fd4-b0a7d803b56e",
+  "_row": 337
+ },
+ {
+  "index": 307,
+  "gimmick_id": "GM034_077_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_18752",
+  "name_guid": "90047804-e63c-4403-aa2f-80a12938de97",
+  "description_guid": "c9f8bb11-690c-4627-a61c-9f669ba24a0a",
+  "_row": 338
+ },
+ {
+  "index": 49,
+  "gimmick_id": "GM000_114_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_113>",
+  "name_guid": "a98e4492-ae64-4f5f-b10a-8c98dd58f5c5",
+  "description_guid": "a91b6d0e-c9df-4fab-af3e-a813a71cae96",
+  "_row": 339
+ },
+ {
+  "index": 264,
+  "gimmick_id": "GM034_034_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_18851",
+  "name_guid": "66a7e9bd-cd64-4fad-8666-1359dac7a77d",
+  "description_guid": "f2f8c787-65e1-4df7-9732-4a05349c770f",
+  "_row": 340
+ },
+ {
+  "index": 573,
+  "gimmick_id": "GM800_007_03",
+  "name": "Barrel Bowling",
+  "description": "The entrance to the Barrel Bowling plaza.\nPress <ICON UI_DECIDE> to fast travel there.",
+  "name_guid": "e803123c-4948-49d8-8736-5267775e7157",
+  "description_guid": "fe70ca32-2b5e-4a76-a38e-c23b18c5e1cb",
+  "_row": 341
+ },
+ {
+  "index": 286,
+  "gimmick_id": "GM034_056_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_18883",
+  "name_guid": "dfcd111c-c1ed-4fe4-8693-5ae6ec1fa5ba",
+  "description_guid": "4a6b1493-4491-435e-ba44-c0f82151169c",
+  "_row": 342
+ },
+ {
+  "index": 18,
+  "gimmick_id": "GM000_010_01",
+  "name": "Wyrmsbane",
+  "description": "<REF Item_IT_EXP_287>",
+  "name_guid": "d87df7ed-30c6-4e91-958e-47abb51fb50d",
+  "description_guid": "ce1d2fc3-f1ec-4fd8-b4cb-cbab9c93d0c9",
+  "_row": 343
+ },
+ {
+  "index": 396,
+  "gimmick_id": "GM160_000_00",
+  "name": "Paper Lamp",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_19219",
+  "name_guid": "fb3ca8f1-1203-45c4-b8f1-181770614e96",
+  "description_guid": "b7573c5a-7437-4422-ab00-e6fd72c15ca1",
+  "_row": 344
+ },
+ {
+  "index": 39,
+  "gimmick_id": "GM000_109_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_126>",
+  "name_guid": "bbd0a317-3298-4ce2-9967-6dd0805dce76",
+  "description_guid": "ea500119-509d-4449-a793-29d2930149bf",
+  "_row": 345
+ },
+ {
+  "index": 591,
+  "gimmick_id": "GM810_100_00",
+  "name": "Wingdrake Perch",
+  "description": "A spot where you can use a Wingdrake\nto safely travel to set locations.",
+  "name_guid": "019af896-ad2c-4de8-a1f6-31ba10799e77",
+  "description_guid": "33878b05-3d71-48f1-9c6e-2ec3d1b930ca",
+  "_row": 346
+ },
+ {
+  "index": 275,
+  "gimmick_id": "GM034_045_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_19405",
+  "name_guid": "f361c0c3-423e-4582-8346-cbd768c7ed93",
+  "description_guid": "e4bdbd46-6149-492a-a4d0-cc8f3ffffd54",
+  "_row": 347
+ },
+ {
+  "index": 261,
+  "gimmick_id": "GM034_031_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_19467",
+  "name_guid": "1cc434da-6fdc-4733-814d-c60fe714bb5f",
+  "description_guid": "370c81f3-666b-4ac5-bc94-ac5531db939d",
+  "_row": 348
+ },
+ {
+  "index": 590,
+  "gimmick_id": "GM810_010_00",
+  "name": "Peaks Approach",
+  "description": "A path that leads from the Grand Hub to Suja\nand Wounded Hollow.",
+  "name_guid": "3b7d29c1-84c6-4ddf-b646-496ebb8ab334",
+  "description_guid": "c5e6857e-30e3-457e-b4f1-36b83cb59a88",
+  "_row": 351
+ },
+ {
+  "index": 5,
+  "gimmick_id": "GM000_002_01",
+  "name": "Rockburst",
+  "description": "<REF Item_IT_EXP_69>",
+  "name_guid": "f83991f9-f6d9-41ff-bf6d-873ecd4fe232",
+  "description_guid": "979a9e5b-b5af-44c9-83b4-176c6abd5829",
+  "_row": 352
+ },
+ {
+  "index": 395,
+  "gimmick_id": "GM159_000_00",
+  "name": "Kunafa Mineral Lamp",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_19838",
+  "name_guid": "7e93a609-7566-4844-9109-0f76ad08cba4",
+  "description_guid": "8efe2f8d-33b9-45ca-9558-50d62c858679",
+  "_row": 353
+ },
+ {
+  "index": 265,
+  "gimmick_id": "GM034_035_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_19877",
+  "name_guid": "3d82a97b-7dec-42fa-bc46-1f13c69efebf",
+  "description_guid": "7eca274e-4115-4a92-980b-f7447c6eeb20",
+  "_row": 355
+ },
+ {
+  "index": 45,
+  "gimmick_id": "GM000_112_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_7>",
+  "name_guid": "4afa2e38-0482-4f5f-8a06-1d0e328119bd",
+  "description_guid": "a15aa177-403d-433c-b60e-cdfa73cd3a5b",
+  "_row": 356
+ },
+ {
+  "index": 295,
+  "gimmick_id": "GM034_065_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_20098",
+  "name_guid": "c2f3910e-1e52-4c15-9a07-32a466be9dd7",
+  "description_guid": "73f15997-646f-438c-a2cc-5aba1f9cbdbc",
+  "_row": 357
+ },
+ {
+  "index": 603,
+  "gimmick_id": "GM854_010_00",
+  "name": "To the Ruins of Wyveria",
+  "description": "A Keepers' Approach exit that leads\nto the Ruins of Wyveria.",
+  "name_guid": "7ee90551-2e50-4c71-ac0a-a1ce61c9e24f",
+  "description_guid": "ed4c9600-aed6-41f0-9170-5d98f9b2dcf8",
+  "_row": 359
+ },
+ {
+  "index": 222,
+  "gimmick_id": "GM031_007_00",
+  "name": "Lala Floret",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_20402",
+  "name_guid": "b773fc11-f306-4212-8f76-7ad8c062e0a9",
+  "description_guid": "45ed4db6-6763-4db6-a885-a4706caa9ba7",
+  "_row": 360
+ },
+ {
+  "index": 571,
+  "gimmick_id": "GM800_007_01",
+  "name": "Tent",
+  "description": "A place near your tent.\nPress <ICON UI_DECIDE> to fast travel there.",
+  "name_guid": "2b37ed07-1201-4bb6-bb86-7889df14ccd8",
+  "description_guid": "38d3e57b-7e4b-43c0-8ab3-c7eca324a886",
+  "_row": 361
+ },
+ {
+  "index": 310,
+  "gimmick_id": "GM034_080_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_20477",
+  "name_guid": "b4155855-e76f-449f-9b94-7a42dcb73226",
+  "description_guid": "12ad7da6-dc73-48bc-991e-231b07ac5a3b",
+  "_row": 362
+ },
+ {
+  "index": 289,
+  "gimmick_id": "GM034_059_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_20480",
+  "name_guid": "2d7b398c-c061-4111-ac79-2757548fc9c6",
+  "description_guid": "9e113824-729d-40b9-84e6-7df1e3a19b9b",
+  "_row": 363
+ },
+ {
+  "index": 43,
+  "gimmick_id": "GM000_111_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_75>",
+  "name_guid": "fd4ac230-5ef4-4265-bf42-01be79048171",
+  "description_guid": "7d1d0d4f-64dd-4cb3-bf17-4c48d50a476c",
+  "_row": 364
+ },
+ {
+  "index": 99,
+  "gimmick_id": "GM000_164_01",
+  "name": "Blackened Fossil",
+  "description": "A place for gathering special items.",
+  "name_guid": "5d7653d5-287c-4105-af41-790d01e9cb0c",
+  "description_guid": "8de240db-e367-474e-9760-9c64421c8f2d",
+  "_row": 366
+ },
+ {
+  "index": 269,
+  "gimmick_id": "GM034_039_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_21009",
+  "name_guid": "b7f7c2e5-2c0e-4564-8c98-c40e3ad888f0",
+  "description_guid": "a7881005-d03e-4e49-bb6a-fc3f25dc8593",
+  "_row": 367
+ },
+ {
+  "index": 296,
+  "gimmick_id": "GM034_066_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_21114",
+  "name_guid": "ee5ed73d-3e5f-49e0-aa5a-e00276c5d0a6",
+  "description_guid": "3e497668-b8da-4d7b-8baf-a91f59873457",
+  "_row": 368
+ },
+ {
+  "index": 34,
+  "gimmick_id": "GM000_106_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_117>",
+  "name_guid": "f6c44b39-c973-4dfe-9efc-772c75ebdace",
+  "description_guid": "0672b4cf-5415-4438-b700-0e8e4cee987b",
+  "_row": 369
+ },
+ {
+  "index": 476,
+  "gimmick_id": "GM515_000_00",
+  "name": "Dive In",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_21484",
+  "name_guid": "bdb11c3d-0889-4c3f-80c4-3a29d6420ecc",
+  "description_guid": "6d2bb85b-3050-4963-abbb-d7d47c3e9a4f",
+  "_row": 372
+ },
+ {
+  "index": 451,
+  "gimmick_id": "GM262_000_00",
+  "name": "Nest Trinkets",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_21777",
+  "name_guid": "4cf7605e-3577-4f8f-86c1-e08f332bdb2a",
+  "description_guid": "f121a2f5-4ff7-4e09-ba47-9aa28afbd7cf",
+  "_row": 375
+ },
+ {
+  "index": 257,
+  "gimmick_id": "GM034_027_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_22122",
+  "name_guid": "7bdc897a-216d-47fc-8163-c94c180693cf",
+  "description_guid": "6d5b8ea9-57a4-4bb4-b480-e0097f8d800e",
+  "_row": 378
+ },
+ {
+  "index": 572,
+  "gimmick_id": "GM800_007_02",
+  "name": "Quest Counter",
+  "description": "A place near the Quest Counter and Canteen.\nPress <ICON UI_DECIDE> to fast travel there.",
+  "name_guid": "bf0eb646-87e2-4d15-b266-17c28a84be38",
+  "description_guid": "3642599d-58c3-41f8-a1fe-6911f3148414",
+  "_row": 380
+ },
+ {
+  "index": 288,
+  "gimmick_id": "GM034_058_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_22780",
+  "name_guid": "5a8c02c1-e7a5-41a5-8186-951d49429bdb",
+  "description_guid": "ce75cdeb-188e-4e95-bd86-5e8a94cfdbf9",
+  "_row": 382
+ },
+ {
+  "index": 53,
+  "gimmick_id": "GM000_116_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_74>",
+  "name_guid": "3d4567e6-231b-4aa2-b68d-32792f8c500c",
+  "description_guid": "3ad32af7-9579-4a5e-b09f-1fde38fe2fe7",
+  "_row": 383
+ },
+ {
+  "index": 268,
+  "gimmick_id": "GM034_038_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_23041",
+  "name_guid": "1d9ed1b9-43a5-46c6-a9ec-a36f5f616490",
+  "description_guid": "a847b528-ddd3-4252-96c1-e865c4e599dc",
+  "_row": 384
+ },
+ {
+  "index": 78,
+  "gimmick_id": "GM000_143_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_638>",
+  "name_guid": "ea1406e8-2556-43e0-86ca-63570be31973",
+  "description_guid": "86045395-c2a0-420b-a996-df262cbcc063",
+  "_row": 385
+ },
+ {
+  "index": 366,
+  "gimmick_id": "GM107_002_00",
+  "name": "Doshaguma Chair",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_23132",
+  "name_guid": "fe0f437c-fb0b-4fe5-a7e2-f9eb312b29f6",
+  "description_guid": "5d4b2c13-57cf-4871-8ff9-22acbf8fddd2",
+  "_row": 386
+ },
+ {
+  "index": 285,
+  "gimmick_id": "GM034_055_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_23155",
+  "name_guid": "7cc2eced-3194-4da9-b836-4a82386179bc",
+  "description_guid": "19da2dda-ec73-4d17-9edc-95254a5b8d66",
+  "_row": 387
+ },
+ {
+  "index": 73,
+  "gimmick_id": "GM000_131_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_119>",
+  "name_guid": "3b06b659-28b7-438f-9304-d7ef5f9ba48a",
+  "description_guid": "f0906f3b-6545-4007-9754-06375a33a420",
+  "_row": 388
+ },
+ {
+  "index": 314,
+  "gimmick_id": "GM034_084_000",
+  "name": "Yellow Ore Chunk",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_23894",
+  "name_guid": "caaf8625-62b1-4a80-bf87-88fed6f123a0",
+  "description_guid": "7235f18c-1c21-40c5-bf61-b8088ddad763",
+  "_row": 390
+ },
+ {
+  "index": 304,
+  "gimmick_id": "GM034_074_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_24168",
+  "name_guid": "bb2812d3-d811-4ae2-ae4c-98bc6e12c91d",
+  "description_guid": "29a92f99-dd6c-4d7c-b264-9a600b1ede9a",
+  "_row": 392
+ },
+ {
+  "index": 305,
+  "gimmick_id": "GM034_075_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_24363",
+  "name_guid": "2ad922ff-bb3c-4ba9-921f-8d8c46765635",
+  "description_guid": "03ed0746-edca-480b-b98e-8fe956078b5f",
+  "_row": 393
+ },
+ {
+  "index": 379,
+  "gimmick_id": "GM150_006_00",
+  "name": "Brightmoss Lantern",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_24406",
+  "name_guid": "dc67d376-6feb-4f71-a331-4e17b56fe400",
+  "description_guid": "34153d45-8db1-41d0-bdec-dd3ec866b64d",
+  "_row": 394
+ },
+ {
+  "index": 593,
+  "gimmick_id": "GM854_000_00",
+  "name": "To the Riverside Trail",
+  "description": "A path that runs alongside a river.\nAllows passage to adjacent regions.",
+  "name_guid": "f6accd60-b035-4bae-8940-9365b274754c",
+  "description_guid": "31ec9b18-b690-4100-9f66-98cce15bccc5",
+  "_row": 395
+ },
+ {
+  "index": 604,
+  "gimmick_id": "GM854_011_00",
+  "name": "To Suja, Peaks of Accord",
+  "description": "A Keepers' Approach exit that leads\nto Suja, Peaks of Accord.",
+  "name_guid": "d4f70aa5-a8a1-46c6-9fbf-7a81c0d177a1",
+  "description_guid": "90d92691-fb3c-4054-90c9-51c72819ecd9",
+  "_row": 397
+ },
+ {
+  "index": 277,
+  "gimmick_id": "GM034_047_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_25518",
+  "name_guid": "6f0d65b1-d6fa-40e1-a432-078879488c27",
+  "description_guid": "50152ad8-673e-41c5-86a5-6cee1bb29d63",
+  "_row": 401
+ },
+ {
+  "index": 278,
+  "gimmick_id": "GM034_048_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_25893",
+  "name_guid": "71a70fdc-97d1-4fed-a924-846dd6d78efb",
+  "description_guid": "0353fcef-94d9-435b-b46d-690493c611c3",
+  "_row": 404
+ },
+ {
+  "index": 55,
+  "gimmick_id": "GM000_117_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_128>",
+  "name_guid": "ab541c3e-9a9f-4c18-9236-56c75cf2c92e",
+  "description_guid": "119ee12e-bd4e-4d32-8bc1-b10caf84e131",
+  "_row": 405
+ },
+ {
+  "index": 313,
+  "gimmick_id": "GM034_083_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_26646",
+  "name_guid": "d0c3aea6-01b5-4d63-9331-710117b4b6ef",
+  "description_guid": "bb0e7a2a-51cc-4754-996a-ab64a162ffc3",
+  "_row": 408
+ },
+ {
+  "index": 303,
+  "gimmick_id": "GM034_073_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_26705",
+  "name_guid": "65776469-d14b-4615-b342-10604da9475e",
+  "description_guid": "974d6806-8642-486a-848a-959a8ed113aa",
+  "_row": 410
+ },
+ {
+  "index": 138,
+  "gimmick_id": "GM021_000_00",
+  "name": "Vine Trap",
+  "description": "An enormous mass of overgrown vines. They'll\nfall when struck, and monsters caught underneath\nwill temporarily be unable to move.",
+  "name_guid": "c325a851-ba6f-433c-b602-59d0323a1445",
+  "description_guid": "229ccd16-cf5c-47ca-b9fb-e75e60da1c9b",
+  "_row": 411
+ },
+ {
+  "index": 297,
+  "gimmick_id": "GM034_067_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_26751",
+  "name_guid": "564127e0-c3be-4697-a1db-479a65c8b59f",
+  "description_guid": "736c1a56-6e74-4741-b51c-0a3f3cebace6",
+  "_row": 412
+ },
+ {
+  "index": 30,
+  "gimmick_id": "GM000_104_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_115>",
+  "name_guid": "7efe175e-b173-45c5-a2ff-b49da95404fa",
+  "description_guid": "3cdffb90-0b47-4cb6-b79d-c10ab41ae3dc",
+  "_row": 413
+ },
+ {
+  "index": 47,
+  "gimmick_id": "GM000_113_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_67>",
+  "name_guid": "b77b1bc8-116b-4c66-be94-756730eff3ab",
+  "description_guid": "2561ce4d-8a36-4f3d-90c6-16674fa4f9f5",
+  "_row": 414
+ },
+ {
+  "index": 274,
+  "gimmick_id": "GM034_044_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_27035",
+  "name_guid": "25153932-6e17-496b-a6a6-971cafd9c4cb",
+  "description_guid": "2d866c1e-5b3f-477a-b5fb-29bc2ffe5a67",
+  "_row": 415
+ },
+ {
+  "index": 475,
+  "gimmick_id": "GM514_000_00",
+  "name": "Submerged Rubble",
+  "description": "A submerged mass of rubble. It's precarious\nenough that hitting it with Slinger ammo will\nsend it crashing down.",
+  "name_guid": "fd2ed0b2-7239-4267-997a-666eef439370",
+  "description_guid": "682e385e-1d2d-4d2b-a56a-880f59b81380",
+  "_row": 416
+ },
+ {
+  "index": 320,
+  "gimmick_id": "GM034_090_00",
+  "name": "Conductive Scale Fragments",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_27500",
+  "name_guid": "8c44c214-2b8a-467b-b6f1-163ea0d0c575",
+  "description_guid": "91a672df-c182-4038-9661-c530c4606a13",
+  "_row": 417
+ },
+ {
+  "index": 598,
+  "gimmick_id": "GM854_005_00",
+  "name": "To the Oilwell Basin",
+  "description": "A Cavern Tunnel exit that leads\nto the Oilwell Basin.",
+  "name_guid": "9457582a-b1d9-4555-9864-42c144a00d25",
+  "description_guid": "67f2c51a-0961-4c41-9f69-9c5dd26c6f74",
+  "_row": 418
+ },
+ {
+  "index": 282,
+  "gimmick_id": "GM034_052_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_27617",
+  "name_guid": "e7bb0297-06b4-4730-a6ed-0b9908fd0897",
+  "description_guid": "9673b314-4136-4c98-8fbc-45786fae356b",
+  "_row": 419
+ },
+ {
+  "index": 589,
+  "gimmick_id": "GM810_009_00",
+  "name": "Hollow Gate",
+  "description": "A path that leads to other areas neighboring\nWounded Hollow.",
+  "name_guid": "811cf79f-6e5f-41c2-be8c-b1caf707cd94",
+  "description_guid": "dfa8bd2d-3ebb-45f6-905e-47080621d15f",
+  "_row": 420
+ },
+ {
+  "index": 260,
+  "gimmick_id": "GM034_030_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_27668",
+  "name_guid": "41c3750a-c3f0-4244-bf6d-adc410658aa0",
+  "description_guid": "885538a2-37cd-430f-accd-04a384013de0",
+  "_row": 421
+ },
+ {
+  "index": 318,
+  "gimmick_id": "GM034_088_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_28272",
+  "name_guid": "30501db0-182a-4063-856c-8c56591f28d4",
+  "description_guid": "fbcee979-2a49-4df3-b257-7882917dc301",
+  "_row": 423
+ },
+ {
+  "index": 319,
+  "gimmick_id": "GM034_089_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_28518",
+  "name_guid": "28467984-d355-4681-aa37-f40d03854d62",
+  "description_guid": "37066af2-8ce3-448a-a3db-6350aba0545e",
+  "_row": 424
+ },
+ {
+  "index": 266,
+  "gimmick_id": "GM034_036_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_28578",
+  "name_guid": "62e78987-6a56-4a45-8ce0-8ab8cdbbe7d6",
+  "description_guid": "61ff0f39-c46e-48ff-a787-06ed4a4ce384",
+  "_row": 425
+ },
+ {
+  "index": 596,
+  "gimmick_id": "GM854_003_00",
+  "name": "To the Cavern Tunnel",
+  "description": "A secret path that runs through a cave.\nAllows passage to adjacent regions.",
+  "name_guid": "7831acc3-f385-4b89-8e0e-a82787e65101",
+  "description_guid": "d07cf524-4479-4bad-a274-3eb39bdba896",
+  "_row": 427
+ },
+ {
+  "index": 299,
+  "gimmick_id": "GM034_069_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_28987",
+  "name_guid": "00e91674-558c-43e6-915b-bf76c366a939",
+  "description_guid": "eaebc68e-7a78-4f60-8030-7510a53407ca",
+  "_row": 429
+ },
+ {
+  "index": 263,
+  "gimmick_id": "GM034_033_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_29032",
+  "name_guid": "36ef4485-172a-4011-8172-2bacfe72b5de",
+  "description_guid": "8609c92c-d1fc-4cac-9211-53a80145953f",
+  "_row": 430
+ },
+ {
+  "index": 292,
+  "gimmick_id": "GM034_062_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_29086",
+  "name_guid": "f9fb34f5-450f-402a-ab06-8957c892aa7b",
+  "description_guid": "2db776e4-62ed-4e73-a89c-33d3828a1eab",
+  "_row": 431
+ },
+ {
+  "index": 312,
+  "gimmick_id": "GM034_082_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_29314",
+  "name_guid": "4ecc759b-590f-4acb-b366-bfa240d00566",
+  "description_guid": "873761e3-e226-4b51-9b35-8448ae5d650a",
+  "_row": 433
+ },
+ {
+  "index": 14,
+  "gimmick_id": "GM000_008_01",
+  "name": "Frostlantern",
+  "description": "<REF Item_IT_EXP_286>",
+  "name_guid": "b96978ed-6b3c-4113-8ca2-496887eb5475",
+  "description_guid": "4df64206-cceb-437f-afc1-6d3751db993a",
+  "_row": 435
+ },
+ {
+  "index": 280,
+  "gimmick_id": "GM034_050_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_30083",
+  "name_guid": "a7693fcf-79ca-4cdf-9331-0b8adb67374d",
+  "description_guid": "fee3df6c-275b-4069-b40a-9b5b3976877e",
+  "_row": 436
+ },
+ {
+  "index": 69,
+  "gimmick_id": "GM000_129_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_130>",
+  "name_guid": "3acd8d4d-94c2-49ad-86ec-4ea604a2dc6d",
+  "description_guid": "cdc1ce61-4838-49cb-9e5d-6c941ef7c9fd",
+  "_row": 437
+ },
+ {
+  "index": 317,
+  "gimmick_id": "GM034_087_00",
+  "name": "Sharp Claw Fragments",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_30361",
+  "name_guid": "ca00a5da-c6cc-46aa-9ba5-b6f8b7647564",
+  "description_guid": "61e3094d-f027-4dd2-b251-87fd1154bfc5",
+  "_row": 438
+ },
+ {
+  "index": 57,
+  "gimmick_id": "GM000_118_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_129>",
+  "name_guid": "857229c9-c1c2-4c89-a41a-ce91b7013db5",
+  "description_guid": "4b89514c-9be6-475c-bcd6-4b1c5cc44720",
+  "_row": 440
+ },
+ {
+  "index": 270,
+  "gimmick_id": "GM034_040_00",
+  "name": "Battle Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_31456",
+  "name_guid": "e4f365ce-92d1-478c-a527-a23c42205e25",
+  "description_guid": "871f39d2-abb2-4736-b977-f1f132f82951",
+  "_row": 441
+ },
+ {
+  "index": 11,
+  "gimmick_id": "GM000_006_01",
+  "name": "Watermoss",
+  "description": "<REF Item_IT_EXP_190>",
+  "name_guid": "1ec28bf7-9a3b-4923-8b7e-e3e4ad8b9661",
+  "description_guid": "868311bf-94f8-4c8f-a1d7-77edaaddcd56",
+  "_row": 443
+ },
+ {
+  "index": 543,
+  "gimmick_id": "GM800_002_02",
+  "name": "Makeshift Camp",
+  "description": "A temporary camp with all the necessities for\na hunt. Change your equipment and organize your\nitems here. Accessible by fast travel with <ICON UI_DECIDE>.",
+  "name_guid": "cb0d0e61-d78a-43e8-9f17-3c0c14b6ccfd",
+  "description_guid": "6270f129-84cf-4d41-8b15-d32ee9925f1b",
+  "_row": 444
+ },
+ {
+  "index": 71,
+  "gimmick_id": "GM000_130_01",
+  "name": null,
+  "description": "<REF Item_IT_EXP_131>",
+  "name_guid": "05392cea-ce1b-426f-bc14-1fe65c5c0be6",
+  "description_guid": "d3518b57-6133-4e6f-ae3a-501f2a7442ab",
+  "_row": 446
+ },
+ {
+  "index": 487,
+  "gimmick_id": "GM556_000_00",
+  "name": "Lava Vent",
+  "description": "A dangerous place that spouts lava. Erupts\nmore frequently at certain times.",
+  "name_guid": "84aba253-20d1-4908-be40-ecca403e458c",
+  "description_guid": "c82fdd41-08f5-4ad4-b541-c2f00bbd5ba1",
+  "_row": 447
+ },
+ {
+  "index": 65,
+  "gimmick_id": "GM000_123_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_28>",
+  "name_guid": "06eb2f9c-992b-4fed-8b4f-a40d5e796e76",
+  "description_guid": "bf1f7fe7-7d3f-4708-aaec-2ae4543a804e",
+  "_row": 448
+ },
+ {
+  "index": 203,
+  "gimmick_id": "GM030_099_00",
+  "name": "Scorched Ground",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2792399",
+  "name_guid": "7adca0a2-5d16-473a-9e1c-770b49530580",
+  "description_guid": "c82c3b24-48f8-4a6e-80a2-5f6e52eb4a70",
+  "_row": 449
+ },
+ {
+  "index": 110,
+  "gimmick_id": "GM000_177_00",
+  "name": "Cocoon Fiber",
+  "description": "A place for gathering special items.",
+  "name_guid": "da46c956-8ad5-498f-8b9d-ddcce97f25f7",
+  "description_guid": "e64311d4-e702-4ec8-9e23-efd8346c75a2",
+  "_row": 450
+ },
+ {
+  "index": 484,
+  "gimmick_id": "GM553_000_00",
+  "name": "The Ancient Forge",
+  "description": "A giant machine left in Oilwell Basin. Pulling\nthe upper lever with a Hook Slinger will trigger\nlarge pistons to thrust out from either side.",
+  "name_guid": "215c2e1b-fee3-4499-8044-9dc06af8ed2a",
+  "description_guid": "114fbb50-7f3b-4c12-8e25-f9bdb5055244",
+  "_row": 451
+ },
+ {
+  "index": 370,
+  "gimmick_id": "GM111_000_00",
+  "name": "Carved Wooden Lantern",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_42073400",
+  "name_guid": "4950ca1f-cd05-4253-9837-1aa2d2ce6f0f",
+  "description_guid": "199c0455-57a0-476b-99b6-9f10f713e4f7",
+  "_row": 452
+ },
+ {
+  "index": 364,
+  "gimmick_id": "GM105_000_00",
+  "name": "Alma's Camp Table",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_72255744",
+  "name_guid": "c336afd5-4e39-4238-ae62-3c74734c01b5",
+  "description_guid": "1134d33e-9848-4e8e-bed0-de5d1bd67411",
+  "_row": 453
+ },
+ {
+  "index": 474,
+  "gimmick_id": "GM513_000_00",
+  "name": "Wyvern Egg",
+  "description": "A flying wyvern's egg. Deliver it back\nto camp...if you can.",
+  "name_guid": "5c2295a3-ea5c-440d-a7a7-830265f16a9a",
+  "description_guid": "937c4ef1-0c1e-4d47-b132-44b59e17103e",
+  "_row": 454
+ },
+ {
+  "index": 72,
+  "gimmick_id": "GM000_131_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_119>",
+  "name_guid": "7a82b7c9-a2f8-4375-a911-6623e0ecbc22",
+  "description_guid": "4967c089-327d-4793-a7ac-20c66f2ce485",
+  "_row": 455
+ },
+ {
+  "index": 174,
+  "gimmick_id": "GM030_041_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_93802896",
+  "name_guid": "4065e89d-5cc3-4dfe-8a43-7ba1da1b4d8b",
+  "description_guid": "209b0207-93c8-4ed0-8123-40762a0c77f8",
+  "_row": 456
+ },
+ {
+  "index": 3,
+  "gimmick_id": "GM000_001_00",
+  "name": "Thorngrass Pod",
+  "description": "<REF Item_IT_EXP_52>",
+  "name_guid": "e1a8f175-9540-412d-977d-7e6cd844da15",
+  "description_guid": "a69fcde1-4762-4c4c-9182-febf9d00ba7f",
+  "_row": 457
+ },
+ {
+  "index": 568,
+  "gimmick_id": "GM800_004_56",
+  "name": "Area 8: Gap in Rubble",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "286e3240-f9ab-4159-9dd1-71bf28d6deb2",
+  "description_guid": "bbce79de-1be8-4046-9584-80acfc4173bb",
+  "_row": 458
+ },
+ {
+  "index": 587,
+  "gimmick_id": "GM810_007_00",
+  "name": "Hollow Gate",
+  "description": "A path that leads to other areas neighboring\nWounded Hollow.",
+  "name_guid": "0d8c2e3a-4b8e-4814-9ee0-f547cfd69473",
+  "description_guid": "2c577707-eed6-4806-b7ac-7fc2d7cb4404",
+  "_row": 459
+ },
+ {
+  "index": 506,
+  "gimmick_id": "GM700_000_00",
+  "name": "Werner's Multi-stage Explosive",
+  "description": "A custom multi-stage explosive crafted by Werner.\nOn impact, a chain of explosions is triggered that\nfeed into a final, massive blast.",
+  "name_guid": "a9c63eae-639e-4ff5-bd43-0696d5569fc1",
+  "description_guid": "b6ae060d-0d93-4e57-986b-e450f0c34206",
+  "_row": 460
+ },
+ {
+  "index": 141,
+  "gimmick_id": "GM030_002_00",
+  "name": "Chewed Up Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_141320048",
+  "name_guid": "e321f091-eb9e-429a-9d0f-193805126abd",
+  "description_guid": "d2064de3-f1f9-4e83-a1f8-e154516b245a",
+  "_row": 461
+ },
+ {
+  "index": 234,
+  "gimmick_id": "GM034_003_00",
+  "name": "Broken Stinger",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_146000752",
+  "name_guid": "a4841ba2-f843-486c-9aef-75e8d3a94054",
+  "description_guid": "e91e39a7-707f-45d8-be01-4e95038da23a",
+  "_row": 462
+ },
+ {
+  "index": 111,
+  "gimmick_id": "GM000_178_00",
+  "name": "Wylky Gemstone",
+  "description": "A place for gathering special items.",
+  "name_guid": "40d1da94-5af6-4938-993f-17079005ddaa",
+  "description_guid": "4d22e7f9-007c-4172-8e47-99ef34b93c55",
+  "_row": 463
+ },
+ {
+  "index": 164,
+  "gimmick_id": "GM030_025_00",
+  "name": "Scale Fragments",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_155195072",
+  "name_guid": "a7f15f2a-d36a-48d9-b7b8-62466fad1ac7",
+  "description_guid": "ad1b76ca-b6fd-4936-98f2-34aec681c49a",
+  "_row": 464
+ },
+ {
+  "index": 207,
+  "gimmick_id": "GM030_109_00",
+  "name": "Molt Shards",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_172213568",
+  "name_guid": "15d5fafd-70be-4daa-9f14-8ca98ad1e9ee",
+  "description_guid": "66da40da-a0eb-4333-a5a0-8cb391d8f14d",
+  "_row": 465
+ },
+ {
+  "index": 156,
+  "gimmick_id": "GM030_017_00",
+  "name": "Kut-Ku Scale Fragment",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_172828320",
+  "name_guid": "7f8dfbd6-4cab-4707-86d6-145968cb795b",
+  "description_guid": "2e6342dc-4a48-4af9-bfae-d2fc816043c4",
+  "_row": 466
+ },
+ {
+  "index": 122,
+  "gimmick_id": "GM001_015_00",
+  "name": "Vitalily",
+  "description": "A plant that releases a healing nectar into\nthe air when struck.",
+  "name_guid": "ecb13b72-15f7-461f-80e7-838c68a33979",
+  "description_guid": "de2be589-9be6-4090-a36a-ca2f08f49dd7",
+  "_row": 467
+ },
+ {
+  "index": 554,
+  "gimmick_id": "GM800_003_51",
+  "name": "Area 18: Sinkhole",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "04a8971d-2abd-46b4-8f67-bf915a0aeb25",
+  "description_guid": "e4ec4b4f-aec1-4d47-9499-0213a2e46562",
+  "_row": 468
+ },
+ {
+  "index": 509,
+  "gimmick_id": "GM750_001_00",
+  "name": null,
+  "description": "Gemma has brought along her latest prototype.\nLure a large monster into the area, and she'll\ninstall her newly-designed snare trap.",
+  "name_guid": "466757a0-c375-4696-b255-13a9aaab25f7",
+  "description_guid": "e65cb26a-1dc5-4e1e-994e-f814d5cf6f3a",
+  "_row": 469
+ },
+ {
+  "index": 546,
+  "gimmick_id": "GM800_002_52",
+  "name": "Area 14: Mining Cave",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "367d20e9-7a43-44af-ba5b-c6bfff281867",
+  "description_guid": "44bb1760-e685-471d-a10e-086310a48758",
+  "_row": 470
+ },
+ {
+  "index": 426,
+  "gimmick_id": "GM201_000_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_19>",
+  "name_guid": "34b6812e-2f96-4b46-ac1e-3c560b14d284",
+  "description_guid": "32f24a23-eb7b-4eb4-b567-27d0de96cd25",
+  "_row": 471
+ },
+ {
+  "index": 479,
+  "gimmick_id": "GM550_000_00",
+  "name": "Oilsilt Spouts",
+  "description": "A place that spouts combustible oilsilt.\nThe oilsilt that erupts here can be ignited\nwith Torch Pods or similar tools.",
+  "name_guid": "b8b7e0f5-3efd-4315-a6e3-184c3f82a5c8",
+  "description_guid": "d5beb8ea-4a3e-45bd-9ab1-86b80496b719",
+  "_row": 472
+ },
+ {
+  "index": 247,
+  "gimmick_id": "GM034_016_00",
+  "name": "Glowing Ebony Claw Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_319211200",
+  "name_guid": "1821e152-2711-4d85-83a6-04d7321442fc",
+  "description_guid": "88dedfa8-d814-4e3d-bd58-cc4797ac7d4f",
+  "_row": 473
+ },
+ {
+  "index": 97,
+  "gimmick_id": "GM000_163_00",
+  "name": "Bountiful Treasure",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "fb81ea43-eb3a-4003-b392-425082109198",
+  "description_guid": "a1897be4-d27f-4368-8c88-bd79a5c86f6e",
+  "_row": 474
+ },
+ {
+  "index": 389,
+  "gimmick_id": "GM153_000_00",
+  "name": "Flowerpot",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_355016992",
+  "name_guid": "467e35c8-8773-4ccb-8d29-19db88c6da0b",
+  "description_guid": "8e0ddd12-5dc9-444a-b640-20ffd3e95346",
+  "_row": 475
+ },
+ {
+  "index": 503,
+  "gimmick_id": "GM650_000_00",
+  "name": "Wylkspring",
+  "description": "A puddle of Wyvern Milk on the ground. It reacts\nto certain outside stimuli, forming Wylkrystals\nthat enhance elemental effects.",
+  "name_guid": "ecaaf316-1ee5-4062-bdb5-2f88356aac46",
+  "description_guid": "abee7239-ac92-420f-a01a-f9670ed10587",
+  "_row": 476
+ },
+ {
+  "index": 470,
+  "gimmick_id": "GM512_000_00",
+  "name": "Wyvern Egg",
+  "description": "A flying wyvern's egg. Deliver it back\nto camp...if you can.",
+  "name_guid": "3e1b2fa5-aa21-47c8-a292-c65c7599667f",
+  "description_guid": "d06d191b-aabc-41bc-9dd0-4c54d89fa10f",
+  "_row": 477
+ },
+ {
+  "index": 170,
+  "gimmick_id": "GM030_031_00",
+  "name": "Glittering Object",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_400506048",
+  "name_guid": "cbb846c6-a3a2-4898-aae6-ba39d5459f21",
+  "description_guid": "a8d5af20-efc1-4841-83c4-a99594e0cde9",
+  "_row": 478
+ },
+ {
+  "index": 183,
+  "gimmick_id": "GM030_051_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_441372224",
+  "name_guid": "15c709ae-5d38-42ff-945d-a697b5815abb",
+  "description_guid": "e0bd2b3c-84d7-405a-a22c-9439c8df21ef",
+  "_row": 479
+ },
+ {
+  "index": 186,
+  "gimmick_id": "GM030_054_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_443534240",
+  "name_guid": "0723115e-ffa1-4f12-90b2-bf524ab9dbc2",
+  "description_guid": "43361955-255d-4440-bf32-76dea7782c85",
+  "_row": 480
+ },
+ {
+  "index": 566,
+  "gimmick_id": "GM800_004_54",
+  "name": "Area 6: Remnant Grove",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "a6255fdd-0956-41bb-9468-2b3d04b9c8e8",
+  "description_guid": "0f53beea-23dd-4a81-b735-c2a3d5d09e30",
+  "_row": 481
+ },
+ {
+  "index": 74,
+  "gimmick_id": "GM000_132_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_99>",
+  "name_guid": "e67f5c1d-1107-432e-8955-9a0e0c6f7e5f",
+  "description_guid": "7a4673cd-f39a-4aa3-b4c7-038488eb5e37",
+  "_row": 482
+ },
+ {
+  "index": 119,
+  "gimmick_id": "GM001_009_00",
+  "name": "Fulgurite Pillar",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_481489888",
+  "name_guid": "d96ec2f4-1bf9-49e5-bbf6-7eb504a3a5e2",
+  "description_guid": "59de17d7-ca96-4c46-9e4a-60c8f0396f02",
+  "_row": 483
+ },
+ {
+  "index": 458,
+  "gimmick_id": "GM451_000_00",
+  "name": "Activation Lever",
+  "description": "A lever that operates moving fences.",
+  "name_guid": "15fde6fa-cc5b-4ef5-b2b1-91dc3fd71de9",
+  "description_guid": "f24f6103-07de-437e-93c4-51e36e5e8fb1",
+  "_row": 484
+ },
+ {
+  "index": 538,
+  "gimmick_id": "GM800_001_60",
+  "name": "Area 14: Southwest",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "c3e2171c-7198-4dd7-bfa2-b81042c6c15b",
+  "description_guid": "f1ab9606-327f-4555-905c-fb87485818c5",
+  "_row": 485
+ },
+ {
+  "index": 435,
+  "gimmick_id": "GM251_000_00",
+  "name": "Barrel Bowling Bomb",
+  "description": "Bombs used exclusively for Barrel Bowling.\nSend them rolling towards the target from\nany location.",
+  "name_guid": "4f061b9b-5a2a-4820-80c7-dc59e20757a9",
+  "description_guid": "2a0c936a-4a3f-4808-988e-0ebf65b32007",
+  "_row": 486
+ },
+ {
+  "index": 148,
+  "gimmick_id": "GM030_009_00",
+  "name": "Burrowing Traces",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_537652096",
+  "name_guid": "d72273c7-a4f6-4e42-822a-e53a857e267b",
+  "description_guid": "9e0260ad-41e8-45fd-b648-ec50a44a0f1a",
+  "_row": 487
+ },
+ {
+  "index": 246,
+  "gimmick_id": "GM034_015_00",
+  "name": "Large Iceplate Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_541816896",
+  "name_guid": "294b3e7d-97bf-4d5f-8d40-270df4831bfb",
+  "description_guid": "f3f1c8cf-bf10-4ed2-855a-40de732d18cc",
+  "_row": 488
+ },
+ {
+  "index": 67,
+  "gimmick_id": "GM000_126_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_101>",
+  "name_guid": "14e3c2b1-f75f-41c8-95b3-c5b3fa2344aa",
+  "description_guid": "33e88ff1-d1f5-4365-802b-134a6186d0c5",
+  "_row": 489
+ },
+ {
+  "index": 584,
+  "gimmick_id": "GM810_004_00",
+  "name": "Training Area Entrance",
+  "description": "A path leading from Base Camp to the\nTraining Area.",
+  "name_guid": "8e0539c9-ef67-44fe-bcb1-393b0a3b7114",
+  "description_guid": "9bc2bf52-c056-41ac-a3ce-8b2f6e14a734",
+  "_row": 490
+ },
+ {
+  "index": 562,
+  "gimmick_id": "GM800_004_50",
+  "name": "Area 2: Crumbling Structures",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "0abdb52f-d2e2-4d59-b56c-09ab9ae4770c",
+  "description_guid": "e9ddaa90-726e-4d69-87a7-a749e88dac8c",
+  "_row": 491
+ },
+ {
+  "index": 537,
+  "gimmick_id": "GM800_001_59",
+  "name": "Area 16: Hidden Waterfall",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "480d0afc-8fea-43c3-91c1-2fb09318682c",
+  "description_guid": "20475029-0ecd-4cbd-af26-ebedce1574a5",
+  "_row": 492
+ },
+ {
+  "index": 17,
+  "gimmick_id": "GM000_010_00",
+  "name": "Wyrmsbane",
+  "description": "<REF Item_IT_EXP_287>",
+  "name_guid": "50b43ccd-860a-40ad-afea-9714500fd997",
+  "description_guid": "972f2dba-3467-4af6-9501-447d1b955716",
+  "_row": 493
+ },
+ {
+  "index": 37,
+  "gimmick_id": "GM000_108_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_478>",
+  "name_guid": "f6140d71-d722-4e78-a926-e3eae8b02978",
+  "description_guid": "b3537e74-b87d-4b90-a855-886ec0efb55e",
+  "_row": 494
+ },
+ {
+  "index": 149,
+  "gimmick_id": "GM030_010_00",
+  "name": "Scratch Marks",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_579449920",
+  "name_guid": "9b373c6c-ab45-4624-96a2-878dc480820f",
+  "description_guid": "88fb30e3-4cc5-4344-9bfc-264661bec30c",
+  "_row": 495
+ },
+ {
+  "index": 585,
+  "gimmick_id": "GM810_005_00",
+  "name": "Training Area Exit",
+  "description": "A path leading from the Training Area\nto Base Camp.",
+  "name_guid": "8fdbf41d-ec91-4a22-8786-2b0fbb86b8aa",
+  "description_guid": "39fdba00-b37f-41c2-887e-753ec2f4d7e3",
+  "_row": 496
+ },
+ {
+  "index": 531,
+  "gimmick_id": "GM800_001_52",
+  "name": "Area 6: Flowering Rocks",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "9ef89627-526c-406a-8c4e-1fcfbe4d0287",
+  "description_guid": "52f6ca64-f058-467e-928f-4a2ffee7013c",
+  "_row": 497
+ },
+ {
+  "index": 208,
+  "gimmick_id": "GM030_110_00",
+  "name": "Distinctive Scratch Marks",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_623958336",
+  "name_guid": "ad789a88-17d9-4e98-8975-1e2832fdb046",
+  "description_guid": "24a4aced-5fef-4bcb-b328-c28391e58313",
+  "_row": 498
+ },
+ {
+  "index": 52,
+  "gimmick_id": "GM000_116_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_74>",
+  "name_guid": "2158767b-1b72-45e7-8b00-63db17e87170",
+  "description_guid": "3eb27afa-c713-43df-86d9-1f8394981c5e",
+  "_row": 499
+ },
+ {
+  "index": 31,
+  "gimmick_id": "GM000_105_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_118>",
+  "name_guid": "a642fdd7-96ba-4973-9c90-13dfe8281a71",
+  "description_guid": "f4917a4e-420e-4ec3-aff0-b19437fbc811",
+  "_row": 500
+ },
+ {
+  "index": 96,
+  "gimmick_id": "GM000_161_00",
+  "name": "Weathered Treasure",
+  "description": "A place for gathering special items.",
+  "name_guid": "7754db68-34cc-4056-8144-a75a11a0bf00",
+  "description_guid": "b994fa3a-6430-40c4-87be-300f2ffa0ade",
+  "_row": 501
+ },
+ {
+  "index": 518,
+  "gimmick_id": "GM800_000_55",
+  "name": "Area 9: Lookout Hill",
+  "description": "<REF RefEnvironment_TentTips_Caution>",
+  "name_guid": "acca79e9-342a-412f-bf0c-a9804f91f6a7",
+  "description_guid": "36e99f59-bccb-41f4-9cb2-e1f71e75de42",
+  "_row": 502
+ },
+ {
+  "index": 244,
+  "gimmick_id": "GM034_013_00",
+  "name": "Tail Claw Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_644638208",
+  "name_guid": "b223eb97-0753-4d7f-afa8-0a01d8c24b8b",
+  "description_guid": "6b8b6b97-81a3-4396-87ff-d9220efc17a5",
+  "_row": 503
+ },
+ {
+  "index": 452,
+  "gimmick_id": "GM407_000_00",
+  "name": "Pit Elevator",
+  "description": "An elevator in the Oilwell Basin.\nCan be used while riding a Seikret.",
+  "name_guid": "c37a024b-d13a-403b-ad21-212a4401040a",
+  "description_guid": "f7238747-1ff1-4497-826a-dedffef37d6c",
+  "_row": 504
+ },
+ {
+  "index": 355,
+  "gimmick_id": "GM037_000_00",
+  "name": "Large Guardian Cocoon",
+  "description": "A cocoon with a large creature squirming inside.\nIt seems to be waiting to hatch.",
+  "name_guid": "bfce7fee-d0d0-4c26-aef4-622c668f0f99",
+  "description_guid": "07faf8a1-7cef-4ee2-b127-59b5d5c30001",
+  "_row": 505
+ },
+ {
+  "index": 185,
+  "gimmick_id": "GM030_053_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_687618240",
+  "name_guid": "de3f07ba-dd85-4ccb-8620-4ce8a504704d",
+  "description_guid": "5e22016b-9d09-48fc-b3cb-3adf310c7548",
+  "_row": 506
+ },
+ {
+  "index": 539,
+  "gimmick_id": "GM800_001_61",
+  "name": "Area 18: West",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "1a002711-b37a-4f31-8fde-362dc3b46d1b",
+  "description_guid": "262d65b0-03d1-4886-baba-ccb09246b2ff",
+  "_row": 507
+ },
+ {
+  "index": 347,
+  "gimmick_id": "GM036_017_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_695078272",
+  "name_guid": "d5adf126-51ba-49df-810a-351059f2b772",
+  "description_guid": "c3a1b983-ba4e-453f-8f30-a1b6c2e46f71",
+  "_row": 508
+ },
+ {
+  "index": 505,
+  "gimmick_id": "GM657_000_00",
+  "name": "Entangled Rocks",
+  "description": "Rocks supported by rotting, brittle roots.\nA strong impact will cause it to fall.",
+  "name_guid": "7bc73b61-7c53-4f21-8ced-1197c2326115",
+  "description_guid": "3a6c88a3-e3c8-4cd4-829d-e45529eff79d",
+  "_row": 509
+ },
+ {
+  "index": 345,
+  "gimmick_id": "GM036_015_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_753717120",
+  "name_guid": "0aa02b3e-e8e0-488d-b069-0b4a94d9bd4b",
+  "description_guid": "67c356ed-d569-4ccf-9703-49364d3db973",
+  "_row": 510
+ },
+ {
+  "index": 522,
+  "gimmick_id": "GM800_000_59",
+  "name": "Area 13: Oasis",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "aa670521-6de4-43a4-bdf6-6bd63b7924a1",
+  "description_guid": "faf9c117-db3e-4994-b0ce-96cbdda6bb74",
+  "_row": 511
+ },
+ {
+  "index": 154,
+  "gimmick_id": "GM030_015_00",
+  "name": "Dug-Up Earth",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_809654144",
+  "name_guid": "1e2d2e8f-61bc-4769-99f4-4e855b7ddce9",
+  "description_guid": "05b354ac-10cc-4956-b6d2-4b7f526976ab",
+  "_row": 512
+ },
+ {
+  "index": 530,
+  "gimmick_id": "GM800_001_51",
+  "name": "Area 8: Underground Lake",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "2bb1dc74-b894-40ee-bfce-8def0e817e14",
+  "description_guid": "45d0bd1a-2acb-4fdb-9527-711679556859",
+  "_row": 513
+ },
+ {
+  "index": 561,
+  "gimmick_id": "GM800_004_01",
+  "name": null,
+  "description": "The Keepers' village in the Ruins of Wyveria.\nThey live on Wyvern Milk as they carry on\ntheir duty to keep watch over the Guardians.",
+  "name_guid": "8a6a8c69-e7b0-4b8b-9aa5-2d2465d1b2fc",
+  "description_guid": "48974837-c7ce-42de-b973-d3d4aa4a4ad6",
+  "_row": 514
+ },
+ {
+  "index": 236,
+  "gimmick_id": "GM034_005_00",
+  "name": "Chunk of Hard Rock",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_869570688",
+  "name_guid": "541b4e4a-a6b7-49d9-8787-9bac24c71d9f",
+  "description_guid": "cf5f0040-65f2-4f55-80de-c39191581293",
+  "_row": 515
+ },
+ {
+  "index": 480,
+  "gimmick_id": "GM551_000_00",
+  "name": "Lump of Blastcoal",
+  "description": "A large formation of highly flammable stone. Hold\nit aloft to spark an internal combustion reaction,\nroll it, then strike it for an explosion.",
+  "name_guid": "80aef527-2d42-46b4-ad19-44dead152ee7",
+  "description_guid": "2fd0ee3c-f399-45ee-95a8-4aae1b6bf48e",
+  "_row": 516
+ },
+ {
+  "index": 343,
+  "gimmick_id": "GM036_013_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_879468544",
+  "name_guid": "26d9cafc-3ba4-4e61-aef0-8edd027f13ad",
+  "description_guid": "79072468-1467-4b75-8cfe-56ef91650cb0",
+  "_row": 517
+ },
+ {
+  "index": 524,
+  "gimmick_id": "GM800_000_61",
+  "name": "Area 16: Bone Desert",
+  "description": "<REF RefEnvironment_TentTips_Caution>",
+  "name_guid": "3af3afcd-8778-413d-be0d-b985449c4b91",
+  "description_guid": "3e4db119-5aa2-4d2f-89d2-0b82f19b9951",
+  "_row": 518
+ },
+ {
+  "index": 113,
+  "gimmick_id": "GM000_180_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_191>",
+  "name_guid": "559e9447-3d09-4468-bda3-496703441d75",
+  "description_guid": "80fdffde-62f3-4731-b3ee-c78643ef74c6",
+  "_row": 519
+ },
+ {
+  "index": 515,
+  "gimmick_id": "GM800_000_52",
+  "name": "Area 14: Groundwater Vein",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "b7f8d4b4-6f41-445a-b5ed-31d25b422da1",
+  "description_guid": "37a8dce1-e0c3-4706-a5ec-b46ef1d0eb3c",
+  "_row": 520
+ },
+ {
+  "index": 388,
+  "gimmick_id": "GM152_000_00",
+  "name": "Camp Food Delivery",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_941429568",
+  "name_guid": "ab1aa105-d8a6-4b0d-bc25-2bb1b7399f4a",
+  "description_guid": "d90f2c78-0353-44b7-8b35-50186e67cd86",
+  "_row": 521
+ },
+ {
+  "index": 241,
+  "gimmick_id": "GM034_010_00",
+  "name": "Shattered Claw",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_953580608",
+  "name_guid": "54515968-5641-45d2-adde-fb016a72df62",
+  "description_guid": "e9e78bb1-44e7-4783-b049-efa064878321",
+  "_row": 522
+ },
+ {
+  "index": 189,
+  "gimmick_id": "GM030_057_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_958227328",
+  "name_guid": "b53ac3c6-c83b-4348-8c2e-753ca0d5c8e7",
+  "description_guid": "d445b6c5-bc97-4f12-aef9-ff5d5641949d",
+  "_row": 523
+ },
+ {
+  "index": 569,
+  "gimmick_id": "GM800_005_00",
+  "name": "Makeshift Camp",
+  "description": "A temporary camp with all the necessities for\na hunt. Change your equipment and organize your\nitems here. Accessible by fast travel with <ICON UI_DECIDE>.",
+  "name_guid": "a6540a47-b0c6-4f69-ba9e-f51f8740a5f7",
+  "description_guid": "4153ac32-cdef-452c-9ce4-280b143d1693",
+  "_row": 524
+ },
+ {
+  "index": 102,
+  "gimmick_id": "GM000_168_00",
+  "name": "Ancient Relic",
+  "description": "A place for gathering special items.",
+  "name_guid": "2c95367c-0415-42ce-9243-0084aca35f92",
+  "description_guid": "e9968030-ac10-4bdc-bf44-29ef136fea6d",
+  "_row": 525
+ },
+ {
+  "index": 58,
+  "gimmick_id": "GM000_119_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_66>",
+  "name_guid": "3d375eb8-b3e0-4a9e-929a-e84887963009",
+  "description_guid": "23117d60-1e89-43e1-b038-24cd5b14759d",
+  "_row": 526
+ },
+ {
+  "index": 532,
+  "gimmick_id": "GM800_001_53",
+  "name": "Area 7: Bower of the Great Tree",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "a8506c0b-8f67-4b56-b224-6cc11945d694",
+  "description_guid": "d06efbaf-edea-4e91-933f-5aea934eb4f2",
+  "_row": 527
+ },
+ {
+  "index": 525,
+  "gimmick_id": "GM800_000_62",
+  "name": "Area 8: Southwest",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "d424f125-3243-4229-a318-01edd87663f5",
+  "description_guid": "8cc76392-ae90-41c7-90c5-f3f92889edff",
+  "_row": 528
+ },
+ {
+  "index": 511,
+  "gimmick_id": "GM800_000_01",
+  "name": null,
+  "description": "Home to the Sandfolk, a tribe of livestock farmers\nin the Windward Plains. When the Sandtide comes,\nthey shelter inside their homes.",
+  "name_guid": "9c8a031d-083d-4b7e-b03f-2ca4ff12d0c1",
+  "description_guid": "b1b305b7-ec59-417f-9f6a-73710fc70190",
+  "_row": 529
+ },
+ {
+  "index": 545,
+  "gimmick_id": "GM800_002_51",
+  "name": "Area 12: Crimson Rivulet",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "9e373472-d146-4794-b125-91f1e189d5cb",
+  "description_guid": "244288ea-27f3-4e9f-9e6c-2ca273b9d88d",
+  "_row": 530
+ },
+ {
+  "index": 516,
+  "gimmick_id": "GM800_000_53",
+  "name": "Area 3: South",
+  "description": "<REF RefEnvironment_TentTips_Caution>",
+  "name_guid": "9e2ccbdc-7bac-4372-ab41-95d3c3b7e754",
+  "description_guid": "8bca5c84-34ee-4e18-bea3-366207f26468",
+  "_row": 531
+ },
+ {
+  "index": 188,
+  "gimmick_id": "GM030_056_00",
+  "name": "Half-Eaten Carcass",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1074548864",
+  "name_guid": "9c75ff49-ff48-462a-8b54-c65aa647c2f0",
+  "description_guid": "35323825-56a4-458d-8ad2-eadcebf780d1",
+  "_row": 532
+ },
+ {
+  "index": 94,
+  "gimmick_id": "GM000_158_00",
+  "name": "Amber Deposit",
+  "description": "A place for gathering special items.",
+  "name_guid": "0b8636a9-098b-4544-90b1-1eb1a3d548b2",
+  "description_guid": "b5aa9b61-12d3-40fd-9857-8d153b1a95c9",
+  "_row": 533
+ },
+ {
+  "index": 248,
+  "gimmick_id": "GM034_017_00",
+  "name": "Glowing Fang Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1119738752",
+  "name_guid": "c58f9c73-2c70-462b-8d71-ddc3325999bc",
+  "description_guid": "979e40ad-9bcd-434f-b126-8aa6ea2092cd",
+  "_row": 534
+ },
+ {
+  "index": 575,
+  "gimmick_id": "GM800_009_00",
+  "name": "Makeshift Camp",
+  "description": "A temporary camp with all the necessities for\na hunt. Change your equipment and organize your\nitems here. Accessible by fast travel with <ICON UI_DECIDE>.",
+  "name_guid": "978d4c88-6110-475b-b9cc-22ab5829d55e",
+  "description_guid": "62bb8310-e3d0-434f-839c-5bf54919952d",
+  "_row": 535
+ },
+ {
+  "index": 8,
+  "gimmick_id": "GM000_005_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_188>",
+  "name_guid": "31b5c170-f196-45d8-9fb0-0454cd62f05b",
+  "description_guid": "ce314af1-c23b-4b02-91e7-3cb7e2b79673",
+  "_row": 536
+ },
+ {
+  "index": 586,
+  "gimmick_id": "GM810_006_00",
+  "name": "Peaks Back Gate",
+  "description": "A path that leads to other areas neighboring\nSuja, Peaks of Accord.",
+  "name_guid": "a213f945-7c51-40d4-9d38-c336b8aab737",
+  "description_guid": "d11679d9-d27c-46ae-a918-508da4c5720d",
+  "_row": 537
+ },
+ {
+  "index": 365,
+  "gimmick_id": "GM106_000_00",
+  "name": "Training Barrel",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1171238912",
+  "name_guid": "95ae8692-363c-436c-b1dc-10927e8037ca",
+  "description_guid": "6c5c574e-02a0-4f61-a1db-154aa635b2c2",
+  "_row": 538
+ },
+ {
+  "index": 105,
+  "gimmick_id": "GM000_172_00",
+  "name": "Glass Algae",
+  "description": "A place for gathering special items.",
+  "name_guid": "ac7a4182-f32f-4109-b2dc-31e37749f06d",
+  "description_guid": "e0a9a07e-9fcd-4126-a4df-062406111262",
+  "_row": 539
+ },
+ {
+  "index": 63,
+  "gimmick_id": "GM000_122_00",
+  "name": "Bonepile",
+  "description": "A place for gathering\nbone materials.",
+  "name_guid": "82c65364-bae7-41c1-9ce2-40f091085f64",
+  "description_guid": "92340787-3827-41a2-b033-acbf4ec966d8",
+  "_row": 540
+ },
+ {
+  "index": 391,
+  "gimmick_id": "GM155_000_00",
+  "name": "Torch",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1190893696",
+  "name_guid": "fef56d88-6f55-40a2-a6b7-02f22829570c",
+  "description_guid": "16dca3be-69a9-47a1-8460-73198504bed2",
+  "_row": 541
+ },
+ {
+  "index": 179,
+  "gimmick_id": "GM030_047_00",
+  "name": "Chewed Mushroom Crumbs",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1230930560",
+  "name_guid": "eaf0c305-1c6d-41ea-8381-b40b5426fbc7",
+  "description_guid": "ff3ec350-d3e1-4149-90ac-ac556b737c39",
+  "_row": 542
+ },
+ {
+  "index": 544,
+  "gimmick_id": "GM800_002_50",
+  "name": "Area 2: Canyon Divide",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "bc2ae63e-90eb-448d-a844-902c93e28a28",
+  "description_guid": "de72b859-48bd-4a3a-9ca4-2ba3f1d3b4a8",
+  "_row": 543
+ },
+ {
+  "index": 564,
+  "gimmick_id": "GM800_004_52",
+  "name": "Area 6: Secluded Ruins",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "903017ab-c3e4-400d-b5ed-08f1a69000ea",
+  "description_guid": "69e89838-ac0c-4345-a744-a36043f5f3b1",
+  "_row": 544
+ },
+ {
+  "index": 85,
+  "gimmick_id": "GM000_149_00",
+  "name": "Fulgurite Crystal",
+  "description": "A place for gathering special items.",
+  "name_guid": "f4314643-d216-4198-9a5d-cdc74ec95d5a",
+  "description_guid": "4d058396-84cd-414d-a9ee-dc71fb5c0fae",
+  "_row": 545
+ },
+ {
+  "index": 533,
+  "gimmick_id": "GM800_001_54",
+  "name": "Area 18: Treetop Hill",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "6d7b750d-e818-493b-8120-e27db7198279",
+  "description_guid": "8e3584c3-4310-4b6e-ae61-2cc93d149c69",
+  "_row": 546
+ },
+ {
+  "index": 368,
+  "gimmick_id": "GM109_000_00",
+  "name": "Palico Bed",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1308232704",
+  "name_guid": "bdfc8d4c-41e3-4d0b-8efc-aa635cc48640",
+  "description_guid": "d64bb623-2cb8-4779-946b-5b572a5c7ca1",
+  "_row": 547
+ },
+ {
+  "index": 417,
+  "gimmick_id": "GM200_002_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_14>",
+  "name_guid": "ec857558-3ff1-439f-8e31-6f5ea304d980",
+  "description_guid": "6bfbe699-65bd-4983-9c73-786be673914d",
+  "_row": 548
+ },
+ {
+  "index": 486,
+  "gimmick_id": "GM555_001_00",
+  "name": "Brittle Ice Pillar",
+  "description": "An icicle that looks like it could fall\nat any moment. Hitting it with Slinger\nammo should speed up the process.",
+  "name_guid": "12ba0c86-dfd0-4cd2-ab75-e9dde48970da",
+  "description_guid": "284bb3e7-cc11-4ba7-ab73-26cfe6a2eb47",
+  "_row": 549
+ },
+ {
+  "index": 192,
+  "gimmick_id": "GM030_064_00",
+  "name": "Refilled Hole",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1377126656",
+  "name_guid": "2e434362-2326-495d-b181-cfc8f57fc085",
+  "description_guid": "9cfde0ca-8bc6-4451-95bf-303a30a044d0",
+  "_row": 550
+ },
+ {
+  "index": 467,
+  "gimmick_id": "GM507_000_00",
+  "name": null,
+  "description": "A hive built by fiercely territorial\n<REF EnemyText_NAME_EM5007_00_0>s.",
+  "name_guid": "6ca28b03-bd2d-4239-959a-925c83ad2f89",
+  "description_guid": "9d9652a7-4d56-405a-bc74-f121a6977ea2",
+  "_row": 551
+ },
+ {
+  "index": 520,
+  "gimmick_id": "GM800_000_57",
+  "name": "Area 8: Southeast",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "28a4b808-a175-46d7-8a12-fb40ea658e41",
+  "description_guid": "95e6d7ad-37d1-4d27-815d-00894e8d1b2b",
+  "_row": 552
+ },
+ {
+  "index": 209,
+  "gimmick_id": "GM030_114_00",
+  "name": "Golden Scraps",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1401059840",
+  "name_guid": "22ae2bde-ec5f-46b5-8c55-40e07a021f2b",
+  "description_guid": "5408521e-30c5-429f-8561-fb35963f1743",
+  "_row": 553
+ },
+ {
+  "index": 346,
+  "gimmick_id": "GM036_016_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1412193152",
+  "name_guid": "66e98bdf-58d7-4d14-8578-f28a3139d6d4",
+  "description_guid": "2e316822-c488-4b03-b59e-df5e5b039b87",
+  "_row": 554
+ },
+ {
+  "index": 239,
+  "gimmick_id": "GM034_008_00",
+  "name": "Glowing White Claw Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1416777856",
+  "name_guid": "28cb15dc-05ec-4a1e-be01-0d921eb9c152",
+  "description_guid": "e7d0aae0-c9c5-4155-b1ef-f55430de5ba5",
+  "_row": 555
+ },
+ {
+  "index": 465,
+  "gimmick_id": "GM506_000_00",
+  "name": "Sporepuff",
+  "description": "A plant laden with spores. Strike it to release\na dense cloud that can be used to hide a hunter\nfrom sight.",
+  "name_guid": "a9788e05-b20f-4d62-ba84-8cb6b50a4646",
+  "description_guid": "860271a2-d71b-4a97-9425-a5b1fe732f77",
+  "_row": 556
+ },
+ {
+  "index": 462,
+  "gimmick_id": "GM503_000_00",
+  "name": "Loch Ruins",
+  "description": "The unstable remains of some aged structure.\nA sharp tug from the Hook Slinger could bring\nit down on unsuspecting foes.",
+  "name_guid": "0994f8a7-9b22-4a8c-a3ae-7b810ff8f452",
+  "description_guid": "b8c24b1d-3018-476c-b9f6-fdd897aa9044",
+  "_row": 557
+ },
+ {
+  "index": 168,
+  "gimmick_id": "GM030_029_00",
+  "name": "Chelicera Shards",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1446277504",
+  "name_guid": "704aa626-ef39-42f3-8606-128ada5f2bfc",
+  "description_guid": "260f1475-7752-43d6-9c6b-cecaec7e704a",
+  "_row": 558
+ },
+ {
+  "index": 25,
+  "gimmick_id": "GM000_102_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_76>",
+  "name_guid": "1ff46f20-3086-446d-aa27-3966ec21f1bf",
+  "description_guid": "37b8e221-f1a4-4e8b-b00f-91e898b1f42c",
+  "_row": 559
+ },
+ {
+  "index": 519,
+  "gimmick_id": "GM800_000_56",
+  "name": "Area 10: Southeast",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "9f3764ab-871f-4f21-822a-9f267b7dacee",
+  "description_guid": "fdf60698-71ae-484a-999f-b1b4c377944c",
+  "_row": 560
+ },
+ {
+  "index": 361,
+  "gimmick_id": "GM100_003_00",
+  "name": "Makeshift Camp",
+  "description": "A temporary camp with all the necessities for\na hunt. Change your equipment and organize your\nitems here. Accessible by fast travel with <ICON UI_DECIDE>.",
+  "name_guid": "6ad8867d-1ed2-452d-b9ae-f422cf9d60af",
+  "description_guid": "5a2e3e80-702a-45f6-abe6-02b70f4a5f64",
+  "_row": 561
+ },
+ {
+  "index": 461,
+  "gimmick_id": "GM502_000_00",
+  "name": "Entangled Rocks",
+  "description": "A mass of rocky rubble, held aloft by old and\nrotting vines and branches. A strong blow\ncould cause it to crash down.",
+  "name_guid": "818dca1e-0714-42c8-8816-42c6bcc1e539",
+  "description_guid": "f20dc380-675c-4177-b08f-1ea1bd415497",
+  "_row": 562
+ },
+ {
+  "index": 232,
+  "gimmick_id": "GM034_001_00",
+  "name": "Razor-Sharp Claw Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1508193408",
+  "name_guid": "774f05b4-8b7d-41cf-9710-460273e2e313",
+  "description_guid": "da97d359-7846-45fc-9a21-4635f3b8eee3",
+  "_row": 563
+ },
+ {
+  "index": 130,
+  "gimmick_id": "GM009_000_00",
+  "name": "Grounding Pillar",
+  "description": "A large rock pillar that intercepts lightning strikes,\naffording protection to the surrounding area.",
+  "name_guid": "0ac7e52d-5629-4e57-a529-797a1c859bbe",
+  "description_guid": "0edaf22e-93f9-434e-b799-b4bc67b1a5a2",
+  "_row": 564
+ },
+ {
+  "index": 121,
+  "gimmick_id": "GM001_013_01",
+  "name": "Brush",
+  "description": "An area covered in tall grass that can conceal\na crouching hunter from sight.",
+  "name_guid": "eef54716-3f61-4c8c-9022-1e6956ccc1e8",
+  "description_guid": "c63945f9-7ffc-41d7-b381-3bd49ceb80e8",
+  "_row": 565
+ },
+ {
+  "index": 393,
+  "gimmick_id": "GM157_000_00",
+  "name": "Gemchime Replica",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1585821056",
+  "name_guid": "1b8ff90c-b650-4f20-832d-7d42c6c98988",
+  "description_guid": "eb82e331-03aa-4a88-92aa-ee796b603ce9",
+  "_row": 566
+ },
+ {
+  "index": 344,
+  "gimmick_id": "GM036_014_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1586962560",
+  "name_guid": "bd21c48b-2dce-4bce-8057-d219552f0bf3",
+  "description_guid": "a4d4a9a8-3e56-4e3d-b984-725da6677b5c",
+  "_row": 567
+ },
+ {
+  "index": 350,
+  "gimmick_id": "GM036_020_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1594827904",
+  "name_guid": "e7d34b07-498d-484a-b24c-15e1e88ddb06",
+  "description_guid": "7671ab2b-62f5-4416-8e0e-11b1ec056ab0",
+  "_row": 568
+ },
+ {
+  "index": 334,
+  "gimmick_id": "GM036_004_00",
+  "name": null,
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1600880384",
+  "name_guid": "09bc3ac9-f744-478d-ab3a-f9760e40a933",
+  "description_guid": "d6b5fe10-8458-426b-b848-8d50b1587edd",
+  "_row": 569
+ },
+ {
+  "index": 118,
+  "gimmick_id": "GM001_008_00",
+  "name": "Fulgurite Pillar",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1608240256",
+  "name_guid": "21c1c4ba-def2-4883-95ab-57111683d170",
+  "description_guid": "a166ff86-6587-4063-b3a5-5442df4bf1b8",
+  "_row": 570
+ },
+ {
+  "index": 469,
+  "gimmick_id": "GM509_000_00",
+  "name": "Weathered Ruins",
+  "description": "The unstable remains of some aged structure.\nRavaged by time, a strong impact would likely\nbring it to the ground.",
+  "name_guid": "06fe2014-cd48-409c-bca9-d7c6526750ae",
+  "description_guid": "155c297b-e940-49c7-aa63-817a95432501",
+  "_row": 571
+ },
+ {
+  "index": 514,
+  "gimmick_id": "GM800_000_51",
+  "name": "Area 6: Valley Hideaway",
+  "description": "<REF RefEnvironment_TentTips_Safety>",
+  "name_guid": "df703854-357b-4fe6-bd52-f33665fdb100",
+  "description_guid": "011b73ea-03d7-4da9-b330-f5def860c9bc",
+  "_row": 572
+ },
+ {
+  "index": 50,
+  "gimmick_id": "GM000_115_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_114>",
+  "name_guid": "6b31e0af-04dc-48ad-8747-41d9fced74fe",
+  "description_guid": "9db3cf59-e878-406a-89ec-25b60c351ace",
+  "_row": 573
+ },
+ {
+  "index": 534,
+  "gimmick_id": "GM800_001_55",
+  "name": "Area 10: Southwest",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "837155bc-4d25-4a8d-94a5-459065c8898b",
+  "description_guid": "53779498-3941-4b15-a05d-a0da679e276f",
+  "_row": 574
+ },
+ {
+  "index": 126,
+  "gimmick_id": "GM001_020_00",
+  "name": "Brush",
+  "description": "An area covered in tall grass that can conceal\na crouching hunter from sight.",
+  "name_guid": "761b3912-4921-4d1e-a306-7d30b30df629",
+  "description_guid": "9b5ac262-20c8-45a3-a738-3b72ead91dbb",
+  "_row": 575
+ },
+ {
+  "index": 210,
+  "gimmick_id": "GM030_115_00",
+  "name": "Mucus",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1680627328",
+  "name_guid": "97cdccab-6b9c-4993-bd14-f67d7fd6facc",
+  "description_guid": "1e23e7bd-cbb8-47c5-8da0-b365f49ac2ea",
+  "_row": 576
+ },
+ {
+  "index": 42,
+  "gimmick_id": "GM000_111_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_75>",
+  "name_guid": "6ac89bc2-9b58-4354-9f36-9eed8ba32f0e",
+  "description_guid": "dc419bca-3175-4744-9559-5fcffac4da64",
+  "_row": 577
+ },
+ {
+  "index": 193,
+  "gimmick_id": "GM030_065_00",
+  "name": "Shed Fur",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1712786816",
+  "name_guid": "db4158b2-62bc-4dcf-8cdf-1bab5cf1603e",
+  "description_guid": "8f35debe-50ee-4e0c-a527-0a5f58ff962a",
+  "_row": 578
+ },
+ {
+  "index": 158,
+  "gimmick_id": "GM030_019_00",
+  "name": "Transparent Raiment",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1717674624",
+  "name_guid": "249c4cf9-195a-4fef-a8b4-f343cad2f1e5",
+  "description_guid": "8bea4dfe-1b22-4b22-b026-f2398c9d1103",
+  "_row": 579
+ },
+ {
+  "index": 75,
+  "gimmick_id": "GM000_142_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_28>",
+  "name_guid": "80f35b9c-fcce-4fbf-99be-e2a2fbd0605e",
+  "description_guid": "9b91617f-ce2f-4de0-8bcc-60006d052624",
+  "_row": 580
+ },
+ {
+  "index": 250,
+  "gimmick_id": "GM034_019_00",
+  "name": "Sharp Xu Wu Fragment",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1864387200",
+  "name_guid": "cc55bff1-e85e-4ab7-a962-7a447f42a352",
+  "description_guid": "b390bc84-f2ae-43b4-a340-04660d4e49af",
+  "_row": 581
+ },
+ {
+  "index": 557,
+  "gimmick_id": "GM800_003_54",
+  "name": "Area 6: North",
+  "description": "<REF RefEnvironment_TentTips_Danger>",
+  "name_guid": "d81a4a9c-2649-4371-9625-5c0f85ddfea1",
+  "description_guid": "3a6a4c28-bce1-44d5-8b9f-3100041eaedf",
+  "_row": 582
+ },
+ {
+  "index": 91,
+  "gimmick_id": "GM000_156_00",
+  "name": "Magnificent Fossil",
+  "description": "A place for gathering rare special items.",
+  "name_guid": "66a91ec7-6958-49ad-b250-a2d7d927fd74",
+  "description_guid": "85733228-64a6-4271-8f83-d823fa673e8d",
+  "_row": 583
+ },
+ {
+  "index": 221,
+  "gimmick_id": "GM031_006_00",
+  "name": "Shed Fur",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1886306432",
+  "name_guid": "8ff7428f-2ee1-4066-9c11-fb02f71b6e17",
+  "description_guid": "1f13db2f-b2f2-4872-85a5-8560dc6faab8",
+  "_row": 584
+ },
+ {
+  "index": 356,
+  "gimmick_id": "GM037_001_00",
+  "name": "Guardian Cocoon",
+  "description": "A cocoon with a small creature squirming inside.\nIt seems to be waiting to hatch.",
+  "name_guid": "34711a97-0514-4876-b95b-86d6f85e94a8",
+  "description_guid": "416e0a3b-2f86-4dd6-87a6-7eb85e88739e",
+  "_row": 585
+ },
+ {
+  "index": 418,
+  "gimmick_id": "GM200_003_00",
+  "name": "Demeowlisher Bomb",
+  "description": "A large bomb set by your Palico. Just like\na regular Large Barrel Bomb, it can be rolled\nafter placing, and detonates on impact.",
+  "name_guid": "23836479-6fca-43c7-9d8d-27bf00f7de82",
+  "description_guid": "7aa46067-4ebc-435e-8c8b-f30539702b5a",
+  "_row": 586
+ },
+ {
+  "index": 229,
+  "gimmick_id": "GM032_001_00",
+  "name": "Bonepile",
+  "description": "A place for gathering\nbone materials.",
+  "name_guid": "c1fb9514-ba37-4989-9500-d0e728750c88",
+  "description_guid": "ae88d005-d112-48a3-b7e4-4ae8e080c11a",
+  "_row": 587
+ },
+ {
+  "index": 428,
+  "gimmick_id": "GM203_000_00",
+  "name": "Paracorn",
+  "description": "A trap set by your Palico. Can be used to stop\na monster's movements. Similar to shock traps,\nthis trap can be used to capture monsters.",
+  "name_guid": "b778b3e5-e44e-4758-8a6a-f3a76b0f81fc",
+  "description_guid": "f15f03d1-e25e-4359-a148-ebebfccdce36",
+  "_row": 588
+ },
+ {
+  "index": 497,
+  "gimmick_id": "GM604_000_00",
+  "name": "Icespikes",
+  "description": "Sharp icicles that stick out at an angle.\nMounting a monster's head may cause it\nto ram into them, easily opening a wound.",
+  "name_guid": "cdc026a3-8095-43d1-ba3a-d8194f243a04",
+  "description_guid": "a85e7f1d-2dda-44b4-8231-4a0798369614",
+  "_row": 589
+ },
+ {
+  "index": 498,
+  "gimmick_id": "GM605_000_00",
+  "name": "Giant Frozen Pillar",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1934600704",
+  "name_guid": "6aaf5d90-1f3c-429f-bc9a-5bcefa4aee86",
+  "description_guid": "a598994d-3742-410a-adc0-8071a86cdc6e",
+  "_row": 590
+ },
+ {
+  "index": 390,
+  "gimmick_id": "GM154_000_00",
+  "name": "Small Item Storage",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1979680256",
+  "name_guid": "418f6dec-1a9c-4e68-b19d-8fa5ad90bdb4",
+  "description_guid": "4e4191ce-dbdb-4d1e-9b57-f942f9c24adf",
+  "_row": 591
+ },
+ {
+  "index": 251,
+  "gimmick_id": "GM034_020_00",
+  "name": "Crystal Fragments",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1984346112",
+  "name_guid": "bb8bb518-ef5d-447e-b970-ee42c3f5db05",
+  "description_guid": "b1426d4a-8fef-4f03-a44f-4cde6e05bfbd",
+  "_row": 592
+ },
+ {
+  "index": 243,
+  "gimmick_id": "GM034_012_00",
+  "name": "Poison Crystal Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_1989480192",
+  "name_guid": "e37529a1-bd92-4f6c-a237-e20401c2b146",
+  "description_guid": "dafa291e-881c-48ea-8d42-b439c4db0b7f",
+  "_row": 593
+ },
+ {
+  "index": 81,
+  "gimmick_id": "GM000_145_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_290>",
+  "name_guid": "724c4b32-e44f-41ef-9905-635dc36ca43e",
+  "description_guid": "36f00894-d154-4d63-b770-ac6fe490715b",
+  "_row": 594
+ },
+ {
+  "index": 523,
+  "gimmick_id": "GM800_000_60",
+  "name": "Area 16: Northwest",
+  "description": "<REF RefEnvironment_TentTips_Caution>",
+  "name_guid": "cd33d9ff-ea83-4d61-9385-05edeada177d",
+  "description_guid": "f535d955-ce3b-4083-8017-cdf69f4aba13",
+  "_row": 595
+ },
+ {
+  "index": 142,
+  "gimmick_id": "GM030_003_00",
+  "name": "Dung",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2009669632",
+  "name_guid": "fcc0aaf0-5021-41cf-b93f-887723402765",
+  "description_guid": "b4355e82-c7d9-4f53-9f6f-be86cb22727d",
+  "_row": 596
+ },
+ {
+  "index": 369,
+  "gimmick_id": "GM110_000_00",
+  "name": "Flowering Tree",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2011991808",
+  "name_guid": "12d8de2a-53d3-4ca5-8a3a-c3fd32e99bb5",
+  "description_guid": "246cc7ef-ca38-4536-a5b3-72f5558c3805",
+  "_row": 597
+ },
+ {
+  "index": 150,
+  "gimmick_id": "GM030_011_00",
+  "name": "Fulgurite Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2019482368",
+  "name_guid": "6c6318da-df35-4c41-b931-ba687e92b0d2",
+  "description_guid": "6154b604-162d-41bf-ac85-f4a1baeee5bf",
+  "_row": 598
+ },
+ {
+  "index": 249,
+  "gimmick_id": "GM034_018_00",
+  "name": "Glowing Wingtalon Shard",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2026079616",
+  "name_guid": "d033216a-d986-43f3-9fe2-0a15a09448cd",
+  "description_guid": "dfe1a6ff-61bf-4e91-b84b-a38d4a779d72",
+  "_row": 599
+ },
+ {
+  "index": 196,
+  "gimmick_id": "GM030_074_00",
+  "name": "Gastric Fluid Mixed With Wylk",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2047410816",
+  "name_guid": "1cd894f3-ab32-4e8f-b3e7-0a944d2fcbb9",
+  "description_guid": "f1ef4e48-762a-4a0f-a85d-b62a06a18f7d",
+  "_row": 600
+ },
+ {
+  "index": 166,
+  "gimmick_id": "GM030_027_00",
+  "name": "Tar Excretions",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2069523200",
+  "name_guid": "93505647-929d-4b86-b91e-ab4a0efbe482",
+  "description_guid": "3746245e-0e6c-488f-afa5-c4916dc8c05c",
+  "_row": 601
+ },
+ {
+  "index": 155,
+  "gimmick_id": "GM030_016_00",
+  "name": "Chewed Mushroom Crumbs",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2073039744",
+  "name_guid": "d845b97a-e40b-4751-a58b-242135f18f45",
+  "description_guid": "8e35fa91-616b-43af-9052-1dbcd2ac389b",
+  "_row": 602
+ },
+ {
+  "index": 167,
+  "gimmick_id": "GM030_028_00",
+  "name": "Half-Digested Food",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2098325248",
+  "name_guid": "5949e9ea-6f53-420b-b44c-2da5904a92f1",
+  "description_guid": "7d775b04-0eb3-45a6-9627-e09f83d1886d",
+  "_row": 603
+ },
+ {
+  "index": 79,
+  "gimmick_id": "GM000_144_00",
+  "name": null,
+  "description": "<REF Item_IT_EXP_291>",
+  "name_guid": "64d30cdc-0537-4a3e-926a-027e1c797c0e",
+  "description_guid": "4faae756-e637-4e7b-b23d-097a7d53e22b",
+  "_row": 604
+ },
+ {
+  "index": 157,
+  "gimmick_id": "GM030_018_00",
+  "name": "Chewed Insect Remains",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2117886848",
+  "name_guid": "bbc56758-ff51-4364-b749-596c5ba81bfa",
+  "description_guid": "3b20ce76-7810-4621-9da3-01a41883a45f",
+  "_row": 605
+ },
+ {
+  "index": 205,
+  "gimmick_id": "GM030_104_00",
+  "name": "Scratch Marks",
+  "description": "<COLOR FF0000>#Rejected#</COLOR> Gimmick_EXP_2143394944",
+  "name_guid": "7a01bd28-c363-490e-8ca6-9007b647b812",
+  "description_guid": "e59defb8-b93c-43fd-9c63-f6adbca5202d",
+  "_row": 606
+ }
+]

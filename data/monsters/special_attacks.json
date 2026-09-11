@@ -1,0 +1,184 @@
+[
+ {
+  "index": 0,
+  "id": "ROAR_MINIOR",
+  "name": "Weak Roar",
+  "description": "Temporarily immobilizes you.",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "id": "ROAR_MAJOR",
+  "name": "Strong Roar",
+  "description": "Temporarily immobilizes you.",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "id": "TREMORS_MINIOR",
+  "name": "Minor Tremor",
+  "description": "Temporarily immobilizes you.",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "id": "TREMORS_MAJOR",
+  "name": "Major Tremor",
+  "description": "Temporarily immobilizes you.",
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "id": "WIND_PRESSURE_MINIOR",
+  "name": "Minor Wind Pressure",
+  "description": "Temporarily immobilizes you.",
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "id": "WIND_PRESSURE_MAJOR",
+  "name": "Major Wind Pressure",
+  "description": "Temporarily immobilizes you.",
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "id": "WIND_PRESSURE_DRAGON",
+  "name": "Dragon Wind Pressure",
+  "description": "Temporarily immobilizes you.",
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "id": "ATTRIBUTE_DAMAGE_FIRE",
+  "name": "Fireblight",
+  "description": "Temporarily causes your health\nto deplete. Evading repeatedly\nremoves the condition.",
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "id": "ATTRIBUTE_DAMAGE_WATER",
+  "name": "Waterblight",
+  "description": "Temporarily slows down stamina\nrecovery. Evading repeatedly\nremoves the condition.",
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "id": "ATTRIBUTE_DAMAGE_SUNDER",
+  "name": "Thunderblight",
+  "description": "Temporarily makes you easier to\nstun. Evading repeatedly removes\nthe condition.",
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "id": "ATTRIBUTE_DAMAGE_ICE",
+  "name": "Iceblight",
+  "description": "Temporarily increases stamina\nconsumption. Evading repeatedly\nremoves the condition.",
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "id": "ATTRIBUTE_DAMAGE_DRAGON",
+  "name": "Dragonblight",
+  "description": "Temporarily negates weapon\nelements/ailments. Evading\nrepeatedly removes the condition.",
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "id": "POISON",
+  "name": "Poison",
+  "description": "Temporarily causes your health\nto deplete.",
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "id": "DEADLY_POISON",
+  "name": "Noxious Poison",
+  "description": "Temporarily causes your health\nto deplete. Effects are more\nsevere than ordinary poison.",
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "id": "STUN",
+  "name": "Stun",
+  "description": "Temporarily immobilizes you.\nMoving, pressing buttons, or\ntaking a hit removes the condition.",
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "id": "FLASH",
+  "name": "Flash",
+  "description": "Temporarily immobilizes you.\nMoving, pressing buttons, or\ntaking a hit removes the condition.",
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "id": "PARALYSIS",
+  "name": "Paralysis",
+  "description": "Temporarily immobilizes you.\nMoving, pressing buttons, or\ntaking a hit removes the condition.",
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "id": "SLEEP",
+  "name": "Sleep",
+  "description": "Temporarily puts you to sleep,\nimmobilizing you.",
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "id": "WEBBED",
+  "name": "Webbed",
+  "description": "Temporarily immobilizes you.\nMoving, pressing buttons, or\ntaking a hit removes the condition.",
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "id": "BLAST",
+  "name": "Blastblight",
+  "description": "Triggers an explosion after a\nperiod of time elapses, or if you\ntake a hit that causes knockback.",
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "id": "DEFENSE_DOWN",
+  "name": "Defense Down",
+  "description": "Temporarily reduces your defense.",
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "id": "RESISTANCE_DOWN",
+  "name": "Resistance Down",
+  "description": "Temporarily lowers all your\nresistances.",
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "id": "STENCH",
+  "name": "Stench",
+  "description": "Temporarily prevents the use of\nhealth or stamina recovery items.",
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "id": "LACERATION",
+  "name": "Bleeding",
+  "description": "Depletes health when moving.\nCrouching or holding still for\na while removes the condition.",
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "id": "VIRUS",
+  "name": "Frenzy",
+  "description": "If the Frenzy Virus fully infects\nyou, you will temporarily take\nmore damage.",
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "id": "FRIEZE",
+  "name": "Frostblight",
+  "description": "Temporarily immobilizes you.\nMoving, pressing buttons, or taking\na hit removes the condition.",
+  "_row": 27
+ }
+]

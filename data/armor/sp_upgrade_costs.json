@@ -1,0 +1,26 @@
+[
+ {
+  "index": 0,
+  "rarity": 5,
+  "cost": "2000",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "rarity": 6,
+  "cost": "3000",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "rarity": 7,
+  "cost": "5000",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "rarity": 8,
+  "cost": "8000",
+  "_row": 5
+ }
+]

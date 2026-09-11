@@ -1,0 +1,226 @@
+[
+ {
+  "kind": "health",
+  "trigger": "60",
+  "item_id": "ITEM_0224",
+  "item_name": "First-aid Med+",
+  "_row": 2
+ },
+ {
+  "kind": "health",
+  "trigger": "60",
+  "item_id": "ITEM_0001",
+  "item_name": "Mega Potion",
+  "_row": 3
+ },
+ {
+  "kind": "health",
+  "trigger": "1",
+  "item_id": "ITEM_0146",
+  "item_name": "First-aid Med",
+  "_row": 4
+ },
+ {
+  "kind": "health",
+  "trigger": "1",
+  "item_id": "ITEM_0088",
+  "item_name": "Blue Mushroom",
+  "_row": 5
+ },
+ {
+  "kind": "health",
+  "trigger": "1",
+  "item_id": "ITEM_0000",
+  "item_name": "Potion",
+  "_row": 6
+ },
+ {
+  "kind": "status",
+  "trigger": "SLEEP",
+  "item_id": "ITEM_0189",
+  "item_name": "Energy Drink",
+  "_row": 2
+ },
+ {
+  "kind": "status",
+  "trigger": "STICKY",
+  "item_id": "ITEM_0205",
+  "item_name": "Cleanser",
+  "_row": 3
+ },
+ {
+  "kind": "status",
+  "trigger": "FROZEN",
+  "item_id": "ITEM_0205",
+  "item_name": "Cleanser",
+  "_row": 4
+ },
+ {
+  "kind": "status",
+  "trigger": "STENCH",
+  "item_id": "ITEM_0238",
+  "item_name": "Deodorant",
+  "_row": 5
+ },
+ {
+  "kind": "status",
+  "trigger": "POISON",
+  "item_id": "ITEM_0200",
+  "item_name": "Herbal Medicine",
+  "_row": 6
+ },
+ {
+  "kind": "status",
+  "trigger": "POISON",
+  "item_id": "ITEM_0002",
+  "item_name": "Antidote",
+  "_row": 7
+ },
+ {
+  "kind": "status",
+  "trigger": "BLEED",
+  "item_id": "ITEM_0139",
+  "item_name": "Toadstool",
+  "_row": 8
+ },
+ {
+  "kind": "status",
+  "trigger": "BLEED",
+  "item_id": "ITEM_0298",
+  "item_name": "Sushifish Scale",
+  "_row": 9
+ },
+ {
+  "kind": "status",
+  "trigger": "BLEED",
+  "item_id": "ITEM_0711",
+  "item_name": "Great Sushifish Scale",
+  "_row": 10
+ },
+ {
+  "kind": "status",
+  "trigger": "BLEED",
+  "item_id": "ITEM_0658",
+  "item_name": "Wild Jerky",
+  "_row": 11
+ },
+ {
+  "kind": "status",
+  "trigger": "BLEED",
+  "item_id": "ITEM_0006",
+  "item_name": "Ration",
+  "_row": 12
+ },
+ {
+  "kind": "status",
+  "trigger": "BLEED",
+  "item_id": "ITEM_0191",
+  "item_name": "Immunizer",
+  "_row": 13
+ },
+ {
+  "kind": "status",
+  "trigger": "BLEED",
+  "item_id": "ITEM_0008",
+  "item_name": "Rare Steak",
+  "_row": 14
+ },
+ {
+  "kind": "status",
+  "trigger": "BLEED",
+  "item_id": "ITEM_0007",
+  "item_name": "Well-done Steak",
+  "_row": 15
+ },
+ {
+  "kind": "status",
+  "trigger": "BLAST",
+  "item_id": "ITEM_0238",
+  "item_name": "Deodorant",
+  "_row": 16
+ },
+ {
+  "kind": "status",
+  "trigger": "FIRE",
+  "item_id": "ITEM_0005",
+  "item_name": "Nulberry",
+  "_row": 17
+ },
+ {
+  "kind": "status",
+  "trigger": "ELEC",
+  "item_id": "ITEM_0005",
+  "item_name": "Nulberry",
+  "_row": 18
+ },
+ {
+  "kind": "status",
+  "trigger": "WATER",
+  "item_id": "ITEM_0005",
+  "item_name": "Nulberry",
+  "_row": 19
+ },
+ {
+  "kind": "status",
+  "trigger": "ICE",
+  "item_id": "ITEM_0005",
+  "item_name": "Nulberry",
+  "_row": 20
+ },
+ {
+  "kind": "status",
+  "trigger": "DRAGON",
+  "item_id": "ITEM_0005",
+  "item_name": "Nulberry",
+  "_row": 21
+ },
+ {
+  "kind": "status",
+  "trigger": "EX_00",
+  "item_id": "ITEM_0205",
+  "item_name": "Cleanser",
+  "_row": 22
+ },
+ {
+  "kind": "status",
+  "trigger": "DEFENCE_DOWN",
+  "item_id": "ITEM_0140",
+  "item_name": "Parashroom",
+  "_row": 23
+ },
+ {
+  "kind": "status",
+  "trigger": "DEFENCE_DOWN",
+  "item_id": "ITEM_0153",
+  "item_name": "Adamant Seed",
+  "_row": 24
+ },
+ {
+  "kind": "status",
+  "trigger": "DEFENCE_DOWN",
+  "item_id": "ITEM_0197",
+  "item_name": "Armorskin",
+  "_row": 25
+ },
+ {
+  "kind": "status",
+  "trigger": "DEFENCE_DOWN",
+  "item_id": "ITEM_0199",
+  "item_name": "Mega Armorskin",
+  "_row": 26
+ },
+ {
+  "kind": "status",
+  "trigger": "DEFENCE_DOWN",
+  "item_id": "ITEM_0198",
+  "item_name": "Adamant Pill",
+  "_row": 27
+ },
+ {
+  "kind": "status",
+  "trigger": "FRENZY",
+  "item_id": "ITEM_0005",
+  "item_name": "Nulberry",
+  "_row": 28
+ }
+]

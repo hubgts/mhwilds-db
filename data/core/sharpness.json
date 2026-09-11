@@ -1,0 +1,44 @@
+[
+ {
+  "colour": "Red",
+  "raw_multiplier": 0.5,
+  "element_multiplier": 0.25,
+  "_row": 2
+ },
+ {
+  "colour": "Orange",
+  "raw_multiplier": 0.75,
+  "element_multiplier": 0.5,
+  "_row": 3
+ },
+ {
+  "colour": "Yellow",
+  "raw_multiplier": 1.0,
+  "element_multiplier": 0.75,
+  "_row": 4
+ },
+ {
+  "colour": "Green",
+  "raw_multiplier": 1.05,
+  "element_multiplier": 1.0,
+  "_row": 5
+ },
+ {
+  "colour": "Blue",
+  "raw_multiplier": 1.2,
+  "element_multiplier": 1.0625,
+  "_row": 6
+ },
+ {
+  "colour": "White",
+  "raw_multiplier": 1.32,
+  "element_multiplier": 1.15,
+  "_row": 7
+ },
+ {
+  "colour": "Purple",
+  "raw_multiplier": 1.39,
+  "element_multiplier": 1.25,
+  "_row": 8
+ }
+]

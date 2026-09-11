@@ -1,0 +1,98 @@
+[
+ {
+  "fixed_id": "B6EA5200",
+  "st_id": "ST101",
+  "name": "Windward Plains",
+  "_row": 3
+ },
+ {
+  "fixed_id": "CCC00CC0",
+  "st_id": "ST102",
+  "name": "Scarlet Forest",
+  "_row": 4
+ },
+ {
+  "fixed_id": "B56E0400",
+  "st_id": "ST103",
+  "name": "Oilwell Basin",
+  "_row": 5
+ },
+ {
+  "fixed_id": "46776180",
+  "st_id": "ST104",
+  "name": "Iceshard Cliffs",
+  "_row": 6
+ },
+ {
+  "fixed_id": "1383C140",
+  "st_id": "ST105",
+  "name": "Ruins of Wyveria",
+  "_row": 7
+ },
+ {
+  "fixed_id": "5B80C380",
+  "st_id": "ST201",
+  "name": "Riverside Trail",
+  "_row": 8
+ },
+ {
+  "fixed_id": "2F8FC200",
+  "st_id": "ST202",
+  "name": "Cavern Tunnel",
+  "_row": 9
+ },
+ {
+  "fixed_id": "20ADF300",
+  "st_id": "ST203",
+  "name": "Lost Path to Wyveria",
+  "_row": 10
+ },
+ {
+  "fixed_id": "13E936C0",
+  "st_id": "ST204",
+  "name": "Keepers' Approach",
+  "_row": 11
+ },
+ {
+  "fixed_id": "4673CE80",
+  "st_id": "ST401",
+  "name": "Wounded Hollow",
+  "_row": 12
+ },
+ {
+  "fixed_id": "2072B780",
+  "st_id": "ST402",
+  "name": "Rimechain Peak",
+  "_row": 13
+ },
+ {
+  "fixed_id": "35FA1DC0",
+  "st_id": "ST403",
+  "name": "Dragontorch Shrine",
+  "_row": 14
+ },
+ {
+  "fixed_id": "77C74980",
+  "st_id": "ST404",
+  "name": "Suja, Peaks of Accord",
+  "_row": 15
+ },
+ {
+  "fixed_id": "0000360C",
+  "st_id": "ST405",
+  "name": "Forgotten Machineworks",
+  "_row": 16
+ },
+ {
+  "fixed_id": "90940880",
+  "st_id": "ST502",
+  "name": "The Grand Hub",
+  "_row": 17
+ },
+ {
+  "fixed_id": "85915C80",
+  "st_id": "ST503",
+  "name": "Training Area",
+  "_row": 18
+ }
+]

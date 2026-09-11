@@ -1,0 +1,156 @@
+[
+ {
+  "index": -1,
+  "code": "INVARID",
+  "name": "INVALID",
+  "name_guid": null,
+  "_row": 2
+ },
+ {
+  "index": 0,
+  "code": "SPECIES_000",
+  "name": "Flying Wyvern",
+  "name_guid": "0fa47b53-2978-4d2f-bf6e-582a08d9a958",
+  "_row": 3
+ },
+ {
+  "index": 1,
+  "code": "SPECIES_001",
+  "name": "Fish",
+  "name_guid": "cf45a045-61c7-4fdf-9e1e-9eb9e24ee87b",
+  "_row": 4
+ },
+ {
+  "index": 2,
+  "code": "SPECIES_002",
+  "name": "Herbivore",
+  "name_guid": "8ce9046f-2ee8-4090-8567-28646cc7575b",
+  "_row": 5
+ },
+ {
+  "index": 3,
+  "code": "SPECIES_003",
+  "name": "Lynian",
+  "name_guid": "dc981a1d-db24-46a6-bab8-b7e2c32c5aed",
+  "_row": 6
+ },
+ {
+  "index": 4,
+  "code": "SPECIES_004",
+  "name": "Neopteron",
+  "name_guid": "8ab3369c-33b5-4247-a0d7-0bbe433dd0b7",
+  "_row": 7
+ },
+ {
+  "index": 5,
+  "code": "SPECIES_005",
+  "name": "Carapaceon",
+  "name_guid": "970f1802-3116-48f5-9523-08baf04fb95d",
+  "_row": 8
+ },
+ {
+  "index": 6,
+  "code": "SPECIES_006",
+  "name": "Fanged Beast",
+  "name_guid": "581a727e-151d-4ae8-a6dd-85abc9cc2567",
+  "_row": 9
+ },
+ {
+  "index": 7,
+  "code": "SPECIES_007",
+  "name": "Bird Wyvern",
+  "name_guid": "e0ae3926-b9e1-4252-9221-f2a67846e905",
+  "_row": 10
+ },
+ {
+  "index": 8,
+  "code": "SPECIES_008",
+  "name": "Piscine Wyvern",
+  "name_guid": "abeb422a-d77d-479d-8128-cb0f66c70a7a",
+  "_row": 11
+ },
+ {
+  "index": 9,
+  "code": "SPECIES_009",
+  "name": "Leviathan",
+  "name_guid": "c677e95d-cf17-482b-bae9-079972b01e31",
+  "_row": 12
+ },
+ {
+  "index": 10,
+  "code": "SPECIES_010",
+  "name": "Brute Wyvern",
+  "name_guid": "c2850e83-fec6-409c-ac96-d4acc9332817",
+  "_row": 13
+ },
+ {
+  "index": 11,
+  "code": "SPECIES_011",
+  "name": "Fanged Wyvern",
+  "name_guid": "a5fd0d6d-c058-4073-896b-76a230e5d52f",
+  "_row": 14
+ },
+ {
+  "index": 12,
+  "code": "SPECIES_012",
+  "name": "Amphibian",
+  "name_guid": "6f99c017-d0d7-40e6-b920-63b2e9f078f0",
+  "_row": 15
+ },
+ {
+  "index": 13,
+  "code": "SPECIES_013",
+  "name": "Temnoceran",
+  "name_guid": "1ff292c0-de1c-495c-bede-775f7ca7ab26",
+  "_row": 16
+ },
+ {
+  "index": 14,
+  "code": "SPECIES_014",
+  "name": "Snake Wyvern",
+  "name_guid": "5ecf897f-a920-455a-8aa2-cd560b476f58",
+  "_row": 17
+ },
+ {
+  "index": 15,
+  "code": "SPECIES_015",
+  "name": "Elder Dragon",
+  "name_guid": "a6620147-ba77-4a07-bc9b-3374a90b0a8e",
+  "_row": 18
+ },
+ {
+  "index": 16,
+  "code": "SPECIES_016",
+  "name": "Cephalopod",
+  "name_guid": "09f380fc-f30b-4f47-a5f0-42585b6e0621",
+  "_row": 19
+ },
+ {
+  "index": 17,
+  "code": "SPECIES_017",
+  "name": "Construct",
+  "name_guid": "2779f441-14c5-4040-8740-55cb6f543952",
+  "_row": 20
+ },
+ {
+  "index": 18,
+  "code": "SPECIES_018",
+  "name": "Wingdrake",
+  "name_guid": "6e61b048-d4b7-46ae-ab0f-3efeac5d156f",
+  "_row": 21
+ },
+ {
+  "index": 19,
+  "code": "SPECIES_019",
+  "name": "Demi Elder",
+  "name_guid": "76a2da51-523a-4993-aa0b-ca8061926112",
+  "_row": 22
+ },
+ {
+  "index": 20,
+  "code": "SPECIES_020",
+  "name": "???",
+  "name_guid": "022ea7ce-9324-4729-9c89-06470d277c7c",
+  "_row": 23
+ }
+]

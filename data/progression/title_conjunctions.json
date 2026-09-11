@@ -1,0 +1,1232 @@
+[
+ {
+  "index": 0,
+  "id": "CONJUNCTION_0000",
+  "name": "(None)",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "adca1250-cbac-4d92-a778-09e2d371309f",
+  "description_guid": "542611d2-52e1-47db-898e-6e771520e369",
+  "_row": 2
+ },
+ {
+  "index": 1,
+  "id": "CONJUNCTION_0001",
+  "name": "By",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "71bada10-3a78-4558-b3f2-0f3bc41f960c",
+  "description_guid": "5e826dd4-c305-4b4a-a436-8b8a0e5b4647",
+  "_row": 3
+ },
+ {
+  "index": 2,
+  "id": "CONJUNCTION_0002",
+  "name": "An",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "f31408b3-c94e-44a4-969d-604956609000",
+  "description_guid": "a82f9a8d-0f69-4649-897d-70f6f4a13b72",
+  "_row": 4
+ },
+ {
+  "index": 3,
+  "id": "CONJUNCTION_0003",
+  "name": "For",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "b5cba9db-5fec-43e5-a7e2-ee8ccc17e845",
+  "description_guid": "4043598d-ed5f-4684-8905-737352061d22",
+  "_row": 5
+ },
+ {
+  "index": 4,
+  "id": "CONJUNCTION_0004",
+  "name": "And",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "fb833144-0fdf-44c2-a351-bf6a42bc50b7",
+  "description_guid": "a82c1b40-9328-46ca-8bd0-a714bfb30ed2",
+  "_row": 6
+ },
+ {
+  "index": 5,
+  "id": "CONJUNCTION_0005",
+  "name": "Plus",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "a2eb8bbd-339c-4a4a-9fef-277dcf0cc9f7",
+  "description_guid": "af9d18b6-1bea-4639-871c-f3242f690edc",
+  "_row": 7
+ },
+ {
+  "index": 6,
+  "id": "CONJUNCTION_0006",
+  "name": "On",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "4a7b7fbb-d1f0-41f4-b31e-5c17bf1a3a3f",
+  "description_guid": "968c8fa8-7d1a-4b34-a550-48beda0b7eb3",
+  "_row": 8
+ },
+ {
+  "index": 7,
+  "id": "CONJUNCTION_0007",
+  "name": "With",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "1fb6ca90-dab6-4b59-b69f-b13002c71229",
+  "description_guid": "5d5717e1-f318-4a40-8a23-ef8f48cd6ec7",
+  "_row": 9
+ },
+ {
+  "index": 8,
+  "id": "CONJUNCTION_0008",
+  "name": "Is",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "8b0a7573-9c4d-4c78-b8b9-29fd33938594",
+  "description_guid": "e20036d9-1bad-4221-b102-e5db01fb60f4",
+  "_row": 10
+ },
+ {
+  "index": 9,
+  "id": "CONJUNCTION_0009",
+  "name": "No",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "04c7e171-7137-4b0c-bc16-4b71efdee677",
+  "description_guid": "33981a86-0a5e-4a96-945b-25e1c05eedbe",
+  "_row": 11
+ },
+ {
+  "index": 10,
+  "id": "CONJUNCTION_0010",
+  "name": "To",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "1fd892d2-72fc-41ff-aa3a-87cd3e700477",
+  "description_guid": "4b5a5321-6a88-49f7-acc6-7909d17afb5e",
+  "_row": 12
+ },
+ {
+  "index": 11,
+  "id": "CONJUNCTION_0011",
+  "name": "From",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "0f7e8855-57b3-439c-857c-2c9f85fc53b1",
+  "description_guid": "cdeba7de-2699-45d5-bda6-f23240b1cb60",
+  "_row": 13
+ },
+ {
+  "index": 12,
+  "id": "CONJUNCTION_0012",
+  "name": "Per",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "500c5c70-2d9b-4a2e-bfe4-356ed0fcaa58",
+  "description_guid": "6641508b-1652-4a95-bb6c-acf53f4e59a4",
+  "_row": 14
+ },
+ {
+  "index": 13,
+  "id": "CONJUNCTION_0013",
+  "name": "Who",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "b1d42b3a-cfe2-4ddb-a350-04fa6058844b",
+  "description_guid": "2075d4ba-c9da-4e75-89ce-146fb27824b4",
+  "_row": 15
+ },
+ {
+  "index": 14,
+  "id": "CONJUNCTION_0014",
+  "name": "What",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "02ebe959-652e-4b18-a953-da11c7098be6",
+  "description_guid": "719cb381-2ce5-461b-b2ef-787ef169e2ef",
+  "_row": 16
+ },
+ {
+  "index": 15,
+  "id": "CONJUNCTION_0015",
+  "name": "When",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "569bd997-9717-49e9-b3f8-11aab38d81d2",
+  "description_guid": "545593c5-83c2-47fe-837a-daf8bdaa83a1",
+  "_row": 17
+ },
+ {
+  "index": 16,
+  "id": "CONJUNCTION_0016",
+  "name": "Are",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "ec33f435-3b1c-4990-8854-04476a9aa833",
+  "description_guid": "d21dbead-5823-4c3e-a099-ffefa566824f",
+  "_row": 18
+ },
+ {
+  "index": 17,
+  "id": "CONJUNCTION_0017",
+  "name": "Why",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "1a4ec1e8-b99a-4751-b7ec-6684b8ebba3d",
+  "description_guid": "7c2e5824-f449-4b94-b75f-1b6b5cdbd885",
+  "_row": 19
+ },
+ {
+  "index": 18,
+  "id": "CONJUNCTION_0018",
+  "name": "His",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "ddce1492-1096-4657-97a7-c90f2b937cb4",
+  "description_guid": "56b66eff-038e-488e-9cfb-706fd0c8f63b",
+  "_row": 20
+ },
+ {
+  "index": 19,
+  "id": "CONJUNCTION_0019",
+  "name": "Her",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "cde7c436-94d9-4773-a5fd-67cba9b58d4f",
+  "description_guid": "b458f378-01be-4ca2-a93f-293ddfa97ff1",
+  "_row": 21
+ },
+ {
+  "index": 20,
+  "id": "CONJUNCTION_0020",
+  "name": "Upon",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "3bb5039e-c2ff-4fb4-a2cc-74cb221cf7f8",
+  "description_guid": "799aa629-8151-42cf-a010-dcab4e44d058",
+  "_row": 22
+ },
+ {
+  "index": 21,
+  "id": "CONJUNCTION_0021",
+  "name": "Our",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "6eeb8a9a-bae8-43d3-af0b-ecb90d2d3504",
+  "description_guid": "2a116a77-cee2-423a-9783-76e33d85af4d",
+  "_row": 23
+ },
+ {
+  "index": 22,
+  "id": "CONJUNCTION_0022",
+  "name": "Your",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "a79749c7-a2ac-49fb-af56-e1e04fe6ffcb",
+  "description_guid": "54712ad1-1319-4f6a-ad31-bd397c9b6ce9",
+  "_row": 24
+ },
+ {
+  "index": 23,
+  "id": "CONJUNCTION_0023",
+  "name": "Until",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "6ddeffe3-b9ce-4c3c-a5cd-1833aaeddd06",
+  "description_guid": "82430596-77fe-4288-8ed2-621fe349571a",
+  "_row": 25
+ },
+ {
+  "index": 24,
+  "id": "CONJUNCTION_0024",
+  "name": "But",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "9e16972d-0a8b-4f40-be12-6a3bc7127a83",
+  "description_guid": "906efe5f-72ed-470b-8861-38eab77b1821",
+  "_row": 26
+ },
+ {
+  "index": 25,
+  "id": "CONJUNCTION_0025",
+  "name": "Colorful",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "24859ed7-e351-4352-b077-efb57b827bbd",
+  "description_guid": "12c5a269-a49e-40eb-b54a-5dc9ad80402c",
+  "_row": 27
+ },
+ {
+  "index": 26,
+  "id": "CONJUNCTION_0026",
+  "name": "Lacking",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "a8f53703-a3e2-4c66-a0f9-e2323e08f327",
+  "description_guid": "5c316b35-e93f-4987-9b95-1b7e5c9f309e",
+  "_row": 28
+ },
+ {
+  "index": 27,
+  "id": "CONJUNCTION_0027",
+  "name": "Shrouded",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "b85167e2-5e70-4aae-90dc-41bc1b24015f",
+  "description_guid": "2f9aa579-0982-4866-918f-6e80b9887f07",
+  "_row": 29
+ },
+ {
+  "index": 28,
+  "id": "CONJUNCTION_0028",
+  "name": "Called",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "174cf48d-63df-4229-be75-669c0c47188e",
+  "description_guid": "d3fee5f5-7e89-4d16-905c-abd5bc7d4d5e",
+  "_row": 30
+ },
+ {
+  "index": 29,
+  "id": "CONJUNCTION_0029",
+  "name": "Dances",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "e0839a0a-df48-410d-92c7-5db368bbedda",
+  "description_guid": "b91bbb85-04b0-48cc-9d6b-d0bbca18abb3",
+  "_row": 31
+ },
+ {
+  "index": 30,
+  "id": "CONJUNCTION_0030",
+  "name": "Swift",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "3f44f978-c46f-4fd3-9acf-56c7ad22dcbe",
+  "description_guid": "8da227da-7e4f-4eeb-bcd5-7f22d6f5ef4d",
+  "_row": 32
+ },
+ {
+  "index": 31,
+  "id": "CONJUNCTION_0031",
+  "name": "Town",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "72fd33b1-b8b2-49e1-bfbb-18f0f63c8e9d",
+  "description_guid": "1818661c-84fc-4993-8c98-8394e018a5df",
+  "_row": 33
+ },
+ {
+  "index": 32,
+  "id": "CONJUNCTION_0032",
+  "name": "City",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "dc1a88bc-3d8e-4f7c-bcfd-8a41ec218ae0",
+  "description_guid": "99aa5a6b-35e8-4069-9594-47dd4e4829aa",
+  "_row": 34
+ },
+ {
+  "index": 33,
+  "id": "CONJUNCTION_0033",
+  "name": "Using",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "26e4d7d9-cdfc-4161-a1f2-00ff08ee6b45",
+  "description_guid": "b3c6b1a9-0169-4124-bc45-bf319a72c8ba",
+  "_row": 35
+ },
+ {
+  "index": 34,
+  "id": "CONJUNCTION_0034",
+  "name": "Looking",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "18e5e735-ec0c-4929-bd94-fda6fb022e7b",
+  "description_guid": "d424fc99-9cd9-459f-a907-91c1b4b1efc7",
+  "_row": 36
+ },
+ {
+  "index": 35,
+  "id": "CONJUNCTION_0035",
+  "name": "Gang",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "ccdfa323-20ea-403f-9dfa-b9793e9aa2fa",
+  "description_guid": "1244da58-f8f5-461b-88c0-82ae99ea0d90",
+  "_row": 37
+ },
+ {
+  "index": 36,
+  "id": "CONJUNCTION_0036",
+  "name": "Devotee",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "88ce8eba-9fe2-4efd-9110-a17085e511e0",
+  "description_guid": "e012254c-b34d-4940-97d2-994c9087ba31",
+  "_row": 38
+ },
+ {
+  "index": 37,
+  "id": "CONJUNCTION_0037",
+  "name": "Type",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "a280bb86-e6ea-4e5b-b691-a98547ae099e",
+  "description_guid": "b5ac3ecf-dbc2-4796-afeb-2c2477994087",
+  "_row": 39
+ },
+ {
+  "index": 38,
+  "id": "CONJUNCTION_0038",
+  "name": "Ally",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "3b73e306-73f1-4a37-93c6-2d18d2b9e044",
+  "description_guid": "05770d68-542e-4ea1-a4b9-cd5bf3489cdc",
+  "_row": 40
+ },
+ {
+  "index": 39,
+  "id": "CONJUNCTION_0039",
+  "name": "Class",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "16ca616d-3757-4aa1-8ab5-02e2b6bfd280",
+  "description_guid": "bcd1ce37-889b-49b2-9af5-b9268fcf60f4",
+  "_row": 41
+ },
+ {
+  "index": 40,
+  "id": "CONJUNCTION_0040",
+  "name": "Style",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "f8ebc235-bf08-4597-9555-7854cc47aed6",
+  "description_guid": "0512eb71-6693-4336-b366-4f413b4f5047",
+  "_row": 42
+ },
+ {
+  "index": 41,
+  "id": "CONJUNCTION_0041",
+  "name": "Or",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "6e2f7b11-ee22-4d41-904d-7fd78e087872",
+  "description_guid": "867637ea-eabf-487d-869f-88d1c7c9f5b6",
+  "_row": 43
+ },
+ {
+  "index": 42,
+  "id": "CONJUNCTION_0042",
+  "name": "Head Honcho",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "b1fcd9e4-b380-4bbf-8e80-7cb40bee5b1e",
+  "description_guid": "00411a36-e9df-43fb-9ecd-567c111846fd",
+  "_row": 44
+ },
+ {
+  "index": 43,
+  "id": "CONJUNCTION_0043",
+  "name": "San",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "0ec937ad-4440-4ab0-aa19-1f87bc2582e0",
+  "description_guid": "9960fafc-4402-4097-924b-607a0bf651ac",
+  "_row": 45
+ },
+ {
+  "index": 44,
+  "id": "CONJUNCTION_0044",
+  "name": "Sensei",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "39539a02-639c-443a-9c26-aa27be608be8",
+  "description_guid": "a3ed09ec-d6b3-4ecb-bee0-8935152c649a",
+  "_row": 46
+ },
+ {
+  "index": 45,
+  "id": "CONJUNCTION_0045",
+  "name": "Limited",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "5a6d1505-be39-4498-937a-9eb4738650ae",
+  "description_guid": "30db7eba-5617-44ac-8102-f74514c893aa",
+  "_row": 47
+ },
+ {
+  "index": 46,
+  "id": "CONJUNCTION_0046",
+  "name": "Occasional",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "8fad17a7-8533-441e-9677-7cd6dba7e4ae",
+  "description_guid": "c7048d39-611f-4ae8-9a4e-8b61a559666b",
+  "_row": 48
+ },
+ {
+  "index": 47,
+  "id": "CONJUNCTION_0047",
+  "name": "Vs.",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "86c6f636-eeab-4f31-85ac-d3013d4b5a2d",
+  "description_guid": "4be6c796-2082-49bc-9222-ef0ad6300de9",
+  "_row": 49
+ },
+ {
+  "index": 48,
+  "id": "CONJUNCTION_0048",
+  "name": "Worker",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "9abaf9d3-a24d-4553-9751-bb71dbe1c97d",
+  "description_guid": "2530a0b4-3167-4d50-b821-c69d9750a3a3",
+  "_row": 50
+ },
+ {
+  "index": 49,
+  "id": "CONJUNCTION_0049",
+  "name": "Fusion",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "2dc756d7-320e-44cf-9561-de290601c9d5",
+  "description_guid": "62aa82dd-7d09-4ebb-bfd3-aae423153a52",
+  "_row": 51
+ },
+ {
+  "index": 50,
+  "id": "CONJUNCTION_0050",
+  "name": "Minus",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "9efc777d-32a7-4912-97a7-a6f0eafd7290",
+  "description_guid": "d30a4153-026f-4dd5-9380-bd9a214582ad",
+  "_row": 52
+ },
+ {
+  "index": 51,
+  "id": "CONJUNCTION_0051",
+  "name": "Circle",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "f4056bbc-2b3b-4f5a-bd5f-cc6f6c81b50b",
+  "description_guid": "d1495987-b53a-41f6-9026-2feb44e655e8",
+  "_row": 53
+ },
+ {
+  "index": 52,
+  "id": "CONJUNCTION_0052",
+  "name": "In",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "e9c58ae7-61af-4833-81cc-a84e7665f5fd",
+  "description_guid": "2df5e136-990f-473e-b8d4-f4f05648cdc2",
+  "_row": 54
+ },
+ {
+  "index": 53,
+  "id": "CONJUNCTION_0053",
+  "name": "Of",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "1064999c-c306-4a83-aa5d-663c9490839d",
+  "description_guid": "236f1fd7-413a-4ea4-87af-44e581dcc354",
+  "_row": 55
+ },
+ {
+  "index": 54,
+  "id": "CONJUNCTION_0054",
+  "name": "Less",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "d5a27902-62b2-40fe-87a2-4ffe43212dea",
+  "description_guid": "950c0bb6-2bff-4f83-b019-025a3b72fe0c",
+  "_row": 56
+ },
+ {
+  "index": 55,
+  "id": "CONJUNCTION_0055",
+  "name": "The",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "a8d842f1-a6a9-4628-bc6d-b5c5bb186432",
+  "description_guid": "57d93a78-7776-438d-9354-ff012164501f",
+  "_row": 57
+ },
+ {
+  "index": 56,
+  "id": "CONJUNCTION_0056",
+  "name": "At",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "65dd588a-dc30-4ca5-b146-29f3ffbc0871",
+  "description_guid": "29dcca96-6686-4090-a1e2-fb81850a0c17",
+  "_row": 58
+ },
+ {
+  "index": 57,
+  "id": "CONJUNCTION_0057",
+  "name": "Around",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "5a11675b-7cd4-4070-ac2d-3f3e2dd793f5",
+  "description_guid": "084d0cee-889b-4cb9-903c-9bf97e7a2469",
+  "_row": 59
+ },
+ {
+  "index": 58,
+  "id": "CONJUNCTION_0058",
+  "name": "Across",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "03fe38a4-c866-4ee5-8384-992f6bfc6cdf",
+  "description_guid": "8a13976b-8532-4a2e-a216-e695303cdcb9",
+  "_row": 60
+ },
+ {
+  "index": 59,
+  "id": "CONJUNCTION_0059",
+  "name": "Division",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "e3b58b3d-bd81-473b-9c33-b6fe679bb191",
+  "description_guid": "b9d049e1-610c-4483-bbb0-e8f04b3bcc81",
+  "_row": 61
+ },
+ {
+  "index": 60,
+  "id": "CONJUNCTION_0060",
+  "name": "&",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "b6553320-1745-4927-b6d8-1806f6974fd4",
+  "description_guid": "881d0feb-927b-49cb-8977-5a4486fa021a",
+  "_row": 62
+ },
+ {
+  "index": 61,
+  "id": "CONJUNCTION_0061",
+  "name": "+",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "2d5f55d1-aa20-46f0-8209-a7359b2d316e",
+  "description_guid": "fbd838eb-73a6-4d37-bc33-e7677fa71d4e",
+  "_row": 63
+ },
+ {
+  "index": 62,
+  "id": "CONJUNCTION_0062",
+  "name": "—",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "a8f4eace-5036-47a4-961c-aac63af99d64",
+  "description_guid": "2c286806-e376-45ee-9da6-ea002bc97e55",
+  "_row": 64
+ },
+ {
+  "index": 63,
+  "id": "CONJUNCTION_0063",
+  "name": "x",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "50f49e0b-34a8-42d0-b349-8ea4dc83fb99",
+  "description_guid": "399fc4b6-1b74-4c41-b022-bd765081a139",
+  "_row": 65
+ },
+ {
+  "index": 64,
+  "id": "CONJUNCTION_0064",
+  "name": "?",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "a552d08a-2dd8-477e-bdba-e4376a4dbe33",
+  "description_guid": "9f7336ab-0f60-4fbd-828d-e43afab2152b",
+  "_row": 66
+ },
+ {
+  "index": 65,
+  "id": "CONJUNCTION_0065",
+  "name": "!",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "45b6c3a0-f9be-48ae-bffd-56ce3b4867df",
+  "description_guid": "d740ab25-6cbb-4b79-a999-b464c8a3a018",
+  "_row": 67
+ },
+ {
+  "index": 66,
+  "id": "CONJUNCTION_0066",
+  "name": "=",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "6fc6d4b9-70f5-4140-8cae-1623f024e205",
+  "description_guid": "ad72a392-0e31-4b8d-bff3-c10b61b55e6f",
+  "_row": 68
+ },
+ {
+  "index": 67,
+  "id": "CONJUNCTION_0067",
+  "name": "~",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "8b7cb42b-0d5a-4dae-9f1a-01388dbfec30",
+  "description_guid": "c2bab8e9-9fd7-4777-8175-69dbfe376ac7",
+  "_row": 69
+ },
+ {
+  "index": 68,
+  "id": "CONJUNCTION_0068",
+  "name": ".",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "4defdaa3-ffd1-4482-b4a3-1c8a2c67b804",
+  "description_guid": "22cdb38b-6574-430e-ac45-18d315f604db",
+  "_row": 70
+ },
+ {
+  "index": 69,
+  "id": "CONJUNCTION_0069",
+  "name": "/",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "b9119ed5-8d28-4347-adb4-eff6a1f066a1",
+  "description_guid": "5dcb47bc-637c-45d0-93b4-158326d5c144",
+  "_row": 71
+ },
+ {
+  "index": 70,
+  "id": "CONJUNCTION_0070",
+  "name": ":",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "41cc6def-8a1d-4280-826f-e9a59a94ca51",
+  "description_guid": "2e0fd98c-8172-4d62-a560-afb2df264288",
+  "_row": 72
+ },
+ {
+  "index": 71,
+  "id": "CONJUNCTION_0071",
+  "name": "€",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "6198a9e0-de9f-4870-8317-b2dd48bb8134",
+  "description_guid": "274981ca-c9e0-4514-8337-f833831ccad6",
+  "_row": 73
+ },
+ {
+  "index": 72,
+  "id": "CONJUNCTION_0072",
+  "name": "$",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "1b68a575-130c-46eb-8709-2a8c36c05cf3",
+  "description_guid": "8354be8f-14ef-4bc8-a607-30c4a0af3a49",
+  "_row": 74
+ },
+ {
+  "index": 73,
+  "id": "CONJUNCTION_0073",
+  "name": "★",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "b5d9f06a-7221-43e1-9289-2c0af5b091b0",
+  "description_guid": "0e176a9f-ac44-4b35-8fae-c6c83b31ec60",
+  "_row": 75
+ },
+ {
+  "index": 74,
+  "id": "CONJUNCTION_0074",
+  "name": "A",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "0d239d48-b3c3-4ee6-8e0d-67177f922085",
+  "description_guid": "c51d3ba3-9d97-41a7-b499-e4fdb5517701",
+  "_row": 76
+ },
+ {
+  "index": 75,
+  "id": "CONJUNCTION_0075",
+  "name": "B",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "1fc84636-08bc-4cf2-8dd6-20866170fa8c",
+  "description_guid": "00880ed8-7819-4012-bec0-32dc91a0799e",
+  "_row": 77
+ },
+ {
+  "index": 76,
+  "id": "CONJUNCTION_0076",
+  "name": "C",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "07ffcbd4-5cba-4e39-ac8b-e458a5cb0bf8",
+  "description_guid": "b06add74-2377-40a5-b3ec-a70a9b71649e",
+  "_row": 78
+ },
+ {
+  "index": 77,
+  "id": "CONJUNCTION_0077",
+  "name": "D",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "1f061e66-a9cd-463d-a671-6f6b9c783654",
+  "description_guid": "b3ef7ec7-29a1-4b55-a3b7-11150ddb3e83",
+  "_row": 79
+ },
+ {
+  "index": 78,
+  "id": "CONJUNCTION_0078",
+  "name": "E",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "b83832f8-7745-488f-840a-7c68f60e4b7b",
+  "description_guid": "eeaf4001-4800-48a7-99b0-fe8a0b4a989e",
+  "_row": 80
+ },
+ {
+  "index": 79,
+  "id": "CONJUNCTION_0079",
+  "name": "F",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "14c476a0-44fd-472d-9103-684242befc07",
+  "description_guid": "2850a2c1-7fdd-4855-bf81-ceba30d18eb5",
+  "_row": 81
+ },
+ {
+  "index": 80,
+  "id": "CONJUNCTION_0080",
+  "name": "G",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "d4ebe132-a306-4eda-8a72-a7a43c238549",
+  "description_guid": "0c15b3e1-7ab4-4ff7-b4fc-be1a1e4970c9",
+  "_row": 82
+ },
+ {
+  "index": 81,
+  "id": "CONJUNCTION_0081",
+  "name": "H",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "1700dc81-d425-4328-9b10-beedbb3d5f8a",
+  "description_guid": "149dbf28-3c6c-4d6a-abb2-9659dffff5d1",
+  "_row": 83
+ },
+ {
+  "index": 82,
+  "id": "CONJUNCTION_0082",
+  "name": "I",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "cb0e106e-bec7-44d9-89b6-05806a6711fb",
+  "description_guid": "80978d78-3e55-487a-a581-f3e31a0d529a",
+  "_row": 84
+ },
+ {
+  "index": 83,
+  "id": "CONJUNCTION_0083",
+  "name": "J",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "188925eb-ef77-4570-95ad-098117a74522",
+  "description_guid": "f8256848-dc56-4a53-b64f-596de4fbcbb6",
+  "_row": 85
+ },
+ {
+  "index": 84,
+  "id": "CONJUNCTION_0084",
+  "name": "K",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "5027e023-21d9-4111-82ed-ee4fe663b2ba",
+  "description_guid": "811324aa-a614-4803-9a10-1c2ecc1e5cbd",
+  "_row": 86
+ },
+ {
+  "index": 85,
+  "id": "CONJUNCTION_0085",
+  "name": "L",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "bf800d26-2249-41ed-9a17-3680884545ae",
+  "description_guid": "7363a09a-0f95-4b81-9884-3381e5426de5",
+  "_row": 87
+ },
+ {
+  "index": 86,
+  "id": "CONJUNCTION_0086",
+  "name": "M",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "c170ecb8-bf93-4d3a-85e4-7ed50ba6a3a4",
+  "description_guid": "82168ea5-ba92-420e-a6c2-5ae038158a8d",
+  "_row": 88
+ },
+ {
+  "index": 87,
+  "id": "CONJUNCTION_0087",
+  "name": "N",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "35546486-9348-4bfd-8eb0-6d197d22f6ec",
+  "description_guid": "13d8a9eb-a147-42f7-8f86-992a4dbb5ee7",
+  "_row": 89
+ },
+ {
+  "index": 88,
+  "id": "CONJUNCTION_0088",
+  "name": "O",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "b40bfc09-19e2-430a-821b-df217e5df162",
+  "description_guid": "8f36ed80-7cf2-406a-b434-e3021f4b18b2",
+  "_row": 90
+ },
+ {
+  "index": 89,
+  "id": "CONJUNCTION_0089",
+  "name": "P",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "a75130de-7a31-4262-8b79-fda6c237eb88",
+  "description_guid": "a24068b0-91c7-40e6-833e-7756945be418",
+  "_row": 91
+ },
+ {
+  "index": 90,
+  "id": "CONJUNCTION_0090",
+  "name": "Q",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "092598ab-b7e8-4921-b93b-514f124a7c88",
+  "description_guid": "6fe91842-82d4-4174-9c0a-62d9fb1d64b9",
+  "_row": 92
+ },
+ {
+  "index": 91,
+  "id": "CONJUNCTION_0091",
+  "name": "R",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "701f26c1-e34c-4dea-8722-d69d713dffa5",
+  "description_guid": "88c3e492-8ea3-4364-8191-94f2bebb3020",
+  "_row": 93
+ },
+ {
+  "index": 92,
+  "id": "CONJUNCTION_0092",
+  "name": "S",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "1557b0a6-b5b6-483d-b614-9d4cf48bcefc",
+  "description_guid": "2a9cfb7f-d3fb-46dd-a5ac-31b529168b1d",
+  "_row": 94
+ },
+ {
+  "index": 93,
+  "id": "CONJUNCTION_0093",
+  "name": "T",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "57585dad-fdce-4cee-91b3-e6f18493ed85",
+  "description_guid": "cbfeda82-94a7-4280-8548-599b027865dd",
+  "_row": 95
+ },
+ {
+  "index": 94,
+  "id": "CONJUNCTION_0094",
+  "name": "U",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "64e219d8-d4c7-4ee1-86ed-3c3e9cfcf853",
+  "description_guid": "2bdbbc83-8fe8-4b0b-979c-d248bff41e38",
+  "_row": 96
+ },
+ {
+  "index": 95,
+  "id": "CONJUNCTION_0095",
+  "name": "V",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "adb61a1c-f537-4fe8-bdca-9974a23acadb",
+  "description_guid": "3796747a-514a-4c53-8eb3-df904cac61e0",
+  "_row": 97
+ },
+ {
+  "index": 96,
+  "id": "CONJUNCTION_0096",
+  "name": "W",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "4f42a9cd-5711-4e47-a20e-ffddab2d9c4a",
+  "description_guid": "1af03a00-b00d-4421-affb-eb3a629e0410",
+  "_row": 98
+ },
+ {
+  "index": 97,
+  "id": "CONJUNCTION_0097",
+  "name": "X",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "8555133a-52c8-493d-bea1-027d1a070d63",
+  "description_guid": "3df4f302-04dc-447e-98d2-f21fd81111a7",
+  "_row": 99
+ },
+ {
+  "index": 98,
+  "id": "CONJUNCTION_0098",
+  "name": "Y",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "203fca5b-febd-4b4e-83b7-4187931448e5",
+  "description_guid": "6dc6a60d-80dd-464a-9bb1-d3a3f74fa406",
+  "_row": 100
+ },
+ {
+  "index": 99,
+  "id": "CONJUNCTION_0099",
+  "name": "Z",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "0eec66cf-62c3-4ba2-9fde-c9764c84b192",
+  "description_guid": "50efbb1f-d184-4856-9ced-952c32c489c2",
+  "_row": 101
+ },
+ {
+  "index": 100,
+  "id": "CONJUNCTION_0100",
+  "name": "α",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "897a3255-fb7d-4810-9015-d2edeb14d0c0",
+  "description_guid": "6cf0c9e0-c154-43db-a2bc-46f8a99f8c4d",
+  "_row": 102
+ },
+ {
+  "index": 101,
+  "id": "CONJUNCTION_0101",
+  "name": "β",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "64a7dcb5-1646-4159-b32f-b889908990ac",
+  "description_guid": "96805fc9-04d0-42d0-9a52-b2a3f0cff11a",
+  "_row": 103
+ },
+ {
+  "index": 102,
+  "id": "CONJUNCTION_0102",
+  "name": "γ",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "467437e3-5290-48d8-bc28-0cc274f1a3ac",
+  "description_guid": "6217b05e-626e-4092-96d2-08e1f84c1252",
+  "_row": 104
+ },
+ {
+  "index": 103,
+  "id": "CONJUNCTION_0103",
+  "name": "Except",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "a50bbcfc-5910-46f5-8ffc-2e675a5699bf",
+  "description_guid": "23623ae6-5e1a-473f-92cc-c06e7d9be71c",
+  "_row": 105
+ },
+ {
+  "index": 104,
+  "id": "CONJUNCTION_0104",
+  "name": "Meaning",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "9250dd0b-cbde-4103-b038-422b8aab436d",
+  "description_guid": "f98b16d1-6928-4086-abf4-691deaa9773e",
+  "_row": 106
+ },
+ {
+  "index": 105,
+  "id": "CONJUNCTION_0105",
+  "name": "If",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "57dda7d4-8d0a-44c2-be02-84bf6d447d37",
+  "description_guid": "ede1e129-6f87-4f6a-8866-5fec62ab530a",
+  "_row": 107
+ },
+ {
+  "index": 106,
+  "id": "CONJUNCTION_0106",
+  "name": "Pre",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "db2207ad-556e-48f9-b9a2-98774b55fd39",
+  "description_guid": "40c8abdf-5366-4947-8334-895c0540bcb0",
+  "_row": 108
+ },
+ {
+  "index": 107,
+  "id": "CONJUNCTION_0107",
+  "name": "Post",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "7d206a07-f683-4fb5-98c0-493456cb50bc",
+  "description_guid": "d04c28b6-b4b6-4720-9f9a-5d7d483561b0",
+  "_row": 109
+ },
+ {
+  "index": 108,
+  "id": "CONJUNCTION_0108",
+  "name": "Only",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "a6dd6b18-dba9-4f12-aab6-b5e689bb5176",
+  "description_guid": "5a024153-5a8e-4951-aa51-beb37105d7a5",
+  "_row": 110
+ },
+ {
+  "index": 109,
+  "id": "CONJUNCTION_0109",
+  "name": "During",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "528fdd66-915a-4cf8-8ea6-f826a61ba8f3",
+  "description_guid": "09093d81-eb97-4776-8598-03aec6e38e4b",
+  "_row": 111
+ },
+ {
+  "index": 110,
+  "id": "CONJUNCTION_0110",
+  "name": "Again",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "0eff9d79-ccba-4895-9bf0-dd2fbe362e1d",
+  "description_guid": "0101311d-2cc2-410f-a7d5-6397ab262af1",
+  "_row": 112
+ },
+ {
+  "index": 111,
+  "id": "CONJUNCTION_0111",
+  "name": "Also",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "ce0ab722-8e24-45c7-ba07-1a204224908a",
+  "description_guid": "c9d7eae9-0720-461c-a66b-1f1156a77c35",
+  "_row": 113
+ },
+ {
+  "index": 112,
+  "id": "CONJUNCTION_0112",
+  "name": "Since",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "aa100d8d-ff76-4cc8-a0f5-f4edc04a7f8a",
+  "description_guid": "1c028b26-da71-4252-b2e2-233ef45e0ec0",
+  "_row": 114
+ },
+ {
+  "index": 113,
+  "id": "CONJUNCTION_0113",
+  "name": "Use",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "fe5b03d6-98bb-4e8e-bfe3-794684114a64",
+  "description_guid": "3e0cd4b4-52fb-4c0b-bd97-c4e144c927e2",
+  "_row": 115
+ },
+ {
+  "index": 114,
+  "id": "CONJUNCTION_0114",
+  "name": "So",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "370b6614-bcf9-4ac6-a400-643dccad20e2",
+  "description_guid": "6505bc62-cf28-409b-a1c0-d56378ab0e1f",
+  "_row": 116
+ },
+ {
+  "index": 115,
+  "id": "CONJUNCTION_0115",
+  "name": "Anew",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "04fc02a8-392d-4ca1-b4a3-29c1029454ca",
+  "description_guid": "6ec56fd2-6a9f-477a-a380-4933bd76be39",
+  "_row": 117
+ },
+ {
+  "index": 116,
+  "id": "CONJUNCTION_0116",
+  "name": "Wait",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "61c9e825-1a35-43ca-a7ab-64421717c8cb",
+  "description_guid": "caa342ed-b19b-431b-8f9b-bbd1db582bf5",
+  "_row": 118
+ },
+ {
+  "index": 117,
+  "id": "CONJUNCTION_0117",
+  "name": "Try",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "7459926d-0af2-4b3b-b37a-35c56a130d40",
+  "description_guid": "5cb54cd9-2ca1-45ea-865c-e595f9d0fd17",
+  "_row": 119
+ },
+ {
+  "index": 118,
+  "id": "CONJUNCTION_0118",
+  "name": "☆",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "52be1f9f-92d1-478a-acb9-c96251755dff",
+  "description_guid": "cf73cf33-38f3-4b09-ba2b-ac5b978f7feb",
+  "_row": 120
+ },
+ {
+  "index": 119,
+  "id": "CONJUNCTION_0119",
+  "name": "Just",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "39787d66-6cde-49b9-bf3f-5754175a8dc9",
+  "description_guid": "d538b6dc-733b-4d88-b187-49d9a2cdf3d0",
+  "_row": 121
+ },
+ {
+  "index": 120,
+  "id": "CONJUNCTION_0120",
+  "name": "Hate",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "fbda15ed-3205-465a-9160-c1d337b85e95",
+  "description_guid": "9074c16a-5fdf-4ee0-8f5b-61d9d15ff5d7",
+  "_row": 122
+ },
+ {
+  "index": 121,
+  "id": "CONJUNCTION_0876",
+  "name": "Else",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "28ac3351-eddf-4a91-afdb-07a6f3f6dfe8",
+  "description_guid": "0721adec-2534-41f5-a303-baaf5a6a4710",
+  "_row": 123
+ },
+ {
+  "index": 122,
+  "id": "CONJUNCTION_0877",
+  "name": "Besides",
+  "open_type": "DEFAULT",
+  "mission_id": "INVALID",
+  "name_guid": "29cb3763-c78b-4ec0-8d65-86f7d6c43443",
+  "description_guid": "a5592ea4-b51d-4385-b350-ab1dd213d0e4",
+  "_row": 124
+ }
+]
