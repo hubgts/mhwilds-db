@@ -11,6 +11,10 @@ as the sheet changes with each game update.
 A recreational, non-commercial project, built on top of
 [someone else's very substantial work](docs/credits.md).
 
+Throughout this repository **MHW stands for Monster Hunter Wilds**, not Monster
+Hunter World. That is what `mhwlib.py`, `MHW_SHEET_ID` and `/mhw-refresh` refer
+to.
+
 ---
 
 ## Quick start
