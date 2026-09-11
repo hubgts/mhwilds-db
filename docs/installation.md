@@ -28,8 +28,8 @@ pip install --user PyYAML
 ## First run
 
 ```bash
-git clone <this repository>
-cd mhwdb
+git clone git@github.com:hubgts/mhwilds-db.git
+cd mhwilds-db
 scripts/pipeline.sh --fetch
 ```
 

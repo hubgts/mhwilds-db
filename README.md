@@ -1,4 +1,4 @@
-# mhwdb
+# mhwilds-db
 
 Turn the community datamining spreadsheet for **Monster Hunter Wilds** into a
 clean, versioned, multilingual dataset: JSON files plus image assets, ready to
